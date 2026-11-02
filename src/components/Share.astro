@@ -1,0 +1,49 @@
+---
+// Megosztás gombok – sima linkek, a közösségi oldalak kódja NEM töltődik be (nincs süti, nincs követés)
+interface Props { url: string; title: string; }
+const { url, title } = Astro.props;
+const u = encodeURIComponent(url);
+const fb = `https://www.facebook.com/sharer/sharer.php?u=${u}`;
+---
+<div class="share" data-url={url} data-title={title}>
+  <span class="share-label">Megosztás:</span>
+  <a class="btn fb" href={fb} target="_blank" rel="noopener" data-goatcounter-click="megosztas: facebook" data-goatcounter-title={`Facebook-megosztás – ${title}`}>
+    <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="currentColor" d="M13.5 21v-7.5h2.5l.4-3h-2.9V8.6c0-.9.3-1.5 1.5-1.5h1.5V4.4c-.3 0-1.2-.1-2.2-.1-2.2 0-3.7 1.3-3.7 3.8v2.4H8v3h2.6V21h2.9z"/></svg>
+    Facebook
+  </a>
+  <button type="button" class="btn copy" data-goatcounter-click="megosztas: link-masolas">
+    <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M10 14a4 4 0 0 0 5.7 0l3-3a4 4 0 0 0-5.7-5.7l-1 1M14 10a4 4 0 0 0-5.7 0l-3 3a4 4 0 0 0 5.7 5.7l1-1"/></svg>
+    <span>Link másolása</span>
+  </button>
+  <button type="button" class="btn native" hidden data-goatcounter-click="megosztas: telefon">
+    <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M12 3v12M7 8l5-5 5 5M5 14v5a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-5"/></svg>
+    Továbbküldés
+  </button>
+</div>
+<script>
+  document.querySelectorAll<HTMLElement>('.share').forEach((box) => {
+    const url = box.dataset.url!, title = box.dataset.title!;
+    const copy = box.querySelector<HTMLButtonElement>('.copy');
+    copy?.addEventListener('click', async () => {
+      try { await navigator.clipboard.writeText(url); } catch { window.prompt('Másold ki a linket:', url); return; }
+      const label = copy.querySelector('span')!; const old = label.textContent;
+      label.textContent = 'Kimásolva ✓'; setTimeout(() => (label.textContent = old), 2000);
+    });
+    const native = box.querySelector<HTMLButtonElement>('.native');
+    if (native && 'share' in navigator) {
+      native.hidden = false;
+      native.addEventListener('click', () => { navigator.share({ title, url }).catch(() => {}); });
+    }
+  });
+</script>
+<style>
+  .share { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin: 28px 0 0; }
+  .share-label { font-size: 0.85rem; color: var(--c-muted); margin-right: 4px; }
+  .btn { display: inline-flex; align-items: center; gap: 7px; font: inherit; font-size: 0.88rem; font-weight: 600;
+    padding: 7px 14px; border-radius: 999px; border: 1px solid var(--c-line); background: var(--c-card); color: var(--c-ink);
+    text-decoration: none; cursor: pointer; }
+  .btn:hover { border-color: var(--c-ink); }
+  .fb { background: #1877f2; border-color: #1877f2; color: #fff; }
+  .fb:hover { background: #0f63d1; border-color: #0f63d1; }
+  .btn[hidden] { display: none; }
+</style>

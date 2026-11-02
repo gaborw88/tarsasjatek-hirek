@@ -3,6 +3,7 @@ import { render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import Cover from '../../components/Cover.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
+import Share from '../../components/Share.astro';
 import { ARTICLE_TYPES, SITE } from '../../site.config';
 import { getPublished, url, formatDate, slugifyTag, readingTime, youtubeId, type Article } from '../../lib/utils';
 
@@ -18,6 +19,7 @@ const related = all
   .filter((a) => a.id !== article.id && a.data.tags.some((tg) => d.tags.includes(tg)))
   .slice(0, 3);
 const yt = youtubeId(d.youtube);
+const pageUrl = new URL(Astro.url.pathname, Astro.site).href;
 const disclosures: Record<string, string> = {
   gyujtott: 'Ez a hírösszefoglaló nyilvánosan elérhető források alapján, nyelvi modell segítségével készült. Megjelenés előtt szerkesztőnk átolvasta, ellenőrizte és jóváhagyta.',
   video: 'Ez a videóajánló a videó címe és leírása alapján, nyelvi modell segítségével készült. Megjelenés előtt szerkesztőnk átolvasta, ellenőrizte és jóváhagyta.',
@@ -26,7 +28,7 @@ const disclosures: Record<string, string> = {
 const disclosure = disclosures[d.type];
 const sourceLabel = d.type === 'forditas' ? 'Az eredeti cikk' : 'Források';
 ---
-<Base title={d.title} description={d.description} image={d.image}>
+<Base title={d.title} description={d.description} image={d.image} type="article" published={d.date}>
   {!d.published && <div class="draft-banner">TERVEZET – ez a cikk még nincs jóváhagyva, a nyilvános oldalon nem látszik.</div>}
   <article class="article">
     <header>
@@ -61,6 +63,8 @@ const sourceLabel = d.type === 'forditas' ? 'Az eredeti cikk' : 'Források';
     )}
 
     <div class="prose"><Content /></div>
+
+    <Share url={pageUrl} title={d.title} />
 
     {disclosure && (
       <p class="disclosure">{disclosure} <a href={url('/rolunk/#hogyan-keszulnek')}>Hogyan készülnek a cikkeink?</a></p>
