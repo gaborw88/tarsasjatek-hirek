@@ -86,10 +86,12 @@ Ha a tulajdonos vázlatot, jegyzetet vagy diktált szöveget ad: formázd cikké
 **Figyelt YouTube-csatornák** (hírgyűjtésnél nézd meg, van-e új videójuk az elmúlt napokban – WebSearch,
 pl. a csatorna nevével és `allowed_domains: ["youtube.com"]`; a videó oldalán ellenőrizd a feltöltés dátumát,
 régi videóról ne írj):
-- Magyar: **Mit Játsszunk?** (Győri Zoltán és Réka, @mitjatsszunk), **DRAFT társasjáték vlog**
-- Külföldi: **Shut Up & Sit Down**, **The Dice Tower**
-- Videóajánlót csak akkor írj, ha a videó tényleg hírértékű vagy jó ajánló (új játék bemutatója, fontos megjelenés,
-  rendezvénybeszámoló, toplista). Futásonként legfeljebb 1 videóajánló készüljön, a többi cikk mellett.
+A cél a **hírek**, nem a játékkritikák: olyan videót keress, ami bejelentésről, megjelenésről,
+iparági eseményről, rendezvényről vagy díjról szól.
+- **The Dice Tower** – főleg a heti hírműsoruk (*Dice Tower Now*), rendezvénybeszámolók, nagy bejelentések
+- **BoardGameGeek** – rendezvényes kiadói bemutatók (pl. Essen, Gen Con előzetesek), bejelentések
+- **Shut Up & Sit Down** – csak ha hírértékű (pl. nagy rendezvényről szóló videó, iparági téma), kritikáról nem
+Kritikáról, szabálymagyarázatról, játékmenet-videóról ne írj videóajánlót. Futásonként legfeljebb 1 videóajánló készüljön.
 
 ## Technikai jegyzetek
 
