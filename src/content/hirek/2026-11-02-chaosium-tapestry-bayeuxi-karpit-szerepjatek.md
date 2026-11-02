@@ -1,17 +1,25 @@
 ---
-published: false
-title: "A bayeux-i kárpit lesz a játéktábla: a British Museummal közös szerepjátékot ad ki a Chaosium"
-description: "December 4-én jelenik meg a Tapestry: Age of Conquest, egy rövid, történelmi asztali szerepjáték, amely az 1066-os normann hódítást a bayeux-i kárpit ábrázolása alapján dolgozza fel. A bemutató a londoni British Museumban lesz."
+published: true
+title: 'A bayeux-i kárpit lesz a játéktábla: a British Museummal közös szerepjátékot ad ki a Chaosium'
+description: 'December 4-én jelenik meg a Tapestry: Age of Conquest, egy rövid, történelmi asztali szerepjáték, amely az 1066-os normann hódítást a bayeux-i kárpit ábrázolása alapján dolgozza fel. A bemutató a londoni British Museumban lesz.'
 date: 2026-11-02T21:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Kiadói hírek", "Szerepjáték", "Chaosium", "Történelmi játékok"]
-imageSuggestion: "Hivatalos sajtókép (a kiadói sajtóközlemény borítóképe): https://www.chaosium.com/product_images/uploaded_images/tapestry-ttrpg-front-cover.png – javasolt forrásmegjelölés: Fotó: Chaosium"
+author: Szerkesztőség
+tags:
+  - Kiadói hírek
+  - Szerepjáték
+  - Chaosium
+  - Történelmi játékok
+youtube: ''
+image: ''
+imageAlt: ''
+imageCredit: ''
+imageSuggestion: 'Hivatalos sajtókép (a kiadói sajtóközlemény borítóképe): https://www.chaosium.com/product_images/uploaded_images/tapestry-ttrpg-front-cover.png – javasolt forrásmegjelölés: Fotó: Chaosium'
 sources:
-  - name: "Chaosium – Chaosium to release Bayeux Tapestry-themed TTRPG at The British Museum on Dec 4th, 2026"
-    url: "https://www.chaosium.com/blogchaosium-to-release-bayeux-tapestrythemed-ttrpg-at-the-british-museum-on-dec-4th-2026/"
-  - name: "Tabletop Sentinel – Chaosium Brings the Bayeux Tapestry to the Table with Tapestry: Age of Conquest"
-    url: "https://www.tabletopsentinel.com/news/historical/chaosium-brings-the-bayeux-tapestry-to-the-table-with-tapestry-age-of-conquest"
+  - name: Chaosium – Chaosium to release Bayeux Tapestry-themed TTRPG at The British Museum on Dec 4th, 2026
+    url: https://www.chaosium.com/blogchaosium-to-release-bayeux-tapestrythemed-ttrpg-at-the-british-museum-on-dec-4th-2026/
+  - name: 'Tabletop Sentinel – Chaosium Brings the Bayeux Tapestry to the Table with Tapestry: Age of Conquest'
+    url: https://www.tabletopsentinel.com/news/historical/chaosium-brings-the-bayeux-tapestry-to-the-table-with-tapestry-age-of-conquest
 ---
 
 A Call of Cthulhu kiadójaként ismert **Chaosium** október 29-én jelentette be, hogy december 4-én megjelenik a **Tapestry: Age of Conquest** című asztali szerepjáték. A játék különlegessége, hogy a középkori Európa egyik leghíresebb képi forrását, a **bayeux-i kárpitot** veszi alapul, és a londoni **British Museummal**, valamint az Edinburgh-i Egyetem történelmi játékokkal foglalkozó kutatócsoportjával (History and Games Lab) együttműködésben készült.
