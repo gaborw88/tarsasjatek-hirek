@@ -1,11 +1,17 @@
 ---
 published: true
-title: "Elindultunk! Itt mostantól a társasjátékos világ hírei várnak"
-description: "Új magyar hírblog indul a társasjáték-ipar újdonságairól: megjelenések, kiadói hírek, rendezvények és díjak, magyarul."
-date: 2026-11-02T10:00:00+01:00
+title: Elindultunk! Itt mostantól a társasjátékos világ hírei várnak
+description: 'Új magyar hírblog indul a társasjáték-ipar újdonságairól: megjelenések, kiadói hírek, rendezvények és díjak, magyarul.'
+date: 2026.11.02 19:05
 type: sajat
-author: "Szerkesztőség"
-tags: ["Az oldalról"]
+author: Szerkesztőség
+tags:
+  - Az oldalról
+youtube: ''
+image: ''
+imageAlt: ''
+imageCredit: ''
+imageSuggestion: ''
 sources: []
 ---
 
