@@ -2,7 +2,7 @@
 published: true
 title: Elindultunk! Itt mostantól a társasjátékos világ hírei várnak
 description: 'Új magyar hírblog indul a társasjáték-ipar újdonságairól: megjelenések, kiadói hírek, rendezvények és díjak, magyarul.'
-date: 2026.11.02 19:05
+date: 2026.11.02 19:06
 type: sajat
 author: Szerkesztőség
 tags:
