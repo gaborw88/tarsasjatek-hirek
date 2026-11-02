@@ -11,7 +11,7 @@ export const SITE = {
   defaultAuthor: 'Szerkesztőség',
   // Látogatottság-mérés (GoatCounter, sütik nélkül). Regisztráció után ide jön a választott kód,
   // pl. ha a címed tarsasjatekhirek.goatcounter.com, akkor: 'tarsasjatekhirek'. Üresen hagyva nincs mérés.
-  goatcounter: '',
+  goatcounter: 'tarsasjatekhirek',
 };
 
 // Cikktípusok megjelenítése
