@@ -1,22 +1,27 @@
 ---
-published: false
-title: "Új helyszínen, a Hungexpón lesz idén a Társasjátékok Ünnepe"
-description: "November 21–22-én 14. alkalommal rendezik meg az ország legnagyobb társasjátékos eseményét. Mutatjuk a nyitvatartást, a jegyárakat és a tudnivalókat."
+published: true
+title: Új helyszínen, a Hungexpón lesz idén a Társasjátékok Ünnepe
+description: November 21–22-én 14. alkalommal rendezik meg az ország legnagyobb társasjátékos eseményét. Mutatjuk a nyitvatartást, a jegyárakat és a tudnivalókat.
 date: 2026-11-02T12:45:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Társasjátékok Ünnepe", "Rendezvények", "Magyar hírek"]
+author: Szerkesztőség
+tags:
+  - Társasjátékok Ünnepe
+  - Rendezvények
+  - Magyar hírek
+image: ''
+imageAlt: ''
 sources:
-  - name: "Társasjátékok Ünnepe – hivatalos információk"
-    url: "https://tarsasjatekokunnepe.hu/informaciok/"
-  - name: "Társasjátékok Ünnepe – gyakran ismételt kérdések"
-    url: "https://tarsasjatekokunnepe.hu/gyik/"
-  - name: "Jegy.hu – Társasjátékok Ünnepe® és Társasjátékvásár, napijegy"
-    url: "https://jozsefvaros.jegy.hu/program/tarsasjatekok-unnepe-es-tarsasjatekvasar-napijegy-195689"
-  - name: "Telex – Tudom, mivel fogsz játszani jövő nyáron (2025)"
-    url: "https://telex.hu/after/2025/11/10/tarsasjatekok-unnepe-druids-of-edora-recall-orloj-elder-scrolls-a-masodkor-arulasa-fagyosrev-szornyuzo-hunyadi"
-  - name: "GOTRAVEL – Társasjátékok Ünnepe 2026"
-    url: "https://gotravel.hu/program-tarsasjatekok-unnepe-tarsasjatek-vasar-budapest"
+  - name: Társasjátékok Ünnepe – hivatalos információk
+    url: https://tarsasjatekokunnepe.hu/informaciok/
+  - name: Társasjátékok Ünnepe – gyakran ismételt kérdések
+    url: https://tarsasjatekokunnepe.hu/gyik/
+  - name: Jegy.hu – Társasjátékok Ünnepe® és Társasjátékvásár, napijegy
+    url: https://jozsefvaros.jegy.hu/program/tarsasjatekok-unnepe-es-tarsasjatekvasar-napijegy-195689
+  - name: Telex – Tudom, mivel fogsz játszani jövő nyáron (2025)
+    url: https://telex.hu/after/2025/11/10/tarsasjatekok-unnepe-druids-of-edora-recall-orloj-elder-scrolls-a-masodkor-arulasa-fagyosrev-szornyuzo-hunyadi
+  - name: GOTRAVEL – Társasjátékok Ünnepe 2026
+    url: https://gotravel.hu/program-tarsasjatekok-unnepe-tarsasjatek-vasar-budapest
 ---
 
 Közeledik a hazai társasjátékos év legnagyobb eseménye: **november 21-én és 22-én** rendezik meg a **Társasjátékok Ünnepe® és Társasjátékvásárt**, idén már 14. alkalommal. A rendezvény ezúttal **új helyszínre, a budapesti Hungexpo Kongresszusi Központba** (X. kerület, Albertirsai út 10.) költözik, ahol a szervezők szerint nagyobb tér, több játék és több kiállító várja a látogatókat.
