@@ -1,0 +1,27 @@
+---
+import Base from '../../layouts/Base.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import { getPublished, slugifyTag, type Article } from '../../lib/utils';
+
+export async function getStaticPaths() {
+  const articles = await getPublished();
+  const map = new Map<string, { name: string; items: Article[] }>();
+  for (const a of articles) {
+    for (const t of a.data.tags) {
+      const k = slugifyTag(t);
+      if (!map.has(k)) map.set(k, { name: t, items: [] });
+      map.get(k)!.items.push(a);
+    }
+  }
+  return [...map.entries()].map(([tag, v]) => ({ params: { tag }, props: v }));
+}
+const { name, items } = Astro.props as { name: string; items: Article[] };
+---
+<Base title={name}>
+  <p class="meta">Téma</p>
+  <h1 style="margin-top:0">{name}</h1>
+  <div class="grid">{items.map((a) => <ArticleCard article={a} />)}</div>
+</Base>
+<style>
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 32px 28px; }
+</style>

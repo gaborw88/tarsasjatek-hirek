@@ -1,0 +1,14 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getPublished, url, slugifyTag } from '../../lib/utils';
+const articles = await getPublished();
+const counts = new Map<string, number>();
+articles.forEach((a) => a.data.tags.forEach((t) => counts.set(t, (counts.get(t) ?? 0) + 1)));
+const tags = [...counts.entries()].sort((a, b) => a[0].localeCompare(b[0], 'hu'));
+---
+<Base title="Témák">
+  <h1>Témák</h1>
+  <div>
+    {tags.map(([t, n]) => <a class="tag" href={url(`/cimkek/${slugifyTag(t)}/`)}>{t} <span class="meta">{n}</span></a>)}
+  </div>
+</Base>

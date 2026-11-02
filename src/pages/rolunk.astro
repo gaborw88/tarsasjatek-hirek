@@ -1,0 +1,23 @@
+---
+import Base from '../layouts/Base.astro';
+import { SITE } from '../site.config';
+---
+<Base title="Rólunk">
+  <div class="prose">
+    <h1>Rólunk</h1>
+    <p class="lede">{SITE.description}</p>
+    <p>
+      [Ide írd meg pár mondatban, ki vagy, miért indítottad az oldalt, és mióta foglalkozol társasjátékokkal.
+      Rendezvényes akkreditációnál ezt az oldalt is meg szokták nézni, ezért érdemes személyesre és hitelesre írni.]
+    </p>
+    <h2>Mit találsz nálunk?</h2>
+    <ul>
+      <li><strong>Saját cikkek</strong> – beszámolók, vélemények, interjúk.</li>
+      <li><strong>Fordítások</strong> – fontos külföldi cikkek magyarul, a forrás megjelölésével.</li>
+      <li><strong>Hírösszefoglalók</strong> – a nemzetközi társasjátékos sajtó legfontosabb hírei röviden.</li>
+    </ul>
+    <h2>Kapcsolat</h2>
+    <p>Kiadók, forgalmazók, rendezvényszervezők: <a href={`mailto:${SITE.email}`}>{SITE.email}</a></p>
+  </div>
+</Base>
+<style>.lede { font-size: 1.2rem; color: var(--c-muted); }</style>

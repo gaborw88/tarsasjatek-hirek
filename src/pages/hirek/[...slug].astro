@@ -1,0 +1,75 @@
+---
+import { render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Cover from '../../components/Cover.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import { ARTICLE_TYPES, SITE } from '../../site.config';
+import { getPublished, url, formatDate, slugifyTag, readingTime, type Article } from '../../lib/utils';
+
+export async function getStaticPaths() {
+  const articles = await getPublished();
+  return articles.map((a) => ({ params: { slug: a.id }, props: { article: a, all: articles } }));
+}
+const { article, all } = Astro.props as { article: Article; all: Article[] };
+const d = article.data;
+const t = ARTICLE_TYPES[d.type];
+const { Content } = await render(article);
+const related = all
+  .filter((a) => a.id !== article.id && a.data.tags.some((tg) => d.tags.includes(tg)))
+  .slice(0, 3);
+const sourceLabel = d.type === 'forditas' ? 'Az eredeti cikk' : 'Források';
+---
+<Base title={d.title} description={d.description} image={d.image}>
+  {!d.published && <div class="draft-banner">TERVEZET – ez a cikk még nincs jóváhagyva, a nyilvános oldalon nem látszik.</div>}
+  <article class="article">
+    <header>
+      <div class="row">
+        <span class="badge" style={`background:${t.color}`}>{t.label}</span>
+        {d.tags.map((tg) => <a class="tag" href={url(`/cimkek/${slugifyTag(tg)}/`)}>{tg}</a>)}
+      </div>
+      <h1>{d.title}</h1>
+      <p class="lede">{d.description}</p>
+      <p class="meta">
+        {d.author ?? SITE.defaultAuthor} · <time datetime={d.date.toISOString()}>{formatDate(d.date)}</time> · {readingTime(article.body ?? '')} perc olvasás
+      </p>
+    </header>
+
+    {d.image && <figure><Cover image={d.image} alt={d.imageAlt} type={d.type} />{d.imageAlt && <figcaption class="meta">{d.imageAlt}</figcaption>}</figure>}
+
+    <div class="prose"><Content /></div>
+
+    {d.sources.length > 0 && (
+      <aside class="sources">
+        <h2>{sourceLabel}</h2>
+        {d.type === 'forditas' && <p class="meta">Ez a cikk az alábbi írás magyar fordítása, a forrás feltüntetésével.</p>}
+        <ul>
+          {d.sources.map((s) => <li><a href={s.url} rel="noopener" target="_blank">{s.name}</a></li>)}
+        </ul>
+      </aside>
+    )}
+  </article>
+
+  {related.length > 0 && (
+    <section class="related">
+      <h2>Kapcsolódó hírek</h2>
+      <div class="grid">{related.map((a) => <ArticleCard article={a} />)}</div>
+    </section>
+  )}
+</Base>
+<style>
+  .article { max-width: 760px; margin: 0 auto; }
+  .row { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+  .row .tag { margin: 0; }
+  h1 { font-size: clamp(2rem, 4.5vw, 3rem); margin: 18px 0 12px; }
+  .lede { font-size: 1.2rem; color: var(--c-muted); margin: 0 0 14px; }
+  figure { margin: 28px 0; }
+  figcaption { margin-top: 8px; }
+  .prose { margin-top: 28px; font-size: 1.06rem; }
+  .sources { margin-top: 40px; padding: 18px 22px; background: var(--c-card); border: 1px solid var(--c-line); border-left: 4px solid var(--c-teal); border-radius: var(--radius); }
+  .sources h2 { font-size: 1rem; margin: 0 0 6px; font-family: var(--f-body); text-transform: uppercase; letter-spacing: 0.08em; }
+  .sources ul { margin: 6px 0 0; padding-left: 1.2em; }
+  .sources a { color: var(--c-teal); word-break: break-word; }
+  .related { margin-top: 64px; border-top: 2px solid var(--c-ink); padding-top: 20px; }
+  .related h2 { font-size: 1.3rem; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 28px; }
+</style>

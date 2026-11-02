@@ -1,0 +1,61 @@
+---
+import Base from '../layouts/Base.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import { getPublished, url, slugifyTag } from '../lib/utils';
+import { SITE } from '../site.config';
+
+const articles = await getPublished();
+const [lead, ...rest] = articles;
+const side = rest.slice(0, 2);
+const grid = rest.slice(2);
+
+const tagCounts = new Map<string, number>();
+articles.forEach((a) => a.data.tags.forEach((t) => tagCounts.set(t, (tagCounts.get(t) ?? 0) + 1)));
+const topTags = [...tagCounts.entries()].sort((a, b) => b[1] - a[1]).slice(0, 14);
+---
+<Base>
+  {articles.length === 0 ? (
+    <p>Hamarosan érkeznek az első hírek!</p>
+  ) : (
+    <>
+      <section class="top">
+        <div class="lead-col"><ArticleCard article={lead} lead /></div>
+        <div class="side-col">
+          {side.map((a) => <ArticleCard article={a} />)}
+        </div>
+      </section>
+
+      <div class="lower">
+        <section>
+          <h2 class="section-title">Legfrissebb</h2>
+          <div class="grid">
+            {grid.map((a) => <ArticleCard article={a} />)}
+          </div>
+          {grid.length === 0 && <p class="meta">Itt jelennek majd meg a további hírek.</p>}
+        </section>
+        <aside>
+          <div class="box">
+            <h3>Témák</h3>
+            {topTags.map(([t, n]) => <a class="tag" href={url(`/cimkek/${slugifyTag(t)}/`)}>{t} <span class="meta">{n}</span></a>)}
+          </div>
+          <div class="box">
+            <h3>Rólunk</h3>
+            <p class="meta">{SITE.description}</p>
+            <a href={url('/rolunk/')} class="more">Tovább →</a>
+          </div>
+        </aside>
+      </div>
+    </>
+  )}
+</Base>
+<style>
+  .top { display: grid; grid-template-columns: 1.7fr 1fr; gap: 36px; padding-bottom: 36px; border-bottom: 1px solid var(--c-line); }
+  .side-col { display: flex; flex-direction: column; gap: 28px; }
+  .lower { display: grid; grid-template-columns: 1fr 300px; gap: 40px; margin-top: 36px; }
+  .section-title { font-size: 1rem; text-transform: uppercase; letter-spacing: 0.12em; font-family: var(--f-body); border-bottom: 2px solid var(--c-ink); padding-bottom: 8px; margin: 0 0 24px; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 32px 28px; }
+  .box { background: var(--c-card); border: 1px solid var(--c-line); border-radius: var(--radius); padding: 18px 20px; margin-bottom: 20px; }
+  .box h3 { margin: 0 0 12px; font-size: 1.1rem; }
+  .more { color: var(--c-accent); font-weight: 600; text-decoration: none; font-size: 0.9rem; }
+  @media (max-width: 900px) { .top, .lower { grid-template-columns: 1fr; } }
+</style>

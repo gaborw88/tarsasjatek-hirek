@@ -1,0 +1,71 @@
+:root {
+  --c-paper: #fbf7f0;
+  --c-card: #ffffff;
+  --c-ink: #1d2528;
+  --c-muted: #5f6b6e;
+  --c-line: #e6dfd2;
+  --c-accent: #c8553d;
+  --c-teal: #2c6e6a;
+  --c-plum: #6b3f69;
+  --c-mustard: #e0a526;
+  --f-head: 'Fraunces Variable', Georgia, serif;
+  --f-body: 'Inter Variable', system-ui, sans-serif;
+  --w-max: 1180px;
+  --radius: 10px;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--c-paper);
+  color: var(--c-ink);
+  font-family: var(--f-body);
+  font-size: 17px;
+  line-height: 1.6;
+}
+a { color: inherit; }
+img { max-width: 100%; display: block; }
+h1, h2, h3, h4 { font-family: var(--f-head); line-height: 1.15; font-weight: 650; letter-spacing: -0.01em; }
+
+.wrap { max-width: var(--w-max); margin: 0 auto; padding: 0 20px; }
+
+.badge {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 650;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #fff;
+  padding: 3px 8px;
+  border-radius: 4px;
+}
+.meta { color: var(--c-muted); font-size: 0.85rem; }
+.tag {
+  display: inline-block;
+  font-size: 0.82rem;
+  text-decoration: none;
+  border: 1px solid var(--c-line);
+  background: var(--c-card);
+  padding: 3px 10px;
+  border-radius: 999px;
+  margin: 0 6px 6px 0;
+}
+.tag:hover { border-color: var(--c-accent); color: var(--c-accent); }
+
+.prose { max-width: 70ch; }
+.prose h2 { font-size: 1.55rem; margin-top: 2em; }
+.prose h3 { font-size: 1.25rem; margin-top: 1.6em; }
+.prose a { color: var(--c-teal); text-underline-offset: 3px; }
+.prose blockquote {
+  margin: 1.5em 0; padding: 0.3em 1.2em;
+  border-left: 4px solid var(--c-mustard);
+  font-family: var(--f-head); font-size: 1.15rem; font-style: italic;
+}
+.prose img { border-radius: var(--radius); }
+.prose ul, .prose ol { padding-left: 1.3em; }
+
+.draft-banner {
+  background: var(--c-mustard); color: var(--c-ink);
+  text-align: center; font-weight: 600; font-size: 0.85rem; padding: 6px; margin-bottom: 24px; border-radius: 6px;
+}

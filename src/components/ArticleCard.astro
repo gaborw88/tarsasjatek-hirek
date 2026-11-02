@@ -1,0 +1,33 @@
+---
+import Cover from './Cover.astro';
+import { ARTICLE_TYPES } from '../site.config';
+import { url, formatDate, type Article } from '../lib/utils';
+interface Props { article: Article; lead?: boolean; }
+const { article, lead = false } = Astro.props;
+const d = article.data;
+const t = ARTICLE_TYPES[d.type];
+---
+<article class:list={['card', { lead }]}>
+  <a href={url(`/hirek/${article.id}/`)} class="cover-link" tabindex="-1">
+    <Cover image={d.image} alt={d.imageAlt} type={d.type} ratio={lead ? '16 / 9' : '3 / 2'} />
+  </a>
+  <div class="body">
+    <div class="row">
+      <span class="badge" style={`background:${t.color}`}>{t.label}</span>
+      {!d.published && <span class="badge" style="background:var(--c-mustard);color:var(--c-ink)">Tervezet</span>}
+      <time class="meta" datetime={d.date.toISOString()}>{formatDate(d.date)}</time>
+    </div>
+    <h2><a href={url(`/hirek/${article.id}/`)}>{d.title}</a></h2>
+    <p>{d.description}</p>
+  </div>
+</article>
+<style>
+  .card { display: flex; flex-direction: column; gap: 12px; }
+  .row { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+  h2 { font-size: 1.22rem; margin: 8px 0 6px; }
+  h2 a { text-decoration: none; }
+  h2 a:hover { color: var(--c-accent); }
+  p { margin: 0; color: var(--c-muted); font-size: 0.95rem; }
+  .lead h2 { font-size: clamp(1.7rem, 3.2vw, 2.4rem); }
+  .lead p { font-size: 1.08rem; }
+</style>

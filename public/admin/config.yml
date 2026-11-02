@@ -1,0 +1,92 @@
+# Szerkesztőfelület beállításai
+# A "repo" sort a GitHub-fiók létrehozása után kell kitölteni: FELHASZNALONEV/tarsasjatek-hirek
+backend:
+  name: github
+  repo: FELHASZNALONEV/tarsasjatek-hirek
+  branch: main
+
+media_folder: public/images/uploads
+public_folder: /images/uploads
+
+collections:
+  - name: hirek
+    label: Hírek
+    label_singular: Cikk
+    folder: src/content/hirek
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    summary: "{{published | ternary('✅', '⏳')}}  {{title}}  ·  {{date | date('YYYY.MM.DD')}}"
+    sortable_fields: [date, title]
+    view_filters:
+      - label: "⏳ Jóváhagyásra vár"
+        field: published
+        pattern: false
+      - label: "✅ Megjelent"
+        field: published
+        pattern: true
+      - label: "Hírösszefoglalók"
+        field: type
+        pattern: gyujtott
+      - label: "Fordítások"
+        field: type
+        pattern: forditas
+      - label: "Saját cikkek"
+        field: type
+        pattern: sajat
+    fields:
+      - name: published
+        label: "✅ Jóváhagyva – megjelenhet az oldalon"
+        widget: boolean
+        default: false
+        hint: "Amíg nincs bepipálva, a cikk csak tervezet, a látogatók nem látják."
+      - name: title
+        label: Cím
+        widget: string
+      - name: description
+        label: Rövid összefoglaló (bevezető)
+        widget: text
+        hint: "1–2 mondat. Ez látszik a főoldalon és a megosztásoknál."
+      - name: date
+        label: Dátum
+        widget: datetime
+        date_format: "YYYY.MM.DD"
+        time_format: "HH:mm"
+      - name: type
+        label: Cikk típusa
+        widget: select
+        default: sajat
+        options:
+          - { label: "Saját cikk", value: sajat }
+          - { label: "Fordítás", value: forditas }
+          - { label: "Hírösszefoglaló (automatikus gyűjtés)", value: gyujtott }
+      - name: author
+        label: Szerző
+        widget: string
+        required: false
+        hint: "Ha üres, „Szerkesztőség” jelenik meg."
+      - name: tags
+        label: Témák / címkék
+        widget: list
+        default: []
+        hint: "Pl.: Essen Spiel, Kickstarter, Kiadói hírek, Díjak"
+      - name: image
+        label: Borítókép
+        widget: image
+        required: false
+        hint: "Csak olyan képet tölts fel, amit szabad használni (saját fotó, kiadói sajtókép)."
+      - name: imageAlt
+        label: Képaláírás / kép leírása
+        widget: string
+        required: false
+      - name: sources
+        label: Források
+        label_singular: Forrás
+        widget: list
+        required: false
+        default: []
+        fields:
+          - { name: name, label: "Forrás neve", widget: string }
+          - { name: url, label: "Link", widget: string }
+      - name: body
+        label: Szöveg
+        widget: markdown

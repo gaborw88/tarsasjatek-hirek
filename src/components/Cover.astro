@@ -1,0 +1,28 @@
+---
+// Borítókép, vagy ha nincs kép: típus-színű kocka-mintás helyettesítő
+import { ARTICLE_TYPES } from '../site.config';
+import { url } from '../lib/utils';
+interface Props { image?: string; alt?: string; type: keyof typeof ARTICLE_TYPES; ratio?: string; }
+const { image, alt = '', type, ratio = '16 / 9' } = Astro.props;
+const color = ARTICLE_TYPES[type].color;
+---
+<div class="cover" style={`aspect-ratio:${ratio}; --tc:${color}`}>
+  {image ? (
+    <img src={url(image)} alt={alt} loading="lazy" />
+  ) : (
+    <div class="ph" aria-hidden="true"></div>
+  )}
+</div>
+<style>
+  .cover { width: 100%; overflow: hidden; border-radius: var(--radius); background: var(--tc); }
+  .cover img { width: 100%; height: 100%; object-fit: cover; }
+  .ph {
+    width: 100%; height: 100%;
+    background-color: var(--tc);
+    background-image:
+      radial-gradient(circle, rgba(255,255,255,.35) 3px, transparent 3.5px),
+      radial-gradient(circle, rgba(255,255,255,.18) 3px, transparent 3.5px);
+    background-size: 28px 28px;
+    background-position: 0 0, 14px 14px;
+  }
+</style>

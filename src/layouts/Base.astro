@@ -1,0 +1,101 @@
+---
+import '@fontsource-variable/fraunces';
+import '@fontsource-variable/inter';
+import '../styles/global.css';
+import Logo from '../components/Logo.astro';
+import { SITE } from '../site.config';
+import { url } from '../lib/utils';
+
+interface Props { title?: string; description?: string; image?: string; }
+const { title, description = SITE.description, image } = Astro.props;
+const fullTitle = title ? `${title} – ${SITE.name}` : `${SITE.name} – ${SITE.tagline}`;
+const today = new Intl.DateTimeFormat('hu-HU', { year: 'numeric', month: 'long', day: 'numeric', weekday: 'long' }).format(new Date());
+const path = Astro.url.pathname;
+const nav = [
+  { href: url('/'), label: 'Hírek' },
+  { href: url('/cimkek/'), label: 'Témák' },
+  { href: url('/rolunk/'), label: 'Rólunk' },
+  { href: url('/impresszum/'), label: 'Impresszum' },
+];
+---
+<!doctype html>
+<html lang="hu">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{fullTitle}</title>
+  <meta name="description" content={description} />
+  <meta property="og:title" content={title ?? SITE.name} />
+  <meta property="og:description" content={description} />
+  <meta property="og:type" content="website" />
+  {image && <meta property="og:image" content={new URL(url(image), Astro.site)} />}
+  <link rel="alternate" type="application/rss+xml" title={SITE.name} href={url('/rss.xml')} />
+  <link rel="icon" href={url('/favicon.svg')} type="image/svg+xml" />
+</head>
+<body>
+  <header class="masthead">
+    <div class="topbar">
+      <div class="wrap topbar-in">
+        <span>{today}</span>
+        <a href={url('/rss.xml')}>RSS</a>
+      </div>
+    </div>
+    <div class="wrap brand-row">
+      <a class="brand" href={url('/')}>
+        <Logo size={44} />
+        <span>
+          <span class="brand-name">{SITE.name}</span>
+          <span class="brand-tag">{SITE.tagline}</span>
+        </span>
+      </a>
+      <nav>
+        {nav.map((n) => (
+          <a href={n.href} class:list={[{ active: path === n.href || (n.label === 'Hírek' && path.includes('/hirek/')) }]}>{n.label}</a>
+        ))}
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap"><slot /></main>
+
+  <footer>
+    <div class="wrap foot-in">
+      <div>
+        <strong>{SITE.name}</strong><br />
+        <span class="meta">{SITE.tagline}</span>
+      </div>
+      <div class="foot-links">
+        <a href={url('/rolunk/')}>Rólunk</a>
+        <a href={url('/impresszum/')}>Impresszum</a>
+        <a href={url('/rss.xml')}>RSS</a>
+        <a href={`mailto:${SITE.email}`}>Kapcsolat</a>
+      </div>
+      <div class="meta">© {new Date().getFullYear()} {SITE.name}. A fordított és összefoglalt hírek forrását minden cikk alján feltüntetjük.</div>
+    </div>
+  </footer>
+</body>
+</html>
+
+<style>
+  .topbar { background: var(--c-ink); color: #e9e4da; font-size: 0.8rem; }
+  .topbar-in { display: flex; justify-content: space-between; padding-top: 6px; padding-bottom: 6px; }
+  .topbar a { text-decoration: none; }
+  .topbar span::first-letter { text-transform: uppercase; }
+  .masthead { border-bottom: 3px double var(--c-line); background: var(--c-paper); }
+  .brand-row { display: flex; align-items: center; justify-content: space-between; gap: 20px; padding-top: 22px; padding-bottom: 18px; flex-wrap: wrap; }
+  .brand { display: flex; align-items: center; gap: 14px; text-decoration: none; }
+  .brand-name { display: block; font-family: var(--f-head); font-size: 1.9rem; font-weight: 750; letter-spacing: -0.02em; line-height: 1; }
+  .brand-tag { display: block; color: var(--c-muted); font-size: 0.85rem; margin-top: 4px; }
+  nav { display: flex; gap: 4px; flex-wrap: wrap; }
+  nav a { text-decoration: none; font-weight: 550; font-size: 0.95rem; padding: 6px 12px; border-radius: 6px; }
+  nav a:hover { background: #f1eadd; }
+  nav a.active { background: var(--c-ink); color: var(--c-paper); }
+  main { padding-top: 32px; padding-bottom: 64px; min-height: 60vh; }
+  footer { border-top: 1px solid var(--c-line); background: #f4eee3; padding: 32px 0; }
+  .foot-in { display: grid; gap: 14px; grid-template-columns: 1fr auto; }
+  .foot-in > .meta { grid-column: 1 / -1; }
+  .foot-links { display: flex; gap: 18px; flex-wrap: wrap; align-items: start; }
+  .foot-links a { text-decoration: none; font-size: 0.92rem; }
+  .foot-links a:hover { color: var(--c-accent); }
+  @media (max-width: 640px) { .foot-in { grid-template-columns: 1fr; } .brand-name { font-size: 1.5rem; } }
+</style>
