@@ -1,16 +1,21 @@
 ---
-published: false
-title: "A Star Wars: Unlimited tarolt az első TCG Awardson"
-description: "Négy díjat, köztük az Év játéka címet nyerte el a Fantasy Flight Games gyűjtögetős kártyajátéka a SPIEL Essenen először átadott elismerésen."
+published: true
+title: 'A Star Wars: Unlimited tarolt az első TCG Awardson'
+description: Négy díjat, köztük az Év játéka címet nyerte el a Fantasy Flight Games gyűjtögetős kártyajátéka a SPIEL Essenen először átadott elismerésen.
 date: 2026-11-01T18:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Díjak", "Gyűjtögetős kártyajátékok", "Essen Spiel"]
+author: Szerkesztőség
+tags:
+  - Díjak
+  - Gyűjtögetős kártyajátékok
+  - Essen Spiel
+image: ''
+imageAlt: ''
 sources:
-  - name: "Asmodee sajtóközlemény – Star Wars: Unlimited cleans house at TCG Awards"
-    url: "https://mfn.se/a/asmodee/star-wars-unlimited-cleans-house-with-game-of-the-year-and-3-additional-awards-at-tcg-awards-gala.iframe"
-  - name: "Galaxus – Star Wars beats Magic at the first TCG Awards"
-    url: "https://www.galaxus.de/en/page/star-wars-beats-magic-at-the-first-tcg-awards-44189"
+  - name: 'Asmodee sajtóközlemény – Star Wars: Unlimited cleans house at TCG Awards'
+    url: https://mfn.se/a/asmodee/star-wars-unlimited-cleans-house-with-game-of-the-year-and-3-additional-awards-at-tcg-awards-gala.iframe
+  - name: Galaxus – Star Wars beats Magic at the first TCG Awards
+    url: https://www.galaxus.de/en/page/star-wars-beats-magic-at-the-first-tcg-awards-44189
 ---
 
 Október 22-én, a SPIEL Essen első napjának estéjén rendezték meg az első **TCG Awards** gálát, amely saját meghatározása szerint az első nemzetközi díj, ami kizárólag a gyűjtögetős kártyajátékok (TCG) iparágát ünnepli. A nagy nyertes a **Star Wars: Unlimited** lett.
