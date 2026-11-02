@@ -1,8 +1,8 @@
 # Szerkesztőfelület beállításai
-# A "repo" sort a GitHub-fiók létrehozása után kell kitölteni: FELHASZNALONEV/tarsasjatek-hirek
+# GitHub-tároló: gaborw88/tarsasjatek-hirek
 backend:
   name: github
-  repo: FELHASZNALONEV/tarsasjatek-hirek
+  repo: gaborw88/tarsasjatek-hirek
   branch: main
 
 media_folder: public/images/uploads
