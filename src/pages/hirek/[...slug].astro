@@ -19,9 +19,9 @@ const related = all
   .slice(0, 3);
 const yt = youtubeId(d.youtube);
 const disclosures: Record<string, string> = {
-  gyujtott: 'Ez a hírösszefoglaló nyilvánosan elérhető források alapján, mesterséges intelligencia segítségével készült. Megjelenés előtt szerkesztőnk átolvasta, ellenőrizte és jóváhagyta.',
-  video: 'Ez a videóajánló a videó címe és leírása alapján, mesterséges intelligencia segítségével készült. Megjelenés előtt szerkesztőnk átolvasta, ellenőrizte és jóváhagyta.',
-  forditas: 'Ez a fordítás mesterséges intelligencia segítségével készült, az eredeti szerző vagy kiadó engedélyével. Megjelenés előtt szerkesztőnk átolvasta, ellenőrizte és jóváhagyta.',
+  gyujtott: 'Ez a hírösszefoglaló nyilvánosan elérhető források alapján, nyelvi modell segítségével készült. Megjelenés előtt szerkesztőnk átolvasta, ellenőrizte és jóváhagyta.',
+  video: 'Ez a videóajánló a videó címe és leírása alapján, nyelvi modell segítségével készült. Megjelenés előtt szerkesztőnk átolvasta, ellenőrizte és jóváhagyta.',
+  forditas: 'Ez a fordítás nyelvi modell segítségével készült, az eredeti szerző vagy kiadó engedélyével. Megjelenés előtt szerkesztőnk átolvasta, ellenőrizte és jóváhagyta.',
 };
 const disclosure = disclosures[d.type];
 const sourceLabel = d.type === 'forditas' ? 'Az eredeti cikk' : 'Források';
