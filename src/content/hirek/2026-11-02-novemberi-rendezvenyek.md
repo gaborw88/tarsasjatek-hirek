@@ -1,14 +1,18 @@
 ---
-published: false
-title: "Essen után sem áll meg az élet: ezek a következő hetek nagy társasjátékos eseményei"
-description: "Chicagótól Dubajon át Philadelphiáig: novemberben és december elején is sűrű a nemzetközi rendezvénynaptár, november 7-én pedig a játékboltoké a főszerep."
+published: true
+title: 'Essen után sem áll meg az élet: ezek a következő hetek nagy társasjátékos eseményei'
+description: 'Chicagótól Dubajon át Philadelphiáig: novemberben és december elején is sűrű a nemzetközi rendezvénynaptár, november 7-én pedig a játékboltoké a főszerep.'
 date: 2026-11-02T08:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Rendezvények", "Rendezvénynaptár"]
+author: Szerkesztőség
+tags:
+  - Rendezvények
+  - Rendezvénynaptár
+image: ''
+imageAlt: ''
 sources:
-  - name: "BoardGameWire – rendezvénynaptár"
-    url: "https://boardgamewire.com/"
+  - name: BoardGameWire – rendezvénynaptár
+    url: https://boardgamewire.com/
 ---
 
 A SPIEL Essen lezárultával sem marad esemény nélkül a társasjátékos szakma. Összeszedtük a következő hetek legfontosabb nemzetközi rendezvényeit.
