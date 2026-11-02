@@ -35,13 +35,23 @@ A tulajdonos nem programozó: vele mindig magyarul, egyszerűen, szakzsargon né
    Spielbox / brettspiel-news.de, a nagy kiadók (Asmodee, CMON, Stonemaier, Pegasus, KOSMOS, Lookout,
    Czech Games Edition stb.) sajtóközleményei, Kickstarter / Gamefound kampányok, díjak (Spiel des Jahres,
    Golden Geek, As d'Or), rendezvények (Essen Spiel, Gen Con, UK Games Expo, Budapesti Társasjáték Fesztivál stb.).
-   Magyar vonatkozású hírek (magyar kiadók: Gémklub, Delta Vision, Reflexshop, Compaya, Mindclash stb.) külön értéket jelentenek.
-2. Mielőtt írsz, nézd meg a `src/content/hirek/` mappát: ne írj meg olyan hírt, ami már szerepel (tervezetként sem).
-3. Válaszd ki a 3–5 legfontosabb, egymástól különböző hírt. Mindegyikből külön cikk legyen:
+2. **Magyar megjelenések – kiemelt téma, minden futásnál nézd át!** Keresd a magyar kiadók és forgalmazók
+   friss bejelentéseit: új magyar nyelvű kiadások, előrendelések, „hamarosan érkezik” listák, újranyomások,
+   magyar fejlesztésű játékok, közösségi finanszírozású (Kickstarter/Gamefound) magyar projektek.
+   Rendszeresen figyelendő kiadók és forgalmazók (honlap „újdonságok” / „előrendelés” rovata, blog, hírlevél):
+   - Gémklub, Reflexshop (és saját kiadása), Delta Vision, Pagony (Pagony Játékok), Vagabund Kiadó
+   - Compaya, Piatnik Budapest, REGIO JÁTÉK, Mindclash Games
+   - A lista nem teljes: ha új magyar kiadót vagy forgalmazót találsz (például a Társasjátékok Ünnepe
+     kiállítói között, vagy a magyar társasjátékos közösségi oldalakon), vedd fel ide ebbe a listába is.
+   Ilyen cikknél: `tags` között legyen a „Magyar megjelenések” és a kiadó neve; add meg a magyar címet és az
+   eredeti címet, a kiadót, a megjelenés várható idejét és – ha a kiadó közölte – az árat. Több apró
+   bejelentésből készülhet egy gyűjtőcikk is (pl. „Magyar megjelenések a héten”).
+3. Mielőtt írsz, nézd meg a `src/content/hirek/` mappát: ne írj meg olyan hírt, ami már szerepel (tervezetként sem).
+4. Válaszd ki a legfontosabb, egymástól különböző híreket (ütemezett futásnál 1–3, kézi kérésnél 3–5). Mindegyikből külön cikk legyen:
    - `type: gyujtott`
    - 150–350 szó, saját megfogalmazásban, 1–2 alcímmel ha indokolt
    - lehetőleg 2 független forrás a `sources` listában
-4. Mentsd, commitold („Új hírtervezetek: …”), pushold.
+5. Mentsd, commitold („Új hírtervezetek: …”), pushold. Ha nincs érdemi új hír, ne írj semmit – ez is rendben van.
 
 ## 2. Fordítás linkből („fordítsd le: <link>”)
 

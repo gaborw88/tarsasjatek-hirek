@@ -68,7 +68,7 @@ collections:
         label: Témák / címkék
         widget: list
         default: []
-        hint: "Pl.: Essen Spiel, Kickstarter, Kiadói hírek, Díjak"
+        hint: "Pl.: Magyar megjelenések, Gémklub, Essen Spiel, Kickstarter, Díjak"
       - name: image
         label: Borítókép
         widget: image
