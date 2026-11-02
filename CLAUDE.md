@@ -86,7 +86,10 @@ Ha a tulajdonos vázlatot, jegyzetet vagy diktált szöveget ad: formázd cikké
 **Figyelt YouTube-csatornák** (hírgyűjtésnél nézd meg, van-e új videójuk az elmúlt napokban – WebSearch,
 pl. a csatorna nevével és `allowed_domains: ["youtube.com"]`; a videó oldalán ellenőrizd a feltöltés dátumát,
 régi videóról ne írj):
-- _(a tulajdonos adja meg)_
+- Magyar: **Mit Játsszunk?** (Győri Zoltán és Réka, @mitjatsszunk), **DRAFT társasjáték vlog**
+- Külföldi: **Shut Up & Sit Down**, **The Dice Tower**
+- Videóajánlót csak akkor írj, ha a videó tényleg hírértékű vagy jó ajánló (új játék bemutatója, fontos megjelenés,
+  rendezvénybeszámoló, toplista). Futásonként legfeljebb 1 videóajánló készüljön, a többi cikk mellett.
 
 ## Technikai jegyzetek
 
