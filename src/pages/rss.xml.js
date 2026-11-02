@@ -10,7 +10,7 @@ export async function GET(context) {
   return rss({
     title: SITE.name,
     description: SITE.description,
-    site: context.site,
+    site: new URL(import.meta.env.BASE_URL, context.site).href,
     items: items.map((a) => ({
       title: a.data.title,
       description: a.data.description,
