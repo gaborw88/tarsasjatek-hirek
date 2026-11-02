@@ -75,7 +75,7 @@ Ha a tulajdonos vázlatot, jegyzetet vagy diktált szöveget ad: formázd cikké
 
 ## 4. Videóajánló („írj videóajánlót: <YouTube-link>”, vagy hírgyűjtés közben)
 
-1. Nyisd meg a videó oldalát (WebFetch): cím, csatorna, feltöltés dátuma, leírás. A videót nem látod és
+1. Nyisd meg a videó oldalát (WebFetch) – YouTube helyett lehetőleg a készítő saját oldalán: cím, csatorna, dátum, leírás. A videót nem látod és
    átirat sincs, ezért **csak azt írd le, ami a címből és a leírásból biztosan kiderül** – ne találd ki, mit
    mond a videó, és ne írj véleményt a készítő nevében.
 2. `type: video`, `youtube: "<a videó linkje>"` (az oldal beágyazza a videót), a `sources` első eleme a videó
@@ -84,15 +84,25 @@ Ha a tulajdonos vázlatot, jegyzetet vagy diktált szöveget ad: formázd cikké
    játékról szól, röviden a játékról (kiadó, tervező, van-e magyar kiadása) – ezt más forrásból ellenőrizd.
 4. Tags: „Videó”, a csatorna neve, és a játék/téma. `published: false`, commit, push.
 
-**Figyelt YouTube-csatornák** (hírgyűjtésnél nézd meg, van-e új videójuk az elmúlt napokban – WebSearch,
-pl. a csatorna nevével és `allowed_domains: ["youtube.com"]`; a videó oldalán ellenőrizd a feltöltés dátumát,
-régi videóról ne írj):
-A cél a **hírek**, nem a játékkritikák: olyan videót keress, ami bejelentésről, megjelenésről,
-iparági eseményről, rendezvényről vagy díjról szól.
-- **The Dice Tower** – főleg a heti hírműsoruk (*Dice Tower Now*), rendezvénybeszámolók, nagy bejelentések
-- **BoardGameGeek** – rendezvényes kiadói bemutatók (pl. Essen, Gen Con előzetesek), bejelentések
-- **Shut Up & Sit Down** – csak ha hírértékű (pl. nagy rendezvényről szóló videó, iparági téma), kritikáról nem
-Kritikáról, szabálymagyarázatról, játékmenet-videóról ne írj videóajánlót. Futásonként legfeljebb 1 videóajánló készüljön.
+**Figyelt videós csatornák**
+
+Fontos technikai korlát: a YouTube oldalait (csatornaoldal, videóoldal) az ütemezett futásban **általában nem
+lehet megnyitni**, a YouTube-keresés pedig nem időrendben ad találatot. Ezért a friss videókat a készítők
+**saját weboldalán** keresd, ott van dátum és leírás:
+- **The Dice Tower** – https://dicetower.com/videos (az 5 legújabb videó), a videó oldalán (dicetower.com/video/...)
+  látszik a megjelenés dátuma és a leírás. (A korábbi heti hírműsoruk, a *Dice Tower Now* 2024 januárjában megszűnt.)
+- **Shut Up & Sit Down** – https://www.shutupandsitdown.com (a videós bejegyzések dátummal), csak ha hírértékű.
+- **BoardGameGeek** – a BGG News rovat (boardgamegeek.com/blog/1/boardgamegeek-news) gyakran hivatkozik a saját
+  rendezvényes kiadói bemutató videóikra.
+
+A cél a **hírek**, nem a játékkritikák: olyan videót válassz, ami bejelentésről, megjelenésről, rendezvényről
+(pl. Essen-vlog), díjról, iparági témáról szól, vagy több újdonságot mutat be egyszerre. Kritikáról,
+szabálymagyarázatról, játékmenet-videóról ne írj videóajánlót. Futásonként legfeljebb 1 videóajánló.
+
+**A beágyazáshoz** keresd meg a videó YouTube-linkjét WebSearch-csel (a videó pontos címével, `allowed_domains:
+["youtube.com"]`), és ellenőrizd, hogy a cím pontosan egyezik. Ha nem találod biztosan, a `youtube` mezőt hagyd
+üresen, és a `sources` első eleme a készítő saját oldalán lévő videóoldal legyen – az olvasó onnan nézheti meg.
+A dátumot és a tartalmat mindig a készítő saját oldaláról vedd, ne találgass.
 
 ## Technikai jegyzetek
 
