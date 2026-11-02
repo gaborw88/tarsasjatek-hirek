@@ -8,6 +8,7 @@ export const SITE = {
   description:
     'Független, hirdetésmentes magyar hírblog a társasjáték-ipar újdonságairól: megjelenések, kiadói hírek, rendezvények, Kickstarter-kampányok és díjak.',
   email: 'info.matafe@gmail.com',
+  facebook: 'https://www.facebook.com/matafe.org',
   defaultAuthor: 'Szerkesztőség',
   // Látogatottság-mérés (GoatCounter, sütik nélkül). Regisztráció után ide jön a választott kód,
   // pl. ha a címed tarsasjatekhirek.goatcounter.com, akkor: 'tarsasjatekhirek'. Üresen hagyva nincs mérés.
