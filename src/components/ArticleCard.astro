@@ -6,28 +6,46 @@ interface Props { article: Article; lead?: boolean; }
 const { article, lead = false } = Astro.props;
 const d = article.data;
 const t = ARTICLE_TYPES[d.type];
+const hasImg = Boolean(d.image);
 ---
-<article class:list={['card', { lead }]}>
-  <a href={url(`/hirek/${article.id}/`)} class="cover-link" tabindex="-1">
-    <Cover image={d.image} alt={d.imageAlt} type={d.type} ratio={lead ? '16 / 9' : '3 / 2'} />
-  </a>
+<article class:list={['card', { lead, noimg: !hasImg }]} style={`--tc:${t.color}`}>
+  {hasImg && (
+    <a href={url(`/hirek/${article.id}/`)} class="cover-link" tabindex="-1">
+      <Cover image={d.image} alt={d.imageAlt} type={d.type} ratio={lead ? '16 / 9' : '3 / 2'} />
+    </a>
+  )}
   <div class="body">
     <div class="row">
-      <span class="badge" style={`background:${t.color}`}>{t.label}</span>
+      <span class="kicker">{t.label}</span>
       {!d.published && <span class="badge" style="background:var(--c-mustard);color:var(--c-ink)">Tervezet</span>}
       <time class="meta" datetime={d.date.toISOString()}>{formatDate(d.date)}</time>
     </div>
     <h2><a href={url(`/hirek/${article.id}/`)}>{d.title}</a></h2>
     <p>{d.description}</p>
+    {d.tags.length > 0 && <div class="tags meta">{d.tags.slice(0, 3).join(' · ')}</div>}
   </div>
 </article>
 <style>
-  .card { display: flex; flex-direction: column; gap: 12px; }
-  .row { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
-  h2 { font-size: 1.22rem; margin: 8px 0 6px; }
+  .card { display: flex; flex-direction: column; gap: 14px; }
+  .row { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+  .kicker { color: var(--tc); font-size: 0.74rem; font-weight: 700; letter-spacing: 0.09em; text-transform: uppercase; }
+  h2 { font-size: 1.25rem; margin: 8px 0 6px; }
   h2 a { text-decoration: none; }
   h2 a:hover { color: var(--c-accent); }
   p { margin: 0; color: var(--c-muted); font-size: 0.95rem; }
-  .lead h2 { font-size: clamp(1.7rem, 3.2vw, 2.4rem); }
-  .lead p { font-size: 1.08rem; }
+  .tags { margin-top: 10px; font-size: 0.8rem; }
+
+  /* Kép nélküli kártya: vékony színes felső vonal, tiszta tipográfia */
+  .noimg { border-top: 3px solid var(--tc); padding-top: 14px; }
+
+  .lead h2 { font-size: clamp(1.8rem, 3.4vw, 2.6rem); }
+  .lead p { font-size: 1.12rem; }
+  /* Kép nélküli vezető hír: nagy, magazinos címlap-blokk */
+  .lead.noimg {
+    border-top: none; padding: 36px 36px 32px;
+    background: var(--c-card); border: 1px solid var(--c-line); border-left: 6px solid var(--tc);
+    border-radius: var(--radius); height: 100%; justify-content: center;
+  }
+  .lead.noimg h2 { font-size: clamp(2rem, 4vw, 3.1rem); margin: 14px 0 14px; }
+  @media (max-width: 640px) { .lead.noimg { padding: 24px 20px; } }
 </style>
