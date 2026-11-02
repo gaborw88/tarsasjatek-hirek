@@ -1,18 +1,22 @@
 ---
-published: false
-title: "Újabb rekord Essenben: 230 ezer látogató a SPIEL 2026-on"
-description: "A világ legnagyobb társasjáték-vására idén először a teljes essen-i vásárközpontot megtöltötte, és túlszárnyalta a tavalyi látogatói csúcsot is."
+published: true
+title: 'Újabb rekord Essenben: 230 ezer látogató a SPIEL 2026-on'
+description: A világ legnagyobb társasjáték-vására idén először a teljes essen-i vásárközpontot megtöltötte, és túlszárnyalta a tavalyi látogatói csúcsot is.
 date: 2026-11-02T09:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Essen Spiel", "Rendezvények"]
+author: Szerkesztőség
+tags:
+  - Essen Spiel
+  - Rendezvények
+image: ''
+imageAlt: ''
 sources:
-  - name: "ICv2 – SPIEL Essen attendance record"
-    url: "https://icv2.com/articles/news/view/63726/"
-  - name: "Spielwarenmesse eG – SPIEL Essen: New record for exhibition space"
-    url: "https://world-of-toys.org/en/latest/press/detail/spiel-essen-new-record-for-exhibition-space-and-a-full-programme/"
-  - name: "spielbox – SPIEL Essen belegt erstmals komplettes Messegelände"
-    url: "https://spielbox.de/veranstaltungen/1339-spiel-essen-belegt-erstmals-komplettes-messegelaende-now-occupies-entire-fairground"
+  - name: ICv2 – SPIEL Essen attendance record
+    url: https://icv2.com/articles/news/view/63726/
+  - name: 'Spielwarenmesse eG – SPIEL Essen: New record for exhibition space'
+    url: https://world-of-toys.org/en/latest/press/detail/spiel-essen-new-record-for-exhibition-space-and-a-full-programme/
+  - name: spielbox – SPIEL Essen belegt erstmals komplettes Messegelände
+    url: https://spielbox.de/veranstaltungen/1339-spiel-essen-belegt-erstmals-komplettes-messegelaende-now-occupies-entire-fairground
 ---
 
 Ismét történelmi számokkal zárult a SPIEL Essen: az október 22. és 25. között megrendezett vásárra a beszámolók szerint **230 ezer látogató** érkezett, ami tízezerrel több a tavalyi, szintén rekordnak számító 220 ezernél.
