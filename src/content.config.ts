@@ -8,8 +8,8 @@ const hirek = defineCollection({
     title: z.string(),
     description: z.string(),
     date: z.coerce.date(),
-    // sajat = én írtam | forditas = linkből fordítva | gyujtott = automatikus hírgyűjtés
-    type: z.enum(['sajat', 'forditas', 'gyujtott']).default('sajat'),
+    // sajat = én írtam | forditas = linkből fordítva | gyujtott = automatikus hírgyűjtés | video = videóajánló
+    type: z.enum(['sajat', 'forditas', 'gyujtott', 'video']).default('sajat'),
     // Csak a jóváhagyott (published: true) cikkek jelennek meg az oldalon
     published: z.boolean().default(false),
     author: z.string().optional(),
@@ -17,6 +17,8 @@ const hirek = defineCollection({
     image: z.string().optional(),
     imageAlt: z.string().optional(),
     // A kép forrása / szerzői joga, pl. "Fotó: Gémklub sajtóanyag"
+    // YouTube-videó linkje: beágyazva jelenik meg a cikk tetején
+    youtube: z.string().optional(),
     imageCredit: z.string().optional(),
     // Csak szerkesztőknek: javasolt kép linkje (nem jelenik meg az oldalon)
     imageSuggestion: z.string().optional(),

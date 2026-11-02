@@ -4,7 +4,7 @@ import Base from '../../layouts/Base.astro';
 import Cover from '../../components/Cover.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
 import { ARTICLE_TYPES, SITE } from '../../site.config';
-import { getPublished, url, formatDate, slugifyTag, readingTime, type Article } from '../../lib/utils';
+import { getPublished, url, formatDate, slugifyTag, readingTime, youtubeId, type Article } from '../../lib/utils';
 
 export async function getStaticPaths() {
   const articles = await getPublished();
@@ -17,6 +17,7 @@ const { Content } = await render(article);
 const related = all
   .filter((a) => a.id !== article.id && a.data.tags.some((tg) => d.tags.includes(tg)))
   .slice(0, 3);
+const yt = youtubeId(d.youtube);
 const sourceLabel = d.type === 'forditas' ? 'Az eredeti cikk' : 'Források';
 ---
 <Base title={d.title} description={d.description} image={d.image}>
@@ -34,7 +35,13 @@ const sourceLabel = d.type === 'forditas' ? 'Az eredeti cikk' : 'Források';
       </p>
     </header>
 
-    {d.image && (
+    {yt && (
+      <div class="video">
+        <iframe src={`https://www.youtube-nocookie.com/embed/${yt}`} title={d.title} loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+    )}
+
+    {!yt && d.image && (
       <figure>
         <Cover image={d.image} alt={d.imageAlt} type={d.type} />
         {(d.imageAlt || d.imageCredit) && (
@@ -72,6 +79,8 @@ const sourceLabel = d.type === 'forditas' ? 'Az eredeti cikk' : 'Források';
   figure { margin: 28px 0; }
   figcaption { margin-top: 8px; }
   .credit { font-style: italic; }
+  .video { margin: 28px 0; aspect-ratio: 16 / 9; border-radius: var(--radius); overflow: hidden; background: #000; }
+  .video iframe { width: 100%; height: 100%; border: 0; display: block; }
   .prose { margin-top: 28px; font-size: 1.06rem; }
   .sources { margin-top: 40px; padding: 18px 22px; background: var(--c-card); border: 1px solid var(--c-line); border-left: 4px solid var(--c-teal); border-radius: var(--radius); }
   .sources h2 { font-size: 1rem; margin: 0 0 6px; font-family: var(--f-body); text-transform: uppercase; letter-spacing: 0.08em; }

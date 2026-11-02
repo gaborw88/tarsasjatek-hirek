@@ -72,6 +72,22 @@ A tulajdonos nem programozó: vele mindig magyarul, egyszerűen, szakzsargon né
 Ha a tulajdonos vázlatot, jegyzetet vagy diktált szöveget ad: formázd cikké (`type: sajat`,
 `author` az ő neve, ha megadta), javítsd a helyesírást, de a stílusát és véleményét tartsd meg.
 
+## 4. Videóajánló („írj videóajánlót: <YouTube-link>”, vagy hírgyűjtés közben)
+
+1. Nyisd meg a videó oldalát (WebFetch): cím, csatorna, feltöltés dátuma, leírás. A videót nem látod és
+   átirat sincs, ezért **csak azt írd le, ami a címből és a leírásból biztosan kiderül** – ne találd ki, mit
+   mond a videó, és ne írj véleményt a készítő nevében.
+2. `type: video`, `youtube: "<a videó linkje>"` (az oldal beágyazza a videót), a `sources` első eleme a videó
+   („YouTube – Csatorna neve: Videó címe”).
+3. 80–200 szó: ki készítette (pár szóban a csatornáról), miről szól a videó a leírás alapján, és ha a videó egy
+   játékról szól, röviden a játékról (kiadó, tervező, van-e magyar kiadása) – ezt más forrásból ellenőrizd.
+4. Tags: „Videó”, a csatorna neve, és a játék/téma. `published: false`, commit, push.
+
+**Figyelt YouTube-csatornák** (hírgyűjtésnél nézd meg, van-e új videójuk az elmúlt napokban – WebSearch,
+pl. a csatorna nevével és `allowed_domains: ["youtube.com"]`; a videó oldalán ellenőrizd a feltöltés dátumát,
+régi videóról ne írj):
+- _(a tulajdonos adja meg)_
+
 ## Technikai jegyzetek
 
 - Előnézet: `npm run dev` (fejlesztői módban a tervezetek is látszanak, sárga „Tervezet” jelöléssel).

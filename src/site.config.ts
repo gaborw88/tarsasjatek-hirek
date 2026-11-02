@@ -16,4 +16,5 @@ export const ARTICLE_TYPES = {
   sajat: { label: 'Saját cikk', color: 'var(--c-teal)' },
   forditas: { label: 'Fordítás', color: 'var(--c-plum)' },
   gyujtott: { label: 'Hírösszefoglaló', color: 'var(--c-accent)' },
+  video: { label: 'Videóajánló', color: '#b8860b' },
 } as const;

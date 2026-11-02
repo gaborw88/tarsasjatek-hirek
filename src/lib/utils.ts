@@ -32,3 +32,11 @@ export function slugifyTag(tag: string): string {
 export function readingTime(text: string): number {
   return Math.max(1, Math.round(text.split(/\s+/).length / 200));
 }
+
+/** YouTube-link vagy azonosító -> videóazonosító (vagy null). */
+export function youtubeId(input?: string): string | null {
+  if (!input) return null;
+  const m = input.match(/(?:youtu\.be\/|v=|\/embed\/|\/shorts\/|\/live\/)([A-Za-z0-9_-]{11})/);
+  if (m) return m[1];
+  return /^[A-Za-z0-9_-]{11}$/.test(input.trim()) ? input.trim() : null;
+}
