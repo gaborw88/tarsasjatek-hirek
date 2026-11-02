@@ -14,13 +14,18 @@ import { SITE } from '../site.config';
       <strong>Nyelve:</strong> magyar
     </p>
 
-    <h2>Üzemeltető, főszerkesztő</h2>
+    <h2>Kiadó</h2>
     <p>
-      <strong>Név:</strong> [Üzemeltető neve vagy cégneve]<br />
-      <strong>Székhely / levelezési cím:</strong> [Cím]<br />
-      <strong>E-mail:</strong> <a href={`mailto:${SITE.email}`}>{SITE.email}</a><br />
-      <strong>Felelős szerkesztő:</strong> [Név]<br />
-      <strong>Adószám / nyilvántartási szám:</strong> [ha van]
+      <strong>Kiadja:</strong> Magyar Társasjáték-fejlesztők Egyesülete<br />
+      <strong>Székhely:</strong> [Az Egyesület székhelye]<br />
+      <strong>Nyilvántartási szám:</strong> [Bírósági nyilvántartási szám]<br />
+      <strong>Kiadásért felelős személy:</strong> [Az Egyesület elnökének neve], elnök<br />
+      <strong>E-mail:</strong> <a href={`mailto:${SITE.email}`}>{SITE.email}</a>
+    </p>
+
+    <h2>Szerkesztőség</h2>
+    <p>
+      <strong>Főszerkesztő (felelős szerkesztő):</strong> [Név]
     </p>
 
     <h2>Tárhelyszolgáltató</h2>
@@ -40,16 +45,20 @@ import { SITE } from '../site.config';
       Az oldal hirdetést és fizetett tartalmat nem közöl.
     </p>
     <p>
-      Ha úgy látja, hogy valamelyik tartalom sérti a jogait, vagy hibát talált, kérjük, írjon a
+      Ha úgy látja, hogy valamelyik tartalom sérti a jogait, vagy hibát talált, kérjük, írjon a{' '}
       <a href={`mailto:${SITE.email}`}>{SITE.email}</a> címre, és haladéktalanul intézkedünk.
     </p>
 
     <h2>Adatkezelés</h2>
     <p>
-      Az oldal nem használ sütiket, és látogatóitól nem gyűjt személyes adatot. A látogatottságot a
+      Az oldal nem használ sütiket, és látogatóitól nem gyűjt személyes adatot. A látogatottságot a{' '}
       <a href="https://www.goatcounter.com/" rel="noopener">GoatCounter</a> szolgáltatással mérjük, amely sütik nélkül,
       személyazonosításra alkalmatlan módon számolja a megtekintéseket (például hogy egy cikket hányan olvastak el).
-      [Ha később hírlevél, hozzászólás vagy hirdetés kerül az oldalra, itt kell majd hivatkozni a teljes adatkezelési tájékoztatóra.]
+    </p>
+    <p>
+      Egyes cikkekben YouTube-videó szerepel. Ezek csak akkor töltődnek be, ha a látogató a lejátszás gombra
+      kattint; ekkor a YouTube (Google) a saját szabályai szerint sütiket vagy hasonló technológiát használhat.
+      Kattintás nélkül az oldal semmilyen adatot nem küld a YouTube-nak.
     </p>
   </div>
 </Base>
