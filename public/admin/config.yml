@@ -78,6 +78,16 @@ collections:
         label: Képaláírás / kép leírása
         widget: string
         required: false
+      - name: imageCredit
+        label: Kép forrása
+        widget: string
+        required: false
+        hint: "Megjelenik a kép alatt. Pl.: „Fotó: Gémklub sajtóanyag” vagy „Fotó: saját”"
+      - name: imageSuggestion
+        label: "💡 Javasolt kép (csak szerkesztőknek, nem jelenik meg)"
+        widget: text
+        required: false
+        hint: "A hírgyűjtő ide írja, hol található hivatalos sajtókép. Ha rendben van, töltsd le, töltsd fel a Borítókép mezőbe, és töltsd ki a Kép forrása mezőt."
       - name: sources
         label: Források
         label_singular: Forrás

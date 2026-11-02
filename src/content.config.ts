@@ -16,6 +16,10 @@ const hirek = defineCollection({
     tags: z.array(z.string()).default([]),
     image: z.string().optional(),
     imageAlt: z.string().optional(),
+    // A kép forrása / szerzői joga, pl. "Fotó: Gémklub sajtóanyag"
+    imageCredit: z.string().optional(),
+    // Csak szerkesztőknek: javasolt kép linkje (nem jelenik meg az oldalon)
+    imageSuggestion: z.string().optional(),
     sources: z
       .array(z.object({ name: z.string(), url: z.string() }))
       .default([]),

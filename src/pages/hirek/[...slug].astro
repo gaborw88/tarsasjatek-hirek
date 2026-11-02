@@ -34,7 +34,14 @@ const sourceLabel = d.type === 'forditas' ? 'Az eredeti cikk' : 'Források';
       </p>
     </header>
 
-    {d.image && <figure><Cover image={d.image} alt={d.imageAlt} type={d.type} />{d.imageAlt && <figcaption class="meta">{d.imageAlt}</figcaption>}</figure>}
+    {d.image && (
+      <figure>
+        <Cover image={d.image} alt={d.imageAlt} type={d.type} />
+        {(d.imageAlt || d.imageCredit) && (
+          <figcaption class="meta">{d.imageAlt}{d.imageAlt && d.imageCredit && ' · '}{d.imageCredit && <span class="credit">{d.imageCredit}</span>}</figcaption>
+        )}
+      </figure>
+    )}
 
     <div class="prose"><Content /></div>
 
@@ -64,6 +71,7 @@ const sourceLabel = d.type === 'forditas' ? 'Az eredeti cikk' : 'Források';
   .lede { font-size: 1.2rem; color: var(--c-muted); margin: 0 0 14px; }
   figure { margin: 28px 0; }
   figcaption { margin-top: 8px; }
+  .credit { font-style: italic; }
   .prose { margin-top: 28px; font-size: 1.06rem; }
   .sources { margin-top: 40px; padding: 18px 22px; background: var(--c-card); border: 1px solid var(--c-line); border-left: 4px solid var(--c-teal); border-radius: var(--radius); }
   .sources h2 { font-size: 1rem; margin: 0 0 6px; font-family: var(--f-body); text-transform: uppercase; letter-spacing: 0.08em; }
