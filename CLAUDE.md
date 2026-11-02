@@ -64,7 +64,7 @@ A tulajdonos nem programozó: vele mindig magyarul, egyszerűen, szakzsargon né
 2. Készíts hű, de természetes magyar fordítást (nem szó szerinti). A cím legyen magyar hírcím.
 3. `type: forditas`, a `sources` első eleme az eredeti cikk (szerzővel, ha ismert: „Dicebreaker – Szerző Neve”).
 4. A szöveg elejére ne írj megjegyzést; a forrás megjelenítését az oldal automatikusan elvégzi.
-5. Jelezd a tulajdonosnak: fordítás közléséhez az eredeti kiadó engedélye ajánlott (sokan szívesen adnak, ha kérik).
+5. **Jelezd a tulajdonosnak: egy cikk teljes fordításának közléséhez az eredeti kiadó/szerző engedélye szükséges** (a fordítás jogilag átdolgozás, Szjt. 29. §). A tervezet engedély nélkül ne jelenjen meg. Ha nincs engedély, ajánld fel, hogy a fordítás helyett saját szavas hírösszefoglaló készüljön ugyanabból (az a tényeket veszi át, nem a szöveget).
 6. Mentsd `published: false`-szal, commitold, pushold.
 
 ## 3. Saját cikk segítése

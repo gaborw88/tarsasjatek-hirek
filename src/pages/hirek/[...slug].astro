@@ -57,7 +57,7 @@ const sourceLabel = d.type === 'forditas' ? 'Az eredeti cikk' : 'Források';
         <h2>{sourceLabel}</h2>
         {d.type === 'forditas' && <p class="meta">Ez a cikk az alábbi írás magyar fordítása, a forrás feltüntetésével.</p>}
         <ul>
-          {d.sources.map((s) => <li><a href={s.url} rel="noopener" target="_blank">{s.name}</a></li>)}
+          {d.sources.map((s) => <li><a href={s.url} rel="noopener" target="_blank" data-goatcounter-click={`forras: ${s.url}`} data-goatcounter-title={`Forrás – ${d.title}`}>{s.name}</a></li>)}
         </ul>
       </aside>
     )}
