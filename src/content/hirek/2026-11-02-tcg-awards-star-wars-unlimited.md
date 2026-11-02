@@ -16,6 +16,7 @@ sources:
     url: https://mfn.se/a/asmodee/star-wars-unlimited-cleans-house-with-game-of-the-year-and-3-additional-awards-at-tcg-awards-gala.iframe
   - name: Galaxus – Star Wars beats Magic at the first TCG Awards
     url: https://www.galaxus.de/en/page/star-wars-beats-magic-at-the-first-tcg-awards-44189
+imageSuggestion: "Hivatalos sajtóanyag: az Asmodee sajtóközleménye – https://mfn.se/all/a/asmodee/star-wars-unlimited-cleans-house-with-game-of-the-year-and-3-additional-awards-at-tcg-awards-gala. Ott díjátadós csoportkép van; ha embereket ábrázoló képet nem szeretnél, kérj az Asmodee-tól termékképet vagy a TCG Awards logóját. Javasolt forrásmegjelölés: Fotó: Asmodee"
 ---
 
 Október 22-én, a SPIEL Essen első napjának estéjén rendezték meg az első **TCG Awards** gálát, amely saját meghatározása szerint az első nemzetközi díj, ami kizárólag a gyűjtögetős kártyajátékok (TCG) iparágát ünnepli. A nagy nyertes a **Star Wars: Unlimited** lett.

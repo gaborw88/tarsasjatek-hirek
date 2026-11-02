@@ -17,6 +17,7 @@ sources:
     url: https://world-of-toys.org/en/latest/press/detail/spiel-essen-new-record-for-exhibition-space-and-a-full-programme/
   - name: spielbox – SPIEL Essen belegt erstmals komplettes Messegelände
     url: https://spielbox.de/veranstaltungen/1339-spiel-essen-belegt-erstmals-komplettes-messegelaende-now-occupies-entire-fairground
+imageSuggestion: "Hivatalos sajtókép: a SPIEL szervezőjének sajtó-képtára – https://www.spielwarenmesse-eg.de/media (a SPIEL Essen kategória). A sajtóközlemények szerint a képek sajtócélra szabadon használhatók. Válassz egy csarnokképet emberek közeli arca nélkül. Javasolt forrásmegjelölés: Fotó: SPIEL Essen / <a képnél megadott fotós neve>"
 ---
 
 Ismét történelmi számokkal zárult a SPIEL Essen: az október 22. és 25. között megrendezett vásárra a beszámolók szerint **230 ezer látogató** érkezett, ami tízezerrel több a tavalyi, szintén rekordnak számító 220 ezernél.
