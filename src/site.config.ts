@@ -6,7 +6,7 @@ export const SITE = {
   name: 'Társasjáték Hírek',
   tagline: 'A társasjátékos világ friss hírei, magyarul',
   description:
-    'Független magyar hírblog a társasjáték-ipar újdonságairól: megjelenések, kiadói hírek, rendezvények, Kickstarter-kampányok és díjak.',
+    'Független, hirdetésmentes magyar hírblog a társasjáték-ipar újdonságairól: megjelenések, kiadói hírek, rendezvények, Kickstarter-kampányok és díjak.',
   email: 'info.matafe@gmail.com',
   defaultAuthor: 'Szerkesztőség',
   // Látogatottság-mérés (GoatCounter, sütik nélkül). Regisztráció után ide jön a választott kód,

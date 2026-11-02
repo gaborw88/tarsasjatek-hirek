@@ -18,6 +18,12 @@ const related = all
   .filter((a) => a.id !== article.id && a.data.tags.some((tg) => d.tags.includes(tg)))
   .slice(0, 3);
 const yt = youtubeId(d.youtube);
+const disclosures: Record<string, string> = {
+  gyujtott: 'Ez a hírösszefoglaló nyilvánosan elérhető források alapján, mesterséges intelligencia segítségével készült. Megjelenés előtt szerkesztőnk átolvasta, ellenőrizte és jóváhagyta.',
+  video: 'Ez a videóajánló a videó címe és leírása alapján, mesterséges intelligencia segítségével készült. Megjelenés előtt szerkesztőnk átolvasta, ellenőrizte és jóváhagyta.',
+  forditas: 'Ez a fordítás mesterséges intelligencia segítségével készült, az eredeti szerző vagy kiadó engedélyével. Megjelenés előtt szerkesztőnk átolvasta, ellenőrizte és jóváhagyta.',
+};
+const disclosure = disclosures[d.type];
 const sourceLabel = d.type === 'forditas' ? 'Az eredeti cikk' : 'Források';
 ---
 <Base title={d.title} description={d.description} image={d.image}>
@@ -52,6 +58,10 @@ const sourceLabel = d.type === 'forditas' ? 'Az eredeti cikk' : 'Források';
 
     <div class="prose"><Content /></div>
 
+    {disclosure && (
+      <p class="disclosure">{disclosure} <a href={url('/rolunk/#hogyan-keszulnek')}>Hogyan készülnek a cikkeink?</a></p>
+    )}
+
     {d.sources.length > 0 && (
       <aside class="sources">
         <h2>{sourceLabel}</h2>
@@ -82,6 +92,8 @@ const sourceLabel = d.type === 'forditas' ? 'Az eredeti cikk' : 'Források';
   .video { margin: 28px 0; aspect-ratio: 16 / 9; border-radius: var(--radius); overflow: hidden; background: #000; }
   .video iframe { width: 100%; height: 100%; border: 0; display: block; }
   .prose { margin-top: 28px; font-size: 1.06rem; }
+  .disclosure { margin-top: 36px; font-size: 0.85rem; color: var(--c-muted); padding: 12px 16px; border: 1px dashed var(--c-line); border-radius: var(--radius); }
+  .disclosure a { color: var(--c-teal); font-weight: 600; margin-left: 4px; white-space: nowrap; }
   .sources { margin-top: 40px; padding: 18px 22px; background: var(--c-card); border: 1px solid var(--c-line); border-left: 4px solid var(--c-teal); border-radius: var(--radius); }
   .sources h2 { font-size: 1rem; margin: 0 0 6px; font-family: var(--f-body); text-transform: uppercase; letter-spacing: 0.08em; }
   .sources ul { margin: 6px 0 0; padding-left: 1.2em; }
