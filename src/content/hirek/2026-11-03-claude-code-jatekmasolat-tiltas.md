@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'Nem segít meglévő játékok lemásolásában: új szabályt kapott az Anthropic Claude Code nevű AI-eszköze'
 description: Az Anthropic október végén arra utasította Claude Code nevű programozó-asszisztensét, hogy ne készítsen el konkrét, már létező játékokat, átnevezve sem. A lépés a társasjáték-iparban is visszhangot keltett, ahol a digitális klónok régóta vitatott kérdést jelentenek.
 date: 2026-11-03T15:00:00+01:00
@@ -18,7 +18,7 @@ imageSuggestion: ''
 sources:
   - name: BoardGameWire – Anthropic cracks down on AI game cloning as risk of unauthorised digital copies, reskins grows
     url: https://boardgamewire.com/index.php/2026/11/03/anthropic-cracks-down-on-ai-game-cloning-as-risk-of-unauthorised-digital-copies-reskins-grows/
-  - name: "MIXED – „Steer it away”: Anthropic tells Claude Code not to recreate someone else’s game"
+  - name: 'MIXED – „Steer it away”: Anthropic tells Claude Code not to recreate someone else’s game'
     url: https://mixed-news.com/en/anthropic-claude-code-opus-game-cloning-rule/
 ---
 
