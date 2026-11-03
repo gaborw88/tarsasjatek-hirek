@@ -1,27 +1,31 @@
 ---
-published: false
-title: "Versenyautók, dinók és a Ködszerzet folytatása: ezekkel készül 2027-re a Gémklub"
-description: "Az elmúlt hetekben a Gémklub több újabb magyar kiadást jelentett be: a kooperatív Vroom, a fogadós Dino Racer és a Ködszerzet-pakliépítő kiegészítője 2027-ben érkezik, a Kertvárosi kémek pedig új kiegészítőt kap."
+published: true
+title: 'Versenyautók, dinók és a Ködszerzet folytatása: ezekkel készül 2027-re a Gémklub'
+description: 'Az elmúlt hetekben a Gémklub több újabb magyar kiadást jelentett be: a kooperatív Vroom, a fogadós Dino Racer és a Ködszerzet-pakliépítő kiegészítője 2027-ben érkezik, a Kertvárosi kémek pedig új kiegészítőt kap.'
 date: 2026-11-03T19:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Magyar megjelenések", "Gémklub", "Mistborn", "Kiegészítők"]
-youtube: ""
-image: ""
-imageAlt: ""
-imageCredit: ""
-imageSuggestion: ""
+author: Szerkesztőség
+tags:
+  - Magyar megjelenések
+  - Gémklub
+  - Mistborn
+  - Kiegészítők
+youtube: ''
+image: ''
+imageAlt: ''
+imageCredit: ''
+imageSuggestion: ''
 sources:
-  - name: "Gémklub – Hírek (Vroom, Dino Racer, Agent Avenue: Four Seasons, Mistborn: The Well of Ascension, Exploding Kittens: The Board Game bejelentések)"
-    url: "https://www.gemklub.hu/hirek"
-  - name: "ICv2 – Mistborn: The Well of Ascension Heads to Retail"
-    url: "https://icv2.com/articles/news/view/63231/mistborn-the-well-ascension-heads-retail"
-  - name: "Brotherwise Games – Mistborn: The Well of Ascension (termékoldal)"
-    url: "https://www.brotherwisegames.com/mistborn-well-of-ascension"
-  - name: "Tarsasjatekok.com – Vroom (adatlap)"
-    url: "https://tarsasjatekok.com/tarsasjatek/vroom-2026"
-  - name: "Tarsasjatekok.com – Dino Racer (adatlap)"
-    url: "https://tarsasjatekok.com/tarsasjatek/dino-racer-2026"
+  - name: 'Gémklub – Hírek (Vroom, Dino Racer, Agent Avenue: Four Seasons, Mistborn: The Well of Ascension, Exploding Kittens: The Board Game bejelentések)'
+    url: https://www.gemklub.hu/hirek
+  - name: 'ICv2 – Mistborn: The Well of Ascension Heads to Retail'
+    url: https://icv2.com/articles/news/view/63231/mistborn-the-well-ascension-heads-retail
+  - name: 'Brotherwise Games – Mistborn: The Well of Ascension (termékoldal)'
+    url: https://www.brotherwisegames.com/mistborn-well-of-ascension
+  - name: Tarsasjatekok.com – Vroom (adatlap)
+    url: https://tarsasjatekok.com/tarsasjatek/vroom-2026
+  - name: Tarsasjatekok.com – Dino Racer (adatlap)
+    url: https://tarsasjatekok.com/tarsasjatek/dino-racer-2026
 ---
 
 Az Essen körüli hetekben a Gémklub egymás után jelentette be a következő magyar kiadásait. A Fantasy Tiles és A Gyűrűk Ura ütésvivős kártyajáték mellett (erről korábban külön cikkben írtunk) több könnyed családi játék és két kiegészítő is szerepel a tervekben. Pontos megjelenési dátumot és árat a kiadó egyik címnél sem közölt.
