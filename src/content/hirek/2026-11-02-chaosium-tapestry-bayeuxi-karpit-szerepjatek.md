@@ -11,9 +11,9 @@ tags:
   - Chaosium
   - Történelmi játékok
 youtube: ''
-image: ''
+image: /images/uploads/tapestry-ttrpg-front-cover.png
 imageAlt: ''
-imageCredit: ''
+imageCredit: 'Fotó: Chaosium'
 imageSuggestion: 'Hivatalos sajtókép (a kiadói sajtóközlemény borítóképe): https://www.chaosium.com/product_images/uploaded_images/tapestry-ttrpg-front-cover.png – javasolt forrásmegjelölés: Fotó: Chaosium'
 sources:
   - name: Chaosium – Chaosium to release Bayeux Tapestry-themed TTRPG at The British Museum on Dec 4th, 2026
