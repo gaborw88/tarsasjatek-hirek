@@ -29,8 +29,13 @@ A tulajdonos nem programozó: vele mindig magyarul, egyszerűen, szakzsargon né
   Helyette, ha találsz **hivatalos, sajtó számára közzétett képet** (kiadói sajtócsomag / „press kit” / „sajtóanyag” oldal,
   sajtóközlemény melletti letölthető kép, kiadói termékoldal dobozképe), írd be a linkjét az `imageSuggestion` mezőbe így:
   `imageSuggestion: "Hivatalos sajtókép: <link> – javasolt forrásmegjelölés: Fotó: <Kiadó neve>"`.
+  Elfogadható még: a kiadó saját crowdfunding-kampányoldalának képe (Kickstarter/Gamefound, a kiadó által feltöltve),
+  és ha a hír egy cégről vagy szervezetről szól, a hivatalos logója a sajtó- vagy arculati oldaláról.
   Ne javasolj: hírportálok saját fotóit, BoardGameGeek-felhasználók képeit, közösségi médiás képeket, valódi személyekről készült fotókat.
-  Ha nincs ilyen hivatalos kép, hagyd üresen a mezőt.
+  **Az `imageSuggestion` mezőt mindig töltsd ki**: ha van megfelelő kép, a linkjével; ha nincs, egy rövid mondattal,
+  hogy miért nincs, és mi lehetne a megoldás (pl. „Iparági hír, hivatalos sajtókép nincs; a cég logója: … – Kép nélkül is
+  rendben van.” vagy „Kérj képet a kiadótól”). A szerkesztő így mindig tudja, hogy kerestél-e képet.
+  Előbb mindig nézd meg a hírben szereplő játék kiadójának termékoldalát – dobozkép szinte mindig van.
 - Csak ellenőrizhető tényt írj. Ha valami bizonytalan (pletyka, nem megerősített), írd ki, hogy nem megerősített, vagy hagyd ki.
 - Ha végeztél: commitolj érthető magyar üzenettel, és pushold a `main` ágra, majd röviden sorold fel a tulajdonosnak, milyen tervezetek várnak jóváhagyásra.
 

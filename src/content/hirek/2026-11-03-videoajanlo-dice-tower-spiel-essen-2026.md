@@ -13,7 +13,7 @@ youtube: https://www.youtube.com/watch?v=OPyea0CF4BY
 image: ''
 imageAlt: ''
 imageCredit: ''
-imageSuggestion: ''
+imageSuggestion: 'Videóajánló: a cikk tetején a beágyazott videó jelenik meg, külön kép nem szükséges.'
 sources:
   - name: 'YouTube – The Dice Tower: Thoughts on Spiel Essen 2026'
     url: https://www.youtube.com/watch?v=OPyea0CF4BY

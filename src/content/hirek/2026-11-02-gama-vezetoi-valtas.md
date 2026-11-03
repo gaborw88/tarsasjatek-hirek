@@ -13,7 +13,7 @@ youtube: ''
 image: ''
 imageAlt: ''
 imageCredit: ''
-imageSuggestion: ''
+imageSuggestion: 'Iparági hír, hivatalos sajtókép nincs. Ha szeretnél képet: a GAMA hivatalos logója a szervezet honlapjáról (gama.org) – javasolt forrásmegjelölés: Kép: GAMA. Kép nélkül is rendben van.'
 sources:
   - name: BoardGameWire – GAMA faces fresh leadership shake-up as interim executive director, board vice president announce departures
     url: https://boardgamewire.com/index.php/2026/10/29/gama-faces-fresh-leadership-shake-up-as-interim-executive-director-board-vice-president-announce-departures/

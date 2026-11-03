@@ -13,6 +13,7 @@ imageAlt: ''
 sources:
   - name: BoardGameWire – rendezvénynaptár
     url: https://boardgamewire.com/
+imageSuggestion: 'Több rendezvényről szóló naptár, egyetlen hivatalos kép nem illik hozzá. Kép nélkül is rendben van.'
 ---
 
 A SPIEL Essen lezárultával sem marad esemény nélkül a társasjátékos szakma. Összeszedtük a következő hetek legfontosabb nemzetközi rendezvényeit.

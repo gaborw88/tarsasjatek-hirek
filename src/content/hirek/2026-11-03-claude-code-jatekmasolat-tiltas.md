@@ -14,7 +14,7 @@ youtube: ''
 image: ''
 imageAlt: ''
 imageCredit: ''
-imageSuggestion: ''
+imageSuggestion: 'Hivatalos sajtókép nincs. Ha szeretnél képet: az Anthropic hivatalos logója a cég sajtó-/arculati oldaláról (anthropic.com) – javasolt forrásmegjelölés: Kép: Anthropic. Kép nélkül is rendben van.'
 sources:
   - name: BoardGameWire – Anthropic cracks down on AI game cloning as risk of unauthorised digital copies, reskins grows
     url: https://boardgamewire.com/index.php/2026/11/03/anthropic-cracks-down-on-ai-game-cloning-as-risk-of-unauthorised-digital-copies-reskins-grows/

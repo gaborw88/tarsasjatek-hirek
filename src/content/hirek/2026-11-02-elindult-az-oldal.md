@@ -11,7 +11,7 @@ youtube: ''
 image: ''
 imageAlt: ''
 imageCredit: ''
-imageSuggestion: ''
+imageSuggestion: 'Saját cikk: ide egy saját fotó illik (pl. a szerkesztőség vagy egy társasjátékos esemény). Kép nélkül is rendben van.'
 sources: []
 ---
 

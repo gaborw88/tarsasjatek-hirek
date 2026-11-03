@@ -16,7 +16,7 @@ youtube: ''
 image: ''
 imageAlt: ''
 imageCredit: ''
-imageSuggestion: ''
+imageSuggestion: 'Hivatalos dobozkép a kiadó termékoldalán: https://craniocreations.it/en/products/rebirth – javasolt forrásmegjelölés: Fotó: Cranio Creations'
 sources:
   - name: "The Rift – Lucca Comics & Games Awards 2026: Rebirth è il Gioco dell'Anno, Legend in the Mist vince tra i GDR"
     url: https://therift.it/gdr/lucca-comics-games-awards-2026-rebirth-e-il-gioco-dellanno-legend-in-the-mist-vince-tra-i-gdr/

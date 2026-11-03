@@ -15,7 +15,7 @@ youtube: ''
 image: ''
 imageAlt: ''
 imageCredit: ''
-imageSuggestion: ''
+imageSuggestion: 'Személyről szóló hír, ezért portré helyett a cég logóját javaslom: a Wizards of the Coast hivatalos logója a Hasbro sajtóközleményénél: https://newsroom.hasbro.com/news-releases/news-release-details/hasbro-names-dan-ayoub-president-wizards-coast-hasbro-digital – javasolt forrásmegjelölés: Kép: Wizards of the Coast. Kép nélkül is rendben van.'
 sources:
   - name: Hasbro Newsroom – Hasbro Names Dan Ayoub President of Wizards of the Coast & Hasbro Digital Games
     url: https://newsroom.hasbro.com/news-releases/news-release-details/hasbro-names-dan-ayoub-president-wizards-coast-hasbro-digital
