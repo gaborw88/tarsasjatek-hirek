@@ -36,11 +36,18 @@ A tulajdonos nem programozó: vele mindig magyarul, egyszerűen, szakzsargon né
 
 ## 1. Hírgyűjtés („gyűjts híreket”, vagy ütemezett futás)
 
-1. Keress az elmúlt 1–3 nap társasjátékos híreire a weben. Jó források például:
-   BoardGameGeek News, Dicebreaker, BoardGameWire, Meeple Mountain, Tabletop Gaming Magazine,
-   Spielbox / brettspiel-news.de, a nagy kiadók (Asmodee, CMON, Stonemaier, Pegasus, KOSMOS, Lookout,
-   Czech Games Edition stb.) sajtóközleményei, Kickstarter / Gamefound kampányok, díjak (Spiel des Jahres,
-   Golden Geek, As d'Or), rendezvények (Essen Spiel, Gen Con, UK Games Expo, Budapesti Társasjáték Fesztivál stb.).
+1. Keress az elmúlt 1–3 nap társasjátékos híreire a weben. Jó források:
+   - **Iparági hírek:** BoardGameWire (boardgamewire.com), Board Game Beat (wericmartin.com – W. Eric Martin),
+     BoardGameGeek News, ICv2 (icv2.com), Dicebreaker
+   - **Hírek, megjelenések:** Board Game Quest (boardgamequest.com – hetente „Crowdfunding Campaigns of the Week”
+     összefoglaló is), GamesRadar+ társasjáték rovat, God is a Geek – Board Game News, Wargamer, Meeple Mountain,
+     Tabletop Gaming Magazine, Opinionated Gamers (rendezvénybeszámolók)
+   - **Gyűjtőoldal (tippekhez):** boardgamenews.co.uk – sok angol nyelvű oldal friss bejegyzései egy helyen
+   - **Német:** Brettspiel-News.de, Spielbox, spielpunkt.net (hírek, crowdfunding)
+   - **Francia:** Gus&Co (gusandco.net – crowdfunding-statisztikák)
+   - **Kiadói sajtóközlemények:** Asmodee, CMON, Stonemaier, Pegasus, KOSMOS, Lookout, Czech Games Edition stb.
+   - **Crowdfunding, díjak, rendezvények:** Kickstarter / Gamefound kampányok, Spiel des Jahres, Golden Geek,
+     As d'Or, Essen Spiel, Gen Con, UK Games Expo, Budapesti Társasjáték Fesztivál stb.
 2. **Magyar megjelenések – kiemelt téma, minden futásnál nézd át!** Keresd a magyar kiadók és forgalmazók
    friss bejelentéseit: új magyar nyelvű kiadások, előrendelések, „hamarosan érkezik” listák, újranyomások,
    magyar fejlesztésű játékok, közösségi finanszírozású (Kickstarter/Gamefound) magyar projektek.
@@ -49,6 +56,12 @@ A tulajdonos nem programozó: vele mindig magyarul, egyszerűen, szakzsargon né
    - Compaya, Piatnik Budapest, REGIO JÁTÉK, Mindclash Games
    - A lista nem teljes: ha új magyar kiadót vagy forgalmazót találsz (például a Társasjátékok Ünnepe
      kiállítói között, vagy a magyar társasjátékos közösségi oldalakon), vedd fel ide ebbe a listába is.
+   **Magyar oldalak tippnek** (ezekről ne vegyél át szöveget, és mivel társoldalak, a hírt mindig a kiadó saját
+   oldalán ellenőrizd, és elsősorban azt add meg forrásként):
+   - tarsasjatekok.com (hírek, „magyar megjelenés” címke), GS – gsplus.hu társasjáték rovat,
+     LFG.hu heti „Villámhírek” (gyakran magyar Gamefound/Kickstarter-projektekről is),
+     Társasjáték Kuckó blog (érkező/előrendelési listák), tarsasjatekrendeles.hu blog („Hamarosan” bejegyzések),
+     JEM magazin
    Ilyen cikknél: `tags` között legyen a „Magyar megjelenések” és a kiadó neve; add meg a magyar címet és az
    eredeti címet, a kiadót, a megjelenés várható idejét és – ha a kiadó közölte – az árat. Több apró
    bejelentésből készülhet egy gyűjtőcikk is (pl. „Magyar megjelenések a héten”).
