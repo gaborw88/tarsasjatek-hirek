@@ -1,6 +1,6 @@
 ---
-published: false
-title: 'Olaszországban is Reiner Knizia Rebirthje lett az év játéka'
+published: true
+title: Olaszországban is Reiner Knizia Rebirthje lett az év játéka
 description: A Lucca Comics & Games fesztiválon kiosztott Gioco dell'Anno 2026 díjat Reiner Knizia Rebirth című lapkalerakós játéka nyerte, amely nyáron a Kennerspiel des Jahrest is elhozta. Az év tervezője Paolo Mori lett.
 date: 2026-11-03T16:00:00+01:00
 type: gyujtott
@@ -22,9 +22,9 @@ sources:
     url: https://therift.it/gdr/lucca-comics-games-awards-2026-rebirth-e-il-gioco-dellanno-legend-in-the-mist-vince-tra-i-gdr/
   - name: "Brettspielbox – Brettspiel Preis: Gioco dell'Anno 2026"
     url: https://brettspielbox.de/brettspiel-preis-gioco-dellanno-2026/
-  - name: 'El Plural – Rebirth, mejor juego del año también en Italia'
+  - name: El Plural – Rebirth, mejor juego del año también en Italia
     url: https://www.elplural.com/juegos/juegos-mesa/rebirth-mejor-juego-ano-italia-juego-mesa-esta-conquistando-2026_803007102
-  - name: 'Cranio Creations – Rebirth (termékoldal)'
+  - name: Cranio Creations – Rebirth (termékoldal)
     url: https://craniocreations.it/en/products/rebirth
 ---
 
