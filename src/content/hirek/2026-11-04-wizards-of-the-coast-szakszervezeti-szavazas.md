@@ -1,17 +1,26 @@
 ---
 published: false
-title: "November 10-én szavaznak a szakszervezetről a D&D és a Magic alkotói a Wizards of the Coastnál"
-description: "Több mint háromszáz munkatárs dönthet arról, hogy szakszervezetbe tömörül-e. A cég nem ismerte el önként a szervezkedést, de azt ígéri, tiszteletben tartja a szavazás eredményét."
+title: November 10-én szavaznak a szakszervezetről a D&D és a Magic alkotói a Wizards of the Coastnál
+description: Több mint háromszáz munkatárs dönthet arról, hogy szakszervezetbe tömörül-e. A cég nem ismerte el önként a szervezkedést, de azt ígéri, tiszteletben tartja a szavazás eredményét.
 date: 2026-11-04T11:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Iparági hírek", "Wizards of the Coast", "Hasbro", "Dungeons & Dragons", "Magic: The Gathering"]
-imageSuggestion: "Iparági hír, hivatalos sajtókép nincs. Ha szeretnél képet: a Wizards of the Coast hivatalos logója a Hasbro sajtóközleményénél: https://newsroom.hasbro.com/news-releases/news-release-details/hasbro-names-dan-ayoub-president-wizards-coast-hasbro-digital – javasolt forrásmegjelölés: Kép: Wizards of the Coast. Kép nélkül is rendben van."
+author: Szerkesztőség
+tags:
+  - Iparági hírek
+  - Wizards of the Coast
+  - Hasbro
+  - Dungeons & Dragons
+  - 'Magic: The Gathering'
+youtube: ''
+image: /images/uploads/pasted-image-1793794154054.png
+imageAlt: ''
+imageCredit: 'Kép: Wizards of the Coast'
+imageSuggestion: 'Iparági hír, hivatalos sajtókép nincs. Ha szeretnél képet: a Wizards of the Coast hivatalos logója a Hasbro sajtóközleményénél: https://newsroom.hasbro.com/news-releases/news-release-details/hasbro-names-dan-ayoub-president-wizards-coast-hasbro-digital – javasolt forrásmegjelölés: Kép: Wizards of the Coast. Kép nélkül is rendben van.'
 sources:
-  - name: "Brettspiel-News.de – Wizards of the Coast: D&D- und Magic-Teams stimmen ab 10. November über eine Gewerkschaft ab"
-    url: "https://www.brettspiel-news.de/index.php/de/nachrichten-uebersicht/branche/16384-wizards-of-the-coast-d-amp-d-und-magic-teams-stimmen-ab-10-november-ber-eine-gewerkschaft-ab"
-  - name: "Wargamer – WotC rehires \"union avoidance\" firm as D&D and MTG workers prepare for November vote"
-    url: "https://www.wargamer.com/dnd/union-negotations-november-date-set"
+  - name: 'Brettspiel-News.de – Wizards of the Coast: D&D- und Magic-Teams stimmen ab 10. November über eine Gewerkschaft ab'
+    url: https://www.brettspiel-news.de/index.php/de/nachrichten-uebersicht/branche/16384-wizards-of-the-coast-d-amp-d-und-magic-teams-stimmen-ab-10-november-ber-eine-gewerkschaft-ab
+  - name: Wargamer – WotC rehires "union avoidance" firm as D&D and MTG workers prepare for November vote
+    url: https://www.wargamer.com/dnd/union-negotations-november-date-set
 ---
 
 Jövő héten dől el, hogy a Dungeons & Dragons és a Magic: The Gathering mögött álló csapatok szakszervezetbe tömörülnek-e a Wizards of the Coastnál. A titkos szavazás november 10-én kezdődik.
