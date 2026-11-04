@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Ingyenes oldallal segíti az Asmodee, hogy mindenki leülhessen a játékasztalhoz
 description: 'Az Asmodee elindította az asmodeeaccess.com oldalt: játékismertetők, útmutatók és nyomtatható segédanyagok szólnak a családoknak, tanároknak és gondozóknak, a cég stúdiói pedig közös akadálymentességi irányelveket kapnak.'
 date: 2026-11-04T13:30:00+01:00
