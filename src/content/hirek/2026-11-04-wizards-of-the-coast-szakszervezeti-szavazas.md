@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: November 10-én szavaznak a szakszervezetről a D&D és a Magic alkotói a Wizards of the Coastnál
 description: Több mint háromszáz munkatárs dönthet arról, hogy szakszervezetbe tömörül-e. A cég nem ismerte el önként a szervezkedést, de azt ígéri, tiszteletben tartja a szavazás eredményét.
 date: 2026-11-04T11:00:00+01:00
