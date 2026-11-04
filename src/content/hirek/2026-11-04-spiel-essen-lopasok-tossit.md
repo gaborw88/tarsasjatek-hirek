@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'Lopások árnyékolják be a rekord-Essent: 14 ezer eurónyi áru tűnt el egy francia kiállító standjáról'
 description: A SPIEL Essen 2026 építése és bontása alatt hat lopást jelentettek, a legnagyobb kárt a francia Tossit szenvedte. A szervező szerint a kiállítók maguk felelnek a holmijukért, a vásárközpont adatvédelmi okokra hivatkozva nem figyeli kamerákkal a standokat.
 date: 2026-11-04T13:00:00+01:00
