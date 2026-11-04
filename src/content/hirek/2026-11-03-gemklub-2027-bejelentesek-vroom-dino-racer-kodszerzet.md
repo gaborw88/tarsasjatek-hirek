@@ -11,9 +11,9 @@ tags:
   - Mistborn
   - Kiegészítők
 youtube: ''
-image: ''
+image: /images/uploads/Screenshot 2026-11-04 at 01-16-42 Mistborn The Deckbuilding Game — Brotherwise Games.png
 imageAlt: ''
-imageCredit: ''
+imageCredit: 'Fotó: Brotherwise Games'
 imageSuggestion: 'Hivatalos dobozkép (Mistborn: The Well of Ascension) a kiadó termékoldalán: https://www.brotherwisegames.com/mistborn-well-of-ascension – javasolt forrásmegjelölés: Fotó: Brotherwise Games. A többi bejelentett játék képeit a Gémklub hírei között (https://www.gemklub.hu/hirek) érdemes keresni, vagy elkérni a Gémklubtól.'
 sources:
   - name: 'Gémklub – Hírek (Vroom, Dino Racer, Agent Avenue: Four Seasons, Mistborn: The Well of Ascension, Exploding Kittens: The Board Game bejelentések)'
