@@ -12,9 +12,9 @@ tags:
   - Feuerland
   - Fantasy Flight Games
 youtube: ''
-image: ''
+image: /images/uploads/AHR01_Article_First-Look_ComponentSpread_.webp
 imageAlt: ''
-imageCredit: ''
+imageCredit: 'otó: Fantasy Flight Games'
 imageSuggestion: 'Hivatalos kép a kiadó oldalán (Arkham Horror – Remastered Horror): https://www.fantasyflightgames.com/remastered-horror/ – javasolt forrásmegjelölés: Fotó: Fantasy Flight Games. Alternatíva: a The Danes Gamefound-kampányoldalának fejléce (Feuerland Spiele).'
 sources:
   - name: Tabletop Analytics – Kickstarter/Gamefound Top Grossing
