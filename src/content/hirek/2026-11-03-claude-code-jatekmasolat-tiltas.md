@@ -11,9 +11,9 @@ tags:
   - Szerzői jog
   - Digitális társasjátékok
 youtube: ''
-image: ''
+image: /images/uploads/anthropic-logo_brandlogos.net_bc6bj.png
 imageAlt: ''
-imageCredit: ''
+imageCredit: 'Kép: Anthropic'
 imageSuggestion: 'Hivatalos sajtókép nincs. Ha szeretnél képet: az Anthropic hivatalos logója a cég sajtó-/arculati oldaláról (anthropic.com) – javasolt forrásmegjelölés: Kép: Anthropic. Kép nélkül is rendben van.'
 sources:
   - name: BoardGameWire – Anthropic cracks down on AI game cloning as risk of unauthorised digital copies, reskins grows
