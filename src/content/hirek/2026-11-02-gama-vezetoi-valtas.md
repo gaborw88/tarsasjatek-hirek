@@ -10,9 +10,9 @@ tags:
   - GAMA
   - Origins Game Fair
 youtube: ''
-image: ''
+image: /images/uploads/pasted-image-1793751848031.png
 imageAlt: ''
-imageCredit: ''
+imageCredit: 'Kép: GAMA'
 imageSuggestion: 'Iparági hír, hivatalos sajtókép nincs. Ha szeretnél képet: a GAMA hivatalos logója a szervezet honlapjáról (gama.org) – javasolt forrásmegjelölés: Kép: GAMA. Kép nélkül is rendben van.'
 sources:
   - name: BoardGameWire – GAMA faces fresh leadership shake-up as interim executive director, board vice president announce departures
