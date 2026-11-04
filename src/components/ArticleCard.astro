@@ -1,17 +1,22 @@
 ---
 import Cover from './Cover.astro';
 import { ARTICLE_TYPES } from '../site.config';
-import { url, formatDate, type Article } from '../lib/utils';
+import { url, formatDate, youtubeThumb, type Article } from '../lib/utils';
 interface Props { article: Article; lead?: boolean; }
 const { article, lead = false } = Astro.props;
 const d = article.data;
 const t = ARTICLE_TYPES[d.type];
-const hasImg = Boolean(d.image);
+const thumb = !d.image ? youtubeThumb(d.youtube) : undefined;
+const coverImg = d.image || thumb;
+const hasImg = Boolean(coverImg);
 ---
 <article class:list={['card', { lead, noimg: !hasImg }]} style={`--tc:${t.color}`}>
   {hasImg && (
     <a href={url(`/hirek/${article.id}/`)} class="cover-link" tabindex="-1">
-      <Cover image={d.image} alt={d.imageAlt} type={d.type} ratio={lead ? '16 / 9' : '3 / 2'} />
+      <div class="cover-wrap">
+        <Cover image={coverImg} alt={d.imageAlt || d.title} type={d.type} ratio={lead ? '16 / 9' : '3 / 2'} />
+        {thumb && <span class="play" aria-hidden="true">▶</span>}
+      </div>
     </a>
   )}
   <div class="body">
@@ -26,6 +31,9 @@ const hasImg = Boolean(d.image);
   </div>
 </article>
 <style>
+  .cover-wrap { position: relative; }
+  .play { position: absolute; inset: 0; margin: auto; width: 56px; height: 56px; border-radius: 50%; background: rgba(0,0,0,.6); color: #fff; display: grid; place-items: center; font-size: 1.3rem; padding-left: 4px; }
+  .card:hover .play { background: var(--c-accent); }
   .card { display: flex; flex-direction: column; gap: 14px; }
   .row { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
   .kicker { color: var(--tc); font-size: 0.74rem; font-weight: 700; letter-spacing: 0.09em; text-transform: uppercase; }

@@ -1,4 +1,5 @@
 import { getCollection, type CollectionEntry } from 'astro:content';
+import { existsSync } from 'node:fs';
 
 export type Article = CollectionEntry<'hirek'>;
 
@@ -39,4 +40,11 @@ export function youtubeId(input?: string): string | null {
   const m = input.match(/(?:youtu\.be\/|v=|\/embed\/|\/shorts\/|\/live\/)([A-Za-z0-9_-]{11})/);
   if (m) return m[1];
   return /^[A-Za-z0-9_-]{11}$/.test(input.trim()) ? input.trim() : null;
+}
+
+/** A cikk videójának helyben tárolt előnézeti képe (ha az építéskor sikerült letölteni). */
+export function youtubeThumb(input?: string): string | undefined {
+  const id = youtubeId(input);
+  if (!id) return undefined;
+  return existsSync(`public/yt/${id}.jpg`) ? `/yt/${id}.jpg` : undefined;
 }
