@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'Boszorkányok, vámpírok, vérfarkasok: Lancre-ba és Überwaldba visz az új Korongvilág-szerepjáték'
 description: 'A Modiphius a Gamefoundon gyűjt a Terry Pratchett regényein alapuló Discworld: Adventures in Lancre and Überwald szerepjátékra, amely Ankh-Morpork után a Ramtopok vidékére kalauzol.'
 date: 2026-11-04T15:40:00+01:00
@@ -12,6 +12,9 @@ tags:
   - Modiphius
   - Korongvilág
 youtube: ''
+image: /images/uploads/pasted-image-1793812204519.png
+imageAlt: ''
+imageCredit: 'Kép: Modiphius Entertainment'
 imageSuggestion: 'Hivatalos kiadói kép (a kiadó webshopjában, az ingyenes Quickstart borítója): https://modiphius.net/cdn/shop/files/terry-pratchetts-discworld-adventures-in-lancre-and-uberwald-quickstart-pdf-discworld-modiphius-entertainment-464058.jpg?v=1793389683 – javasolt forrásmegjelölés: Kép: Modiphius Entertainment. (Alternatíva: a kiadó Gamefound-kampányoldalának képei.)'
 sources:
   - name: "ICv2 – 'Discworld: Adventures in Lancre and Uberwald' Hits Gamefound"
@@ -20,7 +23,7 @@ sources:
     url: https://thegaminggang.com/game-news/terry-pratchetts-discworld-adventures-in-lancre-and-uberwald-launches-on-gamefound
   - name: "Modiphius – Terry Pratchett's Discworld: Adventures in Lancre and Überwald Quickstart"
     url: https://modiphius.net/en-us/products/terry-pratchett-s-discworld-adventures-in-lancre-and-uberwald-quickstart-pdf
-  - name: 'Gamefound – Terry Pratchett''s Discworld RPG: Adventures in Lancre and Überwald'
+  - name: "Gamefound – Terry Pratchett's Discworld RPG: Adventures in Lancre and Überwald"
     url: https://gamefound.com/en/projects/modiphius/terry-pratchetts-discworld-rpg-adventures-in-lancre-and-uberwald
 ---
 
