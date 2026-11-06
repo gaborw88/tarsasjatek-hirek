@@ -1,17 +1,24 @@
 ---
-published: false
-title: "Világsikerek, mégis szakemberhiány: állami támogatással képez nemzetközi játéktervezőket a japán Arclight"
-description: "A japán Arclight szerint az ország társasjáték-ipara a sikerek ellenére sem tud elég játékot külföldi kiadóknak eladni. Ezen segítene a J-TAN nevű, kétéves ingyenes program, amelyre november 30-ig lehet jelentkezni."
+published: true
+title: 'Világsikerek, mégis szakemberhiány: állami támogatással képez nemzetközi játéktervezőket a japán Arclight'
+description: A japán Arclight szerint az ország társasjáték-ipara a sikerek ellenére sem tud elég játékot külföldi kiadóknak eladni. Ezen segítene a J-TAN nevű, kétéves ingyenes program, amelyre november 30-ig lehet jelentkezni.
 date: 2026-11-05T17:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Iparági hírek", "Arclight", "Japán"]
-imageSuggestion: "Iparági hír, amelyhez hivatalos sajtókép nem tartozik. Ha kell illusztráció, az Arclight hivatalos logóját a cég saját honlapjáról (arclight.co.jp) lehet kérni, vagy kérj képet a kiadótól. Kép nélkül is rendben van."
+author: Szerkesztőség
+tags:
+  - Iparági hírek
+  - Arclight
+  - Japán
+youtube: ''
+image: /images/uploads/pasted-image-1793959278999.png
+imageAlt: ''
+imageCredit: 'Kép: Arclight'
+imageSuggestion: Iparági hír, amelyhez hivatalos sajtókép nem tartozik. Ha kell illusztráció, az Arclight hivatalos logóját a cég saját honlapjáról (arclight.co.jp) lehet kérni, vagy kérj képet a kiadótól. Kép nélkül is rendben van.
 sources:
-  - name: "BoardGameWire – Despite global hits, Japan's board game industry faces overseas publishing skills shortage, Arclight warns"
-    url: "https://boardgamewire.com/index.php/2026/11/04/despite-global-hits-japans-board-game-industry-faces-overseas-publishing-skills-shortage-arclight-warns-and-leads-government-backed-drive-to-tackle-it/"
-  - name: "Inside Games (PR TIMES) – Arclight sajtóközlemény a J-TAN programról (japánul)"
-    url: "https://www.inside-games.jp/release/prtimes/20260915/307240.html"
+  - name: BoardGameWire – Despite global hits, Japan's board game industry faces overseas publishing skills shortage, Arclight warns
+    url: https://boardgamewire.com/index.php/2026/11/04/despite-global-hits-japans-board-game-industry-faces-overseas-publishing-skills-shortage-arclight-warns-and-leads-government-backed-drive-to-tackle-it/
+  - name: Inside Games (PR TIMES) – Arclight sajtóközlemény a J-TAN programról (japánul)
+    url: https://www.inside-games.jp/release/prtimes/20260915/307240.html
 ---
 
 A *Love Letter*, a *Machi Koro* vagy a *Scout* bebizonyította, hogy japán játékok is meghódíthatják a világot – a japán **Arclight** kiadó és forgalmazó szerint azonban ezek inkább kivételek. A cég úgy látja, hogy a hazai társasjáték-ipar nagyrészt az egyéni lelkesedésre és a független, „dódzsin” alkotói körökre épül, és hiányoznak azok a szakemberek, akik nemzetközi szinten versenyképes játékokat fejlesztenek, és el is tudják adni őket külföldi kiadóknak.
