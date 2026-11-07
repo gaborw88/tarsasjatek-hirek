@@ -1,21 +1,30 @@
 ---
-published: false
-title: "Az első három Final Fantasy a játékasztalon: már 1,1 millió dollárnál jár az Origins of Light Kickstarter-kampánya"
-description: "A Square Enix licencével készülő, kooperatív Origins of Light: A Final Fantasy Board Game a 10 ezer dolláros cél több mint százszorosát gyűjtötte össze. A kampány november 18-ig tart."
+published: true
+title: 'Az első három Final Fantasy a játékasztalon: már 1,1 millió dollárnál jár az Origins of Light Kickstarter-kampánya'
+description: 'A Square Enix licencével készülő, kooperatív Origins of Light: A Final Fantasy Board Game a 10 ezer dolláros cél több mint százszorosát gyűjtötte össze. A kampány november 18-ig tart.'
 date: 2026-11-05T19:30:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Közösségi finanszírozás", "Kickstarter", "Final Fantasy", "KessCo", "Videójáték-adaptáció"]
-imageSuggestion: "A kiadó saját Kickstarter-kampányoldalának fő képe: https://i.kickstarter.com/assets/055/578/886/ac9ae957ea9743e653500766682a0abd_original.png – javasolt forrásmegjelölés: Kép: KessCo / Square Enix. (A képlinket a PledgeBox kampánykövető oldaláról vettem; érdemes közvetlenül a Kickstarter-oldalon ellenőrizni.)"
+author: Szerkesztőség
+tags:
+  - Közösségi finanszírozás
+  - Kickstarter
+  - Final Fantasy
+  - KessCo
+  - Videójáték-adaptáció
+youtube: ''
+image: /images/uploads/pasted-image-1794075141521.png
+imageAlt: ''
+imageCredit: ''
+imageSuggestion: 'A kiadó saját Kickstarter-kampányoldalának fő képe: https://i.kickstarter.com/assets/055/578/886/ac9ae957ea9743e653500766682a0abd_original.png – javasolt forrásmegjelölés: Kép: KessCo / Square Enix. (A képlinket a PledgeBox kampánykövető oldaláról vettem; érdemes közvetlenül a Kickstarter-oldalon ellenőrizni.)'
 sources:
-  - name: "Tabletop Analytics – Kickstarter/Gamefound Top Grossing (élő kampányadatok)"
-    url: "https://www.tabletopanalytics.com/"
-  - name: "iXBT Games – Crowdfunding campaign for Origins of Light: A Final Fantasy Board Game to launch in October"
-    url: "https://ixbt.games/en/news/2026/09/22/v-oktiabre-startuet-kraudfandingovaia-kampaniia-nastolnoi-igry-origins-of-light-a-final-fantasy-board-game.html"
-  - name: "Backseat Gamer – Origins of Light Turns Final Fantasy 1-3 Into a Board Game"
-    url: "https://www.backseatgamer.com/news/origins-of-light-turns-final-fantasy-1-3-into-a-board-game"
-  - name: "PledgeBox – Origins of Light: A Final Fantasy Board Game (kampánykövető)"
-    url: "https://www.pledgebox.com/projects/origins-of-light-a-final-fantasy-board-game"
+  - name: Tabletop Analytics – Kickstarter/Gamefound Top Grossing (élő kampányadatok)
+    url: https://www.tabletopanalytics.com/
+  - name: 'iXBT Games – Crowdfunding campaign for Origins of Light: A Final Fantasy Board Game to launch in October'
+    url: https://ixbt.games/en/news/2026/09/22/v-oktiabre-startuet-kraudfandingovaia-kampaniia-nastolnoi-igry-origins-of-light-a-final-fantasy-board-game.html
+  - name: Backseat Gamer – Origins of Light Turns Final Fantasy 1-3 Into a Board Game
+    url: https://www.backseatgamer.com/news/origins-of-light-turns-final-fantasy-1-3-into-a-board-game
+  - name: 'PledgeBox – Origins of Light: A Final Fantasy Board Game (kampánykövető)'
+    url: https://www.pledgebox.com/projects/origins-of-light-a-final-fantasy-board-game
 ---
 
 A japán szerepjáték-sorozat rajongói nem fogták vissza magukat: az október 20-án indult **Origins of Light: A Final Fantasy Board Game** Kickstarter-kampánya november 5-ig több mint **1,14 millió dollárt** gyűjtött mintegy 3700 támogatótól. A kitűzött cél mindössze 10 ezer dollár volt. A gyűjtés **november 18-ig** tart.
