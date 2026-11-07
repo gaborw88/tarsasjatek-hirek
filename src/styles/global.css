@@ -1,14 +1,17 @@
 :root {
-  --c-paper: #fbf7f0;
+  /* A DOBJektív logó színei: fekete, borostyánsárga, meleg szürke, fehér */
+  --c-paper: #ffffff;
   --c-card: #ffffff;
-  --c-ink: #1d2528;
-  --c-muted: #5f6b6e;
-  --c-line: #e6dfd2;
-  --c-accent: #c8553d;
-  --c-teal: #2c6e6a;
-  --c-plum: #6b3f69;
-  --c-mustard: #e0a526;
-  --f-head: 'Fraunces Variable', Georgia, serif;
+  --c-soft: #f5f4f1;
+  --c-ink: #111111;
+  --c-muted: #5f5b56;
+  --c-line: #e6e3de;
+  --c-accent: #f9ab0a;
+  --c-accent-ink: #9a6200;
+  --c-gray: #948f89;
+  --c-link: #9a6200;
+  --c-mustard: #f9ab0a;
+  --f-head: 'Archivo Variable', 'Inter Variable', system-ui, sans-serif;
   --f-body: 'Inter Variable', system-ui, sans-serif;
   --w-max: 1180px;
   --radius: 10px;
@@ -26,7 +29,7 @@ body {
 }
 a { color: inherit; }
 img { max-width: 100%; display: block; }
-h1, h2, h3, h4 { font-family: var(--f-head); line-height: 1.15; font-weight: 650; letter-spacing: -0.01em; }
+h1, h2, h3, h4 { font-family: var(--f-head); line-height: 1.12; font-weight: 800; letter-spacing: -0.015em; }
 
 .wrap { max-width: var(--w-max); margin: 0 auto; padding: 0 20px; }
 
@@ -51,16 +54,16 @@ h1, h2, h3, h4 { font-family: var(--f-head); line-height: 1.15; font-weight: 650
   border-radius: 999px;
   margin: 0 6px 6px 0;
 }
-.tag:hover { border-color: var(--c-accent); color: var(--c-accent); }
+.tag:hover { border-color: var(--c-accent); color: var(--c-ink); background: #fff6df; }
 
 .prose { max-width: 70ch; }
 .prose h2 { font-size: 1.55rem; margin-top: 2em; }
 .prose h3 { font-size: 1.25rem; margin-top: 1.6em; }
-.prose a { color: var(--c-teal); text-underline-offset: 3px; }
+.prose a { color: var(--c-link); text-decoration-color: var(--c-accent); text-decoration-thickness: 2px; text-underline-offset: 3px; }
 .prose blockquote {
   margin: 1.5em 0; padding: 0.3em 1.2em;
   border-left: 4px solid var(--c-mustard);
-  font-family: var(--f-head); font-size: 1.15rem; font-style: italic;
+  font-size: 1.12rem; font-style: italic;
 }
 .prose img { border-radius: var(--radius); }
 .prose ul, .prose ol { padding-left: 1.3em; }

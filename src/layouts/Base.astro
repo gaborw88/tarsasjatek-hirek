@@ -1,8 +1,7 @@
 ---
-import '@fontsource-variable/fraunces';
+import '@fontsource-variable/archivo';
 import '@fontsource-variable/inter';
 import '../styles/global.css';
-import Logo from '../components/Logo.astro';
 import { SITE } from '../site.config';
 import { url } from '../lib/utils';
 
@@ -40,7 +39,8 @@ const nav = [
   {published && <meta property="article:published_time" content={published.toISOString()} />}
   <meta name="twitter:card" content="summary_large_image" />
   <link rel="alternate" type="application/rss+xml" title={SITE.name} href={url('/rss.xml')} />
-  <link rel="icon" href={url('/favicon.svg')} type="image/svg+xml" />
+  <link rel="icon" href={url('/favicon.png')} type="image/png" />
+  <link rel="apple-touch-icon" href={url('/apple-touch-icon.png')} />
   {SITE.goatcounter && (
     <script is:inline data-goatcounter={`https://${SITE.goatcounter}.goatcounter.com/count`} async src="https://gc.zgo.at/count.js"></script>
   )}
@@ -57,12 +57,9 @@ const nav = [
       </div>
     </div>
     <div class="wrap brand-row">
-      <a class="brand" href={url('/')}>
-        <Logo size={44} />
-        <span>
-          <span class="brand-name">{SITE.name.startsWith('DOBJ') ? <><span class="hl">DOBJ</span>{SITE.name.slice(4)}</> : SITE.name}</span>
-          <span class="brand-tag">{SITE.tagline}</span>
-        </span>
+      <a class="brand" href={url('/')} aria-label={`${SITE.name} – főoldal`}>
+        <img src={url('/images/logo-220.png')} alt={SITE.name} class="logo" width="405" height="220" />
+        <span class="brand-tag">{SITE.tagline}</span>
       </a>
       <nav>
         {nav.map((n) => (
@@ -98,24 +95,23 @@ const nav = [
   .topbar-in { display: flex; justify-content: space-between; padding-top: 6px; padding-bottom: 6px; }
   .topbar a { text-decoration: none; }
   .topbar span::first-letter { text-transform: uppercase; }
-  .masthead { border-bottom: 3px double var(--c-line); background: var(--c-paper); }
+  .masthead { border-bottom: 1px solid var(--c-line); background: var(--c-paper); box-shadow: 0 3px 0 var(--c-accent); }
   .brand-row { display: flex; align-items: center; justify-content: space-between; gap: 20px; padding-top: 22px; padding-bottom: 18px; flex-wrap: wrap; }
-  .brand { display: flex; align-items: center; gap: 14px; text-decoration: none; }
-  .brand-name { display: block; font-family: var(--f-head); font-size: 1.9rem; font-weight: 750; letter-spacing: -0.02em; line-height: 1; }
-  .brand-name .hl { color: var(--c-accent); }
-  .brand-tag { display: block; color: var(--c-muted); font-size: 0.85rem; margin-top: 4px; }
+  .brand { display: flex; align-items: center; gap: 18px; text-decoration: none; }
+  .logo { height: 88px; width: auto; }
+  .brand-tag { display: block; color: var(--c-muted); font-size: 0.9rem; max-width: 18ch; line-height: 1.3; border-left: 3px solid var(--c-accent); padding-left: 12px; }
   nav { display: flex; gap: 4px; flex-wrap: wrap; }
   nav a { text-decoration: none; font-weight: 550; font-size: 0.95rem; padding: 6px 12px; border-radius: 6px; }
-  nav a:hover { background: #f1eadd; }
+  nav a:hover { background: var(--c-soft); }
   nav a.active { background: var(--c-ink); color: var(--c-paper); }
   main { padding-top: 32px; padding-bottom: 64px; min-height: 60vh; }
-  footer { border-top: 1px solid var(--c-line); background: #f4eee3; padding: 32px 0; }
+  footer { border-top: 3px solid var(--c-accent); background: var(--c-soft); padding: 32px 0; }
   .foot-in { display: grid; gap: 14px; grid-template-columns: 1fr auto; }
   .foot-in > .meta { grid-column: 1 / -1; }
   .foot-links { display: flex; gap: 18px; flex-wrap: wrap; align-items: start; }
   .foot-links a { text-decoration: none; font-size: 0.92rem; }
   .top-links { display: flex; gap: 16px; }
   .fb-link { display: inline-flex; align-items: center; gap: 5px; }
-  .foot-links a:hover { color: var(--c-accent); }
-  @media (max-width: 640px) { .foot-in { grid-template-columns: 1fr; } .brand-name { font-size: 1.5rem; } }
+  .foot-links a:hover { color: var(--c-accent-ink); }
+  @media (max-width: 640px) { .foot-in { grid-template-columns: 1fr; } .logo { height: 54px; } .brand-tag { display: none; } }
 </style>

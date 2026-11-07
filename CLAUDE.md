@@ -1,6 +1,6 @@
-# DOBJektiv – utasítások Claude-nak
+# DOBJektív – utasítások Claude-nak
 
-A DOBJektiv (dobjektiv.hu) egy magyar nyelvű hírblog a társasjáték-iparról (Astro statikus oldal, GitHub Pages).
+A DOBJektív (dobjektiv.hu) egy magyar nyelvű hírblog a társasjáték-iparról (Astro statikus oldal, GitHub Pages).
 Az oldal nem kereskedelmi célú, hirdetésmentes, és az is marad (ne javasolj monetizálást).
 A tulajdonos nem programozó: vele mindig magyarul, egyszerűen, szakzsargon nélkül kommunikálj.
 

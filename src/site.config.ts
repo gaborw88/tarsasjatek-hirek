@@ -2,7 +2,7 @@
 //  AZ OLDAL ALAPADATAI – itt egy helyen átírható minden
 // ============================================================
 export const SITE = {
-  name: 'DOBJektiv',
+  name: 'DOBJektív',
   tagline: 'A társasjátékos világ friss hírei, magyarul',
   description:
     'Független, hirdetésmentes magyar hírblog a társasjáték-ipar újdonságairól: megjelenések, kiadói hírek, rendezvények, Kickstarter-kampányok és díjak.',
@@ -18,8 +18,9 @@ export const SITE = {
 
 // Cikktípusok megjelenítése
 export const ARTICLE_TYPES = {
-  sajat: { label: 'Saját cikk', color: 'var(--c-teal)' },
-  forditas: { label: 'Fordítás', color: 'var(--c-plum)' },
-  gyujtott: { label: 'Hírösszefoglaló', color: 'var(--c-accent)' },
-  video: { label: 'Videóajánló', color: '#b8860b' },
+  // color: a jelölés színe, text: a szöveg színe ezen a háttéren
+  sajat: { label: 'Saját cikk', color: '#111111', text: '#ffffff' },
+  forditas: { label: 'Fordítás', color: '#948f89', text: '#ffffff' },
+  gyujtott: { label: 'Hírösszefoglaló', color: '#f9ab0a', text: '#111111' },
+  video: { label: 'Videóajánló', color: '#ffd46b', text: '#111111' },
 } as const;

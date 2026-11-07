@@ -21,7 +21,7 @@ const hasImg = Boolean(coverImg);
   )}
   <div class="body">
     <div class="row">
-      <span class="kicker">{t.label}</span>
+      <span class="kicker"><i style={`background:${t.color}`}></i>{t.label}</span>
       {!d.published && <span class="badge" style="background:var(--c-mustard);color:var(--c-ink)">Tervezet</span>}
       <time class="meta" datetime={d.date.toISOString()}>{formatDate(d.date)}</time>
     </div>
@@ -36,10 +36,11 @@ const hasImg = Boolean(coverImg);
   .card:hover .play { background: var(--c-accent); }
   .card { display: flex; flex-direction: column; gap: 14px; }
   .row { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
-  .kicker { color: var(--tc); font-size: 0.74rem; font-weight: 700; letter-spacing: 0.09em; text-transform: uppercase; }
+  .kicker { color: var(--c-ink); font-size: 0.72rem; font-weight: 700; letter-spacing: 0.09em; text-transform: uppercase; display: inline-flex; align-items: center; gap: 6px; }
+  .kicker i { width: 10px; height: 10px; border-radius: 2px; display: inline-block; box-shadow: inset 0 0 0 1px rgba(0,0,0,.12); }
   h2 { font-size: 1.25rem; margin: 8px 0 6px; }
   h2 a { text-decoration: none; }
-  h2 a:hover { color: var(--c-accent); }
+  h2 a:hover { text-decoration: underline; text-decoration-color: var(--c-accent); text-decoration-thickness: 3px; text-underline-offset: 4px; }
   p { margin: 0; color: var(--c-muted); font-size: 0.95rem; }
   .tags { margin-top: 10px; font-size: 0.8rem; }
 
@@ -47,6 +48,7 @@ const hasImg = Boolean(coverImg);
   .noimg { border-top: 3px solid var(--tc); padding-top: 14px; }
 
   .lead h2 { font-size: clamp(1.8rem, 3.4vw, 2.6rem); }
+  .noimg h2 { font-family: var(--f-head); }
   .lead p { font-size: 1.12rem; }
   /* Kép nélküli vezető hír: nagy, magazinos címlap-blokk */
   .lead.noimg {
