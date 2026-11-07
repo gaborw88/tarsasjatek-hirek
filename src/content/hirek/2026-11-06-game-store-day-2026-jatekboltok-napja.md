@@ -1,19 +1,27 @@
 ---
-published: false
-title: "Szombaton a játékboltoké a főszerep: másodszor rendezik meg a Game Store Dayt Észak-Amerikában"
-description: "November 7-én, szombaton tartják a független társasjáték-boltokat ünneplő Game Store Dayt. A GAMA kezdeményezéséhez idén 273 bolt és 59 kiadó csatlakozott."
+published: true
+title: 'Szombaton a játékboltoké a főszerep: másodszor rendezik meg a Game Store Dayt Észak-Amerikában'
+description: November 7-én, szombaton tartják a független társasjáték-boltokat ünneplő Game Store Dayt. A GAMA kezdeményezéséhez idén 273 bolt és 59 kiadó csatlakozott.
 date: 2026-11-06T15:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Iparági hírek", "GAMA", "Game Store Day", "Játékboltok"]
-imageSuggestion: "Hivatalos sajtóképet nem találtam: a GAMA Game Store Day-oldalán (https://www.gama.org/page/GSD) és a sajtóközleményben nincs letölthető kép vagy logó. Ha kell kép, a Game Store Day logóját a GAMA-tól lehet kérni (Media@GAMA.org) – kép nélkül is rendben van."
+author: Szerkesztőség
+tags:
+  - Iparági hírek
+  - GAMA
+  - Game Store Day
+  - Játékboltok
+youtube: ''
+image: /images/uploads/pasted-image-1793751848031.png
+imageAlt: ''
+imageCredit: 'Fotó: GAMA'
+imageSuggestion: 'Hivatalos sajtóképet nem találtam: a GAMA Game Store Day-oldalán (https://www.gama.org/page/GSD) és a sajtóközleményben nincs letölthető kép vagy logó. Ha kell kép, a Game Store Day logóját a GAMA-tól lehet kérni (Media@GAMA.org) – kép nélkül is rendben van.'
 sources:
-  - name: "GAMA – Game Store Day Returns November 7 to Celebrate Friendly Local Game Stores (sajtóközlemény, EIN Presswire)"
-    url: "https://www.einpresswire.com/article/944940858/game-store-day-returns-november-7-to-celebrate-friendly-local-game-stores"
-  - name: "ICv2 – GAMA Reveals New Deets on Game Store Day 2026"
-    url: "https://icv2.com/articles/news/view/63467/gama-reveals-new-deets-game-store-day-2026"
-  - name: "GAMA – Game Store Day"
-    url: "https://www.gama.org/page/GSD"
+  - name: GAMA – Game Store Day Returns November 7 to Celebrate Friendly Local Game Stores (sajtóközlemény, EIN Presswire)
+    url: https://www.einpresswire.com/article/944940858/game-store-day-returns-november-7-to-celebrate-friendly-local-game-stores
+  - name: ICv2 – GAMA Reveals New Deets on Game Store Day 2026
+    url: https://icv2.com/articles/news/view/63467/gama-reveals-new-deets-game-store-day-2026
+  - name: GAMA – Game Store Day
+    url: https://www.gama.org/page/GSD
 ---
 
 Holnap, **november 7-én, szombaton** tartják a **Game Store Dayt**, vagyis a játékboltok napját. A kezdeményezés mögött a **GAMA** (The Tabletop Game Association), a társasjáték-ipar legnagyobb amerikai szakmai szövetsége áll, és célja, hogy a karácsonyi szezon kezdetén a független, helyi játékboltokra irányítsa a vásárlók figyelmét. Az ötletet a lemezboltok napja (Record Store Day) és a független könyvesboltok napja (Independent Bookstore Day) ihlette.
