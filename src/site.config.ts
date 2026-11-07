@@ -2,12 +2,13 @@
 //  AZ OLDAL ALAPADATAI – itt egy helyen átírható minden
 // ============================================================
 export const SITE = {
-  // Munkacím – ha megvan a végleges név, csak ezt kell átírni
-  name: 'Társasjáték Hírek',
+  name: 'DOBJektiv',
   tagline: 'A társasjátékos világ friss hírei, magyarul',
   description:
     'Független, hirdetésmentes magyar hírblog a társasjáték-ipar újdonságairól: megjelenések, kiadói hírek, rendezvények, Kickstarter-kampányok és díjak.',
-  email: 'info.matafe@gmail.com',
+  email: 'dobjektiv@gmail.com',
+  // A kiadó (Magyar Társasjáték-fejlesztők Egyesülete) e-mail-címe az impresszumhoz
+  publisherEmail: 'info.matafe@gmail.com',
   facebook: 'https://www.facebook.com/matafe.org',
   defaultAuthor: 'Szerkesztőség',
   // Látogatottság-mérés (GoatCounter, sütik nélkül). Regisztráció után ide jön a választott kód,

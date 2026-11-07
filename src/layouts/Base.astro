@@ -60,7 +60,7 @@ const nav = [
       <a class="brand" href={url('/')}>
         <Logo size={44} />
         <span>
-          <span class="brand-name">{SITE.name}</span>
+          <span class="brand-name">{SITE.name.startsWith('DOBJ') ? <><span class="hl">DOBJ</span>{SITE.name.slice(4)}</> : SITE.name}</span>
           <span class="brand-tag">{SITE.tagline}</span>
         </span>
       </a>
@@ -102,6 +102,7 @@ const nav = [
   .brand-row { display: flex; align-items: center; justify-content: space-between; gap: 20px; padding-top: 22px; padding-bottom: 18px; flex-wrap: wrap; }
   .brand { display: flex; align-items: center; gap: 14px; text-decoration: none; }
   .brand-name { display: block; font-family: var(--f-head); font-size: 1.9rem; font-weight: 750; letter-spacing: -0.02em; line-height: 1; }
+  .brand-name .hl { color: var(--c-accent); }
   .brand-tag { display: block; color: var(--c-muted); font-size: 0.85rem; margin-top: 4px; }
   nav { display: flex; gap: 4px; flex-wrap: wrap; }
   nav a { text-decoration: none; font-weight: 550; font-size: 0.95rem; padding: 6px 12px; border-radius: 6px; }
