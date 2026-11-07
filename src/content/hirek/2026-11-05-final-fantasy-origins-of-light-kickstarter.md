@@ -14,7 +14,7 @@ tags:
 youtube: ''
 image: /images/uploads/pasted-image-1794075141521.png
 imageAlt: ''
-imageCredit: ''
+imageCredit: 'Kép: KessCo / Square Enix.'
 imageSuggestion: 'A kiadó saját Kickstarter-kampányoldalának fő képe: https://i.kickstarter.com/assets/055/578/886/ac9ae957ea9743e653500766682a0abd_original.png – javasolt forrásmegjelölés: Kép: KessCo / Square Enix. (A képlinket a PledgeBox kampánykövető oldaláról vettem; érdemes közvetlenül a Kickstarter-oldalon ellenőrizni.)'
 sources:
   - name: Tabletop Analytics – Kickstarter/Gamefound Top Grossing (élő kampányadatok)
