@@ -1,0 +1,7 @@
+# A szerkesztőség tagjai. Ezt a listát csak főszerkesztő módosíthatja
+# (ha más menti, a rendszer automatikusan visszaállítja).
+szerkesztok:
+  - github: gaborw88
+    nev: Weszprémy Gábor
+    szerep: foszerkeszto
+    ellenorzesNelkul: true

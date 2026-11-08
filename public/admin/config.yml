@@ -15,15 +15,18 @@ collections:
     folder: src/content/hirek
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    summary: "{{published | ternary('✅', '⏳')}}  {{title}}  ·  {{date | date('YYYY.MM.DD')}}"
+    summary: "{{status}}  ·  {{title}}  ·  {{date | date('YYYY.MM.DD')}}"
     sortable_fields: [date, title]
     view_filters:
-      - label: "⏳ Jóváhagyásra vár"
-        field: published
-        pattern: false
+      - label: "⏳ Tervezet (szerkesztőre vár)"
+        field: status
+        pattern: "tervezet"
+      - label: "👀 Főszerkesztőre vár"
+        field: status
+        pattern: "főszerkesztőre"
       - label: "✅ Megjelent"
-        field: published
-        pattern: true
+        field: status
+        pattern: "megjelent"
       - label: "Hírösszefoglalók"
         field: type
         pattern: gyujtott
@@ -37,11 +40,40 @@ collections:
         field: type
         pattern: video
     fields:
-      - name: published
-        label: "✅ Jóváhagyva – megjelenhet az oldalon"
+      - name: status
+        label: "Állapot"
+        widget: string
+        required: false
+        default: "⏳ tervezet"
+        hint: "Automatikusan frissül mentés után kb. 1 percen belül (ha nem látod, töltsd újra az oldalt). Ne írd át kézzel."
+      - name: approved
+        label: "✅ Szerkesztő: jóváhagyom, kész a megjelenésre"
         widget: boolean
         default: false
-        hint: "Amíg nincs bepipálva, a cikk csak tervezet, a látogatók nem látják."
+        hint: "Ha megbízható szerkesztő vagy, a cikk azonnal megjelenik. Különben a főszerkesztőhöz kerül."
+      - name: chiefApproved
+        label: "👑 Főszerkesztő: jóváhagyom"
+        widget: boolean
+        default: false
+        hint: "Csak a főszerkesztő pipálhatja be – másnál a rendszer automatikusan visszaveszi."
+      - name: published
+        widget: hidden
+        default: false
+      - name: lastEditedBy
+        label: "Utoljára szerkesztette"
+        widget: string
+        required: false
+        hint: "Automatikusan töltődik."
+      - name: approvedBy
+        label: "Szerkesztőként jóváhagyta"
+        widget: string
+        required: false
+        hint: "Automatikusan töltődik."
+      - name: chiefApprovedBy
+        label: "Főszerkesztőként jóváhagyta"
+        widget: string
+        required: false
+        hint: "Automatikusan töltődik."
       - name: title
         label: Cím
         widget: string
@@ -110,3 +142,33 @@ collections:
       - name: body
         label: Szöveg
         widget: markdown
+
+  - name: beallitasok
+    label: "⚙️ Beállítások"
+    files:
+      - name: szerkesztok
+        label: "Szerkesztők"
+        file: szerkesztok.yml
+        description: "Csak a főszerkesztő módosíthatja – más mentését a rendszer automatikusan visszaállítja."
+        fields:
+          - name: szerkesztok
+            label: Szerkesztők
+            label_singular: Szerkesztő
+            widget: list
+            summary: "{{nev}} ({{github}})"
+            fields:
+              - { name: nev, label: "Név", widget: string }
+              - { name: github, label: "GitHub-felhasználónév", widget: string, hint: "Pontosan úgy, ahogy a GitHubon szerepel." }
+              - { name: githubNev, label: "Név a GitHub-profilban (ha eltér)", widget: string, required: false, hint: "Ha a szerkesztő a GitHub-profiljában más nevet adott meg, mint a fenti Név, ide írd be pontosan." }
+              - name: szerep
+                label: "Szerep"
+                widget: select
+                default: szerkeszto
+                options:
+                  - { label: "Szerkesztő", value: szerkeszto }
+                  - { label: "Főszerkesztő", value: foszerkeszto }
+              - name: ellenorzesNelkul
+                label: "Ellenőrzés nélkül publikálhat"
+                widget: boolean
+                default: false
+                hint: "Bekapcsolva a szerkesztő által jóváhagyott cikk azonnal kimegy, főszerkesztői jóváhagyás nélkül."

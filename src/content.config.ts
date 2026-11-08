@@ -10,8 +10,14 @@ const hirek = defineCollection({
     date: z.coerce.date(),
     // sajat = én írtam | forditas = linkből fordítva | gyujtott = automatikus hírgyűjtés | video = videóajánló
     type: z.enum(['sajat', 'forditas', 'gyujtott', 'video']).default('sajat'),
-    // Csak a jóváhagyott (published: true) cikkek jelennek meg az oldalon
+    // Kétlépcsős jóváhagyás – a published és status mezőt a rendszer számolja (scripts/jovahagyas.mjs)
     published: z.boolean().default(false),
+    approved: z.boolean().optional(),
+    chiefApproved: z.boolean().optional(),
+    status: z.string().optional(),
+    approvedBy: z.string().optional(),
+    chiefApprovedBy: z.string().optional(),
+    lastEditedBy: z.string().optional(),
     author: z.string().optional(),
     tags: z.array(z.string()).default([]),
     image: z.string().optional(),

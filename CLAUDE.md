@@ -7,7 +7,11 @@ A tulajdonos nem programozó: vele mindig magyarul, egyszerűen, szakzsargon né
 ## Alapszabályok (minden cikkre)
 
 - Cikkek helye: `src/content/hirek/ÉÉÉÉ-HH-NN-rovid-cim.md` (ékezet nélküli, kötőjeles fájlnév).
-- **Minden általad készített cikk `published: false` értékkel kerül be.** Megjelentetni csak a tulajdonos hagyhatja jóvá (a szerkesztőfelületen pipálja be). Soha ne állíts `published: true`-t, hacsak a tulajdonos ezt kifejezetten nem kéri az adott cikkre.
+- **Minden általad készített cikk `published: false`, `approved: false`, `chiefApproved: false`, `status: "⏳ tervezet"` értékkel kerül be.**
+  Kétlépcsős jóváhagyás van (szerkesztő → főszerkesztő), amit a `scripts/jovahagyas.mjs` kezel a GitHubon; a szerkesztők
+  listája és jogai a `szerkesztok.yml`-ben vannak. A `published`, `approved`, `chiefApproved`, `status`, `approvedBy`,
+  `chiefApprovedBy`, `lastEditedBy` mezőket **soha ne módosítsd** (a rendszer a te jóváhagyásodat úgyis visszavonná), és a
+  `szerkesztok.yml`-t se, hacsak a főszerkesztő kifejezetten nem kéri.
 - Frontmatter mezők (lásd `src/content.config.ts`):
   ```yaml
   ---
