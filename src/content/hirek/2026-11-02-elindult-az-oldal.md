@@ -4,20 +4,20 @@ approved: true
 chiefApproved: true
 published: true
 lastEditedBy: Weszprémy Gábor
-approvedBy: ""
-chiefApprovedBy: ""
+approvedBy: ''
+chiefApprovedBy: ''
 title: Elindultunk! Itt mostantól a társasjátékos világ hírei várnak
-description: "Új magyar hírblog indul a társasjáték-ipar újdonságairól: megjelenések, kiadói hírek, rendezvények és díjak, magyarul."
-date: 2026.11.02 19:06
+description: 'Új magyar hírblog indul a társasjáték-ipar újdonságairól: megjelenések, kiadói hírek, rendezvények és díjak, magyarul.'
+date: 2026.11.08 18:49
 type: sajat
 author: Szerkesztőség
 tags:
   - Az oldalról
-youtube: ""
+youtube: ''
 image: /images/uploads/DOBJektív Dice News Logo.png
-imageAlt: ""
-imageCredit: ""
-imageSuggestion: "Saját cikk: ide egy saját fotó illik (pl. a szerkesztőség vagy egy társasjátékos esemény). Kép nélkül is rendben van."
+imageAlt: ''
+imageCredit: ''
+imageSuggestion: 'Saját cikk: ide egy saját fotó illik (pl. a szerkesztőség vagy egy társasjátékos esemény). Kép nélkül is rendben van.'
 sources: []
 ---
 
