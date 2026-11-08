@@ -50,12 +50,10 @@ collections:
         label: "✅ Szerkesztő: jóváhagyom, kész a megjelenésre"
         widget: boolean
         default: false
-        hint: "Ha nálad be van kapcsolva az „Ellenőrzés nélkül publikálhat”, a cikk azonnal megjelenik. Különben a főszerkesztőhöz kerül átnézésre."
       - name: chiefApproved
         label: "👑 Főszerkesztő: jóváhagyom"
         widget: boolean
         default: false
-        hint: "Csak a főszerkesztő pipálhatja be – másnál a rendszer automatikusan visszaveszi."
       - name: published
         widget: hidden
         default: false
