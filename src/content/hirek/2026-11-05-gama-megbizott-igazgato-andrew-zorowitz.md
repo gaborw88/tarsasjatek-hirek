@@ -22,6 +22,7 @@ sources:
 approved: true
 chiefApproved: true
 status: ✅ megjelent
+publishedAt: 2026-11-05T16:00:00.000Z
 ---
 
 Gyorsan lépett a **GAMA** (Game Manufacturers Association), az amerikai társasjáték-ipar szakmai szövetsége: néhány nappal azután, hogy kiderült, távozik megbízott ügyvezető igazgatója, már meg is nevezte az utódot. November 5-i bejelentésük szerint **Andrew Zorowitz**, a **Foam Brain Games** vezetője lett a szervezet megbízott ügyvezető igazgatója, hat hónapra.

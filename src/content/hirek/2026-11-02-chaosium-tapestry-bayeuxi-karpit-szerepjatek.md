@@ -23,6 +23,7 @@ sources:
 approved: true
 chiefApproved: true
 status: ✅ megjelent
+publishedAt: 2026-11-02T20:00:00.000Z
 ---
 
 A Call of Cthulhu kiadójaként ismert **Chaosium** október 29-én jelentette be, hogy december 4-én megjelenik a **Tapestry: Age of Conquest** című asztali szerepjáték. A játék különlegessége, hogy a középkori Európa egyik leghíresebb képi forrását, a **bayeux-i kárpitot** veszi alapul, és a londoni **British Museummal**, valamint az Edinburgh-i Egyetem történelmi játékokkal foglalkozó kutatócsoportjával (History and Games Lab) együttműködésben készült.

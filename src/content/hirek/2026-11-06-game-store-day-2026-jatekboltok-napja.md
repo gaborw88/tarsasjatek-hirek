@@ -25,6 +25,7 @@ sources:
 approved: true
 chiefApproved: true
 status: ✅ megjelent
+publishedAt: 2026-11-06T14:00:00.000Z
 ---
 
 Holnap, **november 7-én, szombaton** tartják a **Game Store Dayt**, vagyis a játékboltok napját. A kezdeményezés mögött a **GAMA** (The Tabletop Game Association), a társasjáték-ipar legnagyobb amerikai szakmai szövetsége áll, és célja, hogy a karácsonyi szezon kezdetén a független, helyi játékboltokra irányítsa a vásárlók figyelmét. Az ötletet a lemezboltok napja (Record Store Day) és a független könyvesboltok napja (Independent Bookstore Day) ihlette.

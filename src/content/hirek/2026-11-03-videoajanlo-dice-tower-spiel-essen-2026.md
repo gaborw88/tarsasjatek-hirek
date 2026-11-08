@@ -24,6 +24,7 @@ sources:
 approved: true
 chiefApproved: true
 status: ✅ megjelent
+publishedAt: 2026-11-03T18:30:00.000Z
 ---
 
 A **The Dice Tower** az egyik legrégebbi és legnagyobb angol nyelvű társasjátékos videós csatorna: játékkritikák, toplisták és rendezvénybeszámolók mellett saját conokat is szervez az Egyesült Államokban. A csapat minden évben ott van Essenben, a világ legnagyobb társasjátékos vásárán.

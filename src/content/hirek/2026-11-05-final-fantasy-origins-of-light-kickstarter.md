@@ -28,6 +28,7 @@ sources:
 approved: true
 chiefApproved: true
 status: ✅ megjelent
+publishedAt: 2026-11-05T18:30:00.000Z
 ---
 
 A japán szerepjáték-sorozat rajongói nem fogták vissza magukat: az október 20-án indult **Origins of Light: A Final Fantasy Board Game** Kickstarter-kampánya november 5-ig több mint **1,14 millió dollárt** gyűjtött mintegy 3700 támogatótól. A kitűzött cél mindössze 10 ezer dollár volt. A gyűjtés **november 18-ig** tart.

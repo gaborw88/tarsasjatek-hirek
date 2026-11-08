@@ -25,6 +25,7 @@ sources:
 approved: true
 chiefApproved: true
 status: ✅ megjelent
+publishedAt: 2026-11-05T14:30:00.000Z
 ---
 
 Újabb lépést tett a régóta tervezett élőszereplős **Magic: The Gathering** film: november 4-én a Deadline nyomán több amerikai lap is beszámolt róla, hogy **Maya Hawke** csatlakozott a produkcióhoz. A színésznőt a *Stranger Things* Robinjaként ismerheti a közönség, emellett játszott többek között a *Kisasszonyok* (*Little Women*) című filmben is. Ő az első ismert név, akit a stáb tagjaként megneveztek.

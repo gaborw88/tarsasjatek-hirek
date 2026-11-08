@@ -28,6 +28,7 @@ sources:
 approved: true
 chiefApproved: true
 status: ✅ megjelent
+publishedAt: 2026-11-04T14:40:00.000Z
 ---
 
 Elhagyhatják a játékosok Ankh-Morpork sikátorait: a brit Modiphius Entertainment elindította a Gamefoundon a *Terry Pratchett's Discworld: Adventures in Lancre and Überwald* közösségi finanszírozását. Az új szerepjáték a Korongvilág-regények hegyvidéki tájaira – Lancre királyságába, a Ramtopokba, Überwaldba és a krétadombok vidékére – viszi a kalandozókat. A kampány november 25-ig tart.

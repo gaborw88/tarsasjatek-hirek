@@ -21,6 +21,7 @@ sources:
 approved: true
 chiefApproved: true
 status: ✅ megjelent
+publishedAt: 2026-11-04T18:30:00.000Z
 ---
 
 Új játékot jelentett be a *Root*, az *Oath* és a *Vast* kiadójaként ismert amerikai **Leder Games**. A **Stomp** egy saját Twitch-közvetítésükön mutatkozott be, és merőben eltér a kiadó megszokott, összetett stratégiai játékaitól: kooperatív ügyességi játékról van szó.

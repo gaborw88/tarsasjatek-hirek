@@ -22,6 +22,7 @@ sources:
 approved: true
 chiefApproved: true
 status: ✅ megjelent
+publishedAt: 2026-11-05T16:00:00.000Z
 ---
 
 A *Love Letter*, a *Machi Koro* vagy a *Scout* bebizonyította, hogy japán játékok is meghódíthatják a világot – a japán **Arclight** kiadó és forgalmazó szerint azonban ezek inkább kivételek. A cég úgy látja, hogy a hazai társasjáték-ipar nagyrészt az egyéni lelkesedésre és a független, „dódzsin” alkotói körökre épül, és hiányoznak azok a szakemberek, akik nemzetközi szinten versenyképes játékokat fejlesztenek, és el is tudják adni őket külföldi kiadóknak.

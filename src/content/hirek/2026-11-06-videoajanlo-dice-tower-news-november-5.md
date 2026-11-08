@@ -22,6 +22,7 @@ sources:
 approved: true
 chiefApproved: true
 status: ✅ megjelent
+publishedAt: 2026-11-06T17:20:00.000Z
 ---
 
 A **The Dice Tower** a világ egyik legismertebb társasjátékos videós csatornája, amely kritikák és toplisták mellett rendszeresen hírműsort is készít. A _Dice Tower News_ sorozat legfrissebb, november 5-én élőben közvetített adása a csatorna leírása szerint a társasjátékos világ híreit, bejelentéseit és érdekességeit veszi sorra.

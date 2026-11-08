@@ -28,6 +28,7 @@ sources:
     url: https://www.geeknative.com/244116/itch-io-deletes-terabytes-of-ai-spam-and-enforces-ttrpg-disclosures/
   - name: "Gus&Co – itch.io contre le spam IA : une case à cocher peut-elle sauver le JDR ?"
     url: https://gusandco.net/2026/11/05/itch-io-ia-jdr-filtre-no-ai/
+publishedAt: 2026-11-07T08:00:00.000Z
 ---
 
 Keményebben lép fel a mesterséges intelligenciával tömegesen gyártott tartalmak ellen az **itch.io**. A független videojáték-fejlesztők mellett rengeteg szerepjáték-készítő és kisebb társasjáték-alkotó is ezen az online áruházon árulja letölthető (PDF-es) vagy fizikai játékait, így a változás az asztali játékos világot is közvetlenül érinti.

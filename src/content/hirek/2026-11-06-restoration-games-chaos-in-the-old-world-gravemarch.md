@@ -24,6 +24,7 @@ sources:
 approved: true
 chiefApproved: true
 status: ✅ megjelent
+publishedAt: 2026-11-06T18:00:00.000Z
 ---
 
 A régi, elfeledett játékok felújítására szakosodott amerikai **Restoration Games** (a Return to Dark Tower kiadója) november 5-én bejelentette, hogy **többéves licencszerződést kötött a Games Workshoppal**. A megállapodás keretében három olyan játékot hoznak vissza, amely közel egy évtizede nem kapható: a **Chaos in the Old World**, a **Space Hulk: Death Angel – The Card Game** és a **Warrior Knights** új kiadását.

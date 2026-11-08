@@ -22,6 +22,7 @@ sources:
 approved: true
 chiefApproved: true
 status: ✅ megjelent
+publishedAt: 2026-11-02T14:20:00.000Z
 ---
 
 Folytatódik a bizonytalanság a **GAMA** (Game Manufacturers Association) élén. Az amerikai társasjáték-ipari szakmai szövetség – amely többek között az **Origins Game Fair** rendezvényt és a kereskedőknek szóló **GAMA Expót** szervezi – egyszerre két fontos vezetőjét is elveszíti.

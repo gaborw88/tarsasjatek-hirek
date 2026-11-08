@@ -22,6 +22,7 @@ sources:
 approved: true
 chiefApproved: true
 status: ✅ megjelent
+publishedAt: 2026-11-04T12:30:00.000Z
 ---
 
 Új szakaszba lépett az Asmodee akadálymentességi kezdeményezése, az asmodee access+. A társasjátékos óriáscég október 27-én indította el az **asmodeeaccess.com** oldalt, egy ingyenes online gyűjtőhelyet, amely játékosoknak, családoknak, tanároknak, gondozóknak és egészségügyi szakembereknek szól.

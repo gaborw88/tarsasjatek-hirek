@@ -23,6 +23,7 @@ sources:
 approved: true
 chiefApproved: true
 status: ✅ megjelent
+publishedAt: 2026-11-04T10:10:00.000Z
 ---
 
 Lejárt a határidő, de a dobozok sehol: a brit Steamforged Games októberre ígérte a *HELLDIVERS 2: The Board Game* leszállítását a támogatóknak, ám új időpontot eddig nem közölt. A népszerű videojáték kooperatív társasjáték-változata a Gamefoundon 9345 támogatótól több mint 3,2 millió fontot gyűjtött.

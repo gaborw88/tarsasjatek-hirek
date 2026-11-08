@@ -28,6 +28,7 @@ sources:
 approved: true
 chiefApproved: true
 status: ✅ megjelent
+publishedAt: 2026-11-02T11:45:00.000Z
 ---
 
 Közeledik a hazai társasjátékos év legnagyobb eseménye: **november 21-én és 22-én** rendezik meg a **Társasjátékok Ünnepe® és Társasjátékvásárt**, idén már 14. alkalommal. A rendezvény ezúttal **új helyszínre, a budapesti Hungexpo Kongresszusi Központba** (X. kerület, Albertirsai út 10.) költözik, ahol a szervezők szerint nagyobb tér, több játék és több kiállító várja a látogatókat.

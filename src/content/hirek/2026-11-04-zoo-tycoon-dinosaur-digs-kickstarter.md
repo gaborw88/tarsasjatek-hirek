@@ -25,6 +25,7 @@ sources:
 approved: true
 chiefApproved: true
 status: ✅ megjelent
+publishedAt: 2026-11-04T14:20:00.000Z
 ---
 
 Az állatkert után jöhetnek az ősgigászok: november 3-án elindult a Kickstarteren a *Zoo Tycoon: The Board Game – Dinosaur Digs*, a népszerű számítógépes játékból készült állatkert-építő társasjáték újabb része. A kampány gyorsan célba ért: a beszámolók szerint már az első napokban 595 támogató mintegy 78 ezer svájci frankot ajánlott fel, miközben a cél 25 ezer frank volt. A gyűjtés december 3-ig tart.

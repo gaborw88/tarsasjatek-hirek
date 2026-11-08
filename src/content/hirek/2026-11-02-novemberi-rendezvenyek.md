@@ -17,6 +17,7 @@ imageSuggestion: Több rendezvényről szóló naptár, egyetlen hivatalos kép 
 approved: true
 chiefApproved: true
 status: ✅ megjelent
+publishedAt: 2026-11-02T07:00:00.000Z
 ---
 
 A SPIEL Essen lezárultával sem marad esemény nélkül a társasjátékos szakma. Összeszedtük a következő hetek legfontosabb nemzetközi rendezvényeit.

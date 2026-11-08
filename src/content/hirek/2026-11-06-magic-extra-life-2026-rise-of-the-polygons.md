@@ -23,6 +23,7 @@ sources:
 approved: true
 chiefApproved: true
 status: ✅ megjelent
+publishedAt: 2026-11-06T08:00:00.000Z
 ---
 
 A **Wizards of the Coast** november 3-án jelentette be, hogy idén is különleges kiadással támogatja az **Extra Life** jótékonysági programot, amely a Children's Miracle Network gyermekkórház-hálózat javára gyűjt adományokat játékosok segítségével. Az idei **Secret Lair: Rise of the Polygons** lapjai a kilencvenes évek végének kezdetleges, szögletes 3D-s videójáték-grafikáját idézik – ez továbblépés a 2024-es Extra Life-kiadás 16 bites, pixeles stílusához képest.

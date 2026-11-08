@@ -23,6 +23,7 @@ sources:
 approved: true
 chiefApproved: true
 status: ✅ megjelent
+publishedAt: 2026-11-06T09:00:00.000Z
 ---
 
 A **Trench Crusade** az elmúlt két év egyik legnagyobb meglepetése az asztali hadijátékok (wargame-ek) világában: a vallási fanatizmussal átszőtt, alternatív történelmi világban játszódó, kis csapatos összecsapásokra épülő játék 2024-es Kickstarter-kampánya 3 millió dollárt gyűjtött. A *Wargamer* által a SPIEL Essen vásáron készített, november 5-én megjelent interjúban **Jamie Parsons**, a játékot kiadó **Factory Fortress** üzemeltetési igazgatója (COO) arról beszélt, hogy a siker most már inkább logisztikai kihívás.

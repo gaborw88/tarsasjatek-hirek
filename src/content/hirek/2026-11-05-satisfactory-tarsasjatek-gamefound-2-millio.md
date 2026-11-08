@@ -28,6 +28,7 @@ sources:
 approved: true
 chiefApproved: true
 status: ✅ megjelent
+publishedAt: 2026-11-05T18:40:00.000Z
 ---
 
 A hajrához érkezett az idei ősz egyik legsikeresebb videójáték-adaptációjának kampánya. A **Satisfactory: The Board Game** október 13-án indult a Gamefoundon, és november 5-ig több mint **2,3 millió eurót** gyűjtött nagyjából 9100 támogatótól – a kitűzött cél 25 ezer euró volt. Már az első napon 900 ezer euró fölé jutott. A támogatás **november 10-én** zárul.

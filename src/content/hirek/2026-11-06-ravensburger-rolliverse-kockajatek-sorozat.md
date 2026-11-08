@@ -24,6 +24,7 @@ sources:
 approved: true
 chiefApproved: true
 status: ✅ megjelent
+publishedAt: 2026-11-06T19:00:00.000Z
 ---
 
 Új családi kockajáték-sorozatot mutatott be a **Ravensburger**: a **Rolliverse** lényege, hogy minden doboz egy-egy külön „világot” tartalmaz, ezek önállóan is teljes játékot adnak, de bármelyik összekeverhető a többivel. A sorozatot a német kiadó az októberi Essen Spiel vásáron is bemutatta, a játékokat **Michael Palm** és **Lukas Zach** tervezte.

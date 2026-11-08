@@ -24,6 +24,7 @@ sources:
 approved: true
 chiefApproved: true
 status: ✅ megjelent
+publishedAt: 2026-11-04T10:00:00.000Z
 ---
 
 Jövő héten dől el, hogy a Dungeons & Dragons és a Magic: The Gathering mögött álló csapatok szakszervezetbe tömörülnek-e a Wizards of the Coastnál. A titkos szavazás november 10-én kezdődik.

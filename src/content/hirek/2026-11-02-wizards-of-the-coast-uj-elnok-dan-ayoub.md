@@ -24,6 +24,7 @@ sources:
 approved: true
 chiefApproved: true
 status: ✅ megjelent
+publishedAt: 2026-11-02T18:00:00.000Z
 ---
 
 November 2-án, hétfőn új vezető vette át a **Wizards of the Coast** irányítását. A **Hasbro** október 27-én jelentette be, hogy **Dan Ayoub** lesz a Wizards of the Coast és a Hasbro Digital Games elnöke. Feladatkörébe tartozik a **Magic: The Gathering**, a **Dungeons & Dragons**, a Japánban népszerű **Duel Masters** gyűjtögetős kártyajáték, valamint a cég videojátékos fejlesztései, köztük az *Exodus* és a *Warlock*.
