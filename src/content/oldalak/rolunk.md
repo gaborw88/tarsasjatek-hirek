@@ -5,7 +5,7 @@ lede: Független, hirdetésmentes magyar hírblog a társasjáték-ipar újdons�
 
 ## Miért jött létre a DOBJektív?
 
-A magyar társasjátékos közösségnek ma is van számos kiváló fóruma: magazinja, blogja és videós csatornája is. Ezek ismertetőkkel, kritikákkal és játékbemutatókkal segítik a játékosokat. A DOBJektív nem velük akar versenyezni, hanem kiegészíteni őket: elsősorban olyan feladatokat szeretnénk ellátni, amelyekre a hazai színtéren jelenleg nincs gazdája.
+A magyar társasjátékos közösségnek ma is van számos kiváló fóruma: magazinja, blogja és videós csatornája is. Ezek ismertetőkkel, kritikákkal és játékbemutatókkal segítik a játékosokat. A DOBJektív nem velük akar versenyezni, hanem kiegészíteni őket: elsősorban olyan feladatokat szeretnénk ellátni, amelyeknek a hazai színtéren jelenleg nincs gazdája.
 
 Ezért nálunk a hírek állnak a középpontban: a nemzetközi és a hazai társasjáték-ipar eseményei, a magyar kiadók új megjelenései, a közösségi finanszírozású kampányok, a díjak és a rendezvények – rendszeresen, gyorsan, magyarul, és mindig a források megjelölésével.
 
