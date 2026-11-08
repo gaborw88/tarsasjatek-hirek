@@ -126,5 +126,6 @@ A dátumot és a tartalmat mindig a készítő saját oldaláról vedd, ne talá
 
 - Előnézet: `npm run dev` (fejlesztői módban a tervezetek is látszanak, sárga „Tervezet” jelöléssel).
 - Az oldal neve, szlogenje, e-mail címe: `src/site.config.ts`.
-- Szerkesztőfelület: `public/admin/config.yml` (Sveltia CMS, GitHub backend).
+- Szerkesztőfelület: https://dobjektiv.hu/admin/ – beállítások: `public/admin/config.yml` (Sveltia CMS, GitHub backend).
+- Az oldal címe: https://dobjektiv.hu (GitHub Pages, saját domain).
 - Közzététel: `.github/workflows/deploy.yml` – minden push a `main` ágra automatikusan frissíti az oldalt.
