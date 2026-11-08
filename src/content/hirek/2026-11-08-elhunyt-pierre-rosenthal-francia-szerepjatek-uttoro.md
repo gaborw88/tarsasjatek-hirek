@@ -1,11 +1,11 @@
 ---
-status: ⏳ tervezet
-approved: false
+status: ✅ megjelent
+approved: true
 chiefApproved: true
-published: false
-lastEditedBy: ''
-approvedBy: ''
-chiefApprovedBy: ''
+published: true
+lastEditedBy: Weszprémy Gábor
+approvedBy: Weszprémy Gábor
+chiefApprovedBy: Weszprémy Gábor
 title: Elhunyt Pierre Rosenthal, a francia szerepjátékos szcéna egyik úttörője
 description: 65 éves korában meghalt a Casus Belli magazin egykori főszerkesztő-helyettese, a SimulacreS és az Athanor alkotója, aki a francia „rôliste” (szerepjátékos) szót is megalkotta.
 date: 2026.11.08 09:00
@@ -15,18 +15,19 @@ tags:
   - Szerepjátékok
   - Iparági hírek
   - Gyászhír
-youtube: ''
-image: ''
-imageAlt: ''
-imageCredit: ''
-imageSuggestion: 'Gyászhír egy alkotóról: valódi személyről készült fotót nem javaslunk, és a hírhez nem tartozik hivatalos sajtókép. Kép nélkül is rendben van; ha mindenképp kell, egy szerkesztőségi, általános szerepjátékos kép (pl. dobókockák) használható.'
+youtube: ""
+image: ""
+imageAlt: ""
+imageCredit: ""
+imageSuggestion: "Gyászhír egy alkotóról: valódi személyről készült fotót nem javaslunk, és a hírhez nem tartozik hivatalos sajtókép. Kép nélkül is rendben van; ha mindenképp kell, egy szerkesztőségi, általános szerepjátékos kép (pl. dobókockák) használható."
 sources:
-  - name: 'Gus&Co – Pierre Rosenthal est mort : le premier des rôlistes a quitté la table'
+  - name: "Gus&Co – Pierre Rosenthal est mort : le premier des rôlistes a quitté la table"
     url: https://gusandco.net/2026/11/07/pierre-rosenthal-mort-roliste/
   - name: ActuaLitté – Pierre Rosenthal, pionnier du jeu de rôle et inventeur du mot « rôliste », est mort
     url: https://actualitte.com/article/135106/auteurs/pierre-rosenthal-pionnier-du-jeu-de-role-et-inventeur-du-mot-roliste-est-mort
   - name: Elbakin.net – Décès de Pierre Rosenthal, figure du jeu de rôle
     url: https://www.elbakin.net/news/1843/deces-de-pierre-rosenthal-figure-du-jeu-de-role
+publishedAt: 2026-11-08T18:49:09.891Z
 ---
 
 Gyászol a francia szerepjátékos közösség: 65 éves korában elhunyt **Pierre Rosenthal**, aki több mint négy évtizeden át formálta a hobbit Franciaországban – szerzőként, szerkesztőként és fordítóként. A francia Gus&Co beszámolója szerint november 4-ről 5-re virradó éjjel hunyt el egy párizsi kórházban, családja körében; halálhírét unokaöccse tette közzé november 6-án Rosenthal közösségimédia-oldalán.
