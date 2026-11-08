@@ -1,12 +1,12 @@
 ---
-status: ⏳ tervezet
-approved: false
+status: ✅ megjelent
+approved: true
 chiefApproved: true
-published: false
-lastEditedBy: ''
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Társasjátékok a képernyőn: november 15-ig tart a Steam Digital Tabletop Festje, idén a SPIEL Essennel közösen'
+published: true
+lastEditedBy: Weszprémy Gábor
+approvedBy: Weszprémy Gábor
+chiefApprovedBy: Weszprémy Gábor
+title: "Társasjátékok a képernyőn: november 15-ig tart a Steam Digital Tabletop Festje, idén a SPIEL Essennel közösen"
 description: Kedvezményekkel, tervezői interjúkkal és szakmai beszélgetésekkel várja a digitális társasjáték-adaptációk kedvelőit a Steam tematikus fesztiválja, amelyet a Nomad Games és a Monster Couch szervez, az esseni vásárral együttműködve.
 date: 2026.11.08 21:00
 type: gyujtott
@@ -15,16 +15,17 @@ tags:
   - Digitális társasjátékok
   - Essen Spiel
   - Rendezvények
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794163790562.png
-imageAlt: ''
-imageCredit: 'Kép: Nomad Games / Monster Couch'
-imageSuggestion: 'Iparági/rendezvényhír, kiadói dobozkép nincs. A Games Press sajtóközleményénél (https://www.gamespress.com/en-US/Digital-Tabletop-Fest-2026-Is-Live-Now-on-Steam) érdemes megnézni, van-e letölthető hivatalos fesztiválkép – javasolt forrásmegjelölés: Kép: Nomad Games / Monster Couch. Ha nincs, kép nélkül is rendben van.'
+imageAlt: ""
+imageCredit: "Kép: Nomad Games / Monster Couch"
+imageSuggestion: "Iparági/rendezvényhír, kiadói dobozkép nincs. A Games Press sajtóközleményénél (https://www.gamespress.com/en-US/Digital-Tabletop-Fest-2026-Is-Live-Now-on-Steam) érdemes megnézni, van-e letölthető hivatalos fesztiválkép – javasolt forrásmegjelölés: Kép: Nomad Games / Monster Couch. Ha nincs, kép nélkül is rendben van."
 sources:
   - name: Games Press – Digital Tabletop Fest 2026 Is Live Now on Steam (sajtóközlemény)
     url: https://www.gamespress.com/en-US/Digital-Tabletop-Fest-2026-Is-Live-Now-on-Steam
-  - name: 'Cannibal Halfling Gaming – Weekend Update: 11/7/2026'
+  - name: "Cannibal Halfling Gaming – Weekend Update: 11/7/2026"
     url: https://cannibalhalflinggaming.com/2026/11/07/weekend-update-11-7-2026/
+publishedAt: 2026-11-08T18:50:32.113Z
 ---
 
 November 5-én elindult a Steamen a **Digital Tabletop Fest 2026**, a társasjátékok digitális változatainak és a társasjátékok által ihletett videojátékoknak szentelt tematikus fesztivál. Az esemény **november 15-ig** tart.
