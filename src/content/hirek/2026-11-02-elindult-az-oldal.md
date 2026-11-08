@@ -31,3 +31,7 @@ Minden cikk megjelenés előtt szerkesztői jóváhagyáson megy át.
 ## Írj nekünk!
 
 Kiadó, forgalmazó vagy rendezvényszervező vagy, és van egy híred? Keress minket bátran a [Rólunk](../../rolunk/) oldalon található elérhetőségen.
+
+## Csatlakozz hozzánk!
+
+Szeretsz írni, és otthon vagy a társasjátékok világában? Várjuk a lelkes írókat és szerkesztőket! Ha szívesen tudósítanál rendezvényekről, írnál cikkeket, vagy segítenél a hírek szerkesztésében, írj nekünk a [dobjektiv@gmail.com](mailto:dobjektiv@gmail.com) címre.

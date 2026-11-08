@@ -157,6 +157,10 @@ collections:
         label: "Impresszum"
         file: src/content/oldalak/impresszum.md
         fields: *oldal_mezok
+      - name: adatkezeles
+        label: "Adatkezelési tájékoztató"
+        file: src/content/oldalak/adatkezeles.md
+        fields: *oldal_mezok
 
   - name: beallitasok
     label: "⚙️ Beállítások"

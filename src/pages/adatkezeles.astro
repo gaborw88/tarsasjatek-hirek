@@ -1,0 +1,15 @@
+---
+import { getEntry, render } from 'astro:content';
+import Base from '../layouts/Base.astro';
+const page = await getEntry('oldalak', 'adatkezeles');
+if (!page) throw new Error('Hiányzik az oldal: adatkezeles');
+const { Content } = await render(page);
+---
+<Base title={page.data.title}>
+  <div class="prose">
+    <h1>{page.data.title}</h1>
+    {page.data.lede && <p class="lede">{page.data.lede}</p>}
+    <Content />
+  </div>
+</Base>
+<style>.lede { font-size: 1.2rem; color: var(--c-muted); }</style>

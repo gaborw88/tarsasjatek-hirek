@@ -35,8 +35,4 @@ Ha úgy látja, hogy valamelyik tartalom sérti a jogait, vagy hibát talált, k
 
 ## Adatkezelés
 
-Az oldal nem használ sütiket, és látogatóitól nem gyűjt személyes adatot. A látogatottságot a [GoatCounter](https://www.goatcounter.com/) szolgáltatással mérjük, amely sütik nélkül, személyazonosításra alkalmatlan módon számolja a megtekintéseket (például hogy egy cikket hányan olvastak el).
-
-Egyes cikkekben YouTube-videó szerepel. Ezek csak akkor töltődnek be, ha a látogató a lejátszás gombra kattint; ekkor a YouTube (Google) a saját szabályai szerint sütiket vagy hasonló technológiát használhat. Kattintás nélkül az oldal semmilyen adatot nem küld a YouTube-nak.
-
-A cikkek alatti Facebook-megosztás gomb egyszerű hivatkozás: az oldal nem tölt be Facebook-kódot, és a Facebook semmilyen adatot nem kap a látogatásról. Csak akkor kerül át a Facebookra, ha a látogató a gombra kattint; onnantól a Facebook saját adatkezelési szabályai érvényesek.
+Az oldal nem használ sütiket, és látogatóiról nem gyűjt személyes adatot. Az oldal működésével járó technikai adatkezelésről (tárhely, látogatottság-mérés, kapcsolatfelvétel, külső tartalmak) részletesen az [Adatkezelési tájékoztatóban](/adatkezeles/) olvashat.
