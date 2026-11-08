@@ -45,7 +45,8 @@ collections:
         widget: string
         required: false
         default: "⏳ tervezet"
-        hint: "Automatikusan frissül mentés után kb. 1 percen belül (ha nem látod, töltsd újra az oldalt). Ne írd át kézzel."
+        readonly: true
+        hint: "Mentés után kb. 1 perc alatt frissül (ha nem látod, töltsd újra az oldalt)."
       - name: approved
         label: "✅ Szerkesztő: jóváhagyom, kész a megjelenésre"
         widget: boolean
@@ -61,17 +62,17 @@ collections:
         label: "Utoljára szerkesztette"
         widget: string
         required: false
-        hint: "Automatikusan töltődik."
+        readonly: true
       - name: approvedBy
         label: "Szerkesztőként jóváhagyta"
         widget: string
         required: false
-        hint: "Automatikusan töltődik."
+        readonly: true
       - name: chiefApprovedBy
         label: "Főszerkesztőként jóváhagyta"
         widget: string
         required: false
-        hint: "Automatikusan töltődik."
+        readonly: true
       - name: title
         label: Cím
         widget: string
