@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Iparági szakember ül a GAMA élére: a Foam Brain Games vezetője, Andrew Zorowitz lett a megbízott igazgató'
+title: "Iparági szakember ül a GAMA élére: a Foam Brain Games vezetője, Andrew Zorowitz lett a megbízott igazgató"
 description: Fél évre Andrew Zorowitz, a kockákat és kiegészítőket gyártó Foam Brain Games vezetője irányítja az amerikai GAMA szövetséget Melinda Prickett távozása után. Fő feladata a baltimore-i GAMA Expo és az Origins előkészítése.
 date: 2026-11-05T17:00:00+01:00
 type: gyujtott
@@ -9,16 +9,19 @@ tags:
   - Iparági hírek
   - GAMA
   - Origins Game Fair
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1793751848031.png
-imageAlt: ''
-imageCredit: ''
-imageSuggestion: 'Iparági hír, hivatalos sajtókép nincs (személyről készült fotót nem javaslunk). A GAMA hivatalos logója a szervezet honlapjáról (gama.org) használható – javasolt forrásmegjelölés: Kép: GAMA. A november 2-i GAMA-cikkhez már feltöltött logó újra felhasználható. Kép nélkül is rendben van.'
+imageAlt: ""
+imageCredit: ""
+imageSuggestion: "Iparági hír, hivatalos sajtókép nincs (személyről készült fotót nem javaslunk). A GAMA hivatalos logója a szervezet honlapjáról (gama.org) használható – javasolt forrásmegjelölés: Kép: GAMA. A november 2-i GAMA-cikkhez már feltöltött logó újra felhasználható. Kép nélkül is rendben van."
 sources:
   - name: BoardGameWire – GAMA moves quickly to name Foam Brain Games boss Andrew Zorowitz acting executive director after sudden Prickett exit
     url: https://boardgamewire.com/index.php/2026/11/05/gama-moves-quickly-to-name-foam-brain-games-boss-andrew-zorowitz-acting-executive-director-after-sudden-prickett-exit/
   - name: ICv2 – Andrew Zorowitz Takes On Role of Acting Executive Director of GAMA
     url: https://icv2.com/articles/news/view/63803/andrew-zorowitz-takes-on-role-acting-executive-director-gama
+approved: true
+chiefApproved: true
+status: ✅ megjelent
 ---
 
 Gyorsan lépett a **GAMA** (Game Manufacturers Association), az amerikai társasjáték-ipar szakmai szövetsége: néhány nappal azután, hogy kiderült, távozik megbízott ügyvezető igazgatója, már meg is nevezte az utódot. November 5-i bejelentésük szerint **Andrew Zorowitz**, a **Foam Brain Games** vezetője lett a szervezet megbízott ügyvezető igazgatója, hat hónapra.

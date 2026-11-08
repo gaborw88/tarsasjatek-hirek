@@ -1,7 +1,7 @@
 ---
 published: true
 title: Ingyenes oldallal segíti az Asmodee, hogy mindenki leülhessen a játékasztalhoz
-description: 'Az Asmodee elindította az asmodeeaccess.com oldalt: játékismertetők, útmutatók és nyomtatható segédanyagok szólnak a családoknak, tanároknak és gondozóknak, a cég stúdiói pedig közös akadálymentességi irányelveket kapnak.'
+description: "Az Asmodee elindította az asmodeeaccess.com oldalt: játékismertetők, útmutatók és nyomtatható segédanyagok szólnak a családoknak, tanároknak és gondozóknak, a cég stúdiói pedig közös akadálymentességi irányelveket kapnak."
 date: 2026-11-04T13:30:00+01:00
 type: gyujtott
 author: Szerkesztőség
@@ -9,16 +9,19 @@ tags:
   - Kiadói hírek
   - Asmodee
   - Akadálymentesség
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1793780609651.png
-imageAlt: ''
-imageCredit: 'Kép: Asmodee'
-imageSuggestion: 'Hivatalos sajtókép: https://storage.mfn.se/cad34c6d-dbf0-4838-847e-f5d1a5e4b57a/asmodee-access.png (az Asmodee sajtóközleményéhez csatolt „Asmodee Access+” kép) – javasolt forrásmegjelölés: Kép: Asmodee'
+imageAlt: ""
+imageCredit: "Kép: Asmodee"
+imageSuggestion: "Hivatalos sajtókép: https://storage.mfn.se/cad34c6d-dbf0-4838-847e-f5d1a5e4b57a/asmodee-access.png (az Asmodee sajtóközleményéhez csatolt „Asmodee Access+” kép) – javasolt forrásmegjelölés: Kép: Asmodee"
 sources:
   - name: Asmodee Group (MFN) – asmodee launches new resources to make tabletop games accessible to more players
     url: https://mfn.se/a/asmodee/asmodee-launches-new-resources-to-make-tabletop-games-accessible-to-more-players
   - name: ICv2 – Asmodee Launches Next Stage of asmodee access+
     url: https://icv2.com/articles/news/view/63729/asmodee-launches-next-stage-asmodee-access
+approved: true
+chiefApproved: true
+status: ✅ megjelent
 ---
 
 Új szakaszba lépett az Asmodee akadálymentességi kezdeményezése, az asmodee access+. A társasjátékos óriáscég október 27-én indította el az **asmodeeaccess.com** oldalt, egy ingyenes online gyűjtőhelyet, amely játékosoknak, családoknak, tanároknak, gondozóknak és egészségügyi szakembereknek szól.

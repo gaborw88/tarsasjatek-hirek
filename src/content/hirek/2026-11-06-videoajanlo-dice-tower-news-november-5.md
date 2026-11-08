@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Videó: heti hírösszefoglaló a Dice Towertől (november 5.)'
+title: "Videó: heti hírösszefoglaló a Dice Towertől (november 5.)"
 description: A The Dice Tower heti élő hírműsorában a társasjátékos világ friss bejelentéseit, újdonságait és érdekességeit veszi sorra.
 date: 2026-11-06T18:20:00+01:00
 type: video
@@ -10,15 +10,18 @@ tags:
   - The Dice Tower
   - Hírek
 youtube: https://www.youtube.com/watch?v=3ABjP6COSbw
-image: ''
-imageAlt: ''
-imageCredit: ''
+image: ""
+imageAlt: ""
+imageCredit: ""
 imageSuggestion: Videóajánló, a videót az oldal beágyazza, ezért külön kép nem szükséges – kép nélkül is rendben van.
 sources:
-  - name: 'YouTube – The Dice Tower: Dice Tower News - Nov. 5th, 2026'
+  - name: "YouTube – The Dice Tower: Dice Tower News - Nov. 5th, 2026"
     url: https://www.youtube.com/watch?v=3ABjP6COSbw
   - name: The Dice Tower – Dice Tower News - Nov. 5th, 2026 (videóoldal)
     url: https://dicetower.com/video/dice-tower-news-nov-5th-2026
+approved: true
+chiefApproved: true
+status: ✅ megjelent
 ---
 
 A **The Dice Tower** a világ egyik legismertebb társasjátékos videós csatornája, amely kritikák és toplisták mellett rendszeresen hírműsort is készít. A _Dice Tower News_ sorozat legfrissebb, november 5-én élőben közvetített adása a csatorna leírása szerint a társasjátékos világ híreit, bejelentéseit és érdekességeit veszi sorra.

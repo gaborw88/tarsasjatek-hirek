@@ -4,16 +4,23 @@ title: "Ötmillió dollár fölött zárt: tizennyolcszorosát gyűjtötte össz
 description: "Véget ért a Fantasy Flight Games első saját közösségi kampánya: a 2005-ös Arkham Horror felújított kiadása mintegy 5,5 millió dollárt gyűjtött a Gamefoundon, több mint 13 ezer támogatótól."
 date: 2026-11-07T15:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Közösségi finanszírozás", "Gamefound", "Fantasy Flight Games", "Asmodee"]
+author: Szerkesztőség
+tags:
+  - Közösségi finanszírozás
+  - Gamefound
+  - Fantasy Flight Games
+  - Asmodee
 imageSuggestion: "Hivatalos kép a kiadó kampány-aloldalán (Arkham Horror – Remastered Horror): https://www.fantasyflightgames.com/remastered-horror/ – javasolt forrásmegjelölés: Fotó: Fantasy Flight Games. Az oldalt most nem sikerült megnyitni, de a november 3-i cikkünkhöz már feltöltöttetek innen képet (/images/uploads/AHR01_Article_First-Look_ComponentSpread_.webp), az újra felhasználható."
 sources:
-  - name: "Tabletop Analytics – Kickstarter/Gamefound Top Grossing (Arkham Horror Remastered – Vault Series)"
-    url: "https://www.tabletopanalytics.com/"
+  - name: Tabletop Analytics – Kickstarter/Gamefound Top Grossing (Arkham Horror Remastered – Vault Series)
+    url: https://www.tabletopanalytics.com/
   - name: "Brettspiel-News.de – Crowdfunding-Übersicht KW 45: 195 Brettspiel-Kampagnen im Check"
-    url: "https://www.brettspiel-news.de/index.php/de/nachrichten-uebersicht/crowdfunding/16415-crowdfunding-bersicht-kw-45-195-brettspiel-kampagnen-im-check"
-  - name: "Board Game Quest – Crowdfunding Campaigns of the Week (2026. 11. 02.)"
-    url: "https://www.boardgamequest.com/crowdfunding-campaigns-of-the-week-11-2-26/"
+    url: https://www.brettspiel-news.de/index.php/de/nachrichten-uebersicht/crowdfunding/16415-crowdfunding-bersicht-kw-45-195-brettspiel-kampagnen-im-check
+  - name: Board Game Quest – Crowdfunding Campaigns of the Week (2026. 11. 02.)
+    url: https://www.boardgamequest.com/crowdfunding-campaigns-of-the-week-11-2-26/
+approved: false
+chiefApproved: false
+status: ⏳ tervezet
 ---
 
 A hét közepén lezárult a **Fantasy Flight Games** (az Asmodee-csoport tagja) első saját közösségi finanszírozású kampánya, és az eredmény magáért beszél: az **Arkham Horror Remastered** a Gamefoundon mintegy **5,5 millió dollárt** gyűjtött össze, a kitűzött 300 ezer dolláros cél több mint tizennyolcszorosát. A Tabletop Analytics adatai szerint a kampányt nagyjából **13,4 ezer támogató** segítette, a Brettspiel-News.de összesítése szerint ráadásul a támogatók jelentős része – nagyjából 5700 fő – csak az utolsó héten csatlakozott.

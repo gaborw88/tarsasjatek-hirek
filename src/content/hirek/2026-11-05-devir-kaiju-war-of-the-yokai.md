@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Óriásszörny a harmadik fejezetben: kooperatív stratégiai játékon dolgoznak a War of the Ring alkotói'
+title: "Óriásszörny a harmadik fejezetben: kooperatív stratégiai játékon dolgoznak a War of the Ring alkotói"
 description: A spanyol Devir az esseni vásáron jelentette be a Kaiju, War of the Yōkai című játékot, amelyet többek között Marco Maggi és Francesco Nepitello tervez. A teljesen kooperatív, 1–5 fős játék 2027-ben jelenhet meg.
 date: 2026-11-05T13:00:00+01:00
 type: gyujtott
@@ -10,18 +10,21 @@ tags:
   - Devir
   - Essen Spiel
   - Kaiju, War of the Yōkai
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1793918487478.png
-imageAlt: ''
-imageCredit: 'Fotó: Devir'
-imageSuggestion: 'Hivatalos sajtókép egyelőre nem található: a Devir honlapjain még nincs termékoldal, a bemutatott doboz pedig a kiadó szerint csak tervezet. Ha megjelenik a termékoldal vagy a sajtóanyag, onnan lehet dobozképet választani (Fotó: Devir), vagy kérj képet a kiadótól. Kép nélkül is rendben van.'
+imageAlt: ""
+imageCredit: "Fotó: Devir"
+imageSuggestion: "Hivatalos sajtókép egyelőre nem található: a Devir honlapjain még nincs termékoldal, a bemutatott doboz pedig a kiadó szerint csak tervezet. Ha megjelenik a termékoldal vagy a sajtóanyag, onnan lehet dobozképet választani (Fotó: Devir), vagy kérj képet a kiadótól. Kép nélkül is rendben van."
 sources:
-  - name: 'Brettspiel-News.de – Von den Machern von Der Ringkrieg und Dune: Krieg um Arrakis'
+  - name: "Brettspiel-News.de – Von den Machern von Der Ringkrieg und Dune: Krieg um Arrakis"
     url: https://www.brettspiel-news.de/index.php/de/nachrichten-uebersicht/ankuendigungen/16357-von-den-machern-von-der-ringkrieg-und-dune-krieg-um-arrakis
   - name: Brettspielbox – Brettspiel News 44/2026
     url: https://brettspielbox.de/brettspielbox-brettspiel-news-40-2026-2/
   - name: The Fandom Tribune – Post Essen 26 Watchlist
     url: https://fandomtribune.substack.com/p/post-essen-2026-watchlist-board-games-to-follow-if-you-like-these-games
+approved: true
+chiefApproved: true
+status: ✅ megjelent
 ---
 
 Új, nagyszabású stratégiai játékot jelentett be a spanyol **Devir** az idei esseni SPIEL vásáron. A **Kaiju, War of the Yōkai** tervezői között ott van **Marco Maggi** és **Francesco Nepitello**, akiknek a nevéhez a _War of the Ring_ és a _Dune: War for Arrakis_ is fűződik; harmadik szerzőként **Michele Garbuggio** dolgozik a játékon. Az ő korábbi sikereikkel szemben az új cím azonban nem két tábor összecsapása: teljesen kooperatív, vagyis a játékosok együtt nyernek vagy veszítenek.

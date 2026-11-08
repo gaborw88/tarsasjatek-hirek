@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Másodszor is nyert az Ark Nova tervezője: a Sanctuary a Deutscher Spiele Preis 2026 győztese'
+title: "Másodszor is nyert az Ark Nova tervezője: a Sanctuary a Deutscher Spiele Preis 2026 győztese"
 description: Mathias Wigge Sanctuary című játéka végzett az élen a német nyelvterület legnagyobb közönségszavazásos társasjáték-díján. A Feuerland Spiele ezzel már negyedszer nyerte meg a díjat.
 date: 2026-11-02T16:45:00+01:00
 type: gyujtott
@@ -11,16 +11,19 @@ tags:
   - Essen Spiel
   - Feuerland Spiele
   - Mathias Wigge
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1793751813610.png
-imageAlt: ''
-imageCredit: 'Fotó: Capstone Games'
-imageSuggestion: 'Hivatalos dobozkép a kiadó termékoldalán: https://capstone-games.com/board-games/sanctuary/ (angol kiadás; a német eredeti a Feuerland Spiele oldalán) – javasolt forrásmegjelölés: Fotó: Feuerland Spiele / Capstone Games'
+imageAlt: ""
+imageCredit: "Fotó: Capstone Games"
+imageSuggestion: "Hivatalos dobozkép a kiadó termékoldalán: https://capstone-games.com/board-games/sanctuary/ (angol kiadás; a német eredeti a Feuerland Spiele oldalán) – javasolt forrásmegjelölés: Fotó: Feuerland Spiele / Capstone Games"
 sources:
-  - name: 'BoardGameWire – Two games, two Deutscher Spiele Preis wins: Ark Nova designer Mathias Wigge takes second title with Sanctuary'
+  - name: "BoardGameWire – Two games, two Deutscher Spiele Preis wins: Ark Nova designer Mathias Wigge takes second title with Sanctuary"
     url: https://boardgamewire.com/index.php/2026/10/27/two-games-two-deutscher-spiele-preis-wins-ark-nova-designer-mathias-wigge-takes-second-title-with-sanctuary/
   - name: The Opinionated Gamers – Sanctuary Wins DSP; Take Time Takes a la carte Award
     url: https://opinionatedgamers.com/2026/10/26/sanctuary-wins-dsp-take-time-takes-a-la-carte-award/
+approved: true
+chiefApproved: true
+status: ✅ megjelent
 ---
 
 Az esseni SPIEL vásáron hirdették ki az idei Deutscher Spiele Preis (Német Játékdíj) eredményét, és a győzelmet a **Sanctuary** szerezte meg. A játékot Mathias Wigge tervezte, aki 2022-ben az **Ark Nova** című nagy sikerű stratégiai játékával már elnyerte ezt az elismerést – így mindkét önálló játékával a díj csúcsára jutott.

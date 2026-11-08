@@ -1,27 +1,30 @@
 ---
 published: true
-title: 'Megvan az első nagy név: Maya Hawke kapott kulcsszerepet a Magic: The Gathering filmben'
+title: "Megvan az első nagy név: Maya Hawke kapott kulcsszerepet a Magic: The Gathering filmben"
 description: A Stranger Things sztárja az első bejelentett szereplője a Legendary és a Hasbro élőszereplős Magic-filmjének, amelyet a BlackBerry rendezője, Matt Johnson forgat. A történetről és a bemutató időpontjáról még nincs hivatalos információ.
 date: 2026-11-05T15:30:00+01:00
 type: gyujtott
 author: Szerkesztőség
 tags:
   - Iparági hírek
-  - 'Magic: The Gathering'
+  - "Magic: The Gathering"
   - Hasbro
   - Film
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1793959163484.png
-imageAlt: ''
-imageCredit: 'Fotó: Wizards of the Coast'
-imageSuggestion: 'Hivatalos sajtókép a filmhez még nincs, színészfotót pedig nem használunk. Ha kell kép, a Magic: The Gathering hivatalos logója jöhet szóba a Wizards of the Coast sajtó- vagy arculati oldaláról (Fotó: Wizards of the Coast) – ezt a szerkesztőnek kell megkeresnie és ellenőriznie. Kép nélkül is rendben van.'
+imageAlt: ""
+imageCredit: "Fotó: Wizards of the Coast"
+imageSuggestion: "Hivatalos sajtókép a filmhez még nincs, színészfotót pedig nem használunk. Ha kell kép, a Magic: The Gathering hivatalos logója jöhet szóba a Wizards of the Coast sajtó- vagy arculati oldaláról (Fotó: Wizards of the Coast) – ezt a szerkesztőnek kell megkeresnie és ellenőriznie. Kép nélkül is rendben van."
 sources:
   - name: "TheWrap – Maya Hawke to Star in Live-Action 'Magic: The Gathering' Movie at Legendary and Hasbro"
     url: https://www.thewrap.com/creative-content/movies/maya-hawke-live-action-magic-the-gathering-movie/
   - name: "Gizmodo – 'Magic: The Gathering' Movie Casts Maya Hawke in Key Role"
     url: https://gizmodo.com/magic-the-gathering-movie-casts-a-stranger-things-star-2000835204
-  - name: 'CBR – Magic: The Gathering Live-Action Movie Lands Stranger Things Star in First Major Casting'
+  - name: "CBR – Magic: The Gathering Live-Action Movie Lands Stranger Things Star in First Major Casting"
     url: https://www.cbr.com/magic-the-gathering-movie-cast-maya-hawke/
+approved: true
+chiefApproved: true
+status: ✅ megjelent
 ---
 
 Újabb lépést tett a régóta tervezett élőszereplős **Magic: The Gathering** film: november 4-én a Deadline nyomán több amerikai lap is beszámolt róla, hogy **Maya Hawke** csatlakozott a produkcióhoz. A színésznőt a *Stranger Things* Robinjaként ismerheti a közönség, emellett játszott többek között a *Kisasszonyok* (*Little Women*) című filmben is. Ő az első ismert név, akit a stáb tagjaként megneveztek.

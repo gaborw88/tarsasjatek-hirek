@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Nem segít meglévő játékok lemásolásában: új szabályt kapott az Anthropic Claude Code nevű AI-eszköze'
+title: "Nem segít meglévő játékok lemásolásában: új szabályt kapott az Anthropic Claude Code nevű AI-eszköze"
 description: Az Anthropic október végén arra utasította Claude Code nevű programozó-asszisztensét, hogy ne készítsen el konkrét, már létező játékokat, átnevezve sem. A lépés a társasjáték-iparban is visszhangot keltett, ahol a digitális klónok régóta vitatott kérdést jelentenek.
 date: 2026-11-03T15:00:00+01:00
 type: gyujtott
@@ -10,16 +10,19 @@ tags:
   - Mesterséges intelligencia
   - Szerzői jog
   - Digitális társasjátékok
-youtube: ''
+youtube: ""
 image: /images/uploads/anthropic-logo_brandlogos.net_bc6bj.png
-imageAlt: ''
-imageCredit: 'Kép: Anthropic'
-imageSuggestion: 'Hivatalos sajtókép nincs. Ha szeretnél képet: az Anthropic hivatalos logója a cég sajtó-/arculati oldaláról (anthropic.com) – javasolt forrásmegjelölés: Kép: Anthropic. Kép nélkül is rendben van.'
+imageAlt: ""
+imageCredit: "Kép: Anthropic"
+imageSuggestion: "Hivatalos sajtókép nincs. Ha szeretnél képet: az Anthropic hivatalos logója a cég sajtó-/arculati oldaláról (anthropic.com) – javasolt forrásmegjelölés: Kép: Anthropic. Kép nélkül is rendben van."
 sources:
   - name: BoardGameWire – Anthropic cracks down on AI game cloning as risk of unauthorised digital copies, reskins grows
     url: https://boardgamewire.com/index.php/2026/11/03/anthropic-cracks-down-on-ai-game-cloning-as-risk-of-unauthorised-digital-copies-reskins-grows/
-  - name: 'MIXED – „Steer it away”: Anthropic tells Claude Code not to recreate someone else’s game'
+  - name: "MIXED – „Steer it away”: Anthropic tells Claude Code not to recreate someone else’s game"
     url: https://mixed-news.com/en/anthropic-claude-code-opus-game-cloning-rule/
+approved: true
+chiefApproved: true
+status: ✅ megjelent
 ---
 
 Az amerikai **Anthropic** – a Claude nevű mesterségesintelligencia-modellek fejlesztője – **október 27. körül** két mondattal bővítette **Claude Code** nevű programozó-asszisztensének alapútmutatását. Eszerint az eszköz segíthet eredeti játékok, egy adott műfajba tartozó játékok, illetve a felhasználó saját tervei alapján készülő játékok elkészítésében, de **egy konkrét, már létező játékot nem készít el újra** – akkor sem, ha azt átneveznék.

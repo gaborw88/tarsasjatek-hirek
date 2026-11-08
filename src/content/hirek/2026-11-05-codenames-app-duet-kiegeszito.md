@@ -1,7 +1,7 @@
 ---
 published: true
-title: 'Ketten a titkos ügynökök nyomában: megérkezett a Codenames: Duet a hivatalos mobilalkalmazásba'
-description: 'A Czech Games Edition kiegészítőként elérhetővé tette a kétfős, kooperatív Codenames: Duetet a Codenames iOS- és Android-alkalmazásában. A csomag világjáró kampányt, online párkeresést és új napi feladványokat is hoz.'
+title: "Ketten a titkos ügynökök nyomában: megérkezett a Codenames: Duet a hivatalos mobilalkalmazásba"
+description: "A Czech Games Edition kiegészítőként elérhetővé tette a kétfős, kooperatív Codenames: Duetet a Codenames iOS- és Android-alkalmazásában. A csomag világjáró kampányt, online párkeresést és új napi feladványokat is hoz."
 date: 2026-11-05T15:20:00+01:00
 type: gyujtott
 author: Szerkesztőség
@@ -10,16 +10,19 @@ tags:
   - Czech Games Edition
   - Codenames
   - Digitális társasjáték
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1793919793102.png
-imageAlt: ''
-imageCredit: 'Fotó: Czech Games Edition'
-imageSuggestion: 'Hivatalos sajtóanyag: https://codenamesapp.com/press (letölthető médiacsomag, alkalmazás-képernyőképek, dobozkép és logók), például a logó: https://codenamesapp.com/press/img/screenshots/cn_logo_eng.png – javasolt forrásmegjelölés: Fotó: Czech Games Edition'
+imageAlt: ""
+imageCredit: "Fotó: Czech Games Edition"
+imageSuggestion: "Hivatalos sajtóanyag: https://codenamesapp.com/press (letölthető médiacsomag, alkalmazás-képernyőképek, dobozkép és logók), például a logó: https://codenamesapp.com/press/img/screenshots/cn_logo_eng.png – javasolt forrásmegjelölés: Fotó: Czech Games Edition"
 sources:
   - name: EverythingBoardGames.com – Duet comes to the Codenames App!
     url: https://everythingboardgames.com/2026/11/duet-comes-to-the-codenames-app.html
   - name: Czech Games Edition – Codenames App sajtóoldal
     url: https://codenamesapp.com/press
+approved: true
+chiefApproved: true
+status: ✅ megjelent
 ---
 
 Mobilon is játszható lett a népszerű szóasszociációs játék kétfős változata. A cseh **Czech Games Edition** (CGE) bejelentette, hogy a **Codenames: Duet** kiegészítőként megérkezett a hivatalos **Codenames** alkalmazásba, iOS-re és Androidra egyaránt. A társasjátékot, csakúgy mint az alapjátékot, **Vlaada Chvátil** tervezte. Magyarul az alapjáték *Fedőnevek* címen kapható, a kétfős, kooperatív változat pedig *Fedőnevek: Négyszemközt* néven ismert.

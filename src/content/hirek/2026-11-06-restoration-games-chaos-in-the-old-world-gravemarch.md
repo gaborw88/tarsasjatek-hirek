@@ -1,7 +1,7 @@
 ---
 published: true
-title: 'Visszatér a Chaos in the Old World: Eric Langgal közösen, új világban éleszti fel a klasszikust a Restoration Games'
-description: 'A Restoration Games többéves licencszerződést kötött a Games Workshoppal: három, évek óta nem kapható játékot hoznak vissza, elsőként a Chaos in the Old World megújított változatát, amely 2027 elején érkezik a közösségi finanszírozásra.'
+title: "Visszatér a Chaos in the Old World: Eric Langgal közösen, új világban éleszti fel a klasszikust a Restoration Games"
+description: "A Restoration Games többéves licencszerződést kötött a Games Workshoppal: három, évek óta nem kapható játékot hoznak vissza, elsőként a Chaos in the Old World megújított változatát, amely 2027 elején érkezik a közösségi finanszírozásra."
 date: 2026-11-06T19:00:00+01:00
 type: gyujtott
 author: Szerkesztőség
@@ -11,16 +11,19 @@ tags:
   - Games Workshop
   - Talisman
   - Crowdfunding
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794084418303.png
-imageAlt: ''
-imageCredit: ''
-imageSuggestion: 'Hivatalos sajtókép: https://restorationgames.com/wp-content/uploads/2026/11/Talisman-Day-Blog-Thumbnail.png (a Restoration Games sajtóközleményének saját illusztrációja) – javasolt forrásmegjelölés: Fotó: Restoration Games. Dobozkép még nincs, mert a játék csak 2027-ben kerül a közösségi finanszírozásra.'
+imageAlt: ""
+imageCredit: ""
+imageSuggestion: "Hivatalos sajtókép: https://restorationgames.com/wp-content/uploads/2026/11/Talisman-Day-Blog-Thumbnail.png (a Restoration Games sajtóközleményének saját illusztrációja) – javasolt forrásmegjelölés: Fotó: Restoration Games. Dobozkép még nincs, mert a játék csak 2027-ben kerül a közösségi finanszírozásra."
 sources:
   - name: Restoration Games – Restoration Games Partners with Games Workshop to Bring Back Three Classic Games (sajtóközlemény)
     url: https://restorationgames.com/restoration-games-partners-with-games-workshop/
   - name: BoardGameWire – Restoration Games to revive Chaos in the Old World as Games Workshop eyes shared universe for reimagined classics
     url: https://boardgamewire.com/index.php/2026/11/06/restoration-games-to-revive-chaos-in-the-old-world-as-games-workshop-eyes-shared-universe-for-reimagined-classics/
+approved: true
+chiefApproved: true
+status: ✅ megjelent
 ---
 
 A régi, elfeledett játékok felújítására szakosodott amerikai **Restoration Games** (a Return to Dark Tower kiadója) november 5-én bejelentette, hogy **többéves licencszerződést kötött a Games Workshoppal**. A megállapodás keretében három olyan játékot hoznak vissza, amely közel egy évtizede nem kapható: a **Chaos in the Old World**, a **Space Hulk: Death Angel – The Card Game** és a **Warrior Knights** új kiadását.

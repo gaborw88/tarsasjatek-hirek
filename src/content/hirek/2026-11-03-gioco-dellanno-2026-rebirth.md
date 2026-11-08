@@ -12,11 +12,11 @@ tags:
   - Reiner Knizia
   - Mighty Boards
   - Cranio Creations
-youtube: ''
+youtube: ""
 image: /images/uploads/Rebith_SITO_Gioco_dell_anno_1.png
-imageAlt: ''
-imageCredit: 'Fotó: Cranio Creations'
-imageSuggestion: 'Hivatalos dobozkép a kiadó termékoldalán: https://craniocreations.it/en/products/rebirth – javasolt forrásmegjelölés: Fotó: Cranio Creations'
+imageAlt: ""
+imageCredit: "Fotó: Cranio Creations"
+imageSuggestion: "Hivatalos dobozkép a kiadó termékoldalán: https://craniocreations.it/en/products/rebirth – javasolt forrásmegjelölés: Fotó: Cranio Creations"
 sources:
   - name: "The Rift – Lucca Comics & Games Awards 2026: Rebirth è il Gioco dell'Anno, Legend in the Mist vince tra i GDR"
     url: https://therift.it/gdr/lucca-comics-games-awards-2026-rebirth-e-il-gioco-dellanno-legend-in-the-mist-vince-tra-i-gdr/
@@ -26,6 +26,9 @@ sources:
     url: https://www.elplural.com/juegos/juegos-mesa/rebirth-mejor-juego-ano-italia-juego-mesa-esta-conquistando-2026_803007102
   - name: Cranio Creations – Rebirth (termékoldal)
     url: https://craniocreations.it/en/products/rebirth
+approved: true
+chiefApproved: true
+status: ✅ megjelent
 ---
 
 Újabb rangos elismerést gyűjtött be Reiner Knizia: a **Rebirth** című játéka nyerte az olasz **Gioco dell'Anno 2026** (Az év játéka) díjat. Az eredményt a 60. alkalommal megrendezett Lucca Comics & Games fesztivál díjátadó gáláján hirdették ki a város Teatro del Giglio színházában. Az 1991 óta odaítélt díjról kilenctagú zsűri dönt; tavaly a Botanicus nyert.

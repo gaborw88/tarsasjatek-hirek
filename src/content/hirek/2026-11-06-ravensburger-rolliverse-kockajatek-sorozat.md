@@ -1,7 +1,7 @@
 ---
 published: true
-title: 'Minecraft, Star Wars és Stitch egy asztalnál: összekombinálható kockajáték-sorozatot indít a Ravensburger'
-description: 'Rolliverse néven új családi kockajáték-sorozattal jelentkezik a Ravensburger: hat témájú dobozzal indul, amelyek önállóan és egymással keverve is játszhatók. Az Egyesült Államokban decemberben, Nagy-Britanniában februárban kerül a boltokba.'
+title: "Minecraft, Star Wars és Stitch egy asztalnál: összekombinálható kockajáték-sorozatot indít a Ravensburger"
+description: "Rolliverse néven új családi kockajáték-sorozattal jelentkezik a Ravensburger: hat témájú dobozzal indul, amelyek önállóan és egymással keverve is játszhatók. Az Egyesült Államokban decemberben, Nagy-Britanniában februárban kerül a boltokba."
 date: 2026-11-06T20:00:00+01:00
 type: gyujtott
 author: Szerkesztőség
@@ -9,10 +9,10 @@ tags:
   - Kiadói hírek
   - Ravensburger
   - Családi játékok
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794117918196.png
-imageAlt: ''
-imageCredit: ''
+imageAlt: ""
+imageCredit: ""
 imageSuggestion: "Hivatalos dobozkép a Ravensburger brit termékoldalán: https://www.ravensburger.co.uk/en-GB/products/games/children-games/rolliverse-rollis-adventure-12003078 – javasolt forrásmegjelölés: Fotó: Ravensburger. (Az oldalt most nem sikerült megnyitni, ezért a képet feltöltés előtt ellenőrizd; a Minecraft- és Star Wars-dobozoknál a licencelt grafika miatt érdemesebb a saját Rolli's Adventures-dobozt használni.)"
 sources:
   - name: The Toy Insider – Rolliverse Brings Minecraft, Star Wars, and More Favorite Worlds to Family Game Night
@@ -21,6 +21,9 @@ sources:
     url: https://toyworldmag.co.uk/ravensburger-reveals-new-rolliverse-line/
   - name: Brands Untapped – Ravensburger readies Rolliverse
     url: https://www.brandsuntapped.com/ravensburger-readies-rolliverse/
+approved: true
+chiefApproved: true
+status: ✅ megjelent
 ---
 
 Új családi kockajáték-sorozatot mutatott be a **Ravensburger**: a **Rolliverse** lényege, hogy minden doboz egy-egy külön „világot” tartalmaz, ezek önállóan is teljes játékot adnak, de bármelyik összekeverhető a többivel. A sorozatot a német kiadó az októberi Essen Spiel vásáron is bemutatta, a játékokat **Michael Palm** és **Lukas Zach** tervezte.

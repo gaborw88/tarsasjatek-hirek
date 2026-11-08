@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Milliós hajrá: a héten zárul a Feast for Odin folytatása, az Arkham Horror felújítása és a Stormlight-társasjáték kampánya'
+title: "Milliós hajrá: a héten zárul a Feast for Odin folytatása, az Arkham Horror felújítása és a Stormlight-társasjáték kampánya"
 description: November első hetében több nagy közösségi finanszírozású társasjáték-kampány ér véget a Gamefoundon és a Kickstarteren. A Fantasy Flight Games első saját kampánya már több mint 3,5 millió dollárnál jár.
 date: 2026-11-03T12:00:00+01:00
 type: gyujtott
@@ -11,22 +11,25 @@ tags:
   - Kickstarter
   - Feuerland
   - Fantasy Flight Games
-youtube: ''
+youtube: ""
 image: /images/uploads/AHR01_Article_First-Look_ComponentSpread_.webp
-imageAlt: ''
-imageCredit: 'otó: Fantasy Flight Games'
-imageSuggestion: 'Hivatalos kép a kiadó oldalán (Arkham Horror – Remastered Horror): https://www.fantasyflightgames.com/remastered-horror/ – javasolt forrásmegjelölés: Fotó: Fantasy Flight Games. Alternatíva: a The Danes Gamefound-kampányoldalának fejléce (Feuerland Spiele).'
+imageAlt: ""
+imageCredit: "otó: Fantasy Flight Games"
+imageSuggestion: "Hivatalos kép a kiadó oldalán (Arkham Horror – Remastered Horror): https://www.fantasyflightgames.com/remastered-horror/ – javasolt forrásmegjelölés: Fotó: Fantasy Flight Games. Alternatíva: a The Danes Gamefound-kampányoldalának fejléce (Feuerland Spiele)."
 sources:
   - name: Tabletop Analytics – Kickstarter/Gamefound Top Grossing
     url: https://www.tabletopanalytics.com/
   - name: Board Game Quest – Crowdfunding Campaigns of the Week (2026. 11. 02.)
     url: https://www.boardgamequest.com/crowdfunding-campaigns-of-the-week-11-2-26/
-  - name: 'Gus & Co – The Danes financé en 23 minutes : Feuerland revient au crowdfunding'
+  - name: "Gus & Co – The Danes financé en 23 minutes : Feuerland revient au crowdfunding"
     url: https://gusandco.net/2026/10/17/the-danes-feuerland-gamefound-crowdfunding/
   - name: Fantasy Flight Games – Remastered Horror
     url: https://www.fantasyflightgames.com/remastered-horror/
-  - name: 'Brotherwise Games – Stormlight: War for Roshar'
+  - name: "Brotherwise Games – Stormlight: War for Roshar"
     url: https://www.brotherwisegames.com/stormlight-war-for-roshar
+approved: true
+chiefApproved: true
+status: ✅ megjelent
 ---
 
 Sűrű hét elé néznek a közösségi finanszírozást figyelő társasjátékosok: november 4. és 6. között egyszerre több olyan kampány zárul, amely a kitűzött célját sokszorosan túlteljesítette. Az alábbi összegek a Tabletop Analytics november 3-i adatai, a végeredmény ennél még magasabb lehet.

@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Robotok a szörnyek ellen, pöccintéssel: kooperatív ügyességi játékot jelentett be a Root kiadója'
+title: "Robotok a szörnyek ellen, pöccintéssel: kooperatív ügyességi játékot jelentett be a Root kiadója"
 description: A Leder Games Stomp című új játékában a játékosok óriásrobotokkal védik a várost komikus kaijuk ellen. A Kickstarter-kampány legkorábban 2027-ben indul.
 date: 2026-11-04T19:30:00+01:00
 type: gyujtott
@@ -10,14 +10,17 @@ tags:
   - Leder Games
   - Kickstarter
   - Stomp
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1793832341739.png
-imageAlt: ''
-imageCredit: 'Kép: Leder Games'
-imageSuggestion: 'Hivatalos sajtókép egyelőre nem található: a játékot csak egy Twitch-közvetítésen jelentették be, a Leder Games oldalán és a Kickstarteren nem találtam hozzá nyilvános képet. Ha elindul a Kickstarter-előoldal, onnan lehet hivatalos képet választani (Kép: Leder Games), vagy kérj képet a kiadótól. Kép nélkül is rendben van.'
+imageAlt: ""
+imageCredit: "Kép: Leder Games"
+imageSuggestion: "Hivatalos sajtókép egyelőre nem található: a játékot csak egy Twitch-közvetítésen jelentették be, a Leder Games oldalán és a Kickstarteren nem találtam hozzá nyilvános képet. Ha elindul a Kickstarter-előoldal, onnan lehet hivatalos képet választani (Kép: Leder Games), vagy kérj képet a kiadótól. Kép nélkül is rendben van."
 sources:
   - name: GamesRadar+ – Root publisher reveals its next board game, and it's a mech vs. monsters challenge inspired by Dark Souls
     url: https://www.gamesradar.com/games/board-games/root-publisher-reveals-its-next-board-game-and-its-a-mech-vs-monsters-challenge-inspired-by-dark-souls/
+approved: true
+chiefApproved: true
+status: ✅ megjelent
 ---
 
 Új játékot jelentett be a *Root*, az *Oath* és a *Vast* kiadójaként ismert amerikai **Leder Games**. A **Stomp** egy saját Twitch-közvetítésükön mutatkozott be, és merőben eltér a kiadó megszokott, összetett stratégiai játékaitól: kooperatív ügyességi játékról van szó.

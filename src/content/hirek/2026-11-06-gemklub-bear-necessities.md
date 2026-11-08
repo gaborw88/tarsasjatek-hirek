@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Medvés kártyajátékkal bővül a Gémklub 2027-es kínálata: magyarul is megjelenik a Bear Necessities'
+title: "Medvés kártyajátékkal bővül a Gémklub 2027-es kínálata: magyarul is megjelenik a Bear Necessities"
 description: A Gémklub bejelentette, hogy 2027-ben magyarul is kiadja a Mojito Studios Bear Necessities című, gyors és barátságos kártyajátékát, amelyben medvés erdei tablót építenek a játékosok.
 date: 2026-11-06T18:00:00+01:00
 type: gyujtott
@@ -10,18 +10,21 @@ tags:
   - Gémklub
   - Mojito Studios
   - Kártyajáték
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794086298168.png
-imageAlt: ''
-imageCredit: 'Fotó: Mojito Studios'
-imageSuggestion: 'Hivatalos dobozkép a kiadó termékoldaláról: https://www.mojitostudios.com/assets/covers/bear-necessities.webp?v=1784025164 (termékoldal: https://mojitostudios.com/?code=bear-necessities&section=games) – javasolt forrásmegjelölés: Fotó: Mojito Studios'
+imageAlt: ""
+imageCredit: "Fotó: Mojito Studios"
+imageSuggestion: "Hivatalos dobozkép a kiadó termékoldaláról: https://www.mojitostudios.com/assets/covers/bear-necessities.webp?v=1784025164 (termékoldal: https://mojitostudios.com/?code=bear-necessities&section=games) – javasolt forrásmegjelölés: Fotó: Mojito Studios"
 sources:
-  - name: 'Gémklub – Új megjelenés: Bear Necessites (hírek)'
+  - name: "Gémklub – Új megjelenés: Bear Necessites (hírek)"
     url: https://www.gemklub.hu/hirek
   - name: Mojito Studios – Bear Necessities (termékoldal)
     url: https://mojitostudios.com/?code=bear-necessities&section=games
   - name: Board Game Arena – Bear Necessities
     url: https://en.boardgamearena.com/gamepanel?game=bearnecessities
+approved: true
+chiefApproved: true
+status: ✅ megjelent
 ---
 
 Újabb 2027-es megjelenést jelentett be a Gémklub: november 6-i hírükben azt írták, hogy jövőre magyarul is érkezik a **Bear Necessities** című kártyajáték, amelyet „bájos, de furfangos” játékként harangoztak be. A magyar cím, a pontos megjelenési idő és az ár egyelőre nem ismert.

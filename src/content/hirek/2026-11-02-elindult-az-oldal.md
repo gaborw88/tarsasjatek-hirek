@@ -1,18 +1,21 @@
 ---
 published: true
 title: Elindultunk! Itt mostantól a társasjátékos világ hírei várnak
-description: 'Új magyar hírblog indul a társasjáték-ipar újdonságairól: megjelenések, kiadói hírek, rendezvények és díjak, magyarul.'
+description: "Új magyar hírblog indul a társasjáték-ipar újdonságairól: megjelenések, kiadói hírek, rendezvények és díjak, magyarul."
 date: 2026.11.02 19:06
 type: sajat
 author: Szerkesztőség
 tags:
   - Az oldalról
-youtube: ''
-image: ''
-imageAlt: ''
-imageCredit: ''
-imageSuggestion: 'Saját cikk: ide egy saját fotó illik (pl. a szerkesztőség vagy egy társasjátékos esemény). Kép nélkül is rendben van.'
+youtube: ""
+image: ""
+imageAlt: ""
+imageCredit: ""
+imageSuggestion: "Saját cikk: ide egy saját fotó illik (pl. a szerkesztőség vagy egy társasjátékos esemény). Kép nélkül is rendben van."
 sources: []
+approved: true
+chiefApproved: true
+status: ✅ megjelent
 ---
 
 Üdv az oldalon! Ez egy friss indulású, független magyar hírblog a társasjátékok világáról.

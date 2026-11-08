@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Lopások árnyékolják be a rekord-Essent: 14 ezer eurónyi áru tűnt el egy francia kiállító standjáról'
+title: "Lopások árnyékolják be a rekord-Essent: 14 ezer eurónyi áru tűnt el egy francia kiállító standjáról"
 description: A SPIEL Essen 2026 építése és bontása alatt hat lopást jelentettek, a legnagyobb kárt a francia Tossit szenvedte. A szervező szerint a kiállítók maguk felelnek a holmijukért, a vásárközpont adatvédelmi okokra hivatkozva nem figyeli kamerákkal a standokat.
 date: 2026-11-04T13:00:00+01:00
 type: gyujtott
@@ -9,16 +9,19 @@ tags:
   - Essen Spiel
   - Rendezvények
   - Iparági hírek
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1793780546640.png
-imageAlt: ''
-imageCredit: 'Fotó: SPIEL Essen'
-imageSuggestion: 'Hivatalos sajtókép: a SPIEL szervezőjének sajtó-képtára – https://www.spielwarenmesse-eg.de/media (SPIEL Essen kategória), vagy a vásár sajtóoldala: https://spiel-essen.de/en/press. Egy általános csarnokkép vagy a SPIEL logója illik a hírhez (felismerhető arcok nélkül). Javasolt forrásmegjelölés: Fotó: SPIEL Essen. Kép nélkül is rendben van.'
+imageAlt: ""
+imageCredit: "Fotó: SPIEL Essen"
+imageSuggestion: "Hivatalos sajtókép: a SPIEL szervezőjének sajtó-képtára – https://www.spielwarenmesse-eg.de/media (SPIEL Essen kategória), vagy a vásár sajtóoldala: https://spiel-essen.de/en/press. Egy általános csarnokkép vagy a SPIEL logója illik a hírhez (felismerhető arcok nélkül). Javasolt forrásmegjelölés: Fotó: SPIEL Essen. Kép nélkül is rendben van."
 sources:
   - name: BoardGameWire – SPIEL Essen defends security measures after six thefts during setup and dismantling, including €14,000 publisher loss
     url: https://boardgamewire.com/index.php/2026/11/03/spiel-essen-defends-security-measures-after-six-thefts-during-setup-and-dismantling-including-e14000-publisher-loss/
   - name: Wargamer – Board game show SPIEL Essen says "our team has not laughed" at $15,000 theft from exhibitor stand
     url: https://www.wargamer.com/board-game-theft-essen-spiel-2026
+approved: true
+chiefApproved: true
+status: ✅ megjelent
 ---
 
 Rekordlátogatottsággal, 230 ezer vendéggel zárult októberben a SPIEL Essen, a vásár után azonban kellemetlen hírek is érkeztek. A szervező Merz Verlag megerősítette, hogy az építés és a bontás idején – amikor a csarnokokba csak kiállítók, a személyzet és a biztonsági szolgálat léphetett be – összesen hat lopást jelentettek be.

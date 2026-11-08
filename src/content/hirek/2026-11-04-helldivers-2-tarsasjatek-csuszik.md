@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Csúszik a Helldivers 2 társasjáték: elmúlt az októberi határidő, a támogatók hónapok óta nem kaptak hírt'
+title: "Csúszik a Helldivers 2 társasjáték: elmúlt az októberi határidő, a támogatók hónapok óta nem kaptak hírt"
 description: A több mint 3,2 millió fontot gyűjtött Steamforged-kampány októberre ígérte a szállítást, de új ütemterv nincs, az utolsó frissítés augusztusban jelent meg.
 date: 2026-11-04T11:10:00+01:00
 type: gyujtott
@@ -10,16 +10,19 @@ tags:
   - Steamforged Games
   - Gamefound
   - Helldivers 2
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1793794204435.png
-imageAlt: ''
-imageCredit: 'Fotó: Steamforged Games'
-imageSuggestion: 'Hivatalos kép a kiadó saját bejelentő oldalán: https://steamforged.com/blogs/brands/helldivers-2-board-game-announcement – javasolt forrásmegjelölés: Fotó: Steamforged Games. (Alternatíva: a kiadó Gamefound-kampányoldalának képei.)'
+imageAlt: ""
+imageCredit: "Fotó: Steamforged Games"
+imageSuggestion: "Hivatalos kép a kiadó saját bejelentő oldalán: https://steamforged.com/blogs/brands/helldivers-2-board-game-announcement – javasolt forrásmegjelölés: Fotó: Steamforged Games. (Alternatíva: a kiadó Gamefound-kampányoldalának képei.)"
 sources:
-  - name: 'Brettspiel-News.de – Helldivers 2: The Board Game verpasst den Oktober-Termin, letztes Update im August'
+  - name: "Brettspiel-News.de – Helldivers 2: The Board Game verpasst den Oktober-Termin, letztes Update im August"
     url: https://www.brettspiel-news.de/index.php/de/nachrichten-uebersicht/crowdfunding/16380-helldivers-2-the-board-game-verpasst-den-oktober-termin-letztes-update-im-august
   - name: BoardGameWire – Steamforged crowdfunding concerns grow as updates dry up, refund requests go unresolved
     url: https://boardgamewire.com/index.php/2026/10/09/steamforged-crowdfunding-concerns-grow-as-updates-dry-up-refund-requests-go-unresolved/
+approved: true
+chiefApproved: true
+status: ✅ megjelent
 ---
 
 Lejárt a határidő, de a dobozok sehol: a brit Steamforged Games októberre ígérte a *HELLDIVERS 2: The Board Game* leszállítását a támogatóknak, ám új időpontot eddig nem közölt. A népszerű videojáték kooperatív társasjáték-változata a Gamefoundon 9345 támogatótól több mint 3,2 millió fontot gyűjtött.

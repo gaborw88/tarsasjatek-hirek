@@ -1,25 +1,28 @@
 ---
 published: true
-title: 'Retró 3D-s lapok jótékony célra: kórházban fekvő gyerekeket támogat a Magic új Secret Lair-kiadása'
-description: 'A Wizards of the Coast idén is a gyermekkórházakat segítő Extra Life programmal közösen ad ki különleges Magic: The Gathering lapokat. A Rise of the Polygons november 16-tól rendelhető, az ár felét jótékony célra fordítják.'
+title: "Retró 3D-s lapok jótékony célra: kórházban fekvő gyerekeket támogat a Magic új Secret Lair-kiadása"
+description: "A Wizards of the Coast idén is a gyermekkórházakat segítő Extra Life programmal közösen ad ki különleges Magic: The Gathering lapokat. A Rise of the Polygons november 16-tól rendelhető, az ár felét jótékony célra fordítják."
 date: 2026-11-06T09:00:00+01:00
 type: gyujtott
 author: Szerkesztőség
 tags:
-  - 'Magic: The Gathering'
+  - "Magic: The Gathering"
   - Wizards of the Coast
   - Jótékonyság
   - Gyűjtögetős kártyajáték
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794083771515.png
-imageAlt: ''
-imageCredit: 'Kép: Wizards of the Coast'
-imageSuggestion: 'Hivatalos sajtókép (a Wizards of the Coast bejelentésének fejléce): https://images.ctfassets.net/s5n2t79q9icq/6Cj6ZFu7Ry4A1gJI8EBnRE/a4088d3658ca7dca49d1203d4be58271/Extra_Life_2026_1920x1080.webp – javasolt forrásmegjelölés: Kép: Wizards of the Coast'
+imageAlt: ""
+imageCredit: "Kép: Wizards of the Coast"
+imageSuggestion: "Hivatalos sajtókép (a Wizards of the Coast bejelentésének fejléce): https://images.ctfassets.net/s5n2t79q9icq/6Cj6ZFu7Ry4A1gJI8EBnRE/a4088d3658ca7dca49d1203d4be58271/Extra_Life_2026_1920x1080.webp – javasolt forrásmegjelölés: Kép: Wizards of the Coast"
 sources:
-  - name: 'Magic: The Gathering (Wizards of the Coast) – Magic Levels Up with Extra Life for 2026'
+  - name: "Magic: The Gathering (Wizards of the Coast) – Magic Levels Up with Extra Life for 2026"
     url: https://magic.wizards.com/en/news/announcements/magic-levels-up-with-extra-life-for-2026
-  - name: 'Bleeding Cool – Magic: The Gathering Unveils Extra Life 2026 Secret Lair Drop'
+  - name: "Bleeding Cool – Magic: The Gathering Unveils Extra Life 2026 Secret Lair Drop"
     url: https://bleedingcool.com/games/magic-the-gathering-unveils-extra-life-2026-secret-lair-drop/
+approved: true
+chiefApproved: true
+status: ✅ megjelent
 ---
 
 A **Wizards of the Coast** november 3-án jelentette be, hogy idén is különleges kiadással támogatja az **Extra Life** jótékonysági programot, amely a Children's Miracle Network gyermekkórház-hálózat javára gyűjt adományokat játékosok segítségével. Az idei **Secret Lair: Rise of the Polygons** lapjai a kilencvenes évek végének kezdetleges, szögletes 3D-s videójáték-grafikáját idézik – ez továbblépés a 2024-es Extra Life-kiadás 16 bites, pixeles stílusához képest.

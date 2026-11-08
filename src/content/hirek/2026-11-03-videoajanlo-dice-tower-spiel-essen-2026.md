@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Videó: a Dice Tower csapata Essen 2026-ról beszélget'
+title: "Videó: a Dice Tower csapata Essen 2026-ról beszélget"
 description: A világ egyik legismertebb társasjátékos videós csapata, a The Dice Tower élő adásban osztotta meg tapasztalatait a rekordlátogatottságú SPIEL Essen 2026 vásárról.
 date: 2026-11-03T19:30:00+01:00
 type: video
@@ -10,17 +10,20 @@ tags:
   - The Dice Tower
   - Essen Spiel
 youtube: https://www.youtube.com/watch?v=OPyea0CF4BY
-image: ''
-imageAlt: ''
-imageCredit: ''
-imageSuggestion: 'Videóajánló: a cikk tetején a beágyazott videó jelenik meg, külön kép nem szükséges.'
+image: ""
+imageAlt: ""
+imageCredit: ""
+imageSuggestion: "Videóajánló: a cikk tetején a beágyazott videó jelenik meg, külön kép nem szükséges."
 sources:
-  - name: 'YouTube – The Dice Tower: Thoughts on Spiel Essen 2026'
+  - name: "YouTube – The Dice Tower: Thoughts on Spiel Essen 2026"
     url: https://www.youtube.com/watch?v=OPyea0CF4BY
   - name: The Dice Tower – Thoughts on Spiel Essen 2026 (videóoldal)
     url: https://dicetower.com/video/thoughts-spiel-essen-2026
   - name: BoardGameWire – Spiel Essen hits record 230,000 attendance
     url: https://boardgamewire.com/index.php/2026/11/02/spiel-essen-hits-record-230000-attendance-as-publishers-report-booming-sales-but-worlds-biggest-board-game-fair-has-reached-its-limit/
+approved: true
+chiefApproved: true
+status: ✅ megjelent
 ---
 
 A **The Dice Tower** az egyik legrégebbi és legnagyobb angol nyelvű társasjátékos videós csatorna: játékkritikák, toplisták és rendezvénybeszámolók mellett saját conokat is szervez az Egyesült Államokban. A csapat minden évben ott van Essenben, a világ legnagyobb társasjátékos vásárán.
