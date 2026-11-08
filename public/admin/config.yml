@@ -58,6 +58,9 @@ collections:
       - name: published
         widget: hidden
         default: false
+      - name: publishedAt
+        widget: hidden
+        required: false
       - name: lastEditedBy
         label: "Utoljára szerkesztette"
         widget: string

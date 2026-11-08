@@ -18,6 +18,7 @@ const hirek = defineCollection({
     approvedBy: z.string().optional(),
     chiefApprovedBy: z.string().optional(),
     lastEditedBy: z.string().optional(),
+    publishedAt: z.coerce.date().optional(),
     author: z.string().optional(),
     tags: z.array(z.string()).default([]),
     image: z.string().optional(),

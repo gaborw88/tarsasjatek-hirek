@@ -4,7 +4,7 @@ import { SITE } from '../site.config';
 
 export async function GET(context) {
   const items = (await getCollection('hirek', ({ data }) => data.published))
-    .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+    .sort((a, b) => (b.data.publishedAt ?? b.data.date).valueOf() - (a.data.publishedAt ?? a.data.date).valueOf())
     .slice(0, 50);
   const base = import.meta.env.BASE_URL.replace(/\/$/, '');
   return rss({
@@ -14,7 +14,8 @@ export async function GET(context) {
     items: items.map((a) => ({
       title: a.data.title,
       description: a.data.description,
-      pubDate: a.data.date,
+      // a megjelenés (jóváhagyás) ideje, hogy a később jóváhagyott cikkek is újként jelenjenek meg a hírolvasókban és a Facebook-automatizálásban
+      pubDate: a.data.publishedAt ?? a.data.date,
       link: `${base}/hirek/${a.id}/`,
     })),
     customData: '<language>hu</language>',
