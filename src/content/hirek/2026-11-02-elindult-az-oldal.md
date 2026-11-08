@@ -16,6 +16,7 @@ sources: []
 approved: true
 chiefApproved: true
 status: ✅ megjelent
+lastEditedBy: Hírgyűjtő (nyelvi modell)
 ---
 
 Üdv az oldalon! Ez egy friss indulású, független magyar hírblog a társasjátékok világáról.
