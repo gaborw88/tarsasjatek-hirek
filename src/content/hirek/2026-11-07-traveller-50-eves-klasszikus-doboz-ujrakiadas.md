@@ -1,6 +1,12 @@
 ---
+status: ⏳ tervezet
+approved: false
+chiefApproved: true
 published: false
-title: "Ötvenéves a Traveller: újra kiadják az 1977-es eredeti dobozt a „kis fekete könyvekkel”"
+lastEditedBy: ''
+approvedBy: ''
+chiefApprovedBy: ''
+title: 'Ötvenéves a Traveller: újra kiadják az 1977-es eredeti dobozt a „kis fekete könyvekkel”'
 description: A Mongoose Publishing januárban Kickstarter-kampányt indít a klasszikus sci-fi szerepjáték első, 1977-es dobozos kiadásának hű újranyomására – ez az 50. évfordulós program első darabja.
 date: 2026-11-07T19:00:00+01:00
 type: gyujtott
@@ -11,17 +17,18 @@ tags:
   - Kickstarter
   - Mongoose Publishing
   - Traveller
-imageSuggestion: "A kiadó saját Kickstarter-előoldala (https://www.kickstarter.com/projects/mongoosepublishing/traveller-rpg-classic-box-set-reprint) „50 Years of Traveller” borítóképe használható lehet – javasolt forrásmegjelölés: Kép: Mongoose Publishing. Az oldalt most nem sikerült megnyitni, ezért a kép elérhetőségét ellenőrizni kell; a kampány januári indulásakor biztosan lesz hivatalos kép. Ha addig nincs, kép nélkül is rendben van, vagy kérj képet a kiadótól."
+youtube: ''
+image: /images/uploads/pasted-image-1794161597563.png
+imageAlt: ''
+imageCredit: 'Kép: Mongoose Publishing'
+imageSuggestion: 'A kiadó saját Kickstarter-előoldala (https://www.kickstarter.com/projects/mongoosepublishing/traveller-rpg-classic-box-set-reprint) „50 Years of Traveller” borítóképe használható lehet – javasolt forrásmegjelölés: Kép: Mongoose Publishing. Az oldalt most nem sikerült megnyitni, ezért a kép elérhetőségét ellenőrizni kell; a kampány januári indulásakor biztosan lesz hivatalos kép. Ha addig nincs, kép nélkül is rendben van, vagy kérj képet a kiadótól.'
 sources:
-  - name: "Tabletop Sentinel – Back to the Little Black Books: Classic Traveller Returns for Its 50th Anniversary"
+  - name: 'Tabletop Sentinel – Back to the Little Black Books: Classic Traveller Returns for Its 50th Anniversary'
     url: https://www.tabletopsentinel.com/news/scifi/back-to-the-little-black-books-classic-traveller-returns-for-its-50th-anniversary
   - name: EN World – Mongoose is reprinting the first ever Traveller box set for its 50th anniversary
     url: https://www.enworld.org/threads/mongoose-is-reprinting-the-first-ever-traveller-box-set-for-its-50th-anniversary.721258/
   - name: Kickstarter – Traveller RPG Classic Box Set Reprint (előoldal)
     url: https://www.kickstarter.com/projects/mongoosepublishing/traveller-rpg-classic-box-set-reprint
-approved: false
-chiefApproved: false
-status: ⏳ tervezet
 ---
 
 Jövőre ünnepli ötvenedik születésnapját a **Traveller**, az egyik legrégebbi és legnagyobb hatású tudományos-fantasztikus szerepjáték. A sorozat jogait birtokló brit **Mongoose Publishing** az évfordulót azzal kezdi, hogy újra kiadja az 1977-es első dobozos kiadást – a játékot Marc Miller tervezte, és eredetileg a Game Designers' Workshop (GDW) jelentette meg.
