@@ -1,12 +1,12 @@
 ---
-status: ⏳ tervezet
-approved: false
+status: ✅ megjelent
+approved: true
 chiefApproved: true
-published: false
-lastEditedBy: ''
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Időutazás a Too Many Bones világában: másfél millió dollár fölött jár a Too Little Time Gamefound-kampánya'
+published: true
+lastEditedBy: Weszprémy Gábor
+approvedBy: Weszprémy Gábor
+chiefApprovedBy: Weszprémy Gábor
+title: "Időutazás a Too Many Bones világában: másfél millió dollár fölött jár a Too Little Time Gamefound-kampánya"
 description: A Chip Theory Games új, időutazós „boss battler” játéka egy nap alatt több mint egymillió dollárt gyűjtött, a kampány november 13-án zárul.
 date: 2026-11-07T21:00:00+01:00
 type: gyujtott
@@ -16,11 +16,11 @@ tags:
   - Gamefound
   - Chip Theory Games
   - Too Many Bones
-youtube: ''
-image: ''
-imageAlt: ''
-imageCredit: ''
-imageSuggestion: 'A kiadó saját Gamefound-kampányoldalának megosztási képe: https://imgcdn.gamefound.com/og-image-fb/projects/12995/54b0e377-9229-49da-8382-b63b241c9c6c.png – javasolt forrásmegjelölés: Kép: Chip Theory Games'
+youtube: ""
+image: ""
+imageAlt: ""
+imageCredit: ""
+imageSuggestion: "A kiadó saját Gamefound-kampányoldalának megosztási képe: https://imgcdn.gamefound.com/og-image-fb/projects/12995/54b0e377-9229-49da-8382-b63b241c9c6c.png – javasolt forrásmegjelölés: Kép: Chip Theory Games"
 sources:
   - name: Gamefound – Too Little Time by Chip Theory Games (kampányoldal)
     url: https://gamefound.com/en/projects/chip-theory-games/too-little-time
@@ -28,6 +28,7 @@ sources:
     url: https://ixbt.games/en/news/2026/10/28/kraud-kampaniia-nastolnoi-igry-too-little-time-sobrala-bolee-88-millionov-rublei-mense-cem-za-sutki.html
   - name: Tabletop Analytics – Kickstarter/Gamefound Top Grossing
     url: https://www.tabletopanalytics.com/
+publishedAt: 2026-11-08T18:19:01.277Z
 ---
 
 A **Chip Theory Games** amerikai kiadó neve egyet jelent a vastag zsetonokkal és neoprén játéktáblákkal kiadott, prémium kivitelű játékokkal – és a közönsége most is gyorsan reagált. Az október 27-én indult Gamefound-kampányában a **Too Little Time** kevesebb mint hat perc alatt elérte a 100 ezer dolláros alapcélt, az első 24 órában pedig már több mint 1,1 millió dollárt gyűjtött. A Tabletop Analytics kampánykövető oldal adatai szerint a támogatás azóta 1,67 millió dollár fölé emelkedett, közel 4900 támogatótól. A kampány **november 13-án** zárul.
