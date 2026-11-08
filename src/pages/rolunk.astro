@@ -1,57 +1,15 @@
 ---
+import { getEntry, render } from 'astro:content';
 import Base from '../layouts/Base.astro';
-import { SITE } from '../site.config';
+const page = await getEntry('oldalak', 'rolunk');
+if (!page) throw new Error('Hiányzik az oldal: rolunk');
+const { Content } = await render(page);
 ---
-<Base title="Rólunk">
+<Base title={page.data.title}>
   <div class="prose">
-    <h1>Rólunk</h1>
-    <p class="lede">{SITE.description}</p>
-    <h2>Miért jött létre a DOBJektív?</h2>
-    <p>
-      A magyar társasjátékos közösségnek ma is sok kiváló fóruma, blogja és videós csatornája van, amelyek
-      ismertetőkkel, kritikákkal és játékbemutatókkal segítik a játékosokat. A DOBJektív nem velük akar versenyezni,
-      hanem kiegészíteni őket: kizárólag olyan feladatokat szeretnénk ellátni, amelyekre a hazai színtéren
-      jelenleg nincs gazdája.
-    </p>
-    <p>
-      Ezért nálunk a hírek állnak a középpontban: a nemzetközi és a hazai társasjáték-ipar eseményei, a magyar
-      kiadók új megjelenései, a közösségi finanszírozású kampányok, a díjak és a rendezvények – rendszeresen,
-      gyorsan, magyarul, és mindig a források megjelölésével.
-    </p>
-    <p>
-      Az oldalt a Magyar Társasjáték-fejlesztők Egyesülete adja ki.
-    </p>
-    <h2>Mit találsz nálunk?</h2>
-    <ul>
-      <li><strong>Saját cikkek</strong> – beszámolók, vélemények, interjúk.</li>
-      <li><strong>Fordítások</strong> – fontos külföldi cikkek magyarul, a forrás megjelölésével.</li>
-      <li><strong>Hírösszefoglalók</strong> – a nemzetközi társasjátékos sajtó legfontosabb hírei röviden.</li>
-    </ul>
-    <h2 id="hogyan-keszulnek">Hogyan készülnek a cikkeink?</h2>
-    <p>
-      A nemzetközi és hazai társasjátékos híreket nyelvi modell segítségével gyűjtjük: a modell naponta
-      többször átnézi a kiadók, rendezvények és szaklapok nyilvános híreit, és a fontosabbakból saját
-      megfogalmazású összefoglaló-tervezetet készít, a források megjelölésével.
-    </p>
-    <p>
-      <strong>Egyetlen cikk sem jelenik meg automatikusan.</strong> Minden tervezetet szerkesztőink átolvasnak,
-      a forrásokkal összevetve ellenőriznek, szükség esetén javítanak, és csak ezután hagyják jóvá. A cikkek
-      tartalmáért a szerkesztőség felel. Fordítást csak az eredeti szerző vagy kiadó engedélyével közlünk.
-      A saját cikkeinket (beszámolók, interjúk, vélemények) szerkesztőink írják.
-    </p>
-    <p>
-      Minden cikk alján feltüntetjük, hogyan készült, és milyen forrásokra épül. Ha hibát találsz,
-      írj nekünk, és javítjuk.
-    </p>
-
-    <h2>Független és ingyenes</h2>
-    <p>
-      Az oldal nem kereskedelmi célú: nem tartalmaz hirdetést, nem közöl fizetett tartalmat, és bevételt
-      nem termel. Kiadóktól, forgalmazóktól ellenszolgáltatást nem fogadunk el a megjelenésért.
-    </p>
-
-    <h2>Kapcsolat</h2>
-    <p><a href={`mailto:${SITE.email}`}>{SITE.email}</a></p>
+    <h1>{page.data.title}</h1>
+    {page.data.lede && <p class="lede">{page.data.lede}</p>}
+    <Content />
   </div>
 </Base>
 <style>.lede { font-size: 1.2rem; color: var(--c-muted); }</style>

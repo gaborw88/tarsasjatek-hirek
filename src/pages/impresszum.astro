@@ -1,69 +1,15 @@
 ---
+import { getEntry, render } from 'astro:content';
 import Base from '../layouts/Base.astro';
-import { SITE } from '../site.config';
+const page = await getEntry('oldalak', 'impresszum');
+if (!page) throw new Error('Hiányzik az oldal: impresszum');
+const { Content } = await render(page);
 ---
-<Base title="Impresszum">
+<Base title={page.data.title}>
   <div class="prose">
-    <h1>Impresszum</h1>
-
-    <h2>A weboldal</h2>
-    <p>
-      <strong>Neve:</strong> {SITE.name}<br />
-      <strong>Jellege:</strong> nem kereskedelmi célú, hirdetésmentes online hírblog a társasjáték-ipar híreiről<br />
-      <strong>Nyelve:</strong> magyar
-    </p>
-
-    <h2>Kiadó</h2>
-    <p>
-      <strong>Kiadja:</strong> Magyar Társasjáték-fejlesztők Egyesülete<br />
-      <strong>Székhely és postacím:</strong> 1146 Budapest, Cházár András utca 2/B. 7. emelet 704.<br />
-      <strong>Nyilvántartási szám:</strong> 01-02-0018651<br />
-      <strong>Kiadásért felelős személy:</strong> Urbán Ádám, elnök<br />
-      <strong>E-mail:</strong> <a href={`mailto:${SITE.publisherEmail}`}>{SITE.publisherEmail}</a>
-    </p>
-
-    <h2>Szerkesztőség</h2>
-    <p>
-      <strong>Főszerkesztő (felelős szerkesztő):</strong> Weszprémy Gábor<br />
-      <strong>E-mail:</strong> <a href={`mailto:${SITE.email}`}>{SITE.email}</a>
-    </p>
-
-    <h2>Tárhelyszolgáltató</h2>
-    <p>
-      GitHub, Inc. (GitHub Pages)<br />
-      88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA<br />
-      <a href="https://support.github.com/contact" rel="noopener">support.github.com/contact</a>
-    </p>
-
-    <h2>Tartalom és források</h2>
-    <p>
-      Az oldalon háromféle írás jelenik meg: saját szerkesztésű cikkek, külföldi cikkek magyar fordításai,
-      valamint nyilvánosan elérhető hírekből készült összefoglalók. A fordítások és összefoglalók forrását
-      minden esetben feltüntetjük a cikk alján. A hírösszefoglalók és fordítások nyelvi modell
-      segítségével készülnek; minden cikk megjelenés előtt szerkesztői ellenőrzésen és jóváhagyáson megy át,
-      a tartalomért a szerkesztőség felel. Fordítást csak az eredeti szerző vagy kiadó engedélyével közlünk.
-      Az oldal hirdetést és fizetett tartalmat nem közöl.
-    </p>
-    <p>
-      Ha úgy látja, hogy valamelyik tartalom sérti a jogait, vagy hibát talált, kérjük, írjon a{' '}
-      <a href={`mailto:${SITE.email}`}>{SITE.email}</a> címre, és haladéktalanul intézkedünk.
-    </p>
-
-    <h2>Adatkezelés</h2>
-    <p>
-      Az oldal nem használ sütiket, és látogatóitól nem gyűjt személyes adatot. A látogatottságot a{' '}
-      <a href="https://www.goatcounter.com/" rel="noopener">GoatCounter</a> szolgáltatással mérjük, amely sütik nélkül,
-      személyazonosításra alkalmatlan módon számolja a megtekintéseket (például hogy egy cikket hányan olvastak el).
-    </p>
-    <p>
-      Egyes cikkekben YouTube-videó szerepel. Ezek csak akkor töltődnek be, ha a látogató a lejátszás gombra
-      kattint; ekkor a YouTube (Google) a saját szabályai szerint sütiket vagy hasonló technológiát használhat.
-      Kattintás nélkül az oldal semmilyen adatot nem küld a YouTube-nak.
-    </p>
-    <p>
-      A cikkek alatti Facebook-megosztás gomb egyszerű hivatkozás: az oldal nem tölt be Facebook-kódot, és a
-      Facebook semmilyen adatot nem kap a látogatásról. Csak akkor kerül át a Facebookra, ha a látogató a gombra
-      kattint; onnantól a Facebook saját adatkezelési szabályai érvényesek.
-    </p>
+    <h1>{page.data.title}</h1>
+    {page.data.lede && <p class="lede">{page.data.lede}</p>}
+    <Content />
   </div>
 </Base>
+<style>.lede { font-size: 1.2rem; color: var(--c-muted); }</style>

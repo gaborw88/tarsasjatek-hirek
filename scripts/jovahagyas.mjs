@@ -80,6 +80,19 @@ if (lastAuthor.has(EDITORS_FILE) && prevEditorsText !== null) {
 }
 const nameOf = (login) => editors.get(login)?.nev || login;
 
+// --- 1/b. Fix oldalak (Rólunk, Impresszum): csak főszerkesztő vagy a hírgyűjtő (kérésre) módosíthatja ---
+for (const [file, who] of lastAuthor) {
+  if (!file.startsWith('src/content/oldalak/')) continue;
+  const isBot = who === 'Claude';
+  if (isBot || editors.get(who.toLowerCase())?.szerep === 'foszerkeszto') continue;
+  const prevText = tryShow(baseRev, file);
+  if (prevText !== null) {
+    console.log(`${file}: nem főszerkesztő (${who}) módosította – visszaállítva.`);
+    writeFileSync(file, prevText.endsWith('\n') ? prevText : prevText + '\n');
+    changedSomething = true;
+  }
+}
+
 // --- 2. Cikkek -----------------------------------------------------------------
 for (const f of readdirSync(DIR).filter((x) => x.endsWith('.md'))) {
   const file = `${DIR}/${f}`;

@@ -34,4 +34,10 @@ const hirek = defineCollection({
   }),
 });
 
-export const collections = { hirek };
+// Szerkeszthető fix oldalak (Rólunk, Impresszum) – a szerkesztőfelület „Oldalak” menüjéből
+const oldalak = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/oldalak' }),
+  schema: z.object({ title: z.string(), lede: z.string().optional() }),
+});
+
+export const collections = { hirek, oldalak };

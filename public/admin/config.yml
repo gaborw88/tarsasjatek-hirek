@@ -142,6 +142,22 @@ collections:
         label: Szöveg
         widget: markdown
 
+  - name: oldalak
+    label: "📄 Oldalak"
+    description: "Az oldal fix aloldalai. A mentés után néhány percen belül megjelennek – ezeket csak a főszerkesztő módosíthatja."
+    files:
+      - name: rolunk
+        label: "Rólunk"
+        file: src/content/oldalak/rolunk.md
+        fields: &oldal_mezok
+          - { name: title, label: "Cím", widget: string }
+          - { name: lede, label: "Bevezető (nagyobb betűvel, a cím alatt)", widget: text, required: false }
+          - { name: body, label: "Szöveg", widget: markdown }
+      - name: impresszum
+        label: "Impresszum"
+        file: src/content/oldalak/impresszum.md
+        fields: *oldal_mezok
+
   - name: beallitasok
     label: "⚙️ Beállítások"
     files:
