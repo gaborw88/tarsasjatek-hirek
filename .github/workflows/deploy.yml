@@ -28,10 +28,9 @@ jobs:
       - run: npm ci
       - run: npm run build
         env:
-          # Átmenetileg a github.io-s cím, amíg a dobjektiv.hu élesedik.
-          # Saját domainre váltáskor: SITE_URL: https://dobjektiv.hu és BASE_PATH: /
-          SITE_URL: https://${{ github.repository_owner }}.github.io
-          BASE_PATH: /${{ github.event.repository.name }}
+          # Saját domain: dobjektiv.hu
+          SITE_URL: https://dobjektiv.hu
+          BASE_PATH: /
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
