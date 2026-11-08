@@ -119,7 +119,7 @@ for (const f of readdirSync(DIR).filter((x) => x.endsWith('.md'))) {
       d.approvedBy = nameOf(login);
       if (trusted) {
         d.chiefApproved = true;
-        d.chiefApprovedBy = isChief ? nameOf(login) : `automatikus – megbízható szerkesztő (${nameOf(login)})`;
+        d.chiefApprovedBy = isChief ? nameOf(login) : "automatikus";
       }
     }
     // Főszerkesztő most hagyta jóvá
