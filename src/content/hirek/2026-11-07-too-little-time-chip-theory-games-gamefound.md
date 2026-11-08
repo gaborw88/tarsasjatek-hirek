@@ -1,12 +1,12 @@
 ---
 status: ⏳ tervezet
 approved: false
-chiefApproved: true
+chiefApproved: false
 published: false
-lastEditedBy: ''
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Időutazás a Too Many Bones világában: másfél millió dollár fölött jár a Too Little Time Gamefound-kampánya'
+lastEditedBy: Weszprémy Gábor
+approvedBy: ""
+chiefApprovedBy: ""
+title: "Időutazás a Too Many Bones világában: másfél millió dollár fölött jár a Too Little Time Gamefound-kampánya"
 description: A Chip Theory Games új, időutazós „boss battler” játéka egy nap alatt több mint egymillió dollárt gyűjtött, a kampány november 13-án zárul.
 date: 2026-11-07T21:00:00+01:00
 type: gyujtott
@@ -16,11 +16,11 @@ tags:
   - Gamefound
   - Chip Theory Games
   - Too Many Bones
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794161949683.png
-imageAlt: ''
-imageCredit: 'Kép: Chip Theory Games'
-imageSuggestion: 'A kiadó saját Gamefound-kampányoldalának megosztási képe: https://imgcdn.gamefound.com/og-image-fb/projects/12995/54b0e377-9229-49da-8382-b63b241c9c6c.png – javasolt forrásmegjelölés: Kép: Chip Theory Games'
+imageAlt: ""
+imageCredit: "Kép: Chip Theory Games"
+imageSuggestion: "A kiadó saját Gamefound-kampányoldalának megosztási képe: https://imgcdn.gamefound.com/og-image-fb/projects/12995/54b0e377-9229-49da-8382-b63b241c9c6c.png – javasolt forrásmegjelölés: Kép: Chip Theory Games"
 sources:
   - name: Gamefound – Too Little Time by Chip Theory Games (kampányoldal)
     url: https://gamefound.com/en/projects/chip-theory-games/too-little-time
