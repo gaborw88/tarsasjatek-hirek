@@ -1,12 +1,12 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-lastEditedBy: ''
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Terabájtnyi AI-szemetet törölt az itch.io: mostantól a szerepjátékoknál és társasjátékoknál is kötelező jelezni a mesterséges intelligencia használatát'
+published: true
+lastEditedBy: Weszprémy Gábor
+approvedBy: Weszprémy Gábor
+chiefApprovedBy: Weszprémy Gábor
+title: "Terabájtnyi AI-szemetet törölt az itch.io: mostantól a szerepjátékoknál és társasjátékoknál is kötelező jelezni a mesterséges intelligencia használatát"
 description: A független alkotók kedvelt online áruháza, az itch.io a feltöltések hirtelen megugrása után nagy mennyiségű tömegesen generált tartalmat törölt, és a szerepjátékokat, társasjátékokat is tartalmazó asztali kategóriában is kötelezővé tette az AI-nyilatkozatot.
 date: 2026-11-07T09:00:00+01:00
 type: gyujtott
@@ -16,17 +16,17 @@ tags:
   - Mesterséges intelligencia
   - Szerepjátékok
   - itch.io
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794152131977.png
-imageAlt: ''
-imageCredit: 'Kép: itch.io'
-imageSuggestion: 'Iparági hír, hivatalos játékkép nincs. A cég hivatalos logója az itch.io sajtó- és arculati oldaláról: https://itch.io/press-kit – javasolt forrásmegjelölés: Kép: itch.io. Kép nélkül is rendben van.'
+imageAlt: ""
+imageCredit: "Kép: itch.io"
+imageSuggestion: "Iparági hír, hivatalos játékkép nincs. A cég hivatalos logója az itch.io sajtó- és arculati oldaláról: https://itch.io/press-kit – javasolt forrásmegjelölés: Kép: itch.io. Kép nélkül is rendben van."
 sources:
   - name: "PC Gamer – 'Just deleted a couple terabytes of AI slop': Itch.io pushes back against the flood of AI on its storefront"
     url: https://www.pcgamer.com/software/ai/just-deleted-a-couple-terabytes-of-ai-slop-itch-io-pushes-back-against-the-flood-of-ai-on-its-storefront/
   - name: Geek Native – Itch.io deletes terabytes of AI spam and enforces TTRPG disclosures
     url: https://www.geeknative.com/244116/itch-io-deletes-terabytes-of-ai-spam-and-enforces-ttrpg-disclosures/
-  - name: 'Gus&Co – itch.io contre le spam IA : une case à cocher peut-elle sauver le JDR ?'
+  - name: "Gus&Co – itch.io contre le spam IA : une case à cocher peut-elle sauver le JDR ?"
     url: https://gusandco.net/2026/11/05/itch-io-ia-jdr-filtre-no-ai/
 ---
 
