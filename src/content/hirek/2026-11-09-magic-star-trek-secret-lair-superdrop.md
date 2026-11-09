@@ -1,30 +1,34 @@
 ---
+status: ⏳ tervezet
+approved: true
+chiefApproved: true
 published: false
-title: "Khan, klingonok és a Lower Decks legénysége: ma indul a Magic Star Trek-es Secret Lair-kiadása, pénteken jön a teljes szett"
-description: "A Wizards of the Coast november 9-én kezdi árulni a Star Trek-témájú Secret Lair-kártyacsomagjait, november 13-án pedig boltokba kerül a Magic: The Gathering | Star Trek teljes kiegészítője."
+publishedAt: ''
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 09. 15:06
+approvedBy: ''
+chiefApprovedBy: ''
+title: 'Khan, klingonok és a Lower Decks legénysége: ma indul a Magic Star Trek-es Secret Lair-kiadása, pénteken jön a teljes szett'
+description: 'A Wizards of the Coast november 9-én kezdi árulni a Star Trek-témájú Secret Lair-kártyacsomagjait, november 13-án pedig boltokba kerül a Magic: The Gathering | Star Trek teljes kiegészítője.'
 date: 2026-11-09T15:00:00+01:00
 type: gyujtott
 author: Szerkesztőség
 tags:
-  - "Magic: The Gathering"
+  - 'Magic: The Gathering'
   - Wizards of the Coast
   - Star Trek
   - Gyűjtögetős kártyajátékok
-youtube: ""
-imageSuggestion: "Hivatalos sajtókép a Wizards of the Coast bejelentéséből: https://images.ctfassets.net/s5n2t79q9icq/72jGcT27tOO9EbDMcIXqYW/f146b47fea73e091dc871cbfe64792b2/SL_Star_Trek_1920x1080.webp – javasolt forrásmegjelölés: Fotó: Wizards of the Coast"
+youtube: ''
+image: /images/uploads/pasted-image-1794258612843.png
+imageAlt: ''
+imageCredit: 'Fotó: Wizards of the Coast'
+imageSuggestion: 'Hivatalos sajtókép a Wizards of the Coast bejelentéséből: https://images.ctfassets.net/s5n2t79q9icq/72jGcT27tOO9EbDMcIXqYW/f146b47fea73e091dc871cbfe64792b2/SL_Star_Trek_1920x1080.webp – javasolt forrásmegjelölés: Fotó: Wizards of the Coast'
 sources:
-  - name: "Magic: The Gathering – Secret Lair: Set Phasers to Superdrop"
+  - name: 'Magic: The Gathering – Secret Lair: Set Phasers to Superdrop'
     url: https://magic.wizards.com/en/news/announcements/secret-lair-set-phasers-to-superdrop
-  - name: "Wizards Play Network – Magic: The Gathering | Star Trek"
+  - name: 'Wizards Play Network – Magic: The Gathering | Star Trek'
     url: https://wpn.wizards.com/en/products/star-trek
   - name: "ICv2 – Wizards of the Coast Announces 'Magic: The Gathering - Star Trek' Superdrop"
     url: https://icv2.com/articles/news/view/63737/wizards-coast-announces-magic-the-gathering-star-trek-superdrop
-approved: false
-chiefApproved: false
-status: ⏳ tervezet
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 09. 15:06
-approvedBy: ""
-chiefApprovedBy: ""
 ---
 
 Sűrű hét vár a Magic: The Gathering Star Trek-rajongóira. A Wizards of the Coast hétfőn, november 9-én (magyar idő szerint 18 órakor) indítja el a **Secret Lair x Star Trek: Set Phasers to Superdrop** nevű különkiadás árusítását a saját webáruházában, péntektől, november 13-tól pedig a boltokban is kapható a **Magic: The Gathering | Star Trek** teljes kiegészítője.
