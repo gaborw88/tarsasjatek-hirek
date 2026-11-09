@@ -1,7 +1,7 @@
 ---
 status: ⏳ tervezet
 approved: false
-chiefApproved: false
+chiefApproved: true
 published: false
 publishedAt: ''
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 09. 11:00
