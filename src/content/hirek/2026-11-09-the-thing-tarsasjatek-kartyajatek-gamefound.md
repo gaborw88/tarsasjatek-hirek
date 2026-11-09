@@ -1,12 +1,13 @@
 ---
 status: ⏳ tervezet
-approved: false
+approved: true
 chiefApproved: true
 published: false
+publishedAt: ''
 lastEditedBy: Weszprémy Gábor · 2026. 11. 09. 14:46
-approvedBy: ""
-chiefApprovedBy: ""
-title: "Újra lecsap a Dolog: kedden indul a Gamefoundon a The Thing társasjáték és új kártyajátéka"
+approvedBy: ''
+chiefApprovedBy: ''
+title: 'Újra lecsap a Dolog: kedden indul a Gamefoundon a The Thing társasjáték és új kártyajátéka'
 description: November 10-én nyílik meg az olasz Pendragon Game Studio kampánya, amely újranyomja John Carpenter kultuszfilmjének rejtett szerepes társasjátékát, és mellé egy önálló, akár tízfős kártyajátékot is kínál.
 date: 2026-11-09T11:30:00+01:00
 type: gyujtott
@@ -16,19 +17,19 @@ tags:
   - Gamefound
   - Pendragon Game Studio
   - Rejtett szerepes játékok
-youtube: ""
+youtube: ''
 image: /images/uploads/1000031335.jpg
-imageAlt: ""
-imageCredit: "Fotó: Pendragon Game Studio"
-imageSuggestion: "A kiadó saját Gamefound-kampányoldalának képe: https://imgcdn.gamefound.com/og-image-fb/projects/10031/47e98262-cee1-416f-98ee-fcb327df4f75.png – javasolt forrásmegjelölés: Fotó: Pendragon Game Studio. (A kép tartalmát nem láttam, érdemes megnézni, mielőtt felkerül; a kampány indulása után a kampányoldalon több termékkép is lesz.)"
+imageAlt: ''
+imageCredit: 'Fotó: Pendragon Game Studio'
+imageSuggestion: 'A kiadó saját Gamefound-kampányoldalának képe: https://imgcdn.gamefound.com/og-image-fb/projects/10031/47e98262-cee1-416f-98ee-fcb327df4f75.png – javasolt forrásmegjelölés: Fotó: Pendragon Game Studio. (A kép tartalmát nem láttam, érdemes megnézni, mielőtt felkerül; a kampány indulása után a kampányoldalon több termékkép is lesz.)'
 sources:
-  - name: "Board Game (boardgame.fr) – The Thing (jeu de plateau et jeu de cartes) : la campagne Gamefound sera lancée le 10 novembre"
+  - name: 'Board Game (boardgame.fr) – The Thing (jeu de plateau et jeu de cartes) : la campagne Gamefound sera lancée le 10 novembre'
     url: https://www.boardgame.fr/2026/11/09/the-thing-jeu-de-plateau-et-jeu-de-cartes-la-campagne-gamefound-sera-lancee-le-10-novembre/
-  - name: "Planszowe Newsy – The Thing: The Cardgame pojawi się na Gamefoundzie"
+  - name: 'Planszowe Newsy – The Thing: The Cardgame pojawi się na Gamefoundzie'
     url: https://planszowenewsy.pl/2026/05/the-thing-the-cardgame-pojawi-sie-na-gamefoundzie/33013/
-  - name: "Gamefound – The Thing: The Boardgame & The Cardgame (Pendragon Game Studio)"
+  - name: 'Gamefound – The Thing: The Boardgame & The Cardgame (Pendragon Game Studio)'
     url: https://gamefound.com/en/projects/pendragon-game-studio-srl/the-thing-the-boardgame--the-cardgame
-  - name: "Ares Games – The Thing: The Board Game"
+  - name: 'Ares Games – The Thing: The Board Game'
     url: https://www.aresgames.eu/29996
 ---
 
