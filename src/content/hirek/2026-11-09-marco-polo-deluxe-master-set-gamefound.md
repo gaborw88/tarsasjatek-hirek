@@ -1,6 +1,13 @@
 ---
+status: ⏳ tervezet
+approved: true
+chiefApproved: true
 published: false
-title: "Mindkét Marco Polo egy dobozban: a héten indul a Gamefoundon a deluxe gyűjteményes kiadás"
+publishedAt: ''
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 09. 11:00
+approvedBy: ''
+chiefApprovedBy: ''
+title: 'Mindkét Marco Polo egy dobozban: a héten indul a Gamefoundon a deluxe gyűjteményes kiadás'
 description: A Board&Dice a Hans im Glückkel közösen egyetlen prémium kiadásba gyűjti a The Voyages of Marco Polót, a folytatását és az összes kiegészítőt. A kampány a beszámolók szerint november 12-én indul.
 date: 2026-11-09T11:00:00+01:00
 type: gyujtott
@@ -10,8 +17,11 @@ tags:
   - Gamefound
   - Board&Dice
   - Hans im Glück
-youtube: ""
-imageSuggestion: "Hivatalos dobozkép a kiadó termékoldaláról: https://boardanddice.com/wp-content/uploads/2026/03/marco-polo-box.webp – javasolt forrásmegjelölés: Fotó: Board&Dice"
+youtube: ''
+image: /images/uploads/pasted-image-1794258461054.png
+imageAlt: ''
+imageCredit: 'Fotó: Board&Dice'
+imageSuggestion: 'Hivatalos dobozkép a kiadó termékoldaláról: https://boardanddice.com/wp-content/uploads/2026/03/marco-polo-box.webp – javasolt forrásmegjelölés: Fotó: Board&Dice'
 sources:
   - name: Board&Dice – Marco Polo Deluxe Master Set
     url: https://boardanddice.com/marco-polo-deluxe-master-set/
@@ -19,12 +29,6 @@ sources:
     url: https://brettspielbox.de/brettspiel-crowdfunding-news-45-26/
   - name: Mr. Board Games – Marco Polo Deluxe Master Set is Coming to Gamefound
     url: https://mr-boardgames.com/en/crowdfunding/the-journey-of-a-lifetime-returns-in-its-ultimate-form-marco-polo-deluxe-master-set-is-coming-to-gamefound/
-approved: false
-chiefApproved: false
-status: ⏳ tervezet
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 09. 11:00
-approvedBy: ""
-chiefApprovedBy: ""
 ---
 
 A lengyel Board&Dice a héten indítja a Gamefoundon a *Marco Polo Deluxe Master Set* közösségi finanszírozású kampányát. A német Brettspielbox heti összefoglalója szerint a kampány **november 12-én**, csütörtökön nyílik meg; a kiadó saját oldalán egyelőre csak a 2026-os indulás szerepel. A projekt a Hans im Glück kiadóval együttműködésben készül, és a Simone Luciani–Daniele Tascini szerzőpáros népszerű sorozatát gyűjti egybe.
