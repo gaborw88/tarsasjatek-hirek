@@ -1,13 +1,13 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 09. 11:00
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Mindkét Marco Polo egy dobozban: a héten indul a Gamefoundon a deluxe gyűjteményes kiadás'
+published: true
+publishedAt: 2026-11-09T21:08:17.988Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 09. 22:08
+approvedBy: Weszprémy Gábor · 2026. 11. 09. 22:08
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 09. 22:08
+title: "Mindkét Marco Polo egy dobozban: a héten indul a Gamefoundon a deluxe gyűjteményes kiadás"
 description: A Board&Dice a Hans im Glückkel közösen egyetlen prémium kiadásba gyűjti a The Voyages of Marco Polót, a folytatását és az összes kiegészítőt. A kampány a beszámolók szerint november 12-én indul.
 date: 2026-11-09T11:00:00+01:00
 type: gyujtott
@@ -17,11 +17,11 @@ tags:
   - Gamefound
   - Board&Dice
   - Hans im Glück
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794258461054.png
-imageAlt: ''
-imageCredit: 'Fotó: Board&Dice'
-imageSuggestion: 'Hivatalos dobozkép a kiadó termékoldaláról: https://boardanddice.com/wp-content/uploads/2026/03/marco-polo-box.webp – javasolt forrásmegjelölés: Fotó: Board&Dice'
+imageAlt: ""
+imageCredit: "Fotó: Board&Dice"
+imageSuggestion: "Hivatalos dobozkép a kiadó termékoldaláról: https://boardanddice.com/wp-content/uploads/2026/03/marco-polo-box.webp – javasolt forrásmegjelölés: Fotó: Board&Dice"
 sources:
   - name: Board&Dice – Marco Polo Deluxe Master Set
     url: https://boardanddice.com/marco-polo-deluxe-master-set/
