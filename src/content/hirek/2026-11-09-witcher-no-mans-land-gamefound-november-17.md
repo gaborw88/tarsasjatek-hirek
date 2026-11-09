@@ -1,23 +1,31 @@
 ---
 published: false
 title: "Geralt a terepasztalon: november 17-én indul a Gamefoundon a The Witcher: No Man's Land miniatűrös csatajáték"
-description: "Jövő kedden nyílik meg az előrendelés a Monster Fight Club Vaják-témájú miniatűrös csatajátékára. A kezdőcsomagban Geralt és Letho csapata csap össze, egy griffel és egy strigával a csatatéren."
+description: Jövő kedden nyílik meg az előrendelés a Monster Fight Club Vaják-témájú miniatűrös csatajátékára. A kezdőcsomagban Geralt és Letho csapata csap össze, egy griffel és egy strigával a csatatéren.
 date: 2026-11-09T07:30:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Közösségi finanszírozás", "Gamefound", "Monster Fight Club", "The Witcher", "Miniatűrös játékok"]
+author: Szerkesztőség
+tags:
+  - Közösségi finanszírozás
+  - Gamefound
+  - Monster Fight Club
+  - The Witcher
+  - Miniatűrös játékok
 youtube: ""
 imageSuggestion: "A kiadó saját előkampány-oldalán (a Monster Fight Club hivatalos regisztrációs linkje ide visz: https://launchoracle.com/monster-fight-club/witcher/8W4E8) vannak termékképek, pl.: https://media.launchoracle.com/campaigns/properties/d14b1e32-2579-4ee7-989f-ba67564f0690/761852fa-ad9b-45e4-b2a5-532ef0b37282.jpeg?v=761852fa-ad9b-45e4-b2a5-532ef0b37282 – javasolt forrásmegjelölés: Fotó: Monster Fight Club. A képet érdemes megnézni, mielőtt felkerül (a kép tartalmát nem láttam). November 17. után a Gamefound-kampányoldal képei is használhatók."
 sources:
   - name: "GamingTrend – The Witcher: No Man's Land goes live on Gamefound November 17th"
-    url: "https://gamingtrend.com/news/the-witcher-no-mans-land-goes-live-on-gamefound-november-17th/"
-  - name: "Wargamer – The Witcher tabletop wargame finally gets a release date, a year after it was revealed"
-    url: "https://www.wargamer.com/the-witcher-no-mans-land/miniature-wargame-release-date"
+    url: https://gamingtrend.com/news/the-witcher-no-mans-land-goes-live-on-gamefound-november-17th/
+  - name: Wargamer – The Witcher tabletop wargame finally gets a release date, a year after it was revealed
+    url: https://www.wargamer.com/the-witcher-no-mans-land/miniature-wargame-release-date
   - name: "Monster Fight Club – The Witcher: No Man's Land (előkampány-oldal)"
-    url: "https://launchoracle.com/monster-fight-club/witcher/8W4E8"
+    url: https://launchoracle.com/monster-fight-club/witcher/8W4E8
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
+status: ⏳ tervezet
+lastEditedBy: Hírgyűjtő (nyelvi modell)
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 **November 17-én** indul a Gamefoundon a *The Witcher: No Man's Land* közösségi finanszírozású kampánya, és ezzel megnyílik az előrendelés is. A Vaják-univerzumban játszódó miniatűrös csatajátékot (skirmish) az amerikai Monster Fight Club fejleszti – ugyanez a csapat áll a *Cyberpunk RED: Combat Zone* mögött is. A játék a The Witcher videojátékokat fejlesztő CD Projekt Reddel együttműködésben készül.
