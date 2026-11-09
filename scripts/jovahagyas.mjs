@@ -164,7 +164,7 @@ for (const f of readdirSync(DIR).filter((x) => x.endsWith('.md'))) {
   if (d.published && !d.publishedAt) {
     d.publishedAt = lastAuthor.has(file) ? new Date().toISOString() : new Date(d.date).toISOString();
   }
-  if (!d.published && d.publishedAt) delete d.publishedAt;
+  if (!d.published && 'publishedAt' in d) delete d.publishedAt;
 
   if (JSON.stringify(d) !== before) {
     writeMd(file, d, cur.body);

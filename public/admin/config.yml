@@ -16,7 +16,7 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     summary: "{{status}}  ·  {{title}}  ·  {{date | date('YYYY.MM.DD')}}"
-    sortable_fields: [date, title]
+    sortable_fields: [date, publishedAt, title]
     view_filters:
       - label: "⏳ Tervezet (szerkesztőre vár)"
         field: status
@@ -59,8 +59,12 @@ collections:
         widget: hidden
         default: false
       - name: publishedAt
-        widget: hidden
+        label: "Jóváhagyás dátuma"
+        widget: datetime
+        date_format: "YYYY.MM.DD"
+        time_format: "HH:mm"
         required: false
+        readonly: true
       - name: lastEditedBy
         label: "Utoljára szerkesztette"
         widget: string
@@ -84,7 +88,7 @@ collections:
         widget: text
         hint: "1–2 mondat. Ez látszik a főoldalon és a megosztásoknál."
       - name: date
-        label: Dátum
+        label: "Beérkezés dátuma"
         widget: datetime
         date_format: "YYYY.MM.DD"
         time_format: "HH:mm"
