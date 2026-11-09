@@ -1,6 +1,13 @@
 ---
+status: ⏳ tervezet
+approved: true
+chiefApproved: true
 published: false
-title: "Könyvesbolt, kísértethotel és kávézó: 700 ezer dollár fölött az Unstable Unicorns kiadójának új stúdiója"
+publishedAt: ''
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 09. 15:06
+approvedBy: ''
+chiefApprovedBy: ''
+title: 'Könyvesbolt, kísértethotel és kávézó: 700 ezer dollár fölött az Unstable Unicorns kiadójának új stúdiójának játékai'
 description: Az Unstable Games új stúdiója, az Ordinary Magic három játékkal indult a Gamefoundon, és a 30 ezer dolláros célt nyolc perc alatt teljesítette. A játékokat a Dino Racer tervezője, Marceline Leiman jegyzi.
 date: 2026-11-09T15:30:00+01:00
 type: gyujtott
@@ -10,21 +17,18 @@ tags:
   - Gamefound
   - Unstable Games
   - Ordinary Magic
-youtube: ""
-imageSuggestion: "A kiadó saját Gamefound-kampányképe: https://imgcdn.gamefound.com/og-image-fb/projects/11584/94235e0e-33ca-450d-8ed2-1c81aac54df2.jpg – javasolt forrásmegjelölés: Fotó: Unstable Games / Ordinary Magic"
+youtube: ''
+image: /images/uploads/pasted-image-1794258503992.png
+imageAlt: ''
+imageCredit: 'Fotó: Unstable Games / Ordinary Magic'
+imageSuggestion: 'A kiadó saját Gamefound-kampányképe: https://imgcdn.gamefound.com/og-image-fb/projects/11584/94235e0e-33ca-450d-8ed2-1c81aac54df2.jpg – javasolt forrásmegjelölés: Fotó: Unstable Games / Ordinary Magic'
 sources:
-  - name: "Brettspiel-News.de – Ordinary Magic: Buchladen, Geisterhotel und Café knacken auf Gamefound die 700.000 Dollar"
+  - name: 'Brettspiel-News.de – Ordinary Magic: Buchladen, Geisterhotel und Café knacken auf Gamefound die 700.000 Dollar'
     url: https://www.brettspiel-news.de/index.php/de/nachrichten-uebersicht/crowdfunding/16429-ordinary-magic-buchladen-geisterhotel-und-caf-knacken-auf-gamefound-die-700-000-dollar
   - name: BoardGameWire – Unstable Unicorns maker launches new studio led by rising star designer Marceline Leiman
     url: https://boardgamewire.com/index.php/2026/08/18/unstable-unicorns-maker-launches-new-studio-led-by-rising-star-designer-marceline-leiman/
-  - name: "Gamefound – Ordinary Magic by Unstable Games (Game Reveal #3: Happy Heart Cafe)"
+  - name: 'Gamefound – Ordinary Magic by Unstable Games (Game Reveal #3: Happy Heart Cafe)'
     url: https://gamefound.com/en/projects/unstable-games/ordinary-magic/updates/4
-approved: false
-chiefApproved: false
-status: ⏳ tervezet
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 09. 15:06
-approvedBy: ""
-chiefApprovedBy: ""
 ---
 
 Erős rajtot vett az **Ordinary Magic**, az *Unstable Unicorns* kártyajátékról ismert, a TeeTurtle tulajdonában lévő Unstable Games új stúdiója. Első Gamefound-kampányuk 30 ezer dolláros célját 7 perc 44 másodperc alatt érték el, hétfő délre pedig már több mint 5200 támogató több mint 736 ezer dollárt adott össze a Brettspiel-News.de összesítése szerint. A kampány kedden, november 10-én este zárul.
