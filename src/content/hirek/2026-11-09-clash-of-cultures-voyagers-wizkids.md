@@ -1,14 +1,14 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 09. 18:55
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Inkák, inuitok és polinézek: felfedezőmodullal és öt új néppel bővül a Clash of Cultures'
-description: 'A WizKids bejelentette a Clash of Cultures: Voyagers kiegészítő részleteit: új felfedezhető régiók, Discovery-kártyák és öt új civilizáció érkezik a Monumental Editionhöz, 2027 júliusában.'
+published: true
+publishedAt: 2026-11-09T21:17:21.471Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 09. 22:14
+approvedBy: Weszprémy Gábor · 2026. 11. 09. 22:14
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 09. 22:14
+title: "Inkák, inuitok és polinézek: felfedezőmodullal és öt új néppel bővül a Clash of Cultures"
+description: "A WizKids bejelentette a Clash of Cultures: Voyagers kiegészítő részleteit: új felfedezhető régiók, Discovery-kártyák és öt új civilizáció érkezik a Monumental Editionhöz, 2027 júliusában."
 date: 2026-11-09T15:00:00+01:00
 type: gyujtott
 author: Szerkesztőség
@@ -17,15 +17,15 @@ tags:
   - WizKids
   - Clash of Cultures
   - Kiegészítők
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794258734457.png
-imageAlt: ''
-imageCredit: ''
-imageSuggestion: 'A Voyagers dobozképét a WizKids még nem tette közzé (sem termékoldalon, sem az ICv2-cikkben nem találtam). Átmeneti megoldásként az alapjáték hivatalos képe a WizKids sajtóközleményéből: https://eadn-wc03-13179282.nxedge.io/wp-content/uploads/2021/09/clash2-web-393263-nQsKSqoB.jpg (közlemény: https://wizkids.com/?p=22581) – javasolt forrásmegjelölés: Fotó: WizKids. Később érdemes a WizKids oldalán megnézni, felkerült-e a Voyagers dobozképe.'
+imageAlt: ""
+imageCredit: ""
+imageSuggestion: "A Voyagers dobozképét a WizKids még nem tette közzé (sem termékoldalon, sem az ICv2-cikkben nem találtam). Átmeneti megoldásként az alapjáték hivatalos képe a WizKids sajtóközleményéből: https://eadn-wc03-13179282.nxedge.io/wp-content/uploads/2021/09/clash2-web-393263-nQsKSqoB.jpg (közlemény: https://wizkids.com/?p=22581) – javasolt forrásmegjelölés: Fotó: WizKids. Később érdemes a WizKids oldalán megnézni, felkerült-e a Voyagers dobozképe."
 sources:
   - name: "ICv2 – WizKids Unveils 'Clash of Cultures: Voyagers'"
     url: https://icv2.com/articles/news/view/63833/wizkids-unveils-clash-cultures-voyagers
-  - name: 'Frogames – Clash of Cultures: Voyagers (termékoldal)'
+  - name: "Frogames – Clash of Cultures: Voyagers (termékoldal)"
     url: https://frogames.it/en/products/clash-of-cultures-voyagers
 ---
 
