@@ -8,7 +8,7 @@
 //  - A szerkesztők listáját (szerkesztok.yml) csak főszerkesztő módosíthatja.
 //  - Ha egy ellenőrzött (nem megbízható) szerkesztő egy már jóváhagyott cikk
 //    szövegét módosítja, a cikk újra főszerkesztői jóváhagyásra kerül.
-//  - Rögzíti: ki szerkesztette utoljára, ki hagyta jóvá.
+//  - Rögzíti: ki szerkesztette utoljára, ki hagyta jóvá – időponttal együtt.
 // =====================================================================
 import { execSync } from 'node:child_process';
 import { readFileSync, writeFileSync, existsSync, readdirSync } from 'node:fs';
@@ -52,12 +52,13 @@ const statusOf = (d) => (d.approved ? (d.chiefApproved ? STATUS.live : STATUS.wa
 const hasBefore = BEFORE && !ZERO.test(BEFORE) && tryShow(BEFORE, 'package.json') !== null;
 const range = hasBefore ? `${BEFORE}..${AFTER}` : `${AFTER}~1..${AFTER}`;
 const lastAuthor = new Map(); // fájl -> GitHub-felhasználónév (commit szerzője)
+const lastTime = new Map();   // fájl -> a módosítás (commit) időpontja
 try {
-  const log = sh(`git log --reverse --format=@@%an --name-only ${range}`);
-  let author = '';
+  const log = sh(`git log --reverse --format=@@%an@@%aI --name-only ${range}`);
+  let author = '', time = '';
   for (const line of log.split('\n')) {
-    if (line.startsWith('@@')) author = line.slice(2).trim();
-    else if (line.trim()) lastAuthor.set(line.trim(), author);
+    if (line.startsWith('@@')) [, author, time] = line.split('@@').map((x) => x.trim());
+    else if (line.trim()) { lastAuthor.set(line.trim(), author); lastTime.set(line.trim(), time); }
   }
 } catch { /* első futás */ }
 
@@ -79,6 +80,12 @@ if (lastAuthor.has(EDITORS_FILE) && prevEditorsText !== null) {
   }
 }
 const nameOf = (login) => editors.get(login)?.nev || login;
+// Időbélyegző a név mögé, budapesti idő szerint – pl. „Weszprémy Gábor · 2026. 11. 09. 09:24”
+const stamp = (who, iso) => {
+  const t = new Date(iso || Date.now());
+  const s = new Intl.DateTimeFormat('hu-HU', { timeZone: 'Europe/Budapest', year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' }).format(t);
+  return `${who} · ${s}`;
+};
 
 // --- 1/b. Fix oldalak (Rólunk, Impresszum): csak főszerkesztő vagy a hírgyűjtő (kérésre) módosíthatja ---
 for (const [file, who] of lastAuthor) {
@@ -112,13 +119,14 @@ for (const f of readdirSync(DIR).filter((x) => x.endsWith('.md'))) {
     const ed = editors.get(login);
     const isChief = !isBot && ed?.szerep === 'foszerkeszto';
     const trusted = !isBot && (isChief || ed?.ellenorzesNelkul === true);
+    const when = lastTime.get(file);
     const prev = parseMd(tryShow(baseRev, file));
     const p = prev?.data || {};
     const pApproved = p.approved ?? !!p.published;
     const pChief = p.chiefApproved ?? !!p.published;
 
     // Utolsó szerkesztő
-    d.lastEditedBy = isBot ? 'Hírgyűjtő (nyelvi modell)' : nameOf(login);
+    d.lastEditedBy = stamp(isBot ? 'Hírgyűjtő (nyelvi modell)' : nameOf(login), when);
 
     // Jóváhagyást a hírgyűjtő vagy listán kívüli felhasználó nem adhat
     if ((isBot || !ed) && d.approved && !pApproved) { d.approved = false; console.log(`${f}: jóváhagyás visszavonva (${loginRaw} nem szerkesztő)`); }
@@ -129,16 +137,16 @@ for (const f of readdirSync(DIR).filter((x) => x.endsWith('.md'))) {
 
     // Szerkesztői jóváhagyás most történt
     if (d.approved && !pApproved) {
-      d.approvedBy = nameOf(login);
+      d.approvedBy = stamp(nameOf(login), when);
       if (trusted) {
         d.chiefApproved = true;
-        d.chiefApprovedBy = isChief ? nameOf(login) : "automatikus";
+        d.chiefApprovedBy = stamp(isChief ? nameOf(login) : 'automatikus', when);
       }
     }
     // Főszerkesztő most hagyta jóvá
     if (d.chiefApproved && !pChief && isChief) {
-      d.chiefApprovedBy = nameOf(login);
-      if (!d.approved) { d.approved = true; d.approvedBy = d.approvedBy || nameOf(login); }
+      d.chiefApprovedBy = stamp(nameOf(login), when);
+      if (!d.approved) { d.approved = true; d.approvedBy = d.approvedBy || stamp(nameOf(login), when); }
     }
     // Ellenőrzött szerkesztő módosította egy már jóváhagyott cikk szövegét -> újra ellenőrzés
     if (prev && pChief && d.chiefApproved && !trusted && !isBot && ed) {
