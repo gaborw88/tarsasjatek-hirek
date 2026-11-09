@@ -2,19 +2,26 @@
 published: false
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
-title: "Húsz százalékkal nőtt a felnőtteknek szóló társasjátékok forgalma Németországban – bizakodnak a kiadók"
-description: "A német kiadói szövetség felmérése szerint 2026 első kilenc hónapjában a felnőtt közönségnek szánt játékok húzták a piacot, a kiadók kilenctizede stabil vagy növekvő bevételre számít."
+status: ⏳ tervezet
+title: Húsz százalékkal nőtt a felnőtteknek szóló társasjátékok forgalma Németországban – bizakodnak a kiadók
+description: A német kiadói szövetség felmérése szerint 2026 első kilenc hónapjában a felnőtt közönségnek szánt játékok húzták a piacot, a kiadók kilenctizede stabil vagy növekvő bevételre számít.
 date: 2026-11-09T17:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Iparági hírek", "Piaci adatok", "Németország", "Spiel Essen"]
+author: Szerkesztőség
+tags:
+  - Iparági hírek
+  - Piaci adatok
+  - Németország
+  - Spiel Essen
 sources:
-  - name: "BoardGameWire – Board games targeting adult players see 20% sales surge in Germany, publisher optimism grows"
-    url: "https://boardgamewire.com/index.php/2026/11/09/board-games-targeting-adult-players-see-20-sales-surge-in-germany-publisher-optimism-grows-survey/"
-  - name: "BoardGameWire – Spiel Essen hits record 230,000 attendance"
-    url: "https://boardgamewire.com/index.php/2026/11/02/spiel-essen-hits-record-230000-attendance-as-publishers-report-booming-sales-but-worlds-biggest-board-game-fair-has-reached-its-limit/"
-imageSuggestion: "Iparági hír, amelyhez hivatalos sajtókép nem tartozik; a német kiadói szövetség (Spieleverlage e.V.) logóját a spieleverlage.com oldalon érdemes keresni. Kép nélkül is rendben van."
+  - name: BoardGameWire – Board games targeting adult players see 20% sales surge in Germany, publisher optimism grows
+    url: https://boardgamewire.com/index.php/2026/11/09/board-games-targeting-adult-players-see-20-sales-surge-in-germany-publisher-optimism-grows-survey/
+  - name: BoardGameWire – Spiel Essen hits record 230,000 attendance
+    url: https://boardgamewire.com/index.php/2026/11/02/spiel-essen-hits-record-230000-attendance-as-publishers-report-booming-sales-but-worlds-biggest-board-game-fair-has-reached-its-limit/
+imageSuggestion: Iparági hír, amelyhez hivatalos sajtókép nem tartozik; a német kiadói szövetség (Spieleverlage e.V.) logóját a spieleverlage.com oldalon érdemes keresni. Kép nélkül is rendben van.
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 09. 23:05
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 Európa legnagyobb társasjátékpiacán továbbra is felfelé ível a görbe, és a lendületet egyre inkább a felnőtt játékosok adják. A német társasjáték-kiadók szövetsége, a Spieleverlage e.V. által közzétett, a Circana piackutató cégtől származó adatok szerint 2026 első kilenc hónapjában a kifejezetten felnőtteknek szóló játékok forgalma több mint 20 százalékkal nőtt.
