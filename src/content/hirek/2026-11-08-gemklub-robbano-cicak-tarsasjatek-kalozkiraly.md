@@ -1,13 +1,13 @@
 ---
-status: ⏳ tervezet
-approved: false
+status: ✅ megjelent
+approved: true
 chiefApproved: true
-published: false
-lastEditedBy: Hírgyűjtő (nyelvi modell)
-approvedBy: ''
-chiefApprovedBy: ''
+published: true
+lastEditedBy: Weszprémy Gábor
+approvedBy: Weszprémy Gábor
+chiefApprovedBy: Weszprémy Gábor
 title: Megérkezett magyarul a Robbanó cicák társasjáték-változata – a Kalózkirály és a megújult Ticket to Ride is a boltokban
-description: 'Megjelent a Gémklubnál az Exploding Kittens: The Board Game magyar kiadása, Robbanó cicák – A társasjáték címmel. Mellette a Kalózkirály című kalózos kártyajáték és a Ticket to Ride – Európa új külsejű második kiadása is kapható.'
+description: "Megjelent a Gémklubnál az Exploding Kittens: The Board Game magyar kiadása, Robbanó cicák – A társasjáték címmel. Mellette a Kalózkirály című kalózos kártyajáték és a Ticket to Ride – Európa új külsejű második kiadása is kapható."
 date: 2026-11-08T13:00:00+01:00
 type: gyujtott
 author: Szerkesztőség
@@ -16,22 +16,23 @@ tags:
   - Gémklub
   - Exploding Kittens
   - Partijáték
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794211504206.png
-imageAlt: ''
-imageCredit: 'Fotó: Gémklub'
-imageSuggestion: 'Hivatalos dobozkép a magyar kiadó termékoldaláról: https://gemklub.cdn.shoprenter.hu/custom/gemklub/image/cache/w2062h1080q100/product/P19643_1.jpg?lastmod=1791817517.1788504975 (termékoldal: https://www.gemklub.hu/robbano-cicak-a-tarsasjatek-16357) – javasolt forrásmegjelölés: Fotó: Gémklub. Alternatíva, az eredeti kiadó termékoldaláról: https://www.explodingkittens.com/cdn/shop/files/01EKG-BG-COREAngled2026GOTY1400px_1_1400x.png?v=1771437648 – Fotó: Exploding Kittens'
+imageAlt: ""
+imageCredit: "Fotó: Gémklub"
+imageSuggestion: "Hivatalos dobozkép a magyar kiadó termékoldaláról: https://gemklub.cdn.shoprenter.hu/custom/gemklub/image/cache/w2062h1080q100/product/P19643_1.jpg?lastmod=1791817517.1788504975 (termékoldal: https://www.gemklub.hu/robbano-cicak-a-tarsasjatek-16357) – javasolt forrásmegjelölés: Fotó: Gémklub. Alternatíva, az eredeti kiadó termékoldaláról: https://www.explodingkittens.com/cdn/shop/files/01EKG-BG-COREAngled2026GOTY1400px_1_1400x.png?v=1771437648 – Fotó: Exploding Kittens"
 sources:
   - name: Gémklub – Robbanó cicák – A társasjáték (termékoldal)
     url: https://www.gemklub.hu/robbano-cicak-a-tarsasjatek-16357
-  - name: 'Licensing International – 10 Years of Mayhem: Exploding Kittens Launches First-Ever Board Game'
+  - name: "Licensing International – 10 Years of Mayhem: Exploding Kittens Launches First-Ever Board Game"
     url: https://licensinginternational.org/news/ten-years-of-mayhem-exploding-kittens-launches-first-ever-board-game/
-  - name: 'Exploding Kittens – Exploding Kittens: The Board Game (termékoldal)'
+  - name: "Exploding Kittens – Exploding Kittens: The Board Game (termékoldal)"
     url: https://explodingkittens.com/products/exploding-kittens-board-game
   - name: Gémklub – Kalózkirály (termékoldal)
     url: https://www.gemklub.hu/kalozkiraly-16346
-  - name: 'Gémklub – Ticket to Ride – Európa: 2. kiadás (termékoldal)'
+  - name: "Gémklub – Ticket to Ride – Európa: 2. kiadás (termékoldal)"
     url: https://www.gemklub.hu/ticket-to-ride-europa-639
+publishedAt: 2026-11-09T08:08:12.754Z
 ---
 
 Néhány napja még csak a „hamarosan érkezik” listán szerepelt, mostanra viszont a Gémklub webáruházában és üzleteiben is kapható a **Robbanó cicák – A társasjáték**, vagyis az _Exploding Kittens: The Board Game_ magyar kiadása. A kiadó novemberi újdonságai között egy olcsóbb kalózos kártyajáték és egy klasszikus megújult kiadása is ott van.
