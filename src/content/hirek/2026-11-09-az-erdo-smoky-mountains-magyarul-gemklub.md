@@ -1,12 +1,12 @@
 ---
-status: ⏳ tervezet
-approved: false
+status: ✅ megjelent
+approved: true
 chiefApproved: true
-published: false
-lastEditedBy: Hírgyűjtő (nyelvi modell)
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Fekete medvék és hegyi patakok: magyarul is kapható Az erdő harmadik, önálló része, a Smoky Mountains'
+published: true
+lastEditedBy: Weszprémy Gábor
+approvedBy: Weszprémy Gábor
+chiefApprovedBy: Weszprémy Gábor
+title: "Fekete medvék és hegyi patakok: magyarul is kapható Az erdő harmadik, önálló része, a Smoky Mountains"
 description: Megérkezett a Gémklubhoz Az erdő – Smoky Mountains, a népszerű kártyás erdőépítő játék (eredeti címén Forest Shuffle) harmadik, önállóan játszható tagja. Az új változat az amerikai Great Smoky Mountains vidékére visz, és a vizes élőhelyekre épít.
 date: 2026-11-09T07:00:00+01:00
 type: gyujtott
@@ -16,18 +16,19 @@ tags:
   - Gémklub
   - Lookout Games
   - Az erdő
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794211724857.png
-imageAlt: ''
-imageCredit: 'Fotó: Gémklub'
-imageSuggestion: 'Hivatalos dobozkép az eredeti kiadó, a Lookout Games termékoldaláról: https://www.lookout-spiele.de/upload/en_smoky.html_CoverImage.jpg (termékoldal: https://www.lookout-spiele.de/en/games/smoky.html) – javasolt forrásmegjelölés: Fotó: Lookout Games. A magyar kiadás dobozképe a Gémklub termékoldalán érhető el (https://www.gemklub.hu/az-erdo-smoky-mountains-15649), ezt a futás során nem tudtam megnyitni, érdemes kézzel megnézni.'
+imageAlt: ""
+imageCredit: "Fotó: Gémklub"
+imageSuggestion: "Hivatalos dobozkép az eredeti kiadó, a Lookout Games termékoldaláról: https://www.lookout-spiele.de/upload/en_smoky.html_CoverImage.jpg (termékoldal: https://www.lookout-spiele.de/en/games/smoky.html) – javasolt forrásmegjelölés: Fotó: Lookout Games. A magyar kiadás dobozképe a Gémklub termékoldalán érhető el (https://www.gemklub.hu/az-erdo-smoky-mountains-15649), ezt a futás során nem tudtam megnyitni, érdemes kézzel megnézni."
 sources:
   - name: Gémklub – főoldal, „Frissen érkezett” rovat (Az erdő – Smoky Mountains)
     url: https://www.gemklub.hu/
-  - name: 'Lookout Games – Forest Shuffle: Smoky Mountains (termékoldal)'
+  - name: "Lookout Games – Forest Shuffle: Smoky Mountains (termékoldal)"
     url: https://www.lookout-spiele.de/en/games/smoky.html
-  - name: 'Tarsasjatekok.com – Forest Shuffle: Smoky Mountains (adatlap)'
+  - name: "Tarsasjatekok.com – Forest Shuffle: Smoky Mountains (adatlap)"
     url: https://tarsasjatekok.com/tarsasjatek/forest-shuffle-smoky-mountains-2026
+publishedAt: 2026-11-09T08:12:19.251Z
 ---
 
 A Gémklub webáruházának „Frissen érkezett” rovatában megjelent **Az erdő – Smoky Mountains**, a német Lookout Games *Forest Shuffle: Smoky Mountains* című játékának magyar kiadása. A doboz ára a kiadó oldalán 10 990 forint.
