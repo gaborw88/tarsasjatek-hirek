@@ -1,12 +1,12 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell)
-approvedBy: ''
-chiefApprovedBy: ''
+published: true
+publishedAt: 2026-11-09T15:13:53.234Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 09. 16:13
+approvedBy: Weszprémy Gábor · 2026. 11. 09. 16:13
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 09. 16:13
 title: "Geralt a terepasztalon: november 17-én indul a Gamefoundon a The Witcher: No Man's Land miniatűrös csatajáték"
 description: Jövő kedden nyílik meg az előrendelés a Monster Fight Club Vaják-témájú miniatűrös csatajátékára. A kezdőcsomagban Geralt és Letho csapata csap össze, egy griffel és egy strigával a csatatéren.
 date: 2026-11-09T07:30:00+01:00
@@ -18,11 +18,11 @@ tags:
   - Monster Fight Club
   - The Witcher
   - Miniatűrös játékok
-youtube: ''
+youtube: ""
 image: /images/uploads/1000031337.jpg
-imageAlt: ''
-imageCredit: 'Fotó: Monster Fight Club'
-imageSuggestion: 'A kiadó saját előkampány-oldalán (a Monster Fight Club hivatalos regisztrációs linkje ide visz: https://launchoracle.com/monster-fight-club/witcher/8W4E8) vannak termékképek, pl.: https://media.launchoracle.com/campaigns/properties/d14b1e32-2579-4ee7-989f-ba67564f0690/761852fa-ad9b-45e4-b2a5-532ef0b37282.jpeg?v=761852fa-ad9b-45e4-b2a5-532ef0b37282 – javasolt forrásmegjelölés: Fotó: Monster Fight Club. A képet érdemes megnézni, mielőtt felkerül (a kép tartalmát nem láttam). November 17. után a Gamefound-kampányoldal képei is használhatók.'
+imageAlt: ""
+imageCredit: "Fotó: Monster Fight Club"
+imageSuggestion: "A kiadó saját előkampány-oldalán (a Monster Fight Club hivatalos regisztrációs linkje ide visz: https://launchoracle.com/monster-fight-club/witcher/8W4E8) vannak termékképek, pl.: https://media.launchoracle.com/campaigns/properties/d14b1e32-2579-4ee7-989f-ba67564f0690/761852fa-ad9b-45e4-b2a5-532ef0b37282.jpeg?v=761852fa-ad9b-45e4-b2a5-532ef0b37282 – javasolt forrásmegjelölés: Fotó: Monster Fight Club. A képet érdemes megnézni, mielőtt felkerül (a kép tartalmát nem láttam). November 17. után a Gamefound-kampányoldal képei is használhatók."
 sources:
   - name: "GamingTrend – The Witcher: No Man's Land goes live on Gamefound November 17th"
     url: https://gamingtrend.com/news/the-witcher-no-mans-land-goes-live-on-gamefound-november-17th/
