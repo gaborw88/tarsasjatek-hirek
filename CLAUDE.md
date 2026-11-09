@@ -45,6 +45,15 @@ A tulajdonos nem programozó: vele mindig magyarul, egyszerűen, szakzsargon né
 
 ## 1. Hírgyűjtés („gyűjts híreket”, vagy ütemezett futás)
 
+**Weboldalak megnyitása – kötelező szabály (hogy a futás ne álljon meg engedélykérésen):**
+Egy oldalt (WebFetch) **csak akkor nyiss meg, ha a linkje egy korábbi kereséstől (WebSearch) vagy egy már
+megnyitott oldaltól származik ebben a munkamenetben.** Linket ne írj be fejből, és ne rakj össze magadtól, és
+ez az ebben a fájlban felsorolt címekre is vonatkozik (pl. gemklub.hu, deltavision.hu, dicetower.com/videos):
+előbb keress rá (pl. „Gémklub újdonságok”, „Dice Tower videos”), és a találatként kapott linket nyisd meg.
+A közvetlenül beírt linkhez a tulajdonos engedélye kellene, ami ütemezett futásnál lejárhat. Ha egy oldalt a
+kereső nem ad ki, hagyd ki, és a futás végén a beszámolóban egy mondatban írd meg, melyik forrást nem sikerült
+megnézni.
+
 1. Keress az elmúlt 1–3 nap társasjátékos híreire a weben. Jó források:
    - **Iparági hírek:** BoardGameWire (boardgamewire.com), Board Game Beat (wericmartin.com – W. Eric Martin),
      BoardGameGeek News, ICv2 (icv2.com), Dicebreaker
