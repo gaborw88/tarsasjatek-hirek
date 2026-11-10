@@ -1,14 +1,14 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 10. 11:15
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Elixír és koronák az asztalon: pénteken zárul a Clash Royale társasjátékának Kickstarter-kampánya'
-description: 'A Supercell mobilos slágerjátékából készült Clash Royale: The Grand Arena egy óra alatt összegyűjtötte a célösszeget. A Maestro Media kampányába november 13-ig lehet beszállni.'
+published: true
+publishedAt: 2026-11-10T13:04:48.607Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 10. 14:03
+approvedBy: Weszprémy Gábor · 2026. 11. 10. 14:03
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 10. 14:03
+title: "Elixír és koronák az asztalon: pénteken zárul a Clash Royale társasjátékának Kickstarter-kampánya"
+description: "A Supercell mobilos slágerjátékából készült Clash Royale: The Grand Arena egy óra alatt összegyűjtötte a célösszeget. A Maestro Media kampányába november 13-ig lehet beszállni."
 date: 2026-11-10T11:45:00+01:00
 type: gyujtott
 author: Szerkesztőség
@@ -18,15 +18,15 @@ tags:
   - Maestro Media
   - Supercell
   - Videojáték-adaptáció
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794315698475.png
-imageAlt: ''
-imageCredit: 'Fotó: Maestro Media / Supercell'
-imageSuggestion: 'A kiadó saját Kickstarter-kampányoldalának képei (a Maestro Media töltötte fel): https://www.kickstarter.com/projects/maestromedia/clash-royale-the-grand-arena – javasolt forrásmegjelölés: Fotó: Maestro Media / Supercell. (A kampányoldalt nem tudtam megnyitni, a képet feltöltés előtt érdemes ott kiválasztani.)'
+imageAlt: ""
+imageCredit: "Fotó: Maestro Media / Supercell"
+imageSuggestion: "A kiadó saját Kickstarter-kampányoldalának képei (a Maestro Media töltötte fel): https://www.kickstarter.com/projects/maestromedia/clash-royale-the-grand-arena – javasolt forrásmegjelölés: Fotó: Maestro Media / Supercell. (A kampányoldalt nem tudtam megnyitni, a képet feltöltés előtt érdemes ott kiválasztani.)"
 sources:
   - name: Pocket Gamer.biz – Clash Royale tabletop game surpasses $100,000 on Kickstarter after reaching target in one hour
     url: https://www.pocketgamer.biz/clash-royale-tabletop-game-surpasses-100000-on-kickstarter-after-reaching-target-in-one-hour/
-  - name: 'ICv2 – Clash Royale: The Grand Arena (2026. október 15.)'
+  - name: "ICv2 – Clash Royale: The Grand Arena (2026. október 15.)"
     url: https://icv2.com/print/article/63631
   - name: Board Game Quest – Crowdfunding Campaigns of the Week (11/9/26)
     url: https://www.boardgamequest.com/crowdfunding-campaigns-of-the-week-11-9-26/
