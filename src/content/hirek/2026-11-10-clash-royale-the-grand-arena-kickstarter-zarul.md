@@ -2,25 +2,33 @@
 published: false
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
+status: ⏳ tervezet
 title: "Elixír és koronák az asztalon: pénteken zárul a Clash Royale társasjátékának Kickstarter-kampánya"
 description: "A Supercell mobilos slágerjátékából készült Clash Royale: The Grand Arena egy óra alatt összegyűjtötte a célösszeget. A Maestro Media kampányába november 13-ig lehet beszállni."
 date: 2026-11-10T11:45:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Közösségi finanszírozás", "Kickstarter", "Maestro Media", "Supercell", "Videojáték-adaptáció"]
+author: Szerkesztőség
+tags:
+  - Közösségi finanszírozás
+  - Kickstarter
+  - Maestro Media
+  - Supercell
+  - Videojáték-adaptáció
 youtube: ""
 image: ""
 imageSuggestion: "A kiadó saját Kickstarter-kampányoldalának képei (a Maestro Media töltötte fel): https://www.kickstarter.com/projects/maestromedia/clash-royale-the-grand-arena – javasolt forrásmegjelölés: Fotó: Maestro Media / Supercell. (A kampányoldalt nem tudtam megnyitni, a képet feltöltés előtt érdemes ott kiválasztani.)"
 sources:
-  - name: "Pocket Gamer.biz – Clash Royale tabletop game surpasses $100,000 on Kickstarter after reaching target in one hour"
-    url: "https://www.pocketgamer.biz/clash-royale-tabletop-game-surpasses-100000-on-kickstarter-after-reaching-target-in-one-hour/"
+  - name: Pocket Gamer.biz – Clash Royale tabletop game surpasses $100,000 on Kickstarter after reaching target in one hour
+    url: https://www.pocketgamer.biz/clash-royale-tabletop-game-surpasses-100000-on-kickstarter-after-reaching-target-in-one-hour/
   - name: "ICv2 – Clash Royale: The Grand Arena (2026. október 15.)"
-    url: "https://icv2.com/print/article/63631"
-  - name: "Board Game Quest – Crowdfunding Campaigns of the Week (11/9/26)"
-    url: "https://www.boardgamequest.com/crowdfunding-campaigns-of-the-week-11-9-26/"
-  - name: "GamesBeat – Clash franchise expands with new tabletop game and retail"
-    url: "https://gamesbeat.com/clash-franchise-expands-new-tabletop-game-retail/"
+    url: https://icv2.com/print/article/63631
+  - name: Board Game Quest – Crowdfunding Campaigns of the Week (11/9/26)
+    url: https://www.boardgamequest.com/crowdfunding-campaigns-of-the-week-11-9-26/
+  - name: GamesBeat – Clash franchise expands with new tabletop game and retail
+    url: https://gamesbeat.com/clash-franchise-expands-new-tabletop-game-retail/
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 10. 11:15
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 Az utolsó napjaiba lépett a **Clash Royale: The Grand Arena** Kickstarter-kampánya: a finn Supercell világszerte népszerű mobiljátékából készült asztali változatot az amerikai **Maestro Media** fejlesztette, és a gyűjtés péntek, **november 13**-án zárul. A Board Game Quest összesítése szerint a támogatói csomagok 49 dollártól indulnak.
