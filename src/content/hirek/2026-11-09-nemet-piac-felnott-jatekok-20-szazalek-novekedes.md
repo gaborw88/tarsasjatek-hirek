@@ -1,12 +1,12 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Weszprémy Gábor · 2026. 11. 10. 10:11
-approvedBy: ''
-chiefApprovedBy: ''
+published: true
+publishedAt: 2026-11-10T09:26:46.434Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 10. 10:26
+approvedBy: Weszprémy Gábor · 2026. 11. 10. 10:26
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 10. 10:26
 title: Húsz százalékkal nőtt a felnőtteknek szóló társasjátékok forgalma Németországban – bizakodnak a kiadók
 description: A német kiadói szövetség felmérése szerint 2026 első kilenc hónapjában a felnőtt közönségnek szánt játékok húzták a piacot, a kiadók kilenctizede stabil vagy növekvő bevételre számít.
 date: 2026-11-09T17:00:00+01:00
@@ -17,10 +17,10 @@ tags:
   - Piaci adatok
   - Németország
   - Spiel Essen
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794301882111.png
-imageAlt: ''
-imageCredit: 'Kép: Spieleverlage e.V.'
+imageAlt: ""
+imageCredit: "Kép: Spieleverlage e.V."
 imageSuggestion: Iparági hír, amelyhez hivatalos sajtókép nem tartozik; a német kiadói szövetség (Spieleverlage e.V.) logóját a spieleverlage.com oldalon érdemes keresni. Kép nélkül is rendben van.
 sources:
   - name: BoardGameWire – Board games targeting adult players see 20% sales surge in Germany, publisher optimism grows
