@@ -1,13 +1,13 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 10. 07:07
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Konstantinápoly falain: a Wallguards of the East Empire nyitja a Garphill Games új trilógiáját'
+published: true
+publishedAt: 2026-11-10T13:08:52.653Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 10. 14:07
+approvedBy: Weszprémy Gábor · 2026. 11. 10. 14:07
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 10. 14:07
+title: "Konstantinápoly falain: a Wallguards of the East Empire nyitja a Garphill Games új trilógiáját"
 description: Novemberre tervezett Kickstarter-indulással érkezik Shem Phillips és Sam Macdonald új pakliépítős játéka, amely 821-ben, a bizánci főváros ostroma idején játszódik. Mellé egy opcionális kiegészítő, a Vow of Victory is készül.
 date: 2026-11-10T13:00:00+01:00
 type: gyujtott
@@ -17,11 +17,11 @@ tags:
   - Közösségi finanszírozás
   - Kickstarter
   - Garphill Games
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794315885682.png
-imageAlt: ''
-imageCredit: 'Fotó: Garphill Games'
-imageSuggestion: 'Hivatalos sajtókép (a kiadó bejelentő bejegyzésének fejléce): https://www.garphill.com/cdn/shop/articles/Wallguards_News_59b90d18-1aa6-495b-ac1d-a1409b07a950.jpg?v=1789510170&width=3840 – javasolt forrásmegjelölés: Fotó: Garphill Games. (A kép tartalmát nem láttam, feltöltés előtt érdemes megnézni.)'
+imageAlt: ""
+imageCredit: "Fotó: Garphill Games"
+imageSuggestion: "Hivatalos sajtókép (a kiadó bejelentő bejegyzésének fejléce): https://www.garphill.com/cdn/shop/articles/Wallguards_News_59b90d18-1aa6-495b-ac1d-a1409b07a950.jpg?v=1789510170&width=3840 – javasolt forrásmegjelölés: Fotó: Garphill Games. (A kép tartalmát nem láttam, feltöltés előtt érdemes megnézni.)"
 sources:
   - name: Garphill Games – Announcing Wallguards of the East Empire!
     url: https://www.garphill.com/blogs/news/announcing-wallguards-of-the-east-empire
