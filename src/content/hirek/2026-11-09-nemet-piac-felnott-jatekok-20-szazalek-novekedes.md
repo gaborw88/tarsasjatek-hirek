@@ -1,8 +1,12 @@
 ---
-published: false
+status: ⏳ tervezet
 approved: false
 chiefApproved: false
-status: ⏳ tervezet
+published: false
+publishedAt: ''
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 09. 23:05
+approvedBy: ''
+chiefApprovedBy: ''
 title: Húsz százalékkal nőtt a felnőtteknek szóló társasjátékok forgalma Németországban – bizakodnak a kiadók
 description: A német kiadói szövetség felmérése szerint 2026 első kilenc hónapjában a felnőtt közönségnek szánt játékok húzták a piacot, a kiadók kilenctizede stabil vagy növekvő bevételre számít.
 date: 2026-11-09T17:00:00+01:00
@@ -13,20 +17,21 @@ tags:
   - Piaci adatok
   - Németország
   - Spiel Essen
+youtube: ''
+image: /images/uploads/pasted-image-1794301882111.png
+imageAlt: ''
+imageCredit: 'Kép: Spieleverlage e.V.'
+imageSuggestion: Iparági hír, amelyhez hivatalos sajtókép nem tartozik; a német kiadói szövetség (Spieleverlage e.V.) logóját a spieleverlage.com oldalon érdemes keresni. Kép nélkül is rendben van.
 sources:
   - name: BoardGameWire – Board games targeting adult players see 20% sales surge in Germany, publisher optimism grows
     url: https://boardgamewire.com/index.php/2026/11/09/board-games-targeting-adult-players-see-20-sales-surge-in-germany-publisher-optimism-grows-survey/
   - name: BoardGameWire – Spiel Essen hits record 230,000 attendance
     url: https://boardgamewire.com/index.php/2026/11/02/spiel-essen-hits-record-230000-attendance-as-publishers-report-booming-sales-but-worlds-biggest-board-game-fair-has-reached-its-limit/
-imageSuggestion: Iparági hír, amelyhez hivatalos sajtókép nem tartozik; a német kiadói szövetség (Spieleverlage e.V.) logóját a spieleverlage.com oldalon érdemes keresni. Kép nélkül is rendben van.
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 09. 23:05
-approvedBy: ""
-chiefApprovedBy: ""
 ---
 
 Európa legnagyobb társasjátékpiacán továbbra is felfelé ível a görbe, és a lendületet egyre inkább a felnőtt játékosok adják. A német társasjáték-kiadók szövetsége, a Spieleverlage e.V. által közzétett, a Circana piackutató cégtől származó adatok szerint 2026 első kilenc hónapjában a kifejezetten felnőtteknek szóló játékok forgalma több mint 20 százalékkal nőtt.
 
-## Gyorsabban nő, mint a játékpiac egésze
+## Gyorsabban növekszik, mint a játékpiac egésze
 
 A játékok és kirakók piaca összességében 8 százalékkal bővült ugyanebben az időszakban, miközben a teljes német játékipar mindössze 3 százalékos növekedést mutatott. A Circana szakértője, Joachim Stempfle szerint a társasjátékok és puzzle-ök a játékpiac legfontosabb növekedési motorjai közé tartoznak. A BoardGameWire megjegyzi, hogy a felnőtt kategória sikerében valószínűleg nagy szerepe van a Jumbo zenés partijátékának, a Hitsternek, amelyből 2025 elejéig csak Németországban több mint egymillió példány kelt el.
 
