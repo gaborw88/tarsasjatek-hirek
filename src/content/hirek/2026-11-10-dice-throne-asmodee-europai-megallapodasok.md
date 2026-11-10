@@ -1,14 +1,14 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 10. 22:56
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Az Asmodee-hez kerül a Dice Throne európai kiadása: francia nyelvű verzió, brit boltok és uniós webáruház'
-description: 'Három új megállapodást kötött a Dice Throne az Asmodee-vel: a francia kiadást, a brit bolti forgalmazást és egy uniós online értékesítési csatornát is a kiadóóriás cégei viszik. Ezzel lezárul az együttműködés a Lucky Duck Gamesszel.'
+published: true
+publishedAt: 2026-11-10T22:10:41.115Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 10. 23:10
+approvedBy: Weszprémy Gábor · 2026. 11. 10. 23:10
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 10. 23:10
+title: "Az Asmodee-hez kerül a Dice Throne európai kiadása: francia nyelvű verzió, brit boltok és uniós webáruház"
+description: "Három új megállapodást kötött a Dice Throne az Asmodee-vel: a francia kiadást, a brit bolti forgalmazást és egy uniós online értékesítési csatornát is a kiadóóriás cégei viszik. Ezzel lezárul az együttműködés a Lucky Duck Gamesszel."
 date: 2026-11-10T23:00:00+01:00
 type: gyujtott
 author: Szerkesztőség
@@ -16,10 +16,10 @@ tags:
   - Iparági hírek
   - Dice Throne
   - Asmodee
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794348530135.png
-imageAlt: ''
-imageCredit: 'Fotó: Dice Throne Inc.'
+imageAlt: ""
+imageCredit: "Fotó: Dice Throne Inc."
 imageSuggestion: Üzleti (forgalmazási) hír, hivatalos sajtókép nincs hozzá – a Dice Throne-nak nem találtam nyilvános sajtócsomag-oldalt. Kép nélkül is rendben van; ha mégis kellene, a Dice Throne logóját vagy egy dobozképet érdemes a kiadótól kérni.
 sources:
   - name: BoardGameWire – Dice Throne deepens Asmodee ties with three European deals covering publishing, retail distribution, online sales
