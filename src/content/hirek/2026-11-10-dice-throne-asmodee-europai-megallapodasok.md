@@ -1,7 +1,14 @@
 ---
+status: ⏳ tervezet
+approved: true
+chiefApproved: true
 published: false
-title: "Az Asmodee-hez kerül a Dice Throne európai kiadása: francia nyelvű verzió, brit boltok és uniós webáruház"
-description: "Három új megállapodást kötött a Dice Throne az Asmodee-vel: a francia kiadást, a brit bolti forgalmazást és egy uniós online értékesítési csatornát is a kiadóóriás cégei viszik. Ezzel lezárul az együttműködés a Lucky Duck Gamesszel."
+publishedAt: ''
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 10. 22:56
+approvedBy: ''
+chiefApprovedBy: ''
+title: 'Az Asmodee-hez kerül a Dice Throne európai kiadása: francia nyelvű verzió, brit boltok és uniós webáruház'
+description: 'Három új megállapodást kötött a Dice Throne az Asmodee-vel: a francia kiadást, a brit bolti forgalmazást és egy uniós online értékesítési csatornát is a kiadóóriás cégei viszik. Ezzel lezárul az együttműködés a Lucky Duck Gamesszel.'
 date: 2026-11-10T23:00:00+01:00
 type: gyujtott
 author: Szerkesztőség
@@ -9,22 +16,16 @@ tags:
   - Iparági hírek
   - Dice Throne
   - Asmodee
-youtube: ""
-image: ""
-imageAlt: ""
-imageCredit: ""
+youtube: ''
+image: /images/uploads/pasted-image-1794348530135.png
+imageAlt: ''
+imageCredit: 'Fotó: Dice Throne Inc.'
 imageSuggestion: Üzleti (forgalmazási) hír, hivatalos sajtókép nincs hozzá – a Dice Throne-nak nem találtam nyilvános sajtócsomag-oldalt. Kép nélkül is rendben van; ha mégis kellene, a Dice Throne logóját vagy egy dobozképet érdemes a kiadótól kérni.
 sources:
   - name: BoardGameWire – Dice Throne deepens Asmodee ties with three European deals covering publishing, retail distribution, online sales
     url: https://boardgamewire.com/index.php/2026/11/10/dice-throne-deepens-asmodee-ties-with-three-european-deals-covering-publishing-retail-distribution-online-sales/
   - name: Geek Native – Dice Throne builds growing UK organised play footprint as digital edition takes shape
     url: https://www.geeknative.com/237286/dice-throne-builds-growing-uk-organised-play-footprint-as-digital-edition-takes-shape/
-approved: false
-chiefApproved: false
-status: ⏳ tervezet
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 10. 22:56
-approvedBy: ""
-chiefApprovedBy: ""
 ---
 
 Átrendezi európai jelenlétét a **Dice Throne**, a kockás-kártyás párbajjátékairól ismert amerikai kiadó. A BoardGameWire beszámolója szerint a cég egyszerre három megállapodást kötött az **Asmodee** csoporthoz tartozó vállalatokkal, amelyek a kiadástól a bolti forgalmazáson át az online értékesítésig több területet is lefednek.
