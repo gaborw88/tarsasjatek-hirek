@@ -1,13 +1,13 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 10. 11:15
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Megvannak a Catan-film rendezői: a Nee testvérek viszik vászonra a társasjáték-klasszikust a Netflixnek'
+published: true
+publishedAt: 2026-11-10T10:26:33.419Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 10. 11:26
+approvedBy: Weszprémy Gábor · 2026. 11. 10. 11:26
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 10. 11:26
+title: "Megvannak a Catan-film rendezői: a Nee testvérek viszik vászonra a társasjáték-klasszikust a Netflixnek"
 description: Aaron és Adam Nee, Az elveszett város rendezői írják és rendezik a Netflix élőszereplős Catan-filmjét. A streamingszolgáltató tavaly ősszel szerezte meg a játék film- és sorozatjogait.
 date: 2026-11-10T11:30:00+01:00
 type: gyujtott
@@ -18,11 +18,11 @@ tags:
   - Catan
   - Netflix
   - Asmodee
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794306315962.png
-imageAlt: ''
-imageCredit: 'Fotó: Catan Studio / Catan GmbH'
-imageSuggestion: 'Filmes hír, a filmhez még nincs hivatalos kép. Kiadói dobozkép a Catan alapjátékról a Catan Studio hivatalos webáruházában: https://catanshop.com/catan-6th-edition-base-game – javasolt forrásmegjelölés: Fotó: Catan Studio / Catan GmbH. (A kép felhasználásáról érdemes rákérdezni, vagy a Catan logója is jó lehet; kép nélkül is rendben van.)'
+imageAlt: ""
+imageCredit: "Fotó: Catan Studio / Catan GmbH"
+imageSuggestion: "Filmes hír, a filmhez még nincs hivatalos kép. Kiadói dobozkép a Catan alapjátékról a Catan Studio hivatalos webáruházában: https://catanshop.com/catan-6th-edition-base-game – javasolt forrásmegjelölés: Fotó: Catan Studio / Catan GmbH. (A kép felhasználásáról érdemes rákérdezni, vagy a Catan logója is jó lehet; kép nélkül is rendben van.)"
 sources:
   - name: Dark Horizons – Nee Brothers To Direct The "Catan" Film (Deadline nyomán)
     url: https://www.darkhorizons.com/nee-brothers-to-direct-the-catan-film/
