@@ -1,13 +1,13 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 10. 19:06
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Újra drágul a Pokémon kártyajáték Japánban: 2027 májusától 230 jen egy booster'
+published: true
+publishedAt: 2026-11-10T20:53:28.033Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 10. 21:53
+approvedBy: Weszprémy Gábor · 2026. 11. 10. 21:53
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 10. 21:53
+title: "Újra drágul a Pokémon kártyajáték Japánban: 2027 májusától 230 jen egy booster"
 description: A japán Pokémon Card Game boostercsomagjai 2027 májusától 200 helyett 230 jenbe kerülnek. Ez már a harmadik áremelés a Scarlet & Violet korszak óta; az angol nyelvű kiadásokra egyelőre nincs bejelentés.
 date: 2026-11-10T19:00:00+01:00
 type: gyujtott
@@ -16,10 +16,10 @@ tags:
   - Pokémon
   - Gyűjtögetős kártyajáték
   - Iparági hírek
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794343922719.png
-imageAlt: ''
-imageCredit: 'Kép: The Pokémon Company International'
+imageAlt: ""
+imageCredit: "Kép: The Pokémon Company International"
 imageSuggestion: Iparági (árazási) hír, hivatalos sajtókép nincs hozzá – a The Pokémon Company sajtóoldalán nem találtam ehhez tartozó letölthető képet. Kép nélkül is rendben van; ha mégis kellene, a Pokémon Trading Card Game hivatalos logóját érdemes a The Pokémon Company-tól kérni.
 sources:
   - name: PokeGuardian – Japanese Pokemon Card Game Booster Packs Get a Price Increase Starting in May 2027
