@@ -1,3 +1,20 @@
+/* Saját betűtípusfájlok: minden magyar ékezetes betű (ő, ű is) ugyanabban a fájlban van,
+   így nem fordulhat elő, hogy az ő/ű más betűtípussal jelenik meg. */
+@font-face {
+  font-family: 'Archivo HU';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url('/fonts/archivo-hu.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Inter HU';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url('/fonts/inter-hu.woff2') format('woff2');
+}
+
 :root {
   /* A DOBJektív logó színei: fekete, borostyánsárga, meleg szürke, fehér */
   --c-paper: #ffffff;
@@ -11,8 +28,8 @@
   --c-gray: #948f89;
   --c-link: #9a6200;
   --c-mustard: #f9ab0a;
-  --f-head: 'Archivo Variable', 'Inter Variable', system-ui, sans-serif;
-  --f-body: 'Inter Variable', system-ui, sans-serif;
+  --f-head: 'Archivo HU', 'Inter HU', system-ui, sans-serif;
+  --f-body: 'Inter HU', system-ui, sans-serif;
   --w-max: 1180px;
   --radius: 10px;
 }

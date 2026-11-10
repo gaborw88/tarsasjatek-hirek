@@ -1,6 +1,4 @@
 ---
-import '@fontsource-variable/archivo';
-import '@fontsource-variable/inter';
 import '../styles/global.css';
 import { SITE } from '../site.config';
 import { url } from '../lib/utils';
@@ -39,6 +37,8 @@ const nav = [
   {published && <meta property="article:published_time" content={published.toISOString()} />}
   <meta name="twitter:card" content="summary_large_image" />
   <link rel="alternate" type="application/rss+xml" title={SITE.name} href={url('/rss.xml')} />
+  <link rel="preload" href={url('/fonts/archivo-hu.woff2')} as="font" type="font/woff2" crossorigin />
+  <link rel="preload" href={url('/fonts/inter-hu.woff2')} as="font" type="font/woff2" crossorigin />
   <link rel="icon" href={url('/favicon.png')} type="image/png" />
   <link rel="apple-touch-icon" href={url('/apple-touch-icon.png')} />
   {SITE.goatcounter && (

@@ -1,0 +1,2 @@
+Archivo (Omnibus-Type) és Inter (Rasmus Andersson) – SIL Open Font License 1.1.
+Forrás: github.com/google/fonts – latin + közép-európai betűkészletre szűkítve, hogy az ő és ű betű is ugyanabban a fájlban legyen.
