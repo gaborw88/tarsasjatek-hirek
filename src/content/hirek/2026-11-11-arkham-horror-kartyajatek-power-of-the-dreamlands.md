@@ -2,19 +2,26 @@
 published: false
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
+status: ⏳ tervezet
 title: "Álmokból valóság: februárban érkezik az Arkham Horror kártyajáték új, Álomvilágba kalauzoló kiegészítője"
 description: "A Fantasy Flight Games bejelentette a Power of the Dreamlands pakliépítős kiegészítőt az Arkham Horror: The Card Game-hez. A 147 új kártyát tartalmazó doboz 2027. február 19-én jelenik meg."
 date: 2026-11-11T13:05:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Kiadói hírek", "Fantasy Flight Games", "Arkham Horror", "Kiegészítők"]
+author: Szerkesztőség
+tags:
+  - Kiadói hírek
+  - Fantasy Flight Games
+  - Arkham Horror
+  - Kiegészítők
 imageSuggestion: "Hivatalos dobozkép a kiadó (Asmodee) webáruházának termékoldaláról: https://store.asmodee.com/cdn/shop/files/AHC108EN-image0_2000.jpg?v=1793200096 – javasolt forrásmegjelölés: Fotó: Fantasy Flight Games. (A kép tartalmát nem láttam, feltöltés előtt érdemes megnézni.)"
 sources:
   - name: "ICv2 – New 'Arkham Horror: The Card Game' Expansion Incoming"
-    url: "https://icv2.com/articles/news/view/63848/new-arkham-horror-the-card-game-expansion-incoming"
+    url: https://icv2.com/articles/news/view/63848/new-arkham-horror-the-card-game-expansion-incoming
   - name: "Asmodee Store – Arkham Horror: The Card Game – Power of the Dreamlands Deckbuilding Expansion"
-    url: "https://store.asmodee.com/collections/coming-soon/products/arkham-horror-the-card-game-power-of-the-dreamlands-deckbuilding-expansion"
+    url: https://store.asmodee.com/collections/coming-soon/products/arkham-horror-the-card-game-power-of-the-dreamlands-deckbuilding-expansion
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 11. 07:01
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 Új kiegészítőt jelentett be az **Arkham Horror: The Card Game** kooperatív kártyajátékhoz a Fantasy Flight Games. A **Power of the Dreamlands** nevű csomag 2027. február 19-én kerül a boltokba, ajánlott ára 39,99 dollár.
