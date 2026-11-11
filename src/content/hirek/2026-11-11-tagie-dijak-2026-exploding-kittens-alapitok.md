@@ -2,21 +2,28 @@
 published: false
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
+status: ⏳ tervezet
 title: "A Robbanó cicák alkotói kapták az amerikai játékipar „játékformáló” díját: kiosztották a 2026-os TAGIE-díjakat"
-description: "Chicagóban kiosztották a játék- és társasjáték-ipar újítóit elismerő TAGIE-díjakat. Az Exploding Kittens két alapítója, Elan Lee és Matthew Inman különdíjat kapott, a társasjátékos kategóriákban a Cross the Line és a Spin Master csapata nyert."
+description: Chicagóban kiosztották a játék- és társasjáték-ipar újítóit elismerő TAGIE-díjakat. Az Exploding Kittens két alapítója, Elan Lee és Matthew Inman különdíjat kapott, a társasjátékos kategóriákban a Cross the Line és a Spin Master csapata nyert.
 date: 2026-11-11T18:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Díjak", "Iparági hírek", "Exploding Kittens", "Spin Master"]
+author: Szerkesztőség
+tags:
+  - Díjak
+  - Iparági hírek
+  - Exploding Kittens
+  - Spin Master
 youtube: ""
 image: ""
 imageSuggestion: "Hivatalos sajtókép: https://ml.globenewswire.com/media/YTgzZjM1ZTItOTdmMS00MGNkLThhMzItZDFkMTExZWFiMDVmLTUwMDE1NDA3OS0yMDI2LTExLTA5LWVu/tiny/People-of-Play.png (a People of Play logója a hivatalos sajtóközlemény mellől; kicsi felbontású) – javasolt forrásmegjelölés: Logó: People of Play. A közleményhez tartozó fő kép is letölthető: https://ml.globenewswire.com/Resource/Download/2201a3a4-e07e-4fba-b822-4830e1777fb4 – ezt megnyitás előtt érdemes ellenőrizni, hogy nem valódi személyekről készült fotó-e."
 sources:
-  - name: "GlobeNewswire – People of Play Announces Winners of 2026 Toy & Game Innovation Excellence Awards (sajtóközlemény)"
-    url: "https://www.globenewswire.com/news-release/2026/11/09/3398471/0/en/people-of-play-announces-winners-of-2026-toy-game-innovation-excellence-awards.html"
+  - name: GlobeNewswire – People of Play Announces Winners of 2026 Toy & Game Innovation Excellence Awards (sajtóközlemény)
+    url: https://www.globenewswire.com/news-release/2026/11/09/3398471/0/en/people-of-play-announces-winners-of-2026-toy-game-innovation-excellence-awards.html
   - name: "ICv2 – ChiTAG 2026 News: People of Play Unveils 2026 TAGIE Winners"
-    url: "https://icv2.com/articles/news/view/63844/chitag-2026-news-people-play-unveils-2026-tagie-winners"
+    url: https://icv2.com/articles/news/view/63844/chitag-2026-news-people-play-unveils-2026-tagie-winners
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 11. 15:02
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 November 6-án este Chicago mellett, a Rosemont városában lévő Joe's Live koncerthelyszínen adták át a 2026-os **TAGIE-díjakat** (Toy & Game Innovation Excellence Awards). Az elismerést a People of Play, az amerikai játékipari szövetség (The Toy Association) egyik szervezete ítéli oda minden évben a játék- és társasjáték-fejlesztés újítóinak. A gálát a Chicagói Játék- és Társasjáték-vásár (Chicago Toy & Game Fair) előestéjén tartották; a díjakról szóló sajtóközlemény november 9-én jelent meg.
