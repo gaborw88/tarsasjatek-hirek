@@ -1,13 +1,13 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 11. 11:05
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Közös kaland Arcadiában: fut a Fable Quest, az Arcadia Quest világában játszódó kooperatív kampányjáték Gamefound-kampánya'
+published: true
+publishedAt: 2026-11-11T12:40:25.254Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 11. 13:39
+approvedBy: Weszprémy Gábor · 2026. 11. 11. 13:39
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 11. 13:39
+title: "Közös kaland Arcadiában: fut a Fable Quest, az Arcadia Quest világában játszódó kooperatív kampányjáték Gamefound-kampánya"
 description: A CMON-tól az Arcadia Quest jogait megszerző Tycoon Games tizenkét fejezetes, teljesen kooperatív történetjátékot indított a Gamefoundon.
 date: 2026-11-11T16:00:00+01:00
 type: gyujtott
@@ -18,11 +18,11 @@ tags:
   - Gamefound
   - Tycoon Games
   - Arcadia Quest
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794400673790.png
-imageAlt: ''
-imageCredit: 'Fotó: Tycoon Games'
-imageSuggestion: 'Hivatalos dobozkép a kiadó termékoldaláról: https://tycoongames.com/cdn/shop/files/FableQuest-DELUXEBox.jpg?v=1793978430 – javasolt forrásmegjelölés: Fotó: Tycoon Games'
+imageAlt: ""
+imageCredit: "Fotó: Tycoon Games"
+imageSuggestion: "Hivatalos dobozkép a kiadó termékoldaláról: https://tycoongames.com/cdn/shop/files/FableQuest-DELUXEBox.jpg?v=1793978430 – javasolt forrásmegjelölés: Fotó: Tycoon Games"
 sources:
   - name: ICv2 – 'Fable Quest' Coming Soon to Gamefound
     url: https://icv2.com/articles/news/view/63496/fable-quest-coming-soon-gamefound
