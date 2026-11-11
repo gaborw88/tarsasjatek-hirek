@@ -1,14 +1,14 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 11. 07:01
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Álmokból valóság: februárban érkezik az Arkham Horror kártyajáték új, Álomvilágba kalauzoló kiegészítője'
-description: 'A Fantasy Flight Games bejelentette a Power of the Dreamlands pakliépítős kiegészítőt az Arkham Horror: The Card Game-hez. A 147 új kártyát tartalmazó doboz 2027. február 19-én jelenik meg.'
+published: true
+publishedAt: 2026-11-11T09:23:41.457Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 11. 10:22
+approvedBy: Weszprémy Gábor · 2026. 11. 11. 10:22
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 11. 10:22
+title: "Álmokból valóság: februárban érkezik az Arkham Horror kártyajáték új, Álomvilágba kalauzoló kiegészítője"
+description: "A Fantasy Flight Games bejelentette a Power of the Dreamlands pakliépítős kiegészítőt az Arkham Horror: The Card Game-hez. A 147 új kártyát tartalmazó doboz 2027. február 19-én jelenik meg."
 date: 2026-11-11T13:05:00+01:00
 type: gyujtott
 author: Szerkesztőség
@@ -17,15 +17,15 @@ tags:
   - Fantasy Flight Games
   - Arkham Horror
   - Kiegészítők
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794388870225.png
-imageAlt: ''
-imageCredit: 'Fotó: Fantasy Flight Games'
-imageSuggestion: 'Hivatalos dobozkép a kiadó (Asmodee) webáruházának termékoldaláról: https://store.asmodee.com/cdn/shop/files/AHC108EN-image0_2000.jpg?v=1793200096 – javasolt forrásmegjelölés: Fotó: Fantasy Flight Games. (A kép tartalmát nem láttam, feltöltés előtt érdemes megnézni.)'
+imageAlt: ""
+imageCredit: "Fotó: Fantasy Flight Games"
+imageSuggestion: "Hivatalos dobozkép a kiadó (Asmodee) webáruházának termékoldaláról: https://store.asmodee.com/cdn/shop/files/AHC108EN-image0_2000.jpg?v=1793200096 – javasolt forrásmegjelölés: Fotó: Fantasy Flight Games. (A kép tartalmát nem láttam, feltöltés előtt érdemes megnézni.)"
 sources:
   - name: "ICv2 – New 'Arkham Horror: The Card Game' Expansion Incoming"
     url: https://icv2.com/articles/news/view/63848/new-arkham-horror-the-card-game-expansion-incoming
-  - name: 'Asmodee Store – Arkham Horror: The Card Game – Power of the Dreamlands Deckbuilding Expansion'
+  - name: "Asmodee Store – Arkham Horror: The Card Game – Power of the Dreamlands Deckbuilding Expansion"
     url: https://store.asmodee.com/collections/coming-soon/products/arkham-horror-the-card-game-power-of-the-dreamlands-deckbuilding-expansion
 ---
 
