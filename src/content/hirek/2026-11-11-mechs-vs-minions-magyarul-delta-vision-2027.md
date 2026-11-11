@@ -1,12 +1,12 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 11. 22:56
-approvedBy: ''
-chiefApprovedBy: ''
+published: true
+publishedAt: 2026-11-11T22:10:50.100Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 11. 23:10
+approvedBy: Weszprémy Gábor · 2026. 11. 11. 23:10
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 11. 23:10
 title: Visszatér a Mechs vs. Minions – 2027-ben magyarul is megjelenik a Delta Visionnél
 description: Tíz évvel az első kiadás után újra boltokba kerül a League of Legends világában játszódó kooperatív klasszikus; a magyar kiadást a Delta Vision készíti 2027-re.
 date: 2026-11-11T17:00:00+01:00
@@ -18,11 +18,11 @@ tags:
   - Mechs vs. Minions
   - Incredible Dream
   - Riot Games
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794434971454.png
-imageAlt: ''
-imageCredit: 'Fotó: Incredible Dream / Riot Games'
-imageSuggestion: 'Hivatalos dobozkép a kiadó (Incredible Dream) termékoldaláról – Classic Edition: https://kinfirechronicles.com/cdn/shop/files/lp-product-item2.png?v=3536943721551425404 , Bandle City Edition: https://kinfirechronicles.com/cdn/shop/files/lp-product-item1.png?v=13603125988620027419 (oldal: https://kinfirechronicles.com/pages/playmvm) – javasolt forrásmegjelölés: Fotó: Incredible Dream / Riot Games'
+imageAlt: ""
+imageCredit: "Fotó: Incredible Dream / Riot Games"
+imageSuggestion: "Hivatalos dobozkép a kiadó (Incredible Dream) termékoldaláról – Classic Edition: https://kinfirechronicles.com/cdn/shop/files/lp-product-item2.png?v=3536943721551425404 , Bandle City Edition: https://kinfirechronicles.com/cdn/shop/files/lp-product-item1.png?v=13603125988620027419 (oldal: https://kinfirechronicles.com/pages/playmvm) – javasolt forrásmegjelölés: Fotó: Incredible Dream / Riot Games"
 sources:
   - name: ICv2 – 'Mechs vs. Minions' Distribution and Publishing Partners Unveiled
     url: https://icv2.com/articles/news/view/63680/mechs-vs-minions-distribution-publishing-partners-unveiled
@@ -30,7 +30,7 @@ sources:
     url: https://lifestyle.middletownlifemagazine.com/story/772539/incredible-dream-names-international-distribution-and-publishing-partners-for-mechs-vs-minions/
   - name: Incredible Dream – Mechs vs. Minions termékoldal
     url: https://kinfirechronicles.com/pages/playmvm
-  - name: 'inHobby – Mechs vs. Minions returns: Classic vs. Bandle City Edition explained'
+  - name: "inHobby – Mechs vs. Minions returns: Classic vs. Bandle City Edition explained"
     url: https://www.inhobby.gg/boardgame/news/mechs-vs-minions-devir-2027/
 ---
 
