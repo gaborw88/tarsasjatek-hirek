@@ -1,13 +1,13 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 11. 15:02
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'A Robbanó cicák alkotói kapták az amerikai játékipar „játékformáló” díját: kiosztották a 2026-os TAGIE-díjakat'
+published: true
+publishedAt: 2026-11-11T17:16:57.737Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 11. 18:16
+approvedBy: Weszprémy Gábor · 2026. 11. 11. 18:16
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 11. 18:16
+title: "A Robbanó cicák alkotói kapták az amerikai játékipar „játékformáló” díját: kiosztották a 2026-os TAGIE-díjakat"
 description: Chicagóban kiosztották a játék- és társasjáték-ipar újítóit elismerő TAGIE-díjakat. Az Exploding Kittens két alapítója, Elan Lee és Matthew Inman különdíjat kapott, a társasjátékos kategóriákban a Cross the Line és a Spin Master csapata nyert.
 date: 2026-11-11T18:00:00+01:00
 type: gyujtott
@@ -17,15 +17,15 @@ tags:
   - Iparági hírek
   - Exploding Kittens
   - Spin Master
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794417311231.png
-imageAlt: ''
-imageCredit: 'Kép: People of Play'
-imageSuggestion: 'Hivatalos sajtókép: https://ml.globenewswire.com/media/YTgzZjM1ZTItOTdmMS00MGNkLThhMzItZDFkMTExZWFiMDVmLTUwMDE1NDA3OS0yMDI2LTExLTA5LWVu/tiny/People-of-Play.png (a People of Play logója a hivatalos sajtóközlemény mellől; kicsi felbontású) – javasolt forrásmegjelölés: Logó: People of Play. A közleményhez tartozó fő kép is letölthető: https://ml.globenewswire.com/Resource/Download/2201a3a4-e07e-4fba-b822-4830e1777fb4 – ezt megnyitás előtt érdemes ellenőrizni, hogy nem valódi személyekről készült fotó-e.'
+imageAlt: ""
+imageCredit: "Kép: People of Play"
+imageSuggestion: "Hivatalos sajtókép: https://ml.globenewswire.com/media/YTgzZjM1ZTItOTdmMS00MGNkLThhMzItZDFkMTExZWFiMDVmLTUwMDE1NDA3OS0yMDI2LTExLTA5LWVu/tiny/People-of-Play.png (a People of Play logója a hivatalos sajtóközlemény mellől; kicsi felbontású) – javasolt forrásmegjelölés: Logó: People of Play. A közleményhez tartozó fő kép is letölthető: https://ml.globenewswire.com/Resource/Download/2201a3a4-e07e-4fba-b822-4830e1777fb4 – ezt megnyitás előtt érdemes ellenőrizni, hogy nem valódi személyekről készült fotó-e."
 sources:
   - name: GlobeNewswire – People of Play Announces Winners of 2026 Toy & Game Innovation Excellence Awards (sajtóközlemény)
     url: https://www.globenewswire.com/news-release/2026/11/09/3398471/0/en/people-of-play-announces-winners-of-2026-toy-game-innovation-excellence-awards.html
-  - name: 'ICv2 – ChiTAG 2026 News: People of Play Unveils 2026 TAGIE Winners'
+  - name: "ICv2 – ChiTAG 2026 News: People of Play Unveils 2026 TAGIE Winners"
     url: https://icv2.com/articles/news/view/63844/chitag-2026-news-people-play-unveils-2026-tagie-winners
 ---
 
