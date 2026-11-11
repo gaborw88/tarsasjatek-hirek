@@ -2,19 +2,27 @@
 published: false
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
+status: ⏳ tervezet
 title: "Örökbe fogadott cicák bizalmáért versenghetünk: előrendelhető az MDJ Games első játéka, a From Stray to Stay: Végre otthon"
 description: "A független magyar kiadó, az MDJ Games az esseni bemutatkozás után elindította kártyajátéka előrendelését. A From Stray to Stay: Végre otthon előrendelve 6 990 forint, és jövő év elején érkezik."
 date: 2026-11-11T15:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Magyar megjelenések", "MDJ Games", "Előrendelés", "Magyar fejlesztés", "Essen Spiel"]
+author: Szerkesztőség
+tags:
+  - Magyar megjelenések
+  - MDJ Games
+  - Előrendelés
+  - Magyar fejlesztés
+  - Essen Spiel
 imageSuggestion: "Hivatalos dobozkép a kiadó termékoldaláról: https://www.mdjgames.hu/wp-content/uploads/2026/09/box.jpg (a teljes játék fotója: https://www.mdjgames.hu/wp-content/uploads/2026/09/whole-game.jpg) – javasolt forrásmegjelölés: Fotó: MDJ Games"
 sources:
   - name: "MDJ Games – From Stray to Stay: Végre otthon (termékoldal)"
-    url: "https://www.mdjgames.hu/termek/stray/"
-  - name: "MDJ Games – „Elindult az előrendelés!” (Facebook-bejegyzés, 2026. október 30.)"
-    url: "https://www.facebook.com/profile.php?id=61591773762070"
+    url: https://www.mdjgames.hu/termek/stray/
+  - name: MDJ Games – „Elindult az előrendelés!” (Facebook-bejegyzés, 2026. október 30.)
+    url: https://www.facebook.com/profile.php?id=61591773762070
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 11. 14:55
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 Az esseni Spiel vásáron is bemutatkozó, független magyar kiadó, az **MDJ Games** október végén elindította első játéka, a **From Stray to Stay: Végre otthon** előrendelését. A kártyajáték a kiadó saját webáruházában foglalható le.
