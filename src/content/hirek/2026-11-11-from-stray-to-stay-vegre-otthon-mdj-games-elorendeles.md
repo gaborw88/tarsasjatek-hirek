@@ -1,14 +1,14 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 11. 14:55
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Örökbe fogadott cicák bizalmáért versenghetünk: előrendelhető az MDJ Games első játéka, a From Stray to Stay: Végre otthon'
-description: 'A független magyar kiadó, az MDJ Games elindította kártyajátéka előrendelését. A From Stray to Stay: Végre otthon előrendelve 6 990 forint, és jövő év elején érkezik.'
+published: true
+publishedAt: 2026-11-11T13:59:26.387Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 11. 14:59
+approvedBy: Weszprémy Gábor · 2026. 11. 11. 14:59
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 11. 14:59
+title: "Örökbe fogadott cicák bizalmáért versenghetünk: előrendelhető az MDJ Games első játéka, a From Stray to Stay: Végre otthon"
+description: "A független magyar kiadó, az MDJ Games elindította kártyajátéka előrendelését. A From Stray to Stay: Végre otthon előrendelve 6 990 forint, és jövő év elején érkezik."
 date: 2026-11-11T15:00:00+01:00
 type: sajat
 author: Szerkesztőség
@@ -18,13 +18,13 @@ tags:
   - Előrendelés
   - Magyar fejlesztés
   - Essen Spiel
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794405411454.png
-imageAlt: ''
-imageCredit: 'Fotó: MDJ Games'
-imageSuggestion: 'Hivatalos dobozkép a kiadó termékoldaláról: https://www.mdjgames.hu/wp-content/uploads/2026/09/box.jpg (a teljes játék fotója: https://www.mdjgames.hu/wp-content/uploads/2026/09/whole-game.jpg) – javasolt forrásmegjelölés: Fotó: MDJ Games'
+imageAlt: ""
+imageCredit: "Fotó: MDJ Games"
+imageSuggestion: "Hivatalos dobozkép a kiadó termékoldaláról: https://www.mdjgames.hu/wp-content/uploads/2026/09/box.jpg (a teljes játék fotója: https://www.mdjgames.hu/wp-content/uploads/2026/09/whole-game.jpg) – javasolt forrásmegjelölés: Fotó: MDJ Games"
 sources:
-  - name: 'MDJ Games – From Stray to Stay: Végre otthon (termékoldal)'
+  - name: "MDJ Games – From Stray to Stay: Végre otthon (termékoldal)"
     url: https://www.mdjgames.hu/termek/stray/
   - name: MDJ Games – „Elindult az előrendelés!” (Facebook-bejegyzés, 2026. október 30.)
     url: https://www.facebook.com/profile.php?id=61591773762070
