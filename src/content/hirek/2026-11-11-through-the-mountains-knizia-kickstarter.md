@@ -1,9 +1,13 @@
 ---
-published: false
-approved: false
-chiefApproved: false
 status: ⏳ tervezet
-title: "Jakkaravánok a Himalájában: péntekig támogatható Reiner Knizia Through the Mountains című új játéka"
+approved: true
+chiefApproved: true
+published: false
+publishedAt: ''
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 11. 07:01
+approvedBy: ''
+chiefApprovedBy: ''
+title: 'Jakkaravánok a Himalájában: péntekig támogatható Reiner Knizia Through the Mountains című új játéka'
 description: Az 1998-as Through the Desert önálló folytatása tibeti hegyek közé viszi a játékosokat. Az Allplay Kickstarter-kampánya 10 ezer dolláros céllal indult, és már 350 ezer dollár fölött jár.
 date: 2026-11-11T13:00:00+01:00
 type: gyujtott
@@ -14,17 +18,18 @@ tags:
   - Kickstarter
   - Allplay
   - Reiner Knizia
-imageSuggestion: "Hivatalos sajtókép nem volt elérhető a kiadó honlapján (az Allplaynek nincs külön termékoldala a játékhoz). Elfogadható forrás a kiadó saját Kickstarter-kampányoldalának képe: https://www.kickstarter.com/projects/boardgametables/through-the-mountains-through-the-desert-deluxe-more – javasolt forrásmegjelölés: Fotó: Allplay. (Az oldalt nem tudtam megnyitni, a képet feltöltés előtt érdemes megnézni.)"
+youtube: ''
+image: /images/uploads/pasted-image-1794388679832.png
+imageAlt: ''
+imageCredit: 'Fotó: Allplay'
+imageSuggestion: 'Hivatalos sajtókép nem volt elérhető a kiadó honlapján (az Allplaynek nincs külön termékoldala a játékhoz). Elfogadható forrás a kiadó saját Kickstarter-kampányoldalának képe: https://www.kickstarter.com/projects/boardgametables/through-the-mountains-through-the-desert-deluxe-more – javasolt forrásmegjelölés: Fotó: Allplay. (Az oldalt nem tudtam megnyitni, a képet feltöltés előtt érdemes megnézni.)'
 sources:
-  - name: "Brettspiel-News.de – Through the Mountains: Knizias Yak-Karawanen ziehen mit Kunstharz und Metall auf Kickstarter"
+  - name: 'Brettspiel-News.de – Through the Mountains: Knizias Yak-Karawanen ziehen mit Kunstharz und Metall auf Kickstarter'
     url: https://www.brettspiel-news.de/index.php/de/nachrichten-uebersicht/crowdfunding/16430-through-the-mountains-knizias-yak-karawanen-ziehen-mit-kunstharz-und-metall-auf-kickstarter
   - name: ICv2 – Allplay Announces Reiner Knizia's 'Through the Mountains'
     url: https://icv2.com/articles/news/view/63613/allplay-announces-reiner-knizias-through-mountains
   - name: Kickstarter – Through the Mountains, Through the Desert Deluxe & More
     url: https://www.kickstarter.com/projects/boardgametables/through-the-mountains-through-the-desert-deluxe-more
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 11. 07:01
-approvedBy: ""
-chiefApprovedBy: ""
 ---
 
 Közel három évtized után kap folytatást Reiner Knizia egyik ismert absztrakt stratégiai játéka. Az amerikai Allplay Kickstarteren gyűjt a **Through the Mountains** című új játékra, amely az 1998-ban megjelent **Through the Desert** önálló folytatása. A kampány október 27-én indult, és a tervek szerint péntek (november 13.) hajnalban zárul.
