@@ -2,21 +2,29 @@
 published: false
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
+status: ⏳ tervezet
 title: "Ismeretlen vizeken: kiegészítővel és ötödik évfordulós díszdobozzal tér vissza a Feed the Kraken a Gamefoundon"
-description: "A Funtails kedden elindította a népszerű, rejtett szerepes kalózjáték, a Feed the Kraken Sea of Shadows kiegészítőjének és fekete-arany Black Box kiadásának közösségi kampányát."
+description: A Funtails kedden elindította a népszerű, rejtett szerepes kalózjáték, a Feed the Kraken Sea of Shadows kiegészítőjének és fekete-arany Black Box kiadásának közösségi kampányát.
 date: 2026-11-11T15:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Kiadói hírek", "Közösségi finanszírozás", "Gamefound", "Funtails", "Feed the Kraken"]
+author: Szerkesztőség
+tags:
+  - Kiadói hírek
+  - Közösségi finanszírozás
+  - Gamefound
+  - Funtails
+  - Feed the Kraken
 sources:
   - name: "Backseat Gamer – Feed the Kraken: Sea of Shadows Sets Sail on Gamefound 10 Nov"
-    url: "https://www.backseatgamer.com/news/feed-the-kraken-sea-of-shadows-sets-sail-on-gamefound-10-nov"
+    url: https://www.backseatgamer.com/news/feed-the-kraken-sea-of-shadows-sets-sail-on-gamefound-10-nov
   - name: "Boardgamecafe – SPIEL26 Day 2: Feed the Kraken Black Box"
-    url: "https://boardgamecafe.net/2026/11/11/spiel26-day-2-feed-the-kraken-black-box/"
-  - name: "Brettspielbox – Brettspiel Crowdfunding News 45/26"
-    url: "https://brettspielbox.de/brettspiel-crowdfunding-news-45-26/"
+    url: https://boardgamecafe.net/2026/11/11/spiel26-day-2-feed-the-kraken-black-box/
+  - name: Brettspielbox – Brettspiel Crowdfunding News 45/26
+    url: https://brettspielbox.de/brettspiel-crowdfunding-news-45-26/
 imageSuggestion: "Hivatalos termékkép (a meglévő Deluxe kiadás doboza, a kiadó termékoldaláról): https://funtails.de/wp-content/uploads/2022/04/FtK-Deluxe.jpg – javasolt forrásmegjelölés: Fotó: Funtails. Az új Black Box és Sea of Shadows dobozáról hivatalos letölthető kép még nincs a kiadó oldalán; érdemes lehet képet kérni a Funtailstől."
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 11. 11:05
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 Öt évvel az első kampánya után újra a közösségi finanszírozásnál keres támogatókat a német **Funtails** kiadó: november 10-én, kedden elindult a Gamefoundon a **Feed the Kraken: Black Box & Sea of Shadows** kampánya. A *Feed the Kraken* rejtett szerepes, blöffölős játék, amelyben a hajó legénysége három titkos csapatra – tengerészekre, kalózokra és a krakenkultusz híveire – oszlik, és mindenki a maga céljai felé próbálja terelni a hajót. A játékot Maikel Cheney, Hans Joachim Höh és Tobias Immich tervezte, 5–11 fővel játszható, egy parti 45–90 perc.
