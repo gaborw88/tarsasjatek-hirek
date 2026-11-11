@@ -1,12 +1,12 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 11. 22:56
-approvedBy: ''
-chiefApprovedBy: ''
+published: true
+publishedAt: 2026-11-11T22:12:17.004Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 11. 23:12
+approvedBy: Weszprémy Gábor · 2026. 11. 11. 23:12
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 11. 23:12
 title: A Scrabble és a Scattergories is a Netflix tévés játékai közé kerül
 description: November 17-én két újabb klasszikus társasjáték digitális, partijáték-változata érkezik a Netflix tévén játszható kínálatába.
 date: 2026-11-11T17:05:00+01:00
@@ -17,10 +17,10 @@ tags:
   - Netflix
   - Scrabble
   - Scattergories
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794435085885.png
-imageAlt: ''
-imageCredit: 'Kép: Netflix'
+imageAlt: ""
+imageCredit: "Kép: Netflix"
 imageSuggestion: Hivatalos sajtóképet a Netflixtől nem találtam (a hírt csak egy rajongói hírportál közölte, annak saját képeit nem használhatjuk). Kérj képet a Netflix sajtóoldaláról, ha elérhető – kép nélkül is rendben van.
 sources:
   - name: What's on Netflix – Netflix Is Adding Two More Classic Tabletop Games to Your TV This Month
