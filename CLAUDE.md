@@ -71,7 +71,7 @@ megnézni.
    magyar fejlesztésű játékok, közösségi finanszírozású (Kickstarter/Gamefound) magyar projektek.
    Rendszeresen figyelendő kiadók és forgalmazók (honlap „újdonságok” / „előrendelés” rovata, blog, hírlevél):
    - Gémklub, Reflexshop (és saját kiadása), Delta Vision, Pagony (Pagony Játékok), Vagabund Kiadó
-   - Compaya, Piatnik Budapest, REGIO JÁTÉK, Mindclash Games
+   - Compaya, Piatnik Budapest, REGIO JÁTÉK, Mindclash Games, MDJ Games (mdjgames.hu)
    - A lista nem teljes: ha új magyar kiadót vagy forgalmazót találsz (például a Társasjátékok Ünnepe
      kiállítói között, vagy a magyar társasjátékos közösségi oldalakon), vedd fel ide ebbe a listába is.
    **Magyar oldalak tippnek** (ezekről ne vegyél át szöveget, és mivel társoldalak, a hírt mindig a kiadó saját
