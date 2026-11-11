@@ -1,32 +1,32 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 11. 15:02
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Hamburger mellé kártyatartó: Burger King-menüvel és országos versennyel népszerűsítik a Magicet Olaszországban'
-description: 'November 30-ig az olasz Burger King-éttermekben a menü mellé Magic: The Gathering-dizájnos kártyatartó doboz és 100 kártyavédő jár. A gyorsétteremlánc kilenc étteremben selejtezőket is rendez egy országos Magic-versenyhez.'
+published: true
+publishedAt: 2026-11-11T22:40:48.816Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 11. 23:40
+approvedBy: Weszprémy Gábor · 2026. 11. 11. 23:40
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 11. 23:40
+title: "Hamburger mellé kártyatartó: Burger King-menüvel és országos versennyel népszerűsítik a Magicet Olaszországban"
+description: "November 30-ig az olasz Burger King-éttermekben a menü mellé Magic: The Gathering-dizájnos kártyatartó doboz és 100 kártyavédő jár. A gyorsétteremlánc kilenc étteremben selejtezőket is rendez egy országos Magic-versenyhez."
 date: 2026-11-11T18:30:00+01:00
 type: gyujtott
 author: Szerkesztőség
 tags:
-  - 'Magic: The Gathering'
+  - "Magic: The Gathering"
   - Wizards of the Coast
   - Gyűjtögetős kártyajáték
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1793794154054.png
-imageAlt: ''
-imageCredit: 'Kép: Wizards of the Coast'
-imageSuggestion: 'Hivatalos sajtóképet nem találtam: a promóciót a Burger King olasz honlapja hirdeti, külön sajtócsomag nincs hozzá, a hírportálok képei pedig nem használhatók. Kép nélkül is rendben van; ha kell, a Magic: The Gathering hivatalos logója a Wizards of the Coast sajtó-/arculati oldaláról jöhet szóba (Logó: Wizards of the Coast).'
+imageAlt: ""
+imageCredit: "Kép: Wizards of the Coast"
+imageSuggestion: "Hivatalos sajtóképet nem találtam: a promóciót a Burger King olasz honlapja hirdeti, külön sajtócsomag nincs hozzá, a hírportálok képei pedig nem használhatók. Kép nélkül is rendben van; ha kell, a Magic: The Gathering hivatalos logója a Wizards of the Coast sajtó-/arculati oldaláról jöhet szóba (Logó: Wizards of the Coast)."
 sources:
   - name: "Media Key – Burger King® entra nell'universo di Magic: The Gathering con un bundle esclusivo e un torneo nazionale"
     url: https://mediakey.it/news/burger-king-entra-nelluniverso-di-magic-the-gathering-con-un-bundle-esclusivo-e-un-torneo-nazionale/
   - name: "ICv2 – Wizards of the Coast 'Magic: The Gathering' Brand Partners with Burger King"
     url: https://icv2.com/articles/news/view/63846/wizards-coast-magic-the-gathering-brand-partners-burger-king
-  - name: 'Dexerto – Burger King reveals $22 Magic: The Gathering meal with deck boxes and MTG card sleeves'
+  - name: "Dexerto – Burger King reveals $22 Magic: The Gathering meal with deck boxes and MTG card sleeves"
     url: https://www.dexerto.com/food/burger-king-reveals-22-magic-the-gathering-meal-with-deck-boxes-and-mtg-card-sleeves-3426959/
 ---
 
