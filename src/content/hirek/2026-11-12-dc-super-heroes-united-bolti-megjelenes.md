@@ -1,12 +1,12 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 12. 11:02
-approvedBy: ''
-chiefApprovedBy: ''
+published: true
+publishedAt: 2026-11-12T23:23:43.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 13. 00:23
+approvedBy: Weszprémy Gábor · 2026. 11. 13. 00:23
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 13. 00:23
 title: Két évvel a gyűjtés után a boltokba érkezik a DC Super Heroes United
 description: A Marvel United rendszerére épülő DC-s szuperhősjáték 2024-ben a Gamefoundon gyűjtött pénzt. Az alapdobozt az Asmodee november 13-tól forgalmazza.
 date: 2026-11-12T13:30:00+01:00
@@ -17,11 +17,11 @@ tags:
   - Megjelenések
   - CMON
   - Asmodee
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794525753663.png
-imageAlt: ''
-imageCredit: 'Kép: CMON'
-imageSuggestion: 'A CMON hivatalos termékoldalán (https://www.cmon.com/?p=17944) nem találtam letölthető dobozképet vagy sajtóképet. Megoldás: a CMON Gamefound-kampányoldalának képe, vagy kérj képet a CMON-tól. Kép nélkül is rendben van.'
+imageAlt: ""
+imageCredit: "Kép: CMON"
+imageSuggestion: "A CMON hivatalos termékoldalán (https://www.cmon.com/?p=17944) nem találtam letölthető dobozképet vagy sajtóképet. Megoldás: a CMON Gamefound-kampányoldalának képe, vagy kérj képet a CMON-tól. Kép nélkül is rendben van."
 sources:
   - name: ICv2 – 'DC Super Heroes United Core Box' Heads to Retail
     url: https://icv2.com/articles/news/view/63853/dc-super-heroes-united-core-box-heads-retail
