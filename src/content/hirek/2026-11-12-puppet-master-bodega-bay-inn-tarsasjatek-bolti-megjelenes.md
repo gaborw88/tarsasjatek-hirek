@@ -25,6 +25,7 @@ sources:
     url: https://comiccrusaders.com/pop-culture/gaming-news/puppet-master-tabletop-game-live-on-gamefound/
 approvedBy: ""
 chiefApprovedBy: ""
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 12. 18:58
 ---
 
 A *Puppet Master* horrorfilm-sorozat gyilkos bábjai a társasjátékboltok polcain is megjelennek. Az ICv2 november 12-i beszámolója szerint a Dynamite Entertainment *Charles Band's Puppet Master: Return to Bodega Bay Inn – The Board Game* című játéka 2027 első negyedévében kerül a kanadai bolti forgalomba. A játékot 2025 novemberében a Gamefoundon lehetett először előrendelni. Más piacokra szóló bolti megjelenésről egyelőre nincs hír.
