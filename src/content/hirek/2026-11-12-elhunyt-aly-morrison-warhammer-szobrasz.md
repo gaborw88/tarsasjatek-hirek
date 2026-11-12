@@ -2,21 +2,28 @@
 published: false
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
-title: "Elhunyt Aly Morrison, a klasszikus Warhammer-figurák egyik legendás tervezője"
-description: "Váratlanul elhunyt Aly Morrison skót miniatúraszobrász, aki a nyolcvanas évektől a Citadel Miniatures és a Marauder Miniatures tervezőjeként formálta a Warhammer jellegzetes látványvilágát. Idén májusban vonult nyugdíjba a Games Workshoptól."
+status: ⏳ tervezet
+title: Elhunyt Aly Morrison, a klasszikus Warhammer-figurák egyik legendás tervezője
+description: Váratlanul elhunyt Aly Morrison skót miniatúraszobrász, aki a nyolcvanas évektől a Citadel Miniatures és a Marauder Miniatures tervezőjeként formálta a Warhammer jellegzetes látványvilágát. Idén májusban vonult nyugdíjba a Games Workshoptól.
 date: 2026-11-12T16:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Gyászhír", "Iparági hírek", "Warhammer", "Games Workshop"]
+author: Szerkesztőség
+tags:
+  - Gyászhír
+  - Iparági hírek
+  - Warhammer
+  - Games Workshop
 imageSuggestion: "Gyászhír valódi személyről: róla készült fotót nem javaslok, hivatalos sajtókép pedig nincs. Ha kell illusztráció, a Games Workshop hivatalos logója vagy egy Warhammer: The Old World termékkép kérhető a kiadótól – kép nélkül is rendben van."
 sources:
-  - name: "Wargamer – Legendary Warhammer sculptor Aly Morrison has died"
-    url: "https://www.wargamer.com/warhammer-the-old-world/warhammer-sculptor-aly-morrison-has-died"
-  - name: "Games Workshop Wiki (Fandom) – Aly Morrison"
-    url: "https://gamesworkshop.fandom.com/wiki/Aly_Morrison"
-  - name: "Aly's Toy Soldiers – Aly Morrison blogja"
-    url: "https://alystoysoldiers.blogspot.com/"
+  - name: Wargamer – Legendary Warhammer sculptor Aly Morrison has died
+    url: https://www.wargamer.com/warhammer-the-old-world/warhammer-sculptor-aly-morrison-has-died
+  - name: Games Workshop Wiki (Fandom) – Aly Morrison
+    url: https://gamesworkshop.fandom.com/wiki/Aly_Morrison
+  - name: Aly's Toy Soldiers – Aly Morrison blogja
+    url: https://alystoysoldiers.blogspot.com/
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 12. 22:54
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 Elhunyt Aly Morrison, a Games Workshop egyik legrégebbi miniatúratervezője, akinek figurái nemzedékek számára határozták meg, hogyan néz ki a Warhammer világa. A halálhírt először a Warhammer Original Artwork nevű, eredeti Warhammer-grafikákkal foglalkozó kereskedő tette közzé, majd volt felesége, a szintén szobrász Trish Carden is megerősítette. Carden szerint Morrison váratlanul, de békésen hunyt el a hét szerdáján. A Wargamer csütörtökön számolt be a hírről. Morrison idén májusban vonult nyugdíjba a Games Workshoptól.
