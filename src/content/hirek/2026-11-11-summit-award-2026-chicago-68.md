@@ -1,12 +1,12 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 11. 19:03
-approvedBy: ''
-chiefApprovedBy: ''
+published: true
+publishedAt: 2026-11-12T13:17:46.269Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 12. 14:16
+approvedBy: Weszprémy Gábor · 2026. 11. 12. 14:16
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 12. 14:16
 title: "Utcai tüntetők a rendőrség ellen: a Chicago '68 nyerte a történelmi játékok Summit Award díját"
 description: Az 1968-as chicagói tüntetéseket feldolgozó játék kapta a San Diegó-i történelmi játékos fesztivál idei díját. A játékokról szóló írásokat elismerő Bobby Nunes-díjat Dan Thurot, a Space-Biff! szerzője nyerte.
 date: 2026-11-11T19:00:00+01:00
@@ -17,11 +17,11 @@ tags:
   - Történelmi játékok
   - Wargame
   - The Dietz Foundation
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794489357398.png
-imageAlt: ''
-imageCredit: 'Fotó: The Dietz Foundation'
-imageSuggestion: 'Hivatalos kép a kiadó termékoldaláról (valószínűleg a dobozborító): https://dietzfoundation.org/wp-content/uploads/2024/09/Graphic.jpg – javasolt forrásmegjelölés: Fotó: The Dietz Foundation. Termékoldal: https://dietzfoundation.org/product/chicago68/ (feltöltés előtt érdemes megnézni, hogy valóban a dobozkép-e).'
+imageAlt: ""
+imageCredit: "Fotó: The Dietz Foundation"
+imageSuggestion: "Hivatalos kép a kiadó termékoldaláról (valószínűleg a dobozborító): https://dietzfoundation.org/wp-content/uploads/2024/09/Graphic.jpg – javasolt forrásmegjelölés: Fotó: The Dietz Foundation. Termékoldal: https://dietzfoundation.org/product/chicago68/ (feltöltés előtt érdemes megnézni, hogy valóban a dobozkép-e)."
 sources:
   - name: BoardGameWire – Chicago '68 wins 2026 Summit Award, Dan Thurot's Space-Biff! takes Bobby Nunes Memorial prize
     url: https://boardgamewire.com/index.php/2026/11/11/chicago-68-wins-2026-summit-award-dan-thurots-space-biff-takes-bobby-nunes-memorial-prize/
