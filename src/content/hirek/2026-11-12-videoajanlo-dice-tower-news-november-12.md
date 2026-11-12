@@ -1,13 +1,13 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 12. 07:02
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Videó: heti hírösszefoglaló a Dice Towertől (november 12.)'
+published: true
+publishedAt: 2026-11-12T13:17:42.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 12. 14:17
+approvedBy: Weszprémy Gábor · 2026. 11. 12. 14:17
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 12. 14:17
+title: "Videó: heti hírösszefoglaló a Dice Towertől (november 12.)"
 description: A The Dice Tower csütörtöki élő hírműsora ezúttal is a társasjátékos világ friss bejelentéseit és érdekességeit gyűjti egy csokorba.
 date: 2026-11-12T12:00:00+01:00
 type: video
@@ -17,12 +17,12 @@ tags:
   - The Dice Tower
   - Hírek
 youtube: https://www.youtube.com/watch?v=p-IEGhh58FE
-image: ''
-imageAlt: ''
-imageCredit: ''
+image: ""
+imageAlt: ""
+imageCredit: ""
 imageSuggestion: Videóajánló, a videót az oldal beágyazza, ezért külön kép nem szükséges – kép nélkül is rendben van.
 sources:
-  - name: 'YouTube – The Dice Tower: Dice Tower News - Nov. 12th, 2026'
+  - name: "YouTube – The Dice Tower: Dice Tower News - Nov. 12th, 2026"
     url: https://www.youtube.com/watch?v=p-IEGhh58FE
   - name: The Dice Tower – Dice Tower News - Nov. 12th, 2026 (videóoldal)
     url: https://dicetower.com/video/dice-tower-news-nov-12th-2026
