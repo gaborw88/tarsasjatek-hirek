@@ -58,7 +58,8 @@ try {
   let author = '', time = '';
   for (const line of log.split('\n')) {
     if (line.startsWith('@@')) [, author, time] = line.split('@@').map((x) => x.trim());
-    else if (line.trim()) { lastAuthor.set(line.trim(), author); lastTime.set(line.trim(), time); }
+    // A rendszer saját („Jóváhagyási állapotok frissítése”) commitjait nem számítjuk szerkesztésnek
+    else if (line.trim() && author !== 'github-actions') { lastAuthor.set(line.trim(), author); lastTime.set(line.trim(), time); }
   }
 } catch { /* első futás */ }
 
@@ -162,7 +163,8 @@ for (const f of readdirSync(DIR).filter((x) => x.endsWith('.md'))) {
   d.status = statusOf(d);
   // A megjelenés (jóváhagyás) időpontja – az RSS-csatorna és a Facebook-posztolás ehhez igazodik
   if (d.published && !d.publishedAt) {
-    d.publishedAt = lastAuthor.has(file) ? new Date().toISOString() : new Date(d.date).toISOString();
+    // A mentés (commit) időpontja – így két egyszerre futó feldolgozás ugyanazt az eredményt adja
+    d.publishedAt = new Date(lastAuthor.has(file) ? (lastTime.get(file) || Date.now()) : d.date).toISOString();
   }
   if (!d.published && 'publishedAt' in d) delete d.publishedAt;
 
