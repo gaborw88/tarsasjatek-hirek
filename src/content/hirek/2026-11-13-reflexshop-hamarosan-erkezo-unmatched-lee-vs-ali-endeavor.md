@@ -2,28 +2,35 @@
 published: false
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
+status: ⏳ tervezet
 title: "Bruce Lee kontra Muhammad Ali és a Kennerspiel-győztes mélytengeri expedíció: ezek érkeznek magyarul a Reflexshoptól"
 description: "November 21-re várja a Reflexshop az Unmatched: Lee vs. Ali magyar kiadását, decemberre pedig az Endeavor: Deep Sea-t. A kiadó „hamarosan érkező” listáján 2027-es címek is szerepelnek."
 date: 2026-11-13T09:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Magyar megjelenések", "Reflexshop", "Unmatched", "Endeavor: Deep Sea"]
+author: Szerkesztőség
+tags:
+  - Magyar megjelenések
+  - Reflexshop
+  - Unmatched
+  - "Endeavor: Deep Sea"
 image: ""
 imageAlt: ""
 imageCredit: ""
 imageSuggestion: "Hivatalos dobozkép a kiadói termékoldalon: https://restorationgames.com/shop/unmatched-bruce-lee-vs-muhammad-ali/ – javasolt forrásmegjelölés: Fotó: Restoration Games (a doboz rajzolt illusztráció, nem fénykép). A Reflexshop termékoldalain még nincs kép; magyar dobozképet a Reflexshoptól lehet kérni."
 sources:
-  - name: "Reflexshop – Hamarosan érkező társasjátékok"
-    url: "https://reflexshop.hu/Tarsasjatekok/Hamarosan-erkezo"
+  - name: Reflexshop – Hamarosan érkező társasjátékok
+    url: https://reflexshop.hu/Tarsasjatekok/Hamarosan-erkezo
   - name: "Restoration Games – Design Diary: Bruce Lee vs Muhammad Ali"
-    url: "https://restorationgames.com/design-diary-lee-vs-ali/"
-  - name: "ICv2 – Bruce Lee Faces Off Against Muhammad Ali"
-    url: "https://icv2.com/articles/news/view/60351/bruce-lee-faces-off-against-muhammad-ali"
+    url: https://restorationgames.com/design-diary-lee-vs-ali/
+  - name: ICv2 – Bruce Lee Faces Off Against Muhammad Ali
+    url: https://icv2.com/articles/news/view/60351/bruce-lee-faces-off-against-muhammad-ali
   - name: "tarsasjatekok.com – Endeavor: Deep Sea"
-    url: "https://tarsasjatekok.com/jatek/367966"
+    url: https://tarsasjatekok.com/jatek/367966
   - name: "Spieleautorenzunft – Game of the Year 2025: Award Winners"
-    url: "https://www.spieleautorenzunft.de/newsreader/game-of-the-year-2025-award-winners.html"
+    url: https://www.spieleautorenzunft.de/newsreader/game-of-the-year-2025-award-winners.html
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 13. 07:01
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 Frissült a Reflexshop „hamarosan érkező” listája: az év utolsó heteiben több új magyar kiadás is boltokba kerül, köztük egy legendás párharc és a tavalyi év egyik legelismertebb stratégiai játéka. A kiadó árat egyik újdonsághoz sem közölt.
