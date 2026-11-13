@@ -2,22 +2,30 @@
 published: false
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
+status: ⏳ tervezet
 title: "Parasztból hős a középkori Csehországban: 2027-ben a Gémklubnál érkezik a Kingdom Come: Deliverance társasjáték"
 description: "A Gémklub bejelentette, hogy 2027-ben kiadja a Kingdom Come: Deliverance videójáték alapján készült nagyszabású társasjátékot, amelyet Vlaada Chvátil és Tomáš Holek tervezett a Czech Games Editionnek."
 date: 2026-11-13T15:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Magyar megjelenések", "Gémklub", "Kingdom Come: Deliverance", "Czech Games Edition", "Vlaada Chvátil"]
+author: Szerkesztőség
+tags:
+  - Magyar megjelenések
+  - Gémklub
+  - "Kingdom Come: Deliverance"
+  - Czech Games Edition
+  - Vlaada Chvátil
 youtube: ""
 imageSuggestion: "Hivatalos sajtókép a Czech Games Edition sajtóoldaláról (https://www.czechgames.com/for-press-games/kingdom-come-deliverance-the-board-game) – dobozkép: https://cdn.prod.website-files.com/67d17a45b4e1484b40ea8869/6a43c4a32e8431ef17c3cb95_box%20image_kcd%2002.webp , sajtó számára készült fő kép: https://cdn.prod.website-files.com/67d17a45b4e1484b40ea8869/6a3e6ceab62f0f159fdcf931_hero%20image%20for%20press_KC%20%2002.webp – javasolt forrásmegjelölés: Fotó: Czech Games Edition. (A magyar dobozkép még nem ismert, a Gémklubtól később kérhető.)"
 sources:
   - name: "Gémklub – Új megjelenés: Kingdom Come: Deliverance"
-    url: "https://www.gemklub.hu/hirek/uj-megjelenes-kingdom-come-deliverance-2891"
+    url: https://www.gemklub.hu/hirek/uj-megjelenes-kingdom-come-deliverance-2891
   - name: "ICv2 – CGE Brings 'Kingdom Come: Deliverance' to the Tabletop"
-    url: "https://icv2.com/articles/news/view/62760/cge-brings-kingdom-come-deliverance-tabletop"
+    url: https://icv2.com/articles/news/view/62760/cge-brings-kingdom-come-deliverance-tabletop
   - name: "GamesRadar+ – Kingdom Come: Deliverance board game is on the way from the developers of Codenames and SETI"
-    url: "https://www.gamesradar.com/games/board-games/kingdom-come-deliverance-board-game-with-all-the-gritty-rpg-elements-fans-love-is-on-the-way-from-the-award-winning-developers-of-codenames-and-seti/"
+    url: https://www.gamesradar.com/games/board-games/kingdom-come-deliverance-board-game-with-all-the-gritty-rpg-elements-fans-love-is-on-the-way-from-the-award-winning-developers-of-codenames-and-seti/
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 13. 11:12
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 A Gémklub november 13-án jelentette be, hogy 2027-ben megjelenteti a **Kingdom Come: Deliverance – The Board Game** társasjátékot. A kiadó rövid közleményében „grandiózus társasjátékként” harangozta be a címet, pontos megjelenési dátumot és árat egyelőre nem közölt.
