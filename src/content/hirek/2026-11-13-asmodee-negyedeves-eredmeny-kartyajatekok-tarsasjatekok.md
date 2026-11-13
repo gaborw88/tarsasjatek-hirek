@@ -1,14 +1,14 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 13. 15:32
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Közel 37 százalékkal nőtt az Asmodee forgalma: a gyűjtögetős kártyajátékok húzzák, de a társasjátékok is erősödnek'
-description: 'Rekordközeli negyedévet zárt a Catan és a Carcassonne gazdája: július és szeptember között 551,8 millió euró volt az árbevétel. A cégvezér szerint az emberek egyre inkább személyes, képernyő nélküli közös programokat keresnek.'
+published: true
+publishedAt: 2026-11-13T20:39:00.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 13. 21:39
+approvedBy: Weszprémy Gábor · 2026. 11. 13. 21:39
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 13. 21:39
+title: "Közel 37 százalékkal nőtt az Asmodee forgalma: a gyűjtögetős kártyajátékok húzzák, de a társasjátékok is erősödnek"
+description: "Rekordközeli negyedévet zárt a Catan és a Carcassonne gazdája: július és szeptember között 551,8 millió euró volt az árbevétel. A cégvezér szerint az emberek egyre inkább személyes, képernyő nélküli közös programokat keresnek."
 date: 2026-11-13T16:00:00+01:00
 type: gyujtott
 author: Szerkesztőség
@@ -16,17 +16,17 @@ tags:
   - Iparági hírek
   - Asmodee
   - Gyűjtögetős kártyajátékok
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794602280210.png
-imageAlt: ''
-imageCredit: 'Fotó: Asmodee'
-imageSuggestion: 'Pénzügyi/iparági hír, hivatalos sajtókép nincs hozzá. Az Asmodee új (30. évfordulós) logójáról szóló sajtóközlemény: https://storage.mfn.se/f5c805f8-7dd7-4c1a-88c5-c61810f90f46/asmodee-celebrates-30th-anniversary-with-new-consumer-facing-brand-reveal-inspired-by-players.pdf – ha van benne letölthető logó, javasolt forrásmegjelölés: Fotó: Asmodee. Kép nélkül is rendben van.'
+imageAlt: ""
+imageCredit: "Fotó: Asmodee"
+imageSuggestion: "Pénzügyi/iparági hír, hivatalos sajtókép nincs hozzá. Az Asmodee új (30. évfordulós) logójáról szóló sajtóközlemény: https://storage.mfn.se/f5c805f8-7dd7-4c1a-88c5-c61810f90f46/asmodee-celebrates-30th-anniversary-with-new-consumer-facing-brand-reveal-inspired-by-players.pdf – ha van benne letölthető logó, javasolt forrásmegjelölés: Fotó: Asmodee. Kép nélkül is rendben van."
 sources:
   - name: "Asmodee – Asmodee's interim report April–September 2026: Growth across all categories (sajtóközlemény)"
     url: https://www.inderes.fi/en/releases/asmodees-interim-report-april-september-2026-growth-across-all-categories
   - name: Reuters (Yahoo News) – Tabletop games' popularity holds up as people seek off-screen connections, Asmodee CEO says
     url: https://www.yahoo.com/news/articles/tabletop-games-popularity-holds-people-130149917.html
-  - name: 'Investing.com – Asmodee Q2 2026 slides: 37% sales growth drives margin target hit'
+  - name: "Investing.com – Asmodee Q2 2026 slides: 37% sales growth drives margin target hit"
     url: https://in.investing.com/news/stock-market-news/asmodee-q2-2026-slides-37-sales-growth-drives-margin-target-hit-93CH-5702189
 ---
 
