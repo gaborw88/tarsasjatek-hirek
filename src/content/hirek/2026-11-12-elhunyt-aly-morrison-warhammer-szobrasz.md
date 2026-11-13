@@ -1,12 +1,12 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 12. 22:54
-approvedBy: ''
-chiefApprovedBy: ''
+published: true
+publishedAt: 2026-11-13T20:31:38.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 13. 21:31
+approvedBy: Weszprémy Gábor · 2026. 11. 13. 21:31
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 13. 21:31
 title: Elhunyt Aly Morrison, a klasszikus Warhammer-figurák egyik legendás tervezője
 description: Váratlanul elhunyt Aly Morrison skót miniatúraszobrász, aki a nyolcvanas évektől a Citadel Miniatures és a Marauder Miniatures tervezőjeként formálta a Warhammer jellegzetes látványvilágát. Idén májusban vonult nyugdíjba a Games Workshoptól.
 date: 2026-11-12T16:00:00+01:00
@@ -17,11 +17,11 @@ tags:
   - Iparági hírek
   - Warhammer
   - Games Workshop
-youtube: ''
-image: ''
-imageAlt: ''
-imageCredit: ''
-imageSuggestion: 'Gyászhír valódi személyről: róla készült fotót nem javaslok, hivatalos sajtókép pedig nincs. Ha kell illusztráció, a Games Workshop hivatalos logója vagy egy Warhammer: The Old World termékkép kérhető a kiadótól – kép nélkül is rendben van.'
+youtube: ""
+image: ""
+imageAlt: ""
+imageCredit: ""
+imageSuggestion: "Gyászhír valódi személyről: róla készült fotót nem javaslok, hivatalos sajtókép pedig nincs. Ha kell illusztráció, a Games Workshop hivatalos logója vagy egy Warhammer: The Old World termékkép kérhető a kiadótól – kép nélkül is rendben van."
 sources:
   - name: Wargamer – Legendary Warhammer sculptor Aly Morrison has died
     url: https://www.wargamer.com/warhammer-the-old-world/warhammer-sculptor-aly-morrison-has-died
