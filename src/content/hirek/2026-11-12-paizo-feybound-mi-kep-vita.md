@@ -1,14 +1,14 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 12. 22:54
-approvedBy: ''
-chiefApprovedBy: ''
+published: true
+publishedAt: 2026-11-13T20:33:54.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 13. 21:33
+approvedBy: Weszprémy Gábor · 2026. 11. 13. 21:33
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 13. 21:33
 title: MI-vel készült képek? A Paizo kiáll a Pathfinder Feybound illusztrátora mellett
-description: 'Rajongók szerint több kép is mesterséges intelligenciával készülhetett a november 4-én megjelent Pathfinder Feybound szabálykönyvben. A kiadó Paizo közölte: az illusztrátor tagadja az MI használatát, és a cég továbbra sem használ MI-vel készült művészeti anyagot.'
+description: "Rajongók szerint több kép is mesterséges intelligenciával készülhetett a november 4-én megjelent Pathfinder Feybound szabálykönyvben. A kiadó Paizo közölte: az illusztrátor tagadja az MI használatát, és a cég továbbra sem használ MI-vel készült művészeti anyagot."
 date: 2026-11-12T16:30:00+01:00
 type: gyujtott
 author: Szerkesztőség
@@ -18,11 +18,11 @@ tags:
   - Pathfinder
   - Paizo
   - Mesterséges intelligencia
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794601933181.png
-imageAlt: ''
-imageCredit: 'Fotó: Paizo'
-imageSuggestion: 'Hivatalos dobozkép (borító) a kiadó webáruházából: https://store.paizo.com/pathfinder-feybound/ – javasolt forrásmegjelölés: Fotó: Paizo. (A vitatott belső illusztrációkat nem javaslom.)'
+imageAlt: ""
+imageCredit: "Fotó: Paizo"
+imageSuggestion: "Hivatalos dobozkép (borító) a kiadó webáruházából: https://store.paizo.com/pathfinder-feybound/ – javasolt forrásmegjelölés: Fotó: Paizo. (A vitatott belső illusztrációkat nem javaslom.)"
 sources:
   - name: Wargamer – Pathfinder publisher disputes claims of AI art in its latest book, Feybound
     url: https://www.wargamer.com/pathfinder/feybound-ai-art
