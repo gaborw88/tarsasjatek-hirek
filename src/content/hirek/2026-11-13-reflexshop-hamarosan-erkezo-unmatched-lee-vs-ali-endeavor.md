@@ -1,14 +1,14 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 13. 07:01
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Bruce Lee kontra Muhammad Ali és a Kennerspiel-győztes mélytengeri expedíció: ezek érkeznek magyarul a Reflexshoptól'
-description: 'November 21-re várja a Reflexshop az Unmatched: Lee vs. Ali magyar kiadását, decemberre pedig az Endeavor: Deep Sea-t. A kiadó „hamarosan érkező” listáján 2027-es címek is szerepelnek.'
+published: true
+publishedAt: 2026-11-13T07:54:18.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 13. 08:54
+approvedBy: Weszprémy Gábor · 2026. 11. 13. 08:54
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 13. 08:54
+title: "Bruce Lee kontra Muhammad Ali és a Kennerspiel-győztes mélytengeri expedíció: ezek érkeznek magyarul a Reflexshoptól"
+description: "November 21-re várja a Reflexshop az Unmatched: Lee vs. Ali magyar kiadását, decemberre pedig az Endeavor: Deep Sea-t. A kiadó „hamarosan érkező” listáján 2027-es címek is szerepelnek."
 date: 2026-11-13T09:00:00+01:00
 type: gyujtott
 author: Szerkesztőség
@@ -16,22 +16,22 @@ tags:
   - Magyar megjelenések
   - Reflexshop
   - Unmatched
-  - 'Endeavor: Deep Sea'
-youtube: ''
+  - "Endeavor: Deep Sea"
+youtube: ""
 image: /images/uploads/pasted-image-1794556382977.png
-imageAlt: ''
-imageCredit: 'Fotó: Restoration Games'
-imageSuggestion: 'Hivatalos dobozkép a kiadói termékoldalon: https://restorationgames.com/shop/unmatched-bruce-lee-vs-muhammad-ali/ – javasolt forrásmegjelölés: Fotó: Restoration Games (a doboz rajzolt illusztráció, nem fénykép). A Reflexshop termékoldalain még nincs kép; magyar dobozképet a Reflexshoptól lehet kérni.'
+imageAlt: ""
+imageCredit: "Fotó: Restoration Games"
+imageSuggestion: "Hivatalos dobozkép a kiadói termékoldalon: https://restorationgames.com/shop/unmatched-bruce-lee-vs-muhammad-ali/ – javasolt forrásmegjelölés: Fotó: Restoration Games (a doboz rajzolt illusztráció, nem fénykép). A Reflexshop termékoldalain még nincs kép; magyar dobozképet a Reflexshoptól lehet kérni."
 sources:
   - name: Reflexshop – Hamarosan érkező társasjátékok
     url: https://reflexshop.hu/Tarsasjatekok/Hamarosan-erkezo
-  - name: 'Restoration Games – Design Diary: Bruce Lee vs Muhammad Ali'
+  - name: "Restoration Games – Design Diary: Bruce Lee vs Muhammad Ali"
     url: https://restorationgames.com/design-diary-lee-vs-ali/
   - name: ICv2 – Bruce Lee Faces Off Against Muhammad Ali
     url: https://icv2.com/articles/news/view/60351/bruce-lee-faces-off-against-muhammad-ali
-  - name: 'tarsasjatekok.com – Endeavor: Deep Sea'
+  - name: "tarsasjatekok.com – Endeavor: Deep Sea"
     url: https://tarsasjatekok.com/jatek/367966
-  - name: 'Spieleautorenzunft – Game of the Year 2025: Award Winners'
+  - name: "Spieleautorenzunft – Game of the Year 2025: Award Winners"
     url: https://www.spieleautorenzunft.de/newsreader/game-of-the-year-2025-award-winners.html
 ---
 
