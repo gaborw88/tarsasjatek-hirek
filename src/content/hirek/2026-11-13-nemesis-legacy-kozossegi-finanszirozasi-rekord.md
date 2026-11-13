@@ -1,13 +1,13 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 13. 19:03
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Közel 5 milliárd Forinttal minden idők legsikeresebb társasjátékos gyűjtése lett a Nemesis: Legacy – rekordév a közösségi finanszírozásban, de a kiadók aggódnak'
+published: true
+publishedAt: 2026-11-13T21:16:13.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 13. 22:16
+approvedBy: Weszprémy Gábor · 2026. 11. 13. 22:16
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 13. 22:16
+title: "Közel 5 milliárd Forinttal minden idők legsikeresebb társasjátékos gyűjtése lett a Nemesis: Legacy – rekordév a közösségi finanszírozásban, de a kiadók aggódnak"
 description: Több mint 13,2 millió eurót gyűjtött a Gamefoundon az Awaken Realms legacy-horrorjátéka, ezzel megelőzte a Frosthavent. Az idei év összességében is kiugró, ám több kiadó szerint egyre kockázatosabb a crowdfunding.
 date: 2026-11-13T19:00:00+01:00
 type: gyujtott
@@ -17,15 +17,15 @@ tags:
   - Gamefound
   - Awaken Realms
   - Iparági hírek
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794604316103.png
-imageAlt: ''
-imageCredit: 'Fotó: Awaken Realms'
-imageSuggestion: 'A kiadó saját Gamefound-kampányoldalának képei használhatók (az Awaken Realms töltötte fel): https://gamefound.com/en/projects/awaken-realms/nemesis-legacy – javasolt forrásmegjelölés: Fotó: Awaken Realms. Szerkesztő ellenőrizze a felhasználási jogot.'
+imageAlt: ""
+imageCredit: "Fotó: Awaken Realms"
+imageSuggestion: "A kiadó saját Gamefound-kampányoldalának képei használhatók (az Awaken Realms töltötte fel): https://gamefound.com/en/projects/awaken-realms/nemesis-legacy – javasolt forrásmegjelölés: Fotó: Awaken Realms. Szerkesztő ellenőrizze a felhasználási jogot."
 sources:
-  - name: 'BoardGameWire – Nemesis: Legacy breaks board game crowdfunding record amid blockbuster year for sector, but publishers warn of rising costs, growing risks'
+  - name: "BoardGameWire – Nemesis: Legacy breaks board game crowdfunding record amid blockbuster year for sector, but publishers warn of rising costs, growing risks"
     url: https://boardgamewire.com/index.php/2026/11/13/nemesis-legacy-breaks-board-game-crowdfunding-record-amid-blockbuster-year-for-sector-but-publishers-warn-of-rising-costs-growing-risks/
-  - name: 'Gamefound – Nemesis Legacy by Awaken Realms: ENDGAME #1: Gamefound record!'
+  - name: "Gamefound – Nemesis Legacy by Awaken Realms: ENDGAME #1: Gamefound record!"
     url: https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/20
   - name: GamesRadar+ – A terrifying campaign version of our favorite horror board game got fully funded in just 54 seconds
     url: https://www.gamesradar.com/games/board-games/a-new-campaign-version-of-our-favorite-horror-board-game-got-fully-funded-in-just-54-seconds/
