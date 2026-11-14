@@ -1,17 +1,27 @@
 ---
 published: false
-title: "Fordított Just One a Captain Flip kiadójától, 24 fős rablós partijáték Matt Leacocktól"
-description: "Decemberben érkezik a PlayPunk kooperatív szóasszociációs játéka, a Back To Back, Matt Leacock és Rikki Tahta pedig akár 24 játékosnak szóló partijátékon dolgozik."
+title: Fordított Just One a Captain Flip kiadójától, 24 fős rablós partijáték Matt Leacocktól
+description: Decemberben érkezik a PlayPunk kooperatív szóasszociációs játéka, a Back To Back, Matt Leacock és Rikki Tahta pedig akár 24 játékosnak szóló partijátékon dolgozik.
 date: 2026-11-14T13:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Kiadói hírek", "Partijátékok", "PlayPunk", "Matt Leacock"]
+author: Szerkesztőség
+tags:
+  - Kiadói hírek
+  - Partijátékok
+  - PlayPunk
+  - Matt Leacock
 imageSuggestion: "A PlayPunk honlapját (playpunk.com) ebben a futásban nem sikerült megnyitni, ezért hivatalos dobozképet nem találtam. Javaslat: nézd meg a kiadó oldalán a Back To Back termékoldalát vagy sajtóanyagát (javasolt forrásmegjelölés: Fotó: PlayPunk), vagy kérj képet a kiadótól. A Heist Clubról még nincs kép."
 sources:
-  - name: "Board Game Beat (W. Eric Martin) – Party in the Back To Back"
-    url: "https://www.wericmartin.com/party-in-the-back-to-back/"
-  - name: "Ludum.fr – Back to Back (PlayPunk) termékoldal"
-    url: "https://www.ludum.fr/jeux-d-ambiance-en-famille/back-to-back-14820"
+  - name: Board Game Beat (W. Eric Martin) – Party in the Back To Back
+    url: https://www.wericmartin.com/party-in-the-back-to-back/
+  - name: Ludum.fr – Back to Back (PlayPunk) termékoldal
+    url: https://www.ludum.fr/jeux-d-ambiance-en-famille/back-to-back-14820
+approved: false
+chiefApproved: false
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 14. 11:01
+approvedBy: ""
+chiefApprovedBy: ""
+status: ⏳ tervezet
 ---
 
 Két új partijátékról is érkezett hír a héten: a belga **PlayPunk** decemberben piacra dobja kooperatív szóasszociációs játékát, a **Back To Back**-et, egy frissen alapított brit cég pedig a Pandemic tervezőjével, **Matt Leacockkal** közösen készít játékot nagy társaságoknak.
