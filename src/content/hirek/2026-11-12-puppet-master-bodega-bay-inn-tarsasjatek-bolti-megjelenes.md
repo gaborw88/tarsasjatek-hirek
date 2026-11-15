@@ -1,12 +1,12 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 12. 18:58
-approvedBy: ''
-chiefApprovedBy: ''
+published: true
+publishedAt: 2026-11-15T09:24:25.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 15. 10:24
+approvedBy: Weszprémy Gábor · 2026. 11. 15. 10:24
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 15. 10:24
 title: Boltokba érkezik a Puppet Master horrorfilmek kooperatív társasjátéka
 description: A Dynamite Entertainment 2025 őszén közösségi előrendelésen indította a Return to Bodega Bay Inn című társasjátékot. 2027 első negyedévében a kanadai boltokba is eljut.
 date: 2026-11-12T17:30:00+01:00
@@ -17,11 +17,11 @@ tags:
   - Megjelenések
   - Dynamite Entertainment
   - Horror
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794734587215.png
-imageAlt: ''
-imageCredit: 'Kép: Dynamite Entertainment'
-imageSuggestion: 'A Dynamite Entertainment hivatalos termékoldalát vagy sajtóanyagát nem találtam, a kampányoldal hivatalos linkjét sem tudtam ellenőrizni. Megoldás: a kiadó Gamefound-kampányoldalának dobozképe (ha a szerkesztő megtalálja), vagy kérj képet a Dynamite-tól. Kép nélkül is rendben van.'
+imageAlt: ""
+imageCredit: "Kép: Dynamite Entertainment"
+imageSuggestion: "A Dynamite Entertainment hivatalos termékoldalát vagy sajtóanyagát nem találtam, a kampányoldal hivatalos linkjét sem tudtam ellenőrizni. Megoldás: a kiadó Gamefound-kampányoldalának dobozképe (ha a szerkesztő megtalálja), vagy kérj képet a Dynamite-tól. Kép nélkül is rendben van."
 sources:
   - name: ICv2 – Dynamite's 'Puppet Master' Board Game Features a 'Return to Bodega Bay Inn'
     url: https://icv2.com/articles/news/view/63872/dynamites-puppet-master-board-game-features-return-bodega-bay-inn
