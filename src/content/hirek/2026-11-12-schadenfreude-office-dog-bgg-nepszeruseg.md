@@ -1,13 +1,13 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 12. 15:13
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Aki második, az nyer: a BoardGameGeek népszerűségi listájának élére ugrott egy japán ütésvivős kártyajáték'
+published: true
+publishedAt: 2026-11-15T09:09:29.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 15. 10:09
+approvedBy: Weszprémy Gábor · 2026. 11. 15. 10:09
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 15. 10:09
+title: "Aki második, az nyer: a BoardGameGeek népszerűségi listájának élére ugrott egy japán ütésvivős kártyajáték"
 description: A japán Schadenfreude az Asmodee-hez tartozó Office Dog új kiadásában november 6-án került a boltokba. A játékban a második legerősebb lap viszi az ütést, és a második helyezett nyer.
 date: 2026-11-12T17:00:00+01:00
 type: gyujtott
@@ -18,11 +18,11 @@ tags:
   - Office Dog
   - Asmodee
   - Kártyajátékok
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794733673340.png
-imageAlt: ''
-imageCredit: 'Fotó: Office Dog Games / Asmodee'
-imageSuggestion: 'Hivatalos kiadói kép: az Office Dog bejelentésének képei (dobozkép és játékelemek) – https://www.officedoggames.com/announcements/announcing-schadenfreude/ – javasolt forrásmegjelölés: Fotó: Office Dog Games / Asmodee'
+imageAlt: ""
+imageCredit: "Fotó: Office Dog Games / Asmodee"
+imageSuggestion: "Hivatalos kiadói kép: az Office Dog bejelentésének képei (dobozkép és játékelemek) – https://www.officedoggames.com/announcements/announcing-schadenfreude/ – javasolt forrásmegjelölés: Fotó: Office Dog Games / Asmodee"
 sources:
   - name: Brettspiel-News.de – Warum ist dieses Stichspiel aus dem Jahr 2020 gerade auf Platz 1 der BGG Hotness?
     url: https://www.brettspiel-news.de/index.php/de/nachrichten-uebersicht/neuerscheinungen/16433-warum-ist-dieses-stichspiel-aus-dem-jahr-2020-gerade-auf-platz-1-der-bgg-hotness
