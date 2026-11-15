@@ -1,13 +1,13 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 14. 15:02
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Fiatalok és idősek közös asztalánál: kiosztották a 2026-os Generationenspiel-Siegelt'
+published: true
+publishedAt: 2026-11-15T16:02:16.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 15. 17:02
+approvedBy: Weszprémy Gábor · 2026. 11. 15. 17:02
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 15. 17:02
+title: "Fiatalok és idősek közös asztalánál: kiosztották a 2026-os Generationenspiel-Siegelt"
 description: A Morty Sorty Magic Shop, az Auf den Wegen von Darwin és a Punto kapta idén a német „generációs játék” minősítést, amelyet az augsburgi SPIELWIESN-en adtak át.
 date: 2026-11-14T13:30:00+01:00
 type: gyujtott
@@ -17,15 +17,15 @@ tags:
   - Németország
   - Családi játékok
   - Schmidt Spiele
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794758136132.png
-imageAlt: ''
-imageCredit: 'Fotó: Schmidt Spiele'
-imageSuggestion: 'Hivatalos dobozkép a Schmidt Spiele termékoldalán (Morty Sorty Magic Shop): https://www.schmidtspiele.de/assets/images/e/49468_Morty_Sorty_Magic_Shop_Hexen_Zauberer_nominiert_Spiel_des_Jahres_Familienspiel_72ppi_A_Packshot-7bazb1na6qszmah.jpg – javasolt forrásmegjelölés: Fotó: Schmidt Spiele. (Termékoldal: https://www.schmidtspiele.de/detail/product/morty-sorty-magic-shop.html)'
+imageAlt: ""
+imageCredit: "Fotó: Schmidt Spiele"
+imageSuggestion: "Hivatalos dobozkép a Schmidt Spiele termékoldalán (Morty Sorty Magic Shop): https://www.schmidtspiele.de/assets/images/e/49468_Morty_Sorty_Magic_Shop_Hexen_Zauberer_nominiert_Spiel_des_Jahres_Familienspiel_72ppi_A_Packshot-7bazb1na6qszmah.jpg – javasolt forrásmegjelölés: Fotó: Schmidt Spiele. (Termékoldal: https://www.schmidtspiele.de/detail/product/morty-sorty-magic-shop.html)"
 sources:
-  - name: 'Spielecafé der Generationen – Generationenspiel-Siegel 2026: Drei neue Siegelspiele'
+  - name: "Spielecafé der Generationen – Generationenspiel-Siegel 2026: Drei neue Siegelspiele"
     url: https://www.jungundaltspielt.de/generationenspiel-siegel-2026-drei-neue-siegelspiele-viele-begegnungen-und-ein-besonderer-abend-auf-der-spielwiesn/
-  - name: 'Würfelreich – Generationenspiel-Siegel 2026: Preisträger auf SPIELWIESN'
+  - name: "Würfelreich – Generationenspiel-Siegel 2026: Preisträger auf SPIELWIESN"
     url: https://wuerfelreich.de/generationenspiel-siegel-2026-spielwiesn/
   - name: Brettspiel-News.de – Generationenspiel-Siegel auf der SPIELWIESN 2026 vergeben
     url: https://www.brettspiel-news.de/index.php/de/nachrichten-uebersicht/branche/16448-generationenspiel-siegel-auf-der-spielwiesn-2026-vergeben
