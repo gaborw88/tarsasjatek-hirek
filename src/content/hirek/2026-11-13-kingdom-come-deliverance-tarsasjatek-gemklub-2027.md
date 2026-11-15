@@ -1,34 +1,34 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 13. 11:12
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Parasztból hős a középkori Csehországban: 2027-ben a Gémklubnál érkezik a Kingdom Come: Deliverance társasjáték'
-description: 'A Gémklub bejelentette, hogy 2027-ben kiadja a Kingdom Come: Deliverance videójáték alapján készült nagyszabású társasjátékot, amelyet Vlaada Chvátil és Tomáš Holek tervezett a Czech Games Editionnek.'
+published: true
+publishedAt: 2026-11-15T14:15:47.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 15. 15:15
+approvedBy: Weszprémy Gábor · 2026. 11. 15. 15:15
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 15. 15:15
+title: "Parasztból hős a középkori Csehországban: 2027-ben a Gémklubnál érkezik a Kingdom Come: Deliverance társasjáték"
+description: "A Gémklub bejelentette, hogy 2027-ben kiadja a Kingdom Come: Deliverance videójáték alapján készült nagyszabású társasjátékot, amelyet Vlaada Chvátil és Tomáš Holek tervezett a Czech Games Editionnek."
 date: 2026-11-13T15:00:00+01:00
 type: gyujtott
 author: Szerkesztőség
 tags:
   - Magyar megjelenések
   - Gémklub
-  - 'Kingdom Come: Deliverance'
+  - "Kingdom Come: Deliverance"
   - Czech Games Edition
   - Vlaada Chvátil
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794752069842.png
-imageAlt: ''
-imageCredit: 'Kép: Czech Games Edition'
-imageSuggestion: 'Hivatalos sajtókép a Czech Games Edition sajtóoldaláról (https://www.czechgames.com/for-press-games/kingdom-come-deliverance-the-board-game) – dobozkép: https://cdn.prod.website-files.com/67d17a45b4e1484b40ea8869/6a43c4a32e8431ef17c3cb95_box%20image_kcd%2002.webp , sajtó számára készült fő kép: https://cdn.prod.website-files.com/67d17a45b4e1484b40ea8869/6a3e6ceab62f0f159fdcf931_hero%20image%20for%20press_KC%20%2002.webp – javasolt forrásmegjelölés: Fotó: Czech Games Edition. (A magyar dobozkép még nem ismert, a Gémklubtól később kérhető.)'
+imageAlt: ""
+imageCredit: "Kép: Czech Games Edition"
+imageSuggestion: "Hivatalos sajtókép a Czech Games Edition sajtóoldaláról (https://www.czechgames.com/for-press-games/kingdom-come-deliverance-the-board-game) – dobozkép: https://cdn.prod.website-files.com/67d17a45b4e1484b40ea8869/6a43c4a32e8431ef17c3cb95_box%20image_kcd%2002.webp , sajtó számára készült fő kép: https://cdn.prod.website-files.com/67d17a45b4e1484b40ea8869/6a3e6ceab62f0f159fdcf931_hero%20image%20for%20press_KC%20%2002.webp – javasolt forrásmegjelölés: Fotó: Czech Games Edition. (A magyar dobozkép még nem ismert, a Gémklubtól később kérhető.)"
 sources:
-  - name: 'Gémklub – Új megjelenés: Kingdom Come: Deliverance'
+  - name: "Gémklub – Új megjelenés: Kingdom Come: Deliverance"
     url: https://www.gemklub.hu/hirek/uj-megjelenes-kingdom-come-deliverance-2891
   - name: "ICv2 – CGE Brings 'Kingdom Come: Deliverance' to the Tabletop"
     url: https://icv2.com/articles/news/view/62760/cge-brings-kingdom-come-deliverance-tabletop
-  - name: 'GamesRadar+ – Kingdom Come: Deliverance board game is on the way from the developers of Codenames and SETI'
+  - name: "GamesRadar+ – Kingdom Come: Deliverance board game is on the way from the developers of Codenames and SETI"
     url: https://www.gamesradar.com/games/board-games/kingdom-come-deliverance-board-game-with-all-the-gritty-rpg-elements-fans-love-is-on-the-way-from-the-award-winning-developers-of-codenames-and-seti/
 ---
 
