@@ -1,12 +1,12 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 14. 11:01
-approvedBy: ''
-chiefApprovedBy: ''
+published: true
+publishedAt: 2026-11-15T15:04:13.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 15. 16:04
+approvedBy: Weszprémy Gábor · 2026. 11. 15. 16:04
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 15. 16:04
 title: Fordított Just One a Captain Flip kiadójától, 24 fős rablós partijáték Matt Leacocktól
 description: Decemberben érkezik a PlayPunk kooperatív szóasszociációs játéka, a Back To Back, Matt Leacock és Rikki Tahta pedig akár 24 játékosnak szóló partijátékon dolgozik.
 date: 2026-11-14T13:00:00+01:00
@@ -17,11 +17,11 @@ tags:
   - Partijátékok
   - PlayPunk
   - Matt Leacock
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794754960142.png
-imageAlt: ''
-imageCredit: 'Kép: PlayPunk'
-imageSuggestion: 'A PlayPunk honlapját (playpunk.com) ebben a futásban nem sikerült megnyitni, ezért hivatalos dobozképet nem találtam. Javaslat: nézd meg a kiadó oldalán a Back To Back termékoldalát vagy sajtóanyagát (javasolt forrásmegjelölés: Fotó: PlayPunk), vagy kérj képet a kiadótól. A Heist Clubról még nincs kép.'
+imageAlt: ""
+imageCredit: "Kép: PlayPunk"
+imageSuggestion: "A PlayPunk honlapját (playpunk.com) ebben a futásban nem sikerült megnyitni, ezért hivatalos dobozképet nem találtam. Javaslat: nézd meg a kiadó oldalán a Back To Back termékoldalát vagy sajtóanyagát (javasolt forrásmegjelölés: Fotó: PlayPunk), vagy kérj képet a kiadótól. A Heist Clubról még nincs kép."
 sources:
   - name: Board Game Beat (W. Eric Martin) – Party in the Back To Back
     url: https://www.wericmartin.com/party-in-the-back-to-back/
