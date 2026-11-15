@@ -1,9 +1,13 @@
 ---
-published: false
-approved: false
-chiefApproved: false
 status: ⏳ tervezet
-title: "Catan, Monopoly és Elizabeth Hargrave kagylógyűjtője: ők versenyeznek az amerikai játékipar „Év játéka” díjáért"
+approved: true
+chiefApproved: true
+published: false
+publishedAt: ''
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
+approvedBy: ''
+chiefApprovedBy: ''
+title: 'Catan, Monopoly és Elizabeth Hargrave kagylógyűjtője: ők versenyeznek az amerikai játékipar „Év játéka” díjáért'
 description: Kihirdették a 2027-es amerikai Toy of the Year (TOTY) díj döntőseit; az Év játéka kategóriában hét cím, köztük a CATAN – On the Road kártyajáték és a Wingspan tervezőjének új játéka, a Sanibel szerepel.
 date: 2026-11-15T13:00:00+01:00
 type: gyujtott
@@ -14,11 +18,15 @@ tags:
   - Catan
   - Hasbro
   - Asmodee
-imageSuggestion: "Hivatalos dobozkép a CATAN termékoldalán (CATAN – On the Road): https://www.catan.com/sites/default/files/2026-01/OnTheRoad%20Box_sm.png – javasolt forrásmegjelölés: Kép: CATAN GmbH / CATAN Studio. (Termékoldal: https://www.catan.com/catan-road) Alternatíva: a díj hivatalos logója a Toy Association sajtóközleményéből: https://www.toyassociation.org/images/websites/logos/TOTY27_Logo_B2B.png – Kép: The Toy Foundation."
+youtube: ''
+image: /images/uploads/pasted-image-1794776743530.png
+imageAlt: ''
+imageCredit: 'Kép: CATAN GmbH / CATAN Studio'
+imageSuggestion: 'Hivatalos dobozkép a CATAN termékoldalán (CATAN – On the Road): https://www.catan.com/sites/default/files/2026-01/OnTheRoad%20Box_sm.png – javasolt forrásmegjelölés: Kép: CATAN GmbH / CATAN Studio. (Termékoldal: https://www.catan.com/catan-road) Alternatíva: a díj hivatalos logója a Toy Association sajtóközleményéből: https://www.toyassociation.org/images/websites/logos/TOTY27_Logo_B2B.png – Kép: The Toy Foundation.'
 sources:
   - name: The Toy Association – 2027 Toy of the Year Finalists Unveiled
     url: https://www.toyassociation.org/PressRoom2/News/2026-News/2027-toy-of-the-year-finalists-unveiled.aspx
-  - name: "ICv2 – ChiTAG 2026 News: 2027 TOTY Awards Finalists Revealed"
+  - name: 'ICv2 – ChiTAG 2026 News: 2027 TOTY Awards Finalists Revealed'
     url: https://icv2.com/articles/news/view/63830/chitag-2026-news-2027-toty-awards-finalists-revealed
   - name: The Toy Book – The Toy Foundation Unveils Finalists for 2027 Toy of the Year Awards
     url: https://toybook.com/toty-noms-2026/
@@ -26,9 +34,6 @@ sources:
     url: https://www.notebookcheck.net/Wingspan-designer-Elizabeth-Hargrave-announces-Sanibel.1021383.0.html
   - name: CATAN – On the Road (hivatalos termékoldal)
     url: https://www.catan.com/catan-road
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
-approvedBy: ""
-chiefApprovedBy: ""
 ---
 
 Az amerikai játékipar egyik legismertebb elismerése, a **Toy of the Year (TOTY)** díj 2027-es döntőseit a chicagói játékvásáron (Chicago Toy & Game Fair, Rosemont) hirdette ki a díjat gondozó **The Toy Foundation**. A szervezet 17 kategóriában összesen 122 döntőst nevezett meg – a játékkedvelőket leginkább az **Év játéka** (Game of the Year) kategória érdekelheti, ahol hét cím jutott a döntőbe.
