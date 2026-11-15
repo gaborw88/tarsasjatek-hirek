@@ -1,10 +1,14 @@
 ---
-published: false
-approved: false
-chiefApproved: false
 status: ⏳ tervezet
+approved: true
+chiefApproved: true
+published: false
+publishedAt: ''
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 19:02
+approvedBy: ''
+chiefApprovedBy: ''
 title: Több mint 3,5 millió euróval zárt a Satisfactory társasjáték gyűjtése a Gamefoundon
-description: "A gyárépítő videójátékból készülő Satisfactory: The Board Game kampánya közel 14 ezer támogatótól a 25 ezer eurós cél több mint 140-szeresét gyűjtötte össze."
+description: 'A gyárépítő videójátékból készülő Satisfactory: The Board Game kampánya közel 14 ezer támogatótól a 25 ezer eurós cél több mint 140-szeresét gyűjtötte össze.'
 date: 2026-11-15T21:10:00+01:00
 type: gyujtott
 author: Szerkesztőség
@@ -14,20 +18,21 @@ tags:
   - Satisfactory
   - MOOD Publishing
   - Videójáték-adaptáció
-imageSuggestion: "A kiadó saját Gamefound-kampányoldalának megosztási képe (a november 5-i Satisfactory-cikkhez már feltöltött kép is újrahasználható): https://imgcdn.gamefound.com/og-image-square/projects/11362/cbd459fe-aa2f-49a4-bb9a-57df2837b839.png – javasolt forrásmegjelölés: Kép: MOOD Publishing / Coffee Stain"
+youtube: ''
+image: /images/uploads/pasted-image-1794075197226.png
+imageAlt: ''
+imageCredit: 'Kép: MOOD Publishing / Coffee Stain'
+imageSuggestion: 'A kiadó saját Gamefound-kampányoldalának megosztási képe (a november 5-i Satisfactory-cikkhez már feltöltött kép is újrahasználható): https://imgcdn.gamefound.com/og-image-square/projects/11362/cbd459fe-aa2f-49a4-bb9a-57df2837b839.png – javasolt forrásmegjelölés: Kép: MOOD Publishing / Coffee Stain'
 sources:
   - name: Tabletop Analytics – Kickstarter/Gamefound Top Grossing
     url: https://www.tabletopanalytics.com/
-  - name: "Brettspiel-News.de – Crowdfunding-Übersicht KW 46: 184 Brettspiel-Kampagnen im Check"
+  - name: 'Brettspiel-News.de – Crowdfunding-Übersicht KW 46: 184 Brettspiel-Kampagnen im Check'
     url: https://www.brettspiel-news.de/index.php/de/nachrichten-uebersicht/crowdfunding/16467-crowdfunding-bersicht-kw-46-184-brettspiel-kampagnen-im-check
-  - name: "Gamefound – Satisfactory: The Board Game by MOOD Publishing"
+  - name: 'Gamefound – Satisfactory: The Board Game by MOOD Publishing'
     url: https://gamefound.com/en/projects/mood-publishing/satisfactory-the-board-game
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 19:02
-approvedBy: ""
-chiefApprovedBy: ""
 ---
 
-Lezárult az ősz egyik legnagyobb társasjátékos közösségi gyűjtése. A **Satisfactory: The Board Game** a Tabletop Analytics kampányfigyelő oldal adatai szerint **3 564 428 eurót** gyűjtött össze **13 972 támogatótól** a Gamefoundon – a kitűzött cél mindössze 25 ezer euró volt, vagyis a végösszeg annak több mint 140-szerese. (Lapunk november elején, 2,3 millió eurós állásnál írt a kampányról.)
+Lezárult az ősz egyik legnagyobb társasjátékos közösségi gyűjtése. A **Satisfactory: The Board Game** a Tabletop Analytics kampányfigyelő oldal adatai szerint **3 564 428 eurót** (kb. 1,28 milliárd Forintot) gyűjtött össze **13 972 támogatótól** a Gamefoundon – a kitűzött cél mindössze 25 ezer euró volt, vagyis a végösszeg annak több mint 140-szerese. (Lapunk november elején, 2,3 millió eurós állásnál írt a kampányról.)
 
 ## A hajrá is erős volt
 
