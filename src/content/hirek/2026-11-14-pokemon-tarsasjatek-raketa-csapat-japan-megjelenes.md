@@ -1,12 +1,12 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
-approvedBy: ''
-chiefApprovedBy: ''
+published: true
+publishedAt: 2026-11-15T22:37:49.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 15. 23:37
+approvedBy: Weszprémy Gábor · 2026. 11. 15. 23:37
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 15. 23:37
 title: Ki a beépített Rakéta Csapat-tag? Rejtett szerepes Pokémon-társasjáték jelent meg Japánban
 description: November 12-én a japán boltokba került az Omae, moshikashite Rocket-dan? (Could You Be Team Rocket?), a The Pokémon Company 4–6 fős, titkos szerepekre épülő kártyás társasjátéka. Nyugati kiadást egyelőre nem jelentettek be.
 date: 2026-11-14T17:00:00+01:00
@@ -18,11 +18,11 @@ tags:
   - Megjelenések
   - Partijátékok
   - Kártyajátékok
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794782131720.png
-imageAlt: ''
-imageCredit: 'Kép: The Pokémon Company'
-imageSuggestion: 'Hivatalos termékoldal, a dobozkép innen kérhető/tölthető le: https://www.pokemon.co.jp/ex/omaroke/ – javasolt forrásmegjelölés: Kép: The Pokémon Company. Figyelem: a japán sajtóközlemény szerint a termékfotók fejlesztés alatti állapotot mutatnak, és ezt felhasználáskor jelölni kell; a pontos képlinket a szerkesztő ellenőrizze. Ha bizonytalan, kép nélkül is rendben van.'
+imageAlt: ""
+imageCredit: "Kép: The Pokémon Company"
+imageSuggestion: "Hivatalos termékoldal, a dobozkép innen kérhető/tölthető le: https://www.pokemon.co.jp/ex/omaroke/ – javasolt forrásmegjelölés: Kép: The Pokémon Company. Figyelem: a japán sajtóközlemény szerint a termékfotók fejlesztés alatti állapotot mutatnak, és ezt felhasználáskor jelölni kell; a pontos képlinket a szerkesztő ellenőrizze. Ha bizonytalan, kép nélkül is rendben van."
 sources:
   - name: Denfaminicogamer – 『ポケモン』新作ボドゲ「お前、もしかしてロケット団？」11月12日発売
     url: https://news.denfaminicogamer.jp/news/2610152g
