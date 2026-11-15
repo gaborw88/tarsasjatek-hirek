@@ -1,12 +1,12 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 14. 15:02
-approvedBy: ''
-chiefApprovedBy: ''
+published: true
+publishedAt: 2026-11-15T19:47:29.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 15. 20:47
+approvedBy: Weszprémy Gábor · 2026. 11. 15. 20:47
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 15. 20:47
 title: Új gazdához kerül a UniVersus gyűjtögetős kártyajáték
 description: A UVS Games átadja a húszéves múltra visszatekintő UniVersus CCG-t a seattle-i Boss Stage-nek. A játék fejlesztőcsapata a kártyajátékkal együtt költözik.
 date: 2026-11-14T13:00:00+01:00
@@ -17,11 +17,11 @@ tags:
   - UniVersus
   - UVS Games
   - Iparági hírek
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794771958771.png
-imageAlt: ''
-imageCredit: 'Kép: UVS Game'
-imageSuggestion: 'Hivatalos sajtókép nincs a bejelentéshez. A UVS Games logója a cég saját honlapján: https://uvsgames.com/wp-content/uploads/2025/09/Content_2x_UVSGamesLogo.jpg – javasolt forrásmegjelölés: Kép: UVS Games (ez nem sajtóoldal, ezért előtte érdemes rákérdezni a cégnél). Kép nélkül is rendben van.'
+imageAlt: ""
+imageCredit: "Kép: UVS Game"
+imageSuggestion: "Hivatalos sajtókép nincs a bejelentéshez. A UVS Games logója a cég saját honlapján: https://uvsgames.com/wp-content/uploads/2025/09/Content_2x_UVSGamesLogo.jpg – javasolt forrásmegjelölés: Kép: UVS Games (ez nem sajtóoldal, ezért előtte érdemes rákérdezni a cégnél). Kép nélkül is rendben van."
 sources:
   - name: ICv2 – UVS Games Moves 'UniVersus CCG' to Another Company
     url: https://icv2.com/articles/news/view/63882/uvs-games-moves-universus-ccg-another-company
