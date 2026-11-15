@@ -4,7 +4,7 @@ approved: true
 chiefApproved: true
 published: true
 publishedAt: 2026-11-09T21:08:17.988Z
-lastEditedBy: Weszprémy Gábor · 2026. 11. 09. 22:08
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
 approvedBy: Weszprémy Gábor · 2026. 11. 09. 22:08
 chiefApprovedBy: Weszprémy Gábor · 2026. 11. 09. 22:08
 title: "Mindkét Marco Polo egy dobozban: a héten indul a Gamefoundon a deluxe gyűjteményes kiadás"

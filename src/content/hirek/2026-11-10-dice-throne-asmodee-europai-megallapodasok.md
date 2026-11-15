@@ -4,7 +4,7 @@ approved: true
 chiefApproved: true
 published: true
 publishedAt: 2026-11-10T22:10:41.115Z
-lastEditedBy: Weszprémy Gábor · 2026. 11. 10. 23:10
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
 approvedBy: Weszprémy Gábor · 2026. 11. 10. 23:10
 chiefApprovedBy: Weszprémy Gábor · 2026. 11. 10. 23:10
 title: "Az Asmodee-hez kerül a Dice Throne európai kiadása: francia nyelvű verzió, brit boltok és uniós webáruház"

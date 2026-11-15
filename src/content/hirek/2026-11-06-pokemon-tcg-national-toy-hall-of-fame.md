@@ -23,6 +23,7 @@ approved: true
 chiefApproved: true
 status: ✅ megjelent
 publishedAt: 2026-11-06T17:10:00.000Z
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
 ---
 
 Harminc évvel az első lapok megjelenése után a **Pokémon Trading Card Game** bekerült az amerikai játékok hírességek csarnokába, a National Toy Hall of Fame-be. Az idei négy új tagot november 5-én jelentette be a New York állambeli Rochesterben működő The Strong National Museum of Play, amely 1998 óta gondozza a válogatást.

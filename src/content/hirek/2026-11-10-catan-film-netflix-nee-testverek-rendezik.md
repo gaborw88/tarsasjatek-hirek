@@ -4,7 +4,7 @@ approved: true
 chiefApproved: true
 published: true
 publishedAt: 2026-11-10T10:26:33.419Z
-lastEditedBy: Weszprémy Gábor · 2026. 11. 10. 11:26
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
 approvedBy: Weszprémy Gábor · 2026. 11. 10. 11:26
 chiefApprovedBy: Weszprémy Gábor · 2026. 11. 10. 11:26
 title: "Megvannak a Catan-film rendezői: a Nee testvérek viszik vászonra a társasjáték-klasszikust a Netflixnek"

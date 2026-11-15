@@ -24,6 +24,7 @@ approved: true
 chiefApproved: true
 status: ✅ megjelent
 publishedAt: 2026-11-05T14:20:00.000Z
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
 ---
 
 Mobilon is játszható lett a népszerű szóasszociációs játék kétfős változata. A cseh **Czech Games Edition** (CGE) bejelentette, hogy a **Codenames: Duet** kiegészítőként megérkezett a hivatalos **Codenames** alkalmazásba, iOS-re és Androidra egyaránt. A társasjátékot, csakúgy mint az alapjátékot, **Vlaada Chvátil** tervezte. Magyarul az alapjáték *Fedőnevek* címen kapható, a kétfős, kooperatív változat pedig *Fedőnevek: Négyszemközt* néven ismert.

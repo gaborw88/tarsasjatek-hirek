@@ -4,7 +4,7 @@ approved: true
 chiefApproved: true
 published: true
 publishedAt: 2026-11-09T15:13:53.234Z
-lastEditedBy: Weszprémy Gábor · 2026. 11. 09. 16:13
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
 approvedBy: Weszprémy Gábor · 2026. 11. 09. 16:13
 chiefApprovedBy: Weszprémy Gábor · 2026. 11. 09. 16:13
 title: "Geralt a terepasztalon: november 17-én indul a Gamefoundon a The Witcher: No Man's Land miniatűrös csatajáték"

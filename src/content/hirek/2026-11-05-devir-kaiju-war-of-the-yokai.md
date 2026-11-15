@@ -26,6 +26,7 @@ approved: true
 chiefApproved: true
 status: ✅ megjelent
 publishedAt: 2026-11-05T12:00:00.000Z
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
 ---
 
 Új, nagyszabású stratégiai játékot jelentett be a spanyol **Devir** az idei esseni SPIEL vásáron. A **Kaiju, War of the Yōkai** tervezői között ott van **Marco Maggi** és **Francesco Nepitello**, akiknek a nevéhez a _War of the Ring_ és a _Dune: War for Arrakis_ is fűződik; harmadik szerzőként **Michele Garbuggio** dolgozik a játékon. Az ő korábbi sikereikkel szemben az új cím azonban nem két tábor összecsapása: teljesen kooperatív, vagyis a játékosok együtt nyernek vagy veszítenek.

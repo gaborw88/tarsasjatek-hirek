@@ -24,7 +24,7 @@ sources:
     url: https://gamingtrend.com/news/magiccon-atlanta-unveils-nauctis-the-sunken-realms/
   - name: Wargamer – MTG Nauctis has whale gods, elemental krakens, and a new 'Black Lotus'
     url: https://www.wargamer.com/magic-the-gathering/mtg-nauctis-whale-gods-black-lotus
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 14. 07:02
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
 approvedBy: ""
 chiefApprovedBy: ""
 ---

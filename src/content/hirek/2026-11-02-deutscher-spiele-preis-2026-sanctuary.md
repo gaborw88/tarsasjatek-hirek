@@ -25,6 +25,7 @@ approved: true
 chiefApproved: true
 status: ✅ megjelent
 publishedAt: 2026-11-02T15:45:00.000Z
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
 ---
 
 Az esseni SPIEL vásáron hirdették ki az idei Deutscher Spiele Preis (Német Játékdíj) eredményét, és a győzelmet a **Sanctuary** szerezte meg. A játékot Mathias Wigge tervezte, aki 2022-ben az **Ark Nova** című nagy sikerű stratégiai játékával már elnyerte ezt az elismerést – így mindkét önálló játékával a díj csúcsára jutott.

@@ -3,7 +3,7 @@ status: ✅ megjelent
 approved: true
 chiefApproved: true
 published: true
-lastEditedBy: Weszprémy Gábor
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
 approvedBy: Weszprémy Gábor
 chiefApprovedBy: Weszprémy Gábor
 title: "Fekete medvék és hegyi patakok: magyarul is kapható Az erdő harmadik, önálló része, a Smoky Mountains"

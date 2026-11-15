@@ -30,6 +30,7 @@ approved: true
 chiefApproved: true
 status: ✅ megjelent
 publishedAt: 2026-11-03T15:00:00.000Z
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
 ---
 
 Újabb rangos elismerést gyűjtött be Reiner Knizia: a **Rebirth** című játéka nyerte az olasz **Gioco dell'Anno 2026** (Az év játéka) díjat. Az eredményt a 60. alkalommal megrendezett Lucca Comics & Games fesztivál díjátadó gáláján hirdették ki a város Teatro del Giglio színházában. Az 1991 óta odaítélt díjról kilenctagú zsűri dönt; tavaly a Botanicus nyert.

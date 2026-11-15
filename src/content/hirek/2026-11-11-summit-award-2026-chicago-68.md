@@ -4,7 +4,7 @@ approved: true
 chiefApproved: true
 published: true
 publishedAt: 2026-11-12T13:17:46.269Z
-lastEditedBy: Weszprémy Gábor · 2026. 11. 12. 14:16
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
 approvedBy: Weszprémy Gábor · 2026. 11. 12. 14:16
 chiefApprovedBy: Weszprémy Gábor · 2026. 11. 12. 14:16
 title: "Utcai tüntetők a rendőrség ellen: a Chicago '68 nyerte a történelmi játékok Summit Award díját"

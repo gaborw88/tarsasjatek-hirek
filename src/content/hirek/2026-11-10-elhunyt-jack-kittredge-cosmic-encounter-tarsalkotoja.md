@@ -4,7 +4,7 @@ approved: true
 chiefApproved: true
 published: true
 publishedAt: 2026-11-10T14:16:11.739Z
-lastEditedBy: Weszprémy Gábor · 2026. 11. 10. 15:15
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
 approvedBy: Weszprémy Gábor · 2026. 11. 10. 15:15
 chiefApprovedBy: Weszprémy Gábor · 2026. 11. 10. 15:15
 title: Elhunyt Jack Kittredge, a Cosmic Encounter és a klasszikus Dune társasjáték egyik alkotója

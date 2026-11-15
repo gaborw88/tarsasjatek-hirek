@@ -26,6 +26,7 @@ approved: true
 chiefApproved: true
 status: ✅ megjelent
 publishedAt: 2026-11-06T17:00:00.000Z
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
 ---
 
 Újabb 2027-es megjelenést jelentett be a Gémklub: november 6-i hírükben azt írták, hogy jövőre magyarul is érkezik a **Bear Necessities** című kártyajáték, amelyet „bájos, de furfangos” játékként harangoztak be. A magyar cím, a pontos megjelenési idő és az ár egyelőre nem ismert.

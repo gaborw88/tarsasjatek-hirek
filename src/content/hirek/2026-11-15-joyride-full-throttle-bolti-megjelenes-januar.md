@@ -20,7 +20,7 @@ sources:
     url: https://www.wargamer.com/joyride-full-throttle/gamefound-launch-miniatures
   - name: "Bleeding Cool – Rebellion Unplugged Announces Joyride: Full Throttle"
     url: https://bleedingcool.com/games/rebellion-unplugged-announces-joyride-full-throttle
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 11:03
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
 approvedBy: ""
 chiefApprovedBy: ""
 ---

@@ -4,7 +4,7 @@ approved: true
 chiefApproved: true
 published: true
 publishedAt: 2026-11-11T22:10:50.100Z
-lastEditedBy: Weszprémy Gábor · 2026. 11. 11. 23:10
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
 approvedBy: Weszprémy Gábor · 2026. 11. 11. 23:10
 chiefApprovedBy: Weszprémy Gábor · 2026. 11. 11. 23:10
 title: Visszatér a Mechs vs. Minions – 2027-ben magyarul is megjelenik a Delta Visionnél

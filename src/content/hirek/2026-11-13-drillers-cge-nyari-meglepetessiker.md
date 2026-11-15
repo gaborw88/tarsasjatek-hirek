@@ -4,7 +4,7 @@ approved: true
 chiefApproved: true
 published: true
 publishedAt: 2026-11-15T14:49:05.000Z
-lastEditedBy: Weszprémy Gábor · 2026. 11. 15. 15:49
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
 approvedBy: Weszprémy Gábor · 2026. 11. 15. 15:49
 chiefApprovedBy: Weszprémy Gábor · 2026. 11. 15. 15:49
 title: "Robotokkal a bánya mélyére: a CGE Drillers című pakliépítője lett a nyár váratlan sikerjátéka"

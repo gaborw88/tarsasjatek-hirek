@@ -4,7 +4,7 @@ approved: true
 chiefApproved: true
 published: true
 publishedAt: 2026-11-09T13:51:17.972Z
-lastEditedBy: Weszprémy Gábor · 2026. 11. 09. 14:51
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
 approvedBy: Weszprémy Gábor · 2026. 11. 09. 14:51
 chiefApprovedBy: Weszprémy Gábor · 2026. 11. 09. 14:51
 title: "Újra lecsap a Dolog: kedden indul a Gamefoundon a The Thing társasjáték és új kártyajátéka"

@@ -4,7 +4,7 @@ approved: true
 chiefApproved: true
 published: true
 publishedAt: 2026-11-11T13:59:26.387Z
-lastEditedBy: Weszprémy Gábor · 2026. 11. 11. 14:59
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
 approvedBy: Weszprémy Gábor · 2026. 11. 11. 14:59
 chiefApprovedBy: Weszprémy Gábor · 2026. 11. 11. 14:59
 title: "Örökbe fogadott cicák bizalmáért versenghetünk: előrendelhető az MDJ Games első játéka, a From Stray to Stay: Végre otthon"

@@ -4,7 +4,7 @@ approved: true
 chiefApproved: true
 published: true
 publishedAt: 2026-11-12T15:42:17.000Z
-lastEditedBy: Weszprémy Gábor · 2026. 11. 12. 16:42
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
 approvedBy: Weszprémy Gábor · 2026. 11. 12. 16:42
 chiefApprovedBy: Weszprémy Gábor · 2026. 11. 12. 16:42
 title: "Bárányból szektavezér: 2027 nyarán a boltokba kerül a Cult of the Lamb társasjáték"

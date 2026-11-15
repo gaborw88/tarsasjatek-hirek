@@ -3,7 +3,7 @@ status: ✅ megjelent
 approved: true
 chiefApproved: true
 published: true
-lastEditedBy: Weszprémy Gábor
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
 approvedBy: Weszprémy Gábor
 chiefApprovedBy: Weszprémy Gábor
 title: "Egymillió dollár fölött a Card Wars: új hősökkel és kétszemélyes csapatjátékkal tér vissza a Kalandra fel! kártyajátéka"

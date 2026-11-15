@@ -22,7 +22,7 @@ sources:
     url: https://www.4gamer.net/games/024/G102471/20261007003/
   - name: Essential Japan – Pokémon Releases New Team Rocket Board Game Featuring 60 Exclusive Cards
     url: https://essential-japan.com/news/pokemon-releases-new-team-rocket-board-game-featuring-60-exclusive-cards/
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 14. 23:06
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
 approvedBy: ""
 chiefApprovedBy: ""
 ---

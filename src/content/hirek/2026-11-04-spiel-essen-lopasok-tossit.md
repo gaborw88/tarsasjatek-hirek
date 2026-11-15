@@ -23,6 +23,7 @@ approved: true
 chiefApproved: true
 status: ✅ megjelent
 publishedAt: 2026-11-04T12:00:00.000Z
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
 ---
 
 Rekordlátogatottsággal, 230 ezer vendéggel zárult októberben a SPIEL Essen, a vásár után azonban kellemetlen hírek is érkeztek. A szervező Merz Verlag megerősítette, hogy az építés és a bontás idején – amikor a csarnokokba csak kiállítók, a személyzet és a biztonsági szolgálat léphetett be – összesen hat lopást jelentettek be.

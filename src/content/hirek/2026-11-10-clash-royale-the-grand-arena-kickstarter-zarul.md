@@ -4,7 +4,7 @@ approved: true
 chiefApproved: true
 published: true
 publishedAt: 2026-11-10T13:04:48.607Z
-lastEditedBy: Weszprémy Gábor · 2026. 11. 10. 14:03
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
 approvedBy: Weszprémy Gábor · 2026. 11. 10. 14:03
 chiefApprovedBy: Weszprémy Gábor · 2026. 11. 10. 14:03
 title: "Elixír és koronák az asztalon: pénteken zárul a Clash Royale társasjátékának Kickstarter-kampánya"

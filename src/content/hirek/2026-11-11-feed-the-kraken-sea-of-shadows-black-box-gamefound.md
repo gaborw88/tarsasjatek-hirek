@@ -4,7 +4,7 @@ approved: true
 chiefApproved: true
 published: true
 publishedAt: 2026-11-11T12:22:08.280Z
-lastEditedBy: Weszprémy Gábor · 2026. 11. 11. 13:21
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
 approvedBy: Weszprémy Gábor · 2026. 11. 11. 13:21
 chiefApprovedBy: Weszprémy Gábor · 2026. 11. 11. 13:21
 title: "Ismeretlen vizeken: kiegészítővel és ötödik évfordulós díszdobozzal tér vissza a Feed the Kraken a Gamefoundon"

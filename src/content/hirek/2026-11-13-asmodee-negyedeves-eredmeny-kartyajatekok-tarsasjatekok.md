@@ -4,7 +4,7 @@ approved: true
 chiefApproved: true
 published: true
 publishedAt: 2026-11-13T20:39:00.000Z
-lastEditedBy: Weszprémy Gábor · 2026. 11. 13. 21:39
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
 approvedBy: Weszprémy Gábor · 2026. 11. 13. 21:39
 chiefApprovedBy: Weszprémy Gábor · 2026. 11. 13. 21:39
 title: "Közel 37 százalékkal nőtt az Asmodee forgalma: a gyűjtögetős kártyajátékok húzzák, de a társasjátékok is erősödnek"

@@ -4,7 +4,7 @@ approved: true
 chiefApproved: true
 published: true
 publishedAt: 2026-11-13T21:16:13.000Z
-lastEditedBy: Weszprémy Gábor · 2026. 11. 13. 22:16
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
 approvedBy: Weszprémy Gábor · 2026. 11. 13. 22:16
 chiefApprovedBy: Weszprémy Gábor · 2026. 11. 13. 22:16
 title: "Közel 5 milliárd Forinttal minden idők legsikeresebb társasjátékos gyűjtése lett a Nemesis: Legacy – rekordév a közösségi finanszírozásban, de a kiadók aggódnak"

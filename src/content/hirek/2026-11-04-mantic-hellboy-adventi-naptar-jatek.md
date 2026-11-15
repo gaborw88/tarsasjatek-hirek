@@ -24,6 +24,7 @@ approved: true
 chiefApproved: true
 status: ✅ megjelent
 publishedAt: 2026-11-04T20:00:00.000Z
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
 ---
 
 A csokoládé helyett minifigurák, kocka és játéktábla: az angol **Mantic Games** idén Mike Mignola képregényhősével, Hellboyjal bővíti adventi naptáras társasjátékainak sorát. A **Hellboy: The Advent Calendar Game** az ICv2 beszámolója szerint az év utolsó negyedévében kerül a boltokba.

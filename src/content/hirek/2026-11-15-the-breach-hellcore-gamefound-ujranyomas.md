@@ -21,7 +21,7 @@ sources:
     url: https://brettspielbox.de/brettspiel-crowdfunding-news-46-26/
   - name: Ludus Magnus Studio – The Breach
     url: https://ludusmagnusstudio.com/the-breach/
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 11:03
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
 approvedBy: ""
 chiefApprovedBy: ""
 ---

@@ -4,7 +4,7 @@ approved: true
 chiefApproved: true
 published: true
 publishedAt: 2026-11-13T07:54:18.000Z
-lastEditedBy: Weszprémy Gábor · 2026. 11. 13. 08:54
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
 approvedBy: Weszprémy Gábor · 2026. 11. 13. 08:54
 chiefApprovedBy: Weszprémy Gábor · 2026. 11. 13. 08:54
 title: "Bruce Lee kontra Muhammad Ali és a Kennerspiel-győztes mélytengeri expedíció: ezek érkeznek magyarul a Reflexshoptól"

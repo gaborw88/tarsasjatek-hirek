@@ -24,6 +24,7 @@ approved: true
 chiefApproved: true
 status: ✅ megjelent
 publishedAt: 2026-11-02T08:00:00.000Z
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
 ---
 
 Ismét történelmi számokkal zárult a SPIEL Essen: az október 22. és 25. között megrendezett vásárra a beszámolók szerint **230 ezer látogató** érkezett, ami tízezerrel több a tavalyi, szintén rekordnak számító 220 ezernél.

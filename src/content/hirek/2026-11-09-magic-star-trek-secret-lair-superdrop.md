@@ -4,7 +4,7 @@ approved: true
 chiefApproved: true
 published: true
 publishedAt: 2026-11-09T21:13:46.696Z
-lastEditedBy: Weszprémy Gábor · 2026. 11. 09. 22:11
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
 approvedBy: Weszprémy Gábor · 2026. 11. 09. 22:11
 chiefApprovedBy: Weszprémy Gábor · 2026. 11. 09. 22:11
 title: "Khan, klingonok és a Lower Decks legénysége: ma indul a Magic Star Trek-es Secret Lair-kiadása, pénteken jön a teljes szett"

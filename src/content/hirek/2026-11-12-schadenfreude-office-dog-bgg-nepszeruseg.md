@@ -4,7 +4,7 @@ approved: true
 chiefApproved: true
 published: true
 publishedAt: 2026-11-15T09:09:29.000Z
-lastEditedBy: Weszprémy Gábor · 2026. 11. 15. 10:09
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
 approvedBy: Weszprémy Gábor · 2026. 11. 15. 10:09
 chiefApprovedBy: Weszprémy Gábor · 2026. 11. 15. 10:09
 title: "Aki második, az nyer: a BoardGameGeek népszerűségi listájának élére ugrott egy japán ütésvivős kártyajáték"

@@ -30,6 +30,7 @@ approved: true
 chiefApproved: true
 status: ✅ megjelent
 publishedAt: 2026-11-02T14:30:00.000Z
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
 ---
 
 A Gémklub az elmúlt napokban két újabb címet jelentett be magyar kiadásra. Az egyik egy könnyed, gyors lapkás játék a francia sztártervezőtől, Bruno Cathalától, a másik pedig egy nagy sikerű kártyajáték-sorozat befejező része.

@@ -26,7 +26,7 @@ sources:
     url: https://www.notebookcheck.net/Wingspan-designer-Elizabeth-Hargrave-announces-Sanibel.1021383.0.html
   - name: CATAN – On the Road (hivatalos termékoldal)
     url: https://www.catan.com/catan-road
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 06:56
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
 approvedBy: ""
 chiefApprovedBy: ""
 ---

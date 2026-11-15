@@ -23,6 +23,7 @@ approved: true
 chiefApproved: true
 status: ✅ megjelent
 publishedAt: 2026-11-01T17:00:00.000Z
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
 ---
 
 Október 22-én, a SPIEL Essen első napjának estéjén rendezték meg az első **TCG Awards** gálát, amely saját meghatározása szerint az első nemzetközi díj, ami kizárólag a gyűjtögetős kártyajátékok (TCG) iparágát ünnepli. A nagy nyertes a **Star Wars: Unlimited** lett.

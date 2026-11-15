@@ -4,7 +4,7 @@ approved: true
 chiefApproved: true
 published: true
 publishedAt: 2026-11-09T21:17:21.471Z
-lastEditedBy: Weszprémy Gábor · 2026. 11. 09. 22:14
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
 approvedBy: Weszprémy Gábor · 2026. 11. 09. 22:14
 chiefApprovedBy: Weszprémy Gábor · 2026. 11. 09. 22:14
 title: "Inkák, inuitok és polinézek: felfedezőmodullal és öt új néppel bővül a Clash of Cultures"
