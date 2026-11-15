@@ -16,16 +16,19 @@ tags:
   - Asmodee
 imageSuggestion: "Hivatalos dobozkép a CATAN termékoldalán (CATAN – On the Road): https://www.catan.com/sites/default/files/2026-01/OnTheRoad%20Box_sm.png – javasolt forrásmegjelölés: Fotó: CATAN GmbH / CATAN Studio. (Termékoldal: https://www.catan.com/catan-road) Alternatíva: a díj hivatalos logója a Toy Association sajtóközleményéből: https://www.toyassociation.org/images/websites/logos/TOTY27_Logo_B2B.png – Fotó: The Toy Foundation."
 sources:
-  - name: "The Toy Association – 2027 Toy of the Year Finalists Unveiled"
+  - name: The Toy Association – 2027 Toy of the Year Finalists Unveiled
     url: https://www.toyassociation.org/PressRoom2/News/2026-News/2027-toy-of-the-year-finalists-unveiled.aspx
   - name: "ICv2 – ChiTAG 2026 News: 2027 TOTY Awards Finalists Revealed"
     url: https://icv2.com/articles/news/view/63830/chitag-2026-news-2027-toty-awards-finalists-revealed
-  - name: "The Toy Book – The Toy Foundation Unveils Finalists for 2027 Toy of the Year Awards"
+  - name: The Toy Book – The Toy Foundation Unveils Finalists for 2027 Toy of the Year Awards
     url: https://toybook.com/toty-noms-2026/
-  - name: "Notebookcheck – Wingspan designer Elizabeth Hargrave announces Sanibel"
+  - name: Notebookcheck – Wingspan designer Elizabeth Hargrave announces Sanibel
     url: https://www.notebookcheck.net/Wingspan-designer-Elizabeth-Hargrave-announces-Sanibel.1021383.0.html
-  - name: "CATAN – On the Road (hivatalos termékoldal)"
+  - name: CATAN – On the Road (hivatalos termékoldal)
     url: https://www.catan.com/catan-road
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 06:56
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 Az amerikai játékipar egyik legismertebb elismerése, a **Toy of the Year (TOTY)** díj 2027-es döntőseit a chicagói játékvásáron (Chicago Toy & Game Fair, Rosemont) hirdette ki a díjat gondozó **The Toy Foundation**. A szervezet 17 kategóriában összesen 122 döntőst nevezett meg – a játékkedvelőket leginkább az **Év játéka** (Game of the Year) kategória érdekelheti, ahol hét cím jutott a döntőbe.
