@@ -2,21 +2,27 @@
 published: false
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
+status: ⏳ tervezet
 title: "Hatfős autós káosz januártól: boltokba kerül a Joyride: Full Throttle"
-description: "A Rebellion Unplugged január 6-án hozza ki az amerikai boltokban a Joyride-sorozat önállóan is játszható új részét, amely csapatmódot és hat új autót kínál."
+description: A Rebellion Unplugged január 6-án hozza ki az amerikai boltokban a Joyride-sorozat önállóan is játszható új részét, amely csapatmódot és hat új autót kínál.
 date: 2026-11-15T17:30:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Megjelenések", "Rebellion Unplugged", "Joyride"]
+author: Szerkesztőség
+tags:
+  - Megjelenések
+  - Rebellion Unplugged
+  - Joyride
 imageSuggestion: "A kiadó saját Gamefound-kampányoldalának képe: https://imgcdn.gamefound.com/og-image-fb/projects/6102/3f3dd5be-ca68-4b5e-8f7d-0fc228da466a.jpg – javasolt forrásmegjelölés: Fotó: Rebellion Unplugged. (Kampányoldal: https://gamefound.com/en/projects/rebellionunplugged/joyride-full-throttle/updates/23)"
 sources:
   - name: "ICv2 – Rebellion Unplugged Will Release 'Joyride: Full Throttle'"
-    url: "https://icv2.com/articles/news/view/63847/rebellion-unplugged-will-release-joyride-full-throttle"
-  - name: "Wargamer – Award winning car board game Joyride just launched an eye-watering 80s coded sequel"
-    url: "https://www.wargamer.com/joyride-full-throttle/gamefound-launch-miniatures"
+    url: https://icv2.com/articles/news/view/63847/rebellion-unplugged-will-release-joyride-full-throttle
+  - name: Wargamer – Award winning car board game Joyride just launched an eye-watering 80s coded sequel
+    url: https://www.wargamer.com/joyride-full-throttle/gamefound-launch-miniatures
   - name: "Bleeding Cool – Rebellion Unplugged Announces Joyride: Full Throttle"
-    url: "https://bleedingcool.com/games/rebellion-unplugged-announces-joyride-full-throttle"
+    url: https://bleedingcool.com/games/rebellion-unplugged-announces-joyride-full-throttle
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 11:03
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 A brit Rebellion Unplugged – a Sniper Elite videójáték-sorozatot fejlesztő Rebellion társasjátékos részlege – **2027. január 6-án** juttatja el az amerikai kereskedelmi forgalomba a **Joyride: Full Throttle** című játékot – számolt be az ICv2. A doboz ajánlott fogyasztói ára 75 dollár.

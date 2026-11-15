@@ -2,21 +2,28 @@
 published: false
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
+status: ⏳ tervezet
 title: "Kooperatív történetmóddal tér vissza a The Breach: november 17-én indul a Hellcore-kampány a Gamefoundon"
-description: "Az olasz Ludus Magnus Studio újranyomja kiberpunk hekkerjátékát, a The Breach-et, és egy új kiegészítőt is hoz hozzá, amely kooperatív kampányt ad a versengő alapjátékhoz."
+description: Az olasz Ludus Magnus Studio újranyomja kiberpunk hekkerjátékát, a The Breach-et, és egy új kiegészítőt is hoz hozzá, amely kooperatív kampányt ad a versengő alapjátékhoz.
 date: 2026-11-15T17:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Crowdfunding", "Gamefound", "Ludus Magnus Studio", "The Breach"]
+author: Szerkesztőség
+tags:
+  - Crowdfunding
+  - Gamefound
+  - Ludus Magnus Studio
+  - The Breach
 imageSuggestion: "A kiadó saját Gamefound-kampányoldalának képe: https://imgcdn.gamefound.com/og-image-fb/projects/9795/91e5e329-68bf-4bdb-9155-f935b9e48401.jpg – javasolt forrásmegjelölés: Fotó: Ludus Magnus Studio. (A kiadó játékoldalán dobozképek is vannak: https://ludusmagnusstudio.com/the-breach/)"
 sources:
   - name: "Gamefound – The Breach: Reprint & Hellcore expansion (Ludus Magnus Studio), Hellcore // Story Mode"
-    url: "https://gamefound.com/en/projects/lms/thebreach-reprint-hellcoreexpansion/updates/3"
-  - name: "Brettspielbox – Brettspiel Crowdfunding News 46/26"
-    url: "https://brettspielbox.de/brettspiel-crowdfunding-news-46-26/"
-  - name: "Ludus Magnus Studio – The Breach"
-    url: "https://ludusmagnusstudio.com/the-breach/"
+    url: https://gamefound.com/en/projects/lms/thebreach-reprint-hellcoreexpansion/updates/3
+  - name: Brettspielbox – Brettspiel Crowdfunding News 46/26
+    url: https://brettspielbox.de/brettspiel-crowdfunding-news-46-26/
+  - name: Ludus Magnus Studio – The Breach
+    url: https://ludusmagnusstudio.com/the-breach/
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 11:03
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 A Sine Tempore és a Nova Aetas kiadójaként ismert római **Ludus Magnus Studio** újra elérhetővé teszi 2024-ben megjelent kiberpunk társasjátékát, a **The Breach**-et. A kiadó a Gamefoundon indít kampányt, amely egyszerre szól az alapjáték újranyomásáról és egy vadonatúj kiegészítőről, a **Hellcore**-ról. A német Brettspielbox heti crowdfunding-összefoglalója szerint a kampány **november 17-én** indul.
