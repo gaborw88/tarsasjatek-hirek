@@ -1,8 +1,12 @@
 ---
-published: false
-approved: false
-chiefApproved: false
 status: ⏳ tervezet
+approved: true
+chiefApproved: true
+published: false
+publishedAt: ''
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 14. 15:02
+approvedBy: ''
+chiefApprovedBy: ''
 title: Új gazdához kerül a UniVersus gyűjtögetős kártyajáték
 description: A UVS Games átadja a húszéves múltra visszatekintő UniVersus CCG-t a seattle-i Boss Stage-nek. A játék fejlesztőcsapata a kártyajátékkal együtt költözik.
 date: 2026-11-14T13:00:00+01:00
@@ -13,7 +17,11 @@ tags:
   - UniVersus
   - UVS Games
   - Iparági hírek
-imageSuggestion: "Hivatalos sajtókép nincs a bejelentéshez. A UVS Games logója a cég saját honlapján: https://uvsgames.com/wp-content/uploads/2025/09/Content_2x_UVSGamesLogo.jpg – javasolt forrásmegjelölés: Kép: UVS Games (ez nem sajtóoldal, ezért előtte érdemes rákérdezni a cégnél). Kép nélkül is rendben van."
+youtube: ''
+image: /images/uploads/pasted-image-1794771958771.png
+imageAlt: ''
+imageCredit: 'Kép: UVS Game'
+imageSuggestion: 'Hivatalos sajtókép nincs a bejelentéshez. A UVS Games logója a cég saját honlapján: https://uvsgames.com/wp-content/uploads/2025/09/Content_2x_UVSGamesLogo.jpg – javasolt forrásmegjelölés: Kép: UVS Games (ez nem sajtóoldal, ezért előtte érdemes rákérdezni a cégnél). Kép nélkül is rendben van.'
 sources:
   - name: ICv2 – UVS Games Moves 'UniVersus CCG' to Another Company
     url: https://icv2.com/articles/news/view/63882/uvs-games-moves-universus-ccg-another-company
@@ -23,9 +31,6 @@ sources:
     url: https://graphicpolicy.com/2026/11/13/universus-finds-a-new-home-with-boss-stage/
   - name: UVS Games – The 2027 UniVersus Roadmap
     url: https://uvsgames.com/news/universus-2027-roadmap/
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 14. 15:02
-approvedBy: ""
-chiefApprovedBy: ""
 ---
 
 Kiadóváltás jön az egyik legrégebbi, ma is futó licencelt gyűjtögetős kártyajátéknál: a **UVS Games** november 13-án bejelentette, hogy a **UniVersus CCG**-t a jövőben a seattle-i **Boss Stage Inc.** gondozza. A cég a játék minden területét átveszi, a UniVersus jelenlegi fejlesztőcsapata pedig vele együtt az új kiadóhoz kerül.
