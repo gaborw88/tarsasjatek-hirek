@@ -2,19 +2,25 @@
 published: false
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
+status: ⏳ tervezet
 title: "Mozifilm lesz a Labyrinthból: leforgatták a Ravensburger-klasszikus német adaptációját, 2028 januárjában jön"
 description: "Véget ért a forgatás: Peter Thorwarth rendezésében kalandvígjáték készült a 40 éves Das verrückte Labyrinth című családi játékból. A német mozikba 2028. január 20-án érkezhet."
 date: 2026-11-15T21:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Filmadaptáció", "Ravensburger", "Labyrinth"]
+author: Szerkesztőség
+tags:
+  - Filmadaptáció
+  - Ravensburger
+  - Labyrinth
 imageSuggestion: "Hivatalos kiadói termékoldal dobozképekkel: https://www.ravensburger.de/de-DE/produkte/spiele/marke-labyrinth – javasolt forrásmegjelölés: Kép: Ravensburger. (A filmből hivatalos sajtókép egyelőre nem található; ha a Constantin Film kiad állóképet vagy plakátot, az is jó választás lehet.)"
 sources:
   - name: "Quotenmeter – «Das verrückte Labyrinth»: Dreharbeiten zur Brettspielverfilmung abgeschlossen"
-    url: "https://www.quotenmeter.de/n/177210/das-verrueckte-labyrinth-dreharbeiten-zur-brettspielverfilmung-abgeschlossen"
+    url: https://www.quotenmeter.de/n/177210/das-verrueckte-labyrinth-dreharbeiten-zur-brettspielverfilmung-abgeschlossen
   - name: "Wochenblatt – Ravensburg: „Das verrückte Labyrinth“ wird verfilmt"
-    url: "https://www.wochenblatt-news.de/region-ravensburg/ravensburg/das-verrueckte-labyrinth-kinofilm-zum-ravensburger-spieleklassiker-abgedreht/"
+    url: https://www.wochenblatt-news.de/region-ravensburg/ravensburg/das-verrueckte-labyrinth-kinofilm-zum-ravensburger-spieleklassiker-abgedreht/
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 19:02
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 A filmstúdiók társasjáték-láza Németországot is elérte: élőszereplős mozifilm készül a Ravensburger egyik legismertebb családi játékából, a **Das verrückte Labyrinth**-ből (nemzetközileg *Labyrinth*). A forgatás november 2-án ért véget, a film a tervek szerint **2028. január 20-án** kerül a német mozikba.
