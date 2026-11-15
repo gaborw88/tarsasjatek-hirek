@@ -20,8 +20,8 @@ tags:
 youtube: ""
 image: /images/uploads/pasted-image-1794258503992.png
 imageAlt: ""
-imageCredit: "Fotó: Unstable Games / Ordinary Magic"
-imageSuggestion: "A kiadó saját Gamefound-kampányképe: https://imgcdn.gamefound.com/og-image-fb/projects/11584/94235e0e-33ca-450d-8ed2-1c81aac54df2.jpg – javasolt forrásmegjelölés: Fotó: Unstable Games / Ordinary Magic"
+imageCredit: "Kép: Unstable Games / Ordinary Magic"
+imageSuggestion: "A kiadó saját Gamefound-kampányképe: https://imgcdn.gamefound.com/og-image-fb/projects/11584/94235e0e-33ca-450d-8ed2-1c81aac54df2.jpg – javasolt forrásmegjelölés: Kép: Unstable Games / Ordinary Magic"
 sources:
   - name: "Brettspiel-News.de – Ordinary Magic: Buchladen, Geisterhotel und Café knacken auf Gamefound die 700.000 Dollar"
     url: https://www.brettspiel-news.de/index.php/de/nachrichten-uebersicht/crowdfunding/16429-ordinary-magic-buchladen-geisterhotel-und-caf-knacken-auf-gamefound-die-700-000-dollar

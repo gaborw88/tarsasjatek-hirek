@@ -20,7 +20,7 @@ youtube: ""
 image: /images/uploads/AHR01_Article_First-Look_ComponentSpread_.webp
 imageAlt: ""
 imageCredit: ""
-imageSuggestion: "Hivatalos kép a kiadó kampány-aloldalán (Arkham Horror – Remastered Horror): https://www.fantasyflightgames.com/remastered-horror/ – javasolt forrásmegjelölés: Fotó: Fantasy Flight Games. Az oldalt most nem sikerült megnyitni, de a november 3-i cikkünkhöz már feltöltöttetek innen képet (/images/uploads/AHR01_Article_First-Look_ComponentSpread_.webp), az újra felhasználható."
+imageSuggestion: "Hivatalos kép a kiadó kampány-aloldalán (Arkham Horror – Remastered Horror): https://www.fantasyflightgames.com/remastered-horror/ – javasolt forrásmegjelölés: Kép: Fantasy Flight Games. Az oldalt most nem sikerült megnyitni, de a november 3-i cikkünkhöz már feltöltöttetek innen képet (/images/uploads/AHR01_Article_First-Look_ComponentSpread_.webp), az újra felhasználható."
 sources:
   - name: Tabletop Analytics – Kickstarter/Gamefound Top Grossing (Arkham Horror Remastered – Vault Series)
     url: https://www.tabletopanalytics.com/

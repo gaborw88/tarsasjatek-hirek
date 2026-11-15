@@ -13,8 +13,8 @@ tags:
 youtube: ""
 image: /images/uploads/pasted-image-1793918487478.png
 imageAlt: ""
-imageCredit: "Fotó: Devir"
-imageSuggestion: "Hivatalos sajtókép egyelőre nem található: a Devir honlapjain még nincs termékoldal, a bemutatott doboz pedig a kiadó szerint csak tervezet. Ha megjelenik a termékoldal vagy a sajtóanyag, onnan lehet dobozképet választani (Fotó: Devir), vagy kérj képet a kiadótól. Kép nélkül is rendben van."
+imageCredit: "Kép: Devir"
+imageSuggestion: "Hivatalos sajtókép egyelőre nem található: a Devir honlapjain még nincs termékoldal, a bemutatott doboz pedig a kiadó szerint csak tervezet. Ha megjelenik a termékoldal vagy a sajtóanyag, onnan lehet dobozképet választani (Kép: Devir), vagy kérj képet a kiadótól. Kép nélkül is rendben van."
 sources:
   - name: "Brettspiel-News.de – Von den Machern von Der Ringkrieg und Dune: Krieg um Arrakis"
     url: https://www.brettspiel-news.de/index.php/de/nachrichten-uebersicht/ankuendigungen/16357-von-den-machern-von-der-ringkrieg-und-dune-krieg-um-arrakis

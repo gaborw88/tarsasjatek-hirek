@@ -20,8 +20,8 @@ tags:
 youtube: ""
 image: /images/uploads/pasted-image-1794388870225.png
 imageAlt: ""
-imageCredit: "Fotó: Fantasy Flight Games"
-imageSuggestion: "Hivatalos dobozkép a kiadó (Asmodee) webáruházának termékoldaláról: https://store.asmodee.com/cdn/shop/files/AHC108EN-image0_2000.jpg?v=1793200096 – javasolt forrásmegjelölés: Fotó: Fantasy Flight Games. (A kép tartalmát nem láttam, feltöltés előtt érdemes megnézni.)"
+imageCredit: "Kép: Fantasy Flight Games"
+imageSuggestion: "Hivatalos dobozkép a kiadó (Asmodee) webáruházának termékoldaláról: https://store.asmodee.com/cdn/shop/files/AHC108EN-image0_2000.jpg?v=1793200096 – javasolt forrásmegjelölés: Kép: Fantasy Flight Games. (A kép tartalmát nem láttam, feltöltés előtt érdemes megnézni.)"
 sources:
   - name: "ICv2 – New 'Arkham Horror: The Card Game' Expansion Incoming"
     url: https://icv2.com/articles/news/view/63848/new-arkham-horror-the-card-game-expansion-incoming

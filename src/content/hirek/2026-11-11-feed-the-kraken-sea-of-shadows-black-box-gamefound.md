@@ -21,8 +21,8 @@ tags:
 youtube: ""
 image: /images/uploads/pasted-image-1794399652965.png
 imageAlt: ""
-imageCredit: "Fotó: Funtails"
-imageSuggestion: "Hivatalos termékkép (a meglévő Deluxe kiadás doboza, a kiadó termékoldaláról): https://funtails.de/wp-content/uploads/2022/04/FtK-Deluxe.jpg – javasolt forrásmegjelölés: Fotó: Funtails. Az új Black Box és Sea of Shadows dobozáról hivatalos letölthető kép még nincs a kiadó oldalán; érdemes lehet képet kérni a Funtailstől."
+imageCredit: "Kép: Funtails"
+imageSuggestion: "Hivatalos termékkép (a meglévő Deluxe kiadás doboza, a kiadó termékoldaláról): https://funtails.de/wp-content/uploads/2022/04/FtK-Deluxe.jpg – javasolt forrásmegjelölés: Kép: Funtails. Az új Black Box és Sea of Shadows dobozáról hivatalos letölthető kép még nincs a kiadó oldalán; érdemes lehet képet kérni a Funtailstől."
 sources:
   - name: "Backseat Gamer – Feed the Kraken: Sea of Shadows Sets Sail on Gamefound 10 Nov"
     url: https://www.backseatgamer.com/news/feed-the-kraken-sea-of-shadows-sets-sail-on-gamefound-10-nov

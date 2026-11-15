@@ -13,8 +13,8 @@ tags:
 youtube: ""
 image: /images/uploads/pasted-image-1794086298168.png
 imageAlt: ""
-imageCredit: "Fotó: Mojito Studios"
-imageSuggestion: "Hivatalos dobozkép a kiadó termékoldaláról: https://www.mojitostudios.com/assets/covers/bear-necessities.webp?v=1784025164 (termékoldal: https://mojitostudios.com/?code=bear-necessities&section=games) – javasolt forrásmegjelölés: Fotó: Mojito Studios"
+imageCredit: "Kép: Mojito Studios"
+imageSuggestion: "Hivatalos dobozkép a kiadó termékoldaláról: https://www.mojitostudios.com/assets/covers/bear-necessities.webp?v=1784025164 (termékoldal: https://mojitostudios.com/?code=bear-necessities&section=games) – javasolt forrásmegjelölés: Kép: Mojito Studios"
 sources:
   - name: "Gémklub – Új megjelenés: Bear Necessites (hírek)"
     url: https://www.gemklub.hu/hirek

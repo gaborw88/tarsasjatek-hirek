@@ -20,8 +20,8 @@ tags:
 youtube: ""
 image: /images/uploads/pasted-image-1794489357398.png
 imageAlt: ""
-imageCredit: "Fotó: The Dietz Foundation"
-imageSuggestion: "Hivatalos kép a kiadó termékoldaláról (valószínűleg a dobozborító): https://dietzfoundation.org/wp-content/uploads/2024/09/Graphic.jpg – javasolt forrásmegjelölés: Fotó: The Dietz Foundation. Termékoldal: https://dietzfoundation.org/product/chicago68/ (feltöltés előtt érdemes megnézni, hogy valóban a dobozkép-e)."
+imageCredit: "Kép: The Dietz Foundation"
+imageSuggestion: "Hivatalos kép a kiadó termékoldaláról (valószínűleg a dobozborító): https://dietzfoundation.org/wp-content/uploads/2024/09/Graphic.jpg – javasolt forrásmegjelölés: Kép: The Dietz Foundation. Termékoldal: https://dietzfoundation.org/product/chicago68/ (feltöltés előtt érdemes megnézni, hogy valóban a dobozkép-e)."
 sources:
   - name: BoardGameWire – Chicago '68 wins 2026 Summit Award, Dan Thurot's Space-Biff! takes Bobby Nunes Memorial prize
     url: https://boardgamewire.com/index.php/2026/11/11/chicago-68-wins-2026-summit-award-dan-thurots-space-biff-takes-bobby-nunes-memorial-prize/

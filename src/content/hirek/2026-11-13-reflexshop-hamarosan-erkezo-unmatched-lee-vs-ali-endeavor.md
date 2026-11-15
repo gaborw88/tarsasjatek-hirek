@@ -20,8 +20,8 @@ tags:
 youtube: ""
 image: /images/uploads/pasted-image-1794556382977.png
 imageAlt: ""
-imageCredit: "Fotó: Restoration Games"
-imageSuggestion: "Hivatalos dobozkép a kiadói termékoldalon: https://restorationgames.com/shop/unmatched-bruce-lee-vs-muhammad-ali/ – javasolt forrásmegjelölés: Fotó: Restoration Games (a doboz rajzolt illusztráció, nem fénykép). A Reflexshop termékoldalain még nincs kép; magyar dobozképet a Reflexshoptól lehet kérni."
+imageCredit: "Kép: Restoration Games"
+imageSuggestion: "Hivatalos dobozkép a kiadói termékoldalon: https://restorationgames.com/shop/unmatched-bruce-lee-vs-muhammad-ali/ – javasolt forrásmegjelölés: Kép: Restoration Games (a doboz rajzolt illusztráció, nem fénykép). A Reflexshop termékoldalain még nincs kép; magyar dobozképet a Reflexshoptól lehet kérni."
 sources:
   - name: Reflexshop – Hamarosan érkező társasjátékok
     url: https://reflexshop.hu/Tarsasjatekok/Hamarosan-erkezo

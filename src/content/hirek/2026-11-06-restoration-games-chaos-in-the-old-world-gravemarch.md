@@ -15,7 +15,7 @@ youtube: ""
 image: /images/uploads/pasted-image-1794084418303.png
 imageAlt: ""
 imageCredit: ""
-imageSuggestion: "Hivatalos sajtókép: https://restorationgames.com/wp-content/uploads/2026/11/Talisman-Day-Blog-Thumbnail.png (a Restoration Games sajtóközleményének saját illusztrációja) – javasolt forrásmegjelölés: Fotó: Restoration Games. Dobozkép még nincs, mert a játék csak 2027-ben kerül a közösségi finanszírozásra."
+imageSuggestion: "Hivatalos sajtókép: https://restorationgames.com/wp-content/uploads/2026/11/Talisman-Day-Blog-Thumbnail.png (a Restoration Games sajtóközleményének saját illusztrációja) – javasolt forrásmegjelölés: Kép: Restoration Games. Dobozkép még nincs, mert a játék csak 2027-ben kerül a közösségi finanszírozásra."
 sources:
   - name: Restoration Games – Restoration Games Partners with Games Workshop to Bring Back Three Classic Games (sajtóközlemény)
     url: https://restorationgames.com/restoration-games-partners-with-games-workshop/

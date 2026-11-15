@@ -13,7 +13,7 @@ tags:
 youtube: ""
 image: /images/uploads/pasted-image-1793751848031.png
 imageAlt: ""
-imageCredit: "Fotó: GAMA"
+imageCredit: "Kép: GAMA"
 imageSuggestion: "Hivatalos sajtóképet nem találtam: a GAMA Game Store Day-oldalán (https://www.gama.org/page/GSD) és a sajtóközleményben nincs letölthető kép vagy logó. Ha kell kép, a Game Store Day logóját a GAMA-tól lehet kérni (Media@GAMA.org) – kép nélkül is rendben van."
 sources:
   - name: GAMA – Game Store Day Returns November 7 to Celebrate Friendly Local Game Stores (sajtóközlemény, EIN Presswire)

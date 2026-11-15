@@ -13,7 +13,7 @@ youtube: ""
 image: /images/uploads/images.jpg
 imageAlt: ""
 imageCredit: www.fanthatracks.com
-imageSuggestion: "Hivatalos sajtóanyag: az Asmodee sajtóközleménye – https://mfn.se/all/a/asmodee/star-wars-unlimited-cleans-house-with-game-of-the-year-and-3-additional-awards-at-tcg-awards-gala. Ott díjátadós csoportkép van; ha embereket ábrázoló képet nem szeretnél, kérj az Asmodee-tól termékképet vagy a TCG Awards logóját. Javasolt forrásmegjelölés: Fotó: Asmodee"
+imageSuggestion: "Hivatalos sajtóanyag: az Asmodee sajtóközleménye – https://mfn.se/all/a/asmodee/star-wars-unlimited-cleans-house-with-game-of-the-year-and-3-additional-awards-at-tcg-awards-gala. Ott díjátadós csoportkép van; ha embereket ábrázoló képet nem szeretnél, kérj az Asmodee-tól termékképet vagy a TCG Awards logóját. Javasolt forrásmegjelölés: Kép: Asmodee"
 sources:
   - name: "Asmodee sajtóközlemény – Star Wars: Unlimited cleans house at TCG Awards"
     url: https://mfn.se/a/asmodee/star-wars-unlimited-cleans-house-with-game-of-the-year-and-3-additional-awards-at-tcg-awards-gala.iframe

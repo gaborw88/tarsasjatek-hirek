@@ -14,7 +14,7 @@ tags:
   - Megjelenések
   - Partijátékok
   - Kártyajátékok
-imageSuggestion: "Hivatalos termékoldal, a dobozkép innen kérhető/tölthető le: https://www.pokemon.co.jp/ex/omaroke/ – javasolt forrásmegjelölés: Fotó: The Pokémon Company. Figyelem: a japán sajtóközlemény szerint a termékfotók fejlesztés alatti állapotot mutatnak, és ezt felhasználáskor jelölni kell; a pontos képlinket a szerkesztő ellenőrizze. Ha bizonytalan, kép nélkül is rendben van."
+imageSuggestion: "Hivatalos termékoldal, a dobozkép innen kérhető/tölthető le: https://www.pokemon.co.jp/ex/omaroke/ – javasolt forrásmegjelölés: Kép: The Pokémon Company. Figyelem: a japán sajtóközlemény szerint a termékfotók fejlesztés alatti állapotot mutatnak, és ezt felhasználáskor jelölni kell; a pontos képlinket a szerkesztő ellenőrizze. Ha bizonytalan, kép nélkül is rendben van."
 sources:
   - name: Denfaminicogamer – 『ポケモン』新作ボドゲ「お前、もしかしてロケット団？」11月12日発売
     url: https://news.denfaminicogamer.jp/news/2610152g

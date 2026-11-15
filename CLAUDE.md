@@ -32,7 +32,8 @@ A tulajdonos nem programozó: vele mindig magyarul, egyszerűen, szakzsargon né
 - Képek: képet **soha ne tölts le, ne linkelj be és ne tegyél az `image` mezőbe** – azt mindig egy szerkesztő tölti fel, miután ellenőrizte a felhasználási jogot.
   Helyette, ha találsz **hivatalos, sajtó számára közzétett képet** (kiadói sajtócsomag / „press kit” / „sajtóanyag” oldal,
   sajtóközlemény melletti letölthető kép, kiadói termékoldal dobozképe), írd be a linkjét az `imageSuggestion` mezőbe így:
-  `imageSuggestion: "Hivatalos sajtókép: <link> – javasolt forrásmegjelölés: Fotó: <Kiadó neve>"`.
+  `imageSuggestion: "Hivatalos sajtókép: <link> – javasolt forrásmegjelölés: Kép: <Kiadó neve>"`.
+  A forrásmegjelölés **mindig „Kép:”** kezdetű (dobozképnél, logónál, fényképnél egyaránt), „Fotó:”-t ne használj.
   Elfogadható még: a kiadó saját crowdfunding-kampányoldalának képe (Kickstarter/Gamefound, a kiadó által feltöltve),
   és ha a hír egy cégről vagy szervezetről szól, a hivatalos logója a sajtó- vagy arculati oldaláról.
   Ne javasolj: hírportálok saját fotóit, BoardGameGeek-felhasználók képeit, közösségi médiás képeket, valódi személyekről készült fotókat.

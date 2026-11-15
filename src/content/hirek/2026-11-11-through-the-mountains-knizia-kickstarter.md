@@ -21,8 +21,8 @@ tags:
 youtube: ""
 image: /images/uploads/pasted-image-1794388679832.png
 imageAlt: ""
-imageCredit: "Fotó: Allplay"
-imageSuggestion: "Hivatalos sajtókép nem volt elérhető a kiadó honlapján (az Allplaynek nincs külön termékoldala a játékhoz). Elfogadható forrás a kiadó saját Kickstarter-kampányoldalának képe: https://www.kickstarter.com/projects/boardgametables/through-the-mountains-through-the-desert-deluxe-more – javasolt forrásmegjelölés: Fotó: Allplay. (Az oldalt nem tudtam megnyitni, a képet feltöltés előtt érdemes megnézni.)"
+imageCredit: "Kép: Allplay"
+imageSuggestion: "Hivatalos sajtókép nem volt elérhető a kiadó honlapján (az Allplaynek nincs külön termékoldala a játékhoz). Elfogadható forrás a kiadó saját Kickstarter-kampányoldalának képe: https://www.kickstarter.com/projects/boardgametables/through-the-mountains-through-the-desert-deluxe-more – javasolt forrásmegjelölés: Kép: Allplay. (Az oldalt nem tudtam megnyitni, a képet feltöltés előtt érdemes megnézni.)"
 sources:
   - name: "Brettspiel-News.de – Through the Mountains: Knizias Yak-Karawanen ziehen mit Kunstharz und Metall auf Kickstarter"
     url: https://www.brettspiel-news.de/index.php/de/nachrichten-uebersicht/crowdfunding/16430-through-the-mountains-knizias-yak-karawanen-ziehen-mit-kunstharz-und-metall-auf-kickstarter

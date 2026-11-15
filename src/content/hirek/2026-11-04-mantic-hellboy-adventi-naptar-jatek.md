@@ -13,8 +13,8 @@ tags:
 youtube: ""
 image: /images/uploads/pasted-image-1793918234768.png
 imageAlt: ""
-imageCredit: "Fotó: Mantic Games"
-imageSuggestion: "Hivatalos termékkép (dobozkép) a kiadó oldaláról: https://www.manticgames.com/wp-content/uploads/2026/08/hellboy-advent-calendar-box-500x500.webp – javasolt forrásmegjelölés: Fotó: Mantic Games. (A naptár tartalmáról is van kiadói kép: https://www.manticgames.com/wp-content/uploads/2026/08/hellboy-advent-calendar-contents-500x500.webp)"
+imageCredit: "Kép: Mantic Games"
+imageSuggestion: "Hivatalos termékkép (dobozkép) a kiadó oldaláról: https://www.manticgames.com/wp-content/uploads/2026/08/hellboy-advent-calendar-box-500x500.webp – javasolt forrásmegjelölés: Kép: Mantic Games. (A naptár tartalmáról is van kiadói kép: https://www.manticgames.com/wp-content/uploads/2026/08/hellboy-advent-calendar-contents-500x500.webp)"
 sources:
   - name: ICv2 – Celebrate Krampusnacht with 'Hellboy Advent Calendar Game'
     url: https://icv2.com/articles/news/view/63797/celebrate-krampusnacht-hellboy-advent-calendar-game

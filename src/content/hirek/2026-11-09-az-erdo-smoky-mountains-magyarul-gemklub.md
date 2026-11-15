@@ -19,8 +19,8 @@ tags:
 youtube: ""
 image: /images/uploads/pasted-image-1794211724857.png
 imageAlt: ""
-imageCredit: "Fotó: Gémklub"
-imageSuggestion: "Hivatalos dobozkép az eredeti kiadó, a Lookout Games termékoldaláról: https://www.lookout-spiele.de/upload/en_smoky.html_CoverImage.jpg (termékoldal: https://www.lookout-spiele.de/en/games/smoky.html) – javasolt forrásmegjelölés: Fotó: Lookout Games. A magyar kiadás dobozképe a Gémklub termékoldalán érhető el (https://www.gemklub.hu/az-erdo-smoky-mountains-15649), ezt a futás során nem tudtam megnyitni, érdemes kézzel megnézni."
+imageCredit: "Kép: Gémklub"
+imageSuggestion: "Hivatalos dobozkép az eredeti kiadó, a Lookout Games termékoldaláról: https://www.lookout-spiele.de/upload/en_smoky.html_CoverImage.jpg (termékoldal: https://www.lookout-spiele.de/en/games/smoky.html) – javasolt forrásmegjelölés: Kép: Lookout Games. A magyar kiadás dobozképe a Gémklub termékoldalán érhető el (https://www.gemklub.hu/az-erdo-smoky-mountains-15649), ezt a futás során nem tudtam megnyitni, érdemes kézzel megnézni."
 sources:
   - name: Gémklub – főoldal, „Frissen érkezett” rovat (Az erdő – Smoky Mountains)
     url: https://www.gemklub.hu/

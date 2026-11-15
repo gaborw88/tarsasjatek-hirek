@@ -13,7 +13,7 @@ tags:
   - Gamefound
   - Ludus Magnus Studio
   - The Breach
-imageSuggestion: "A kiadó saját Gamefound-kampányoldalának képe: https://imgcdn.gamefound.com/og-image-fb/projects/9795/91e5e329-68bf-4bdb-9155-f935b9e48401.jpg – javasolt forrásmegjelölés: Fotó: Ludus Magnus Studio. (A kiadó játékoldalán dobozképek is vannak: https://ludusmagnusstudio.com/the-breach/)"
+imageSuggestion: "A kiadó saját Gamefound-kampányoldalának képe: https://imgcdn.gamefound.com/og-image-fb/projects/9795/91e5e329-68bf-4bdb-9155-f935b9e48401.jpg – javasolt forrásmegjelölés: Kép: Ludus Magnus Studio. (A kiadó játékoldalán dobozképek is vannak: https://ludusmagnusstudio.com/the-breach/)"
 sources:
   - name: "Gamefound – The Breach: Reprint & Hellcore expansion (Ludus Magnus Studio), Hellcore // Story Mode"
     url: https://gamefound.com/en/projects/lms/thebreach-reprint-hellcoreexpansion/updates/3

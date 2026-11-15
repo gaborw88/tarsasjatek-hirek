@@ -14,7 +14,7 @@ tags:
   - Catan
   - Hasbro
   - Asmodee
-imageSuggestion: "Hivatalos dobozkép a CATAN termékoldalán (CATAN – On the Road): https://www.catan.com/sites/default/files/2026-01/OnTheRoad%20Box_sm.png – javasolt forrásmegjelölés: Fotó: CATAN GmbH / CATAN Studio. (Termékoldal: https://www.catan.com/catan-road) Alternatíva: a díj hivatalos logója a Toy Association sajtóközleményéből: https://www.toyassociation.org/images/websites/logos/TOTY27_Logo_B2B.png – Fotó: The Toy Foundation."
+imageSuggestion: "Hivatalos dobozkép a CATAN termékoldalán (CATAN – On the Road): https://www.catan.com/sites/default/files/2026-01/OnTheRoad%20Box_sm.png – javasolt forrásmegjelölés: Kép: CATAN GmbH / CATAN Studio. (Termékoldal: https://www.catan.com/catan-road) Alternatíva: a díj hivatalos logója a Toy Association sajtóközleményéből: https://www.toyassociation.org/images/websites/logos/TOTY27_Logo_B2B.png – Kép: The Toy Foundation."
 sources:
   - name: The Toy Association – 2027 Toy of the Year Finalists Unveiled
     url: https://www.toyassociation.org/PressRoom2/News/2026-News/2027-toy-of-the-year-finalists-unveiled.aspx

@@ -19,7 +19,7 @@ tags:
 youtube: ""
 image: /images/uploads/pasted-image-1794348530135.png
 imageAlt: ""
-imageCredit: "Fotó: Dice Throne Inc."
+imageCredit: "Kép: Dice Throne Inc."
 imageSuggestion: Üzleti (forgalmazási) hír, hivatalos sajtókép nincs hozzá – a Dice Throne-nak nem találtam nyilvános sajtócsomag-oldalt. Kép nélkül is rendben van; ha mégis kellene, a Dice Throne logóját vagy egy dobozképet érdemes a kiadótól kérni.
 sources:
   - name: BoardGameWire – Dice Throne deepens Asmodee ties with three European deals covering publishing, retail distribution, online sales

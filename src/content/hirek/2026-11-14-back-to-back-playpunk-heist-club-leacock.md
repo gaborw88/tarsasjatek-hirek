@@ -21,7 +21,7 @@ youtube: ""
 image: /images/uploads/pasted-image-1794754960142.png
 imageAlt: ""
 imageCredit: "Kép: PlayPunk"
-imageSuggestion: "A PlayPunk honlapját (playpunk.com) ebben a futásban nem sikerült megnyitni, ezért hivatalos dobozképet nem találtam. Javaslat: nézd meg a kiadó oldalán a Back To Back termékoldalát vagy sajtóanyagát (javasolt forrásmegjelölés: Fotó: PlayPunk), vagy kérj képet a kiadótól. A Heist Clubról még nincs kép."
+imageSuggestion: "A PlayPunk honlapját (playpunk.com) ebben a futásban nem sikerült megnyitni, ezért hivatalos dobozképet nem találtam. Javaslat: nézd meg a kiadó oldalán a Back To Back termékoldalát vagy sajtóanyagát (javasolt forrásmegjelölés: Kép: PlayPunk), vagy kérj képet a kiadótól. A Heist Clubról még nincs kép."
 sources:
   - name: Board Game Beat (W. Eric Martin) – Party in the Back To Back
     url: https://www.wericmartin.com/party-in-the-back-to-back/

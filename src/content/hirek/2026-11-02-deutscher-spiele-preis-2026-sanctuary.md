@@ -14,8 +14,8 @@ tags:
 youtube: ""
 image: /images/uploads/pasted-image-1793751813610.png
 imageAlt: ""
-imageCredit: "Fotó: Capstone Games"
-imageSuggestion: "Hivatalos dobozkép a kiadó termékoldalán: https://capstone-games.com/board-games/sanctuary/ (angol kiadás; a német eredeti a Feuerland Spiele oldalán) – javasolt forrásmegjelölés: Fotó: Feuerland Spiele / Capstone Games"
+imageCredit: "Kép: Capstone Games"
+imageSuggestion: "Hivatalos dobozkép a kiadó termékoldalán: https://capstone-games.com/board-games/sanctuary/ (angol kiadás; a német eredeti a Feuerland Spiele oldalán) – javasolt forrásmegjelölés: Kép: Feuerland Spiele / Capstone Games"
 sources:
   - name: "BoardGameWire – Two games, two Deutscher Spiele Preis wins: Ark Nova designer Mathias Wigge takes second title with Sanctuary"
     url: https://boardgamewire.com/index.php/2026/10/27/two-games-two-deutscher-spiele-preis-wins-ark-nova-designer-mathias-wigge-takes-second-title-with-sanctuary/

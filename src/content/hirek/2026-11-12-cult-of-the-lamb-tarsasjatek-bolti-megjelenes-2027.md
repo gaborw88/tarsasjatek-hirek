@@ -20,8 +20,8 @@ tags:
 youtube: ""
 image: /images/uploads/pasted-image-1794497946858.png
 imageAlt: ""
-imageCredit: "Fotó: Paper Fort Games"
-imageSuggestion: "A kiadó saját Kickstarter-kampányoldalán vannak hivatalos képek (dobozkép, látványképek): https://www.kickstarter.com/projects/paperfortgames/cult-of-the-lamb-the-board-game – javasolt forrásmegjelölés: Fotó: Paper Fort Games. A kampányoldal most nem nyílt meg, ezért közvetlen képlinket nem tudtam ellenőrizni; feltöltés előtt nézd meg az oldalt."
+imageCredit: "Kép: Paper Fort Games"
+imageSuggestion: "A kiadó saját Kickstarter-kampányoldalán vannak hivatalos képek (dobozkép, látványképek): https://www.kickstarter.com/projects/paperfortgames/cult-of-the-lamb-the-board-game – javasolt forrásmegjelölés: Kép: Paper Fort Games. A kampányoldal most nem nyílt meg, ezért közvetlen képlinket nem tudtam ellenőrizni; feltöltés előtt nézd meg az oldalt."
 sources:
   - name: "ICv2 – Paper Fort Games Will Release 'The Cult of the Lamb: The Board Game'"
     url: https://icv2.com/articles/news/view/63859/paper-fort-games-will-release-the-cult-lamb-the-board-game

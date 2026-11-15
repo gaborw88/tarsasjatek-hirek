@@ -20,8 +20,8 @@ tags:
 youtube: ""
 image: /images/uploads/pasted-image-1794258612843.png
 imageAlt: ""
-imageCredit: "Fotó: Wizards of the Coast"
-imageSuggestion: "Hivatalos sajtókép a Wizards of the Coast bejelentéséből: https://images.ctfassets.net/s5n2t79q9icq/72jGcT27tOO9EbDMcIXqYW/f146b47fea73e091dc871cbfe64792b2/SL_Star_Trek_1920x1080.webp – javasolt forrásmegjelölés: Fotó: Wizards of the Coast"
+imageCredit: "Kép: Wizards of the Coast"
+imageSuggestion: "Hivatalos sajtókép a Wizards of the Coast bejelentéséből: https://images.ctfassets.net/s5n2t79q9icq/72jGcT27tOO9EbDMcIXqYW/f146b47fea73e091dc871cbfe64792b2/SL_Star_Trek_1920x1080.webp – javasolt forrásmegjelölés: Kép: Wizards of the Coast"
 sources:
   - name: "Magic: The Gathering – Secret Lair: Set Phasers to Superdrop"
     url: https://magic.wizards.com/en/news/announcements/secret-lair-set-phasers-to-superdrop

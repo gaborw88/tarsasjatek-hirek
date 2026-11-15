@@ -11,8 +11,8 @@ tags:
 youtube: ""
 image: /images/uploads/SPIEL_Essen_2026_hall_3_large.jpg
 imageAlt: ""
-imageCredit: "Fotó: Spiel Essen / Lars Heidrich"
-imageSuggestion: "Hivatalos sajtókép: a SPIEL szervezőjének sajtó-képtára – https://www.spielwarenmesse-eg.de/media (a SPIEL Essen kategória). A sajtóközlemények szerint a képek sajtócélra szabadon használhatók. Válassz egy csarnokképet emberek közeli arca nélkül. Javasolt forrásmegjelölés: Fotó: SPIEL Essen / <a képnél megadott fotós neve>"
+imageCredit: "Kép: Spiel Essen / Lars Heidrich"
+imageSuggestion: "Hivatalos sajtókép: a SPIEL szervezőjének sajtó-képtára – https://www.spielwarenmesse-eg.de/media (a SPIEL Essen kategória). A sajtóközlemények szerint a képek sajtócélra szabadon használhatók. Válassz egy csarnokképet emberek közeli arca nélkül. Javasolt forrásmegjelölés: Kép: SPIEL Essen / <a képnél megadott fotós neve>"
 sources:
   - name: ICv2 – SPIEL Essen attendance record
     url: https://icv2.com/articles/news/view/63726/

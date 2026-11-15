@@ -23,7 +23,7 @@ const hirek = defineCollection({
     tags: z.array(z.string()).default([]),
     image: z.string().optional(),
     imageAlt: z.string().optional(),
-    // A kép forrása / szerzői joga, pl. "Fotó: Gémklub sajtóanyag"
+    // A kép forrása / szerzői joga, pl. "Kép: Gémklub sajtóanyag"
     // YouTube-videó linkje: beágyazva jelenik meg a cikk tetején
     youtube: z.string().optional(),
     imageCredit: z.string().optional(),

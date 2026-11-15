@@ -21,8 +21,8 @@ tags:
 youtube: ""
 image: /images/uploads/pasted-image-1794306315962.png
 imageAlt: ""
-imageCredit: "Fotó: Catan Studio / Catan GmbH"
-imageSuggestion: "Filmes hír, a filmhez még nincs hivatalos kép. Kiadói dobozkép a Catan alapjátékról a Catan Studio hivatalos webáruházában: https://catanshop.com/catan-6th-edition-base-game – javasolt forrásmegjelölés: Fotó: Catan Studio / Catan GmbH. (A kép felhasználásáról érdemes rákérdezni, vagy a Catan logója is jó lehet; kép nélkül is rendben van.)"
+imageCredit: "Kép: Catan Studio / Catan GmbH"
+imageSuggestion: "Filmes hír, a filmhez még nincs hivatalos kép. Kiadói dobozkép a Catan alapjátékról a Catan Studio hivatalos webáruházában: https://catanshop.com/catan-6th-edition-base-game – javasolt forrásmegjelölés: Kép: Catan Studio / Catan GmbH. (A kép felhasználásáról érdemes rákérdezni, vagy a Catan logója is jó lehet; kép nélkül is rendben van.)"
 sources:
   - name: Dark Horizons – Nee Brothers To Direct The "Catan" Film (Deadline nyomán)
     url: https://www.darkhorizons.com/nee-brothers-to-direct-the-catan-film/

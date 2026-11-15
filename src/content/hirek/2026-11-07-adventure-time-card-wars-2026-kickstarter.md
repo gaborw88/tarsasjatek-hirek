@@ -21,7 +21,7 @@ youtube: ""
 image: /images/uploads/pasted-image-1794162377234.png
 imageAlt: ""
 imageCredit: ""
-imageSuggestion: "Hivatalos sajtókép: https://cdn.shopify.com/s/files/1/0464/6961/1676/files/ATCW2026_KS_CampaignImage.jpg – javasolt forrásmegjelölés: Fotó: Cryptozoic Entertainment"
+imageSuggestion: "Hivatalos sajtókép: https://cdn.shopify.com/s/files/1/0464/6961/1676/files/ATCW2026_KS_CampaignImage.jpg – javasolt forrásmegjelölés: Kép: Cryptozoic Entertainment"
 sources:
   - name: Cryptozoic Entertainment – Adventure Time Card Wars 2026 – Press Release
     url: https://cryptozoic.com/blogs/articles/adventure-time-card-wars-2026-press-release

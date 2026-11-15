@@ -12,8 +12,8 @@ tags:
 youtube: ""
 image: /images/uploads/pasted-image-1794117719391.png
 imageAlt: ""
-imageCredit: "Fotó: The Strong National Museum of Play"
-imageSuggestion: "A The Strong múzeum sajtóközleményéhez tartozó kép a négy új tagról: https://www.museumofplay.org/app/uploads/2026/11/NTHOF-Inductees-26-1024x494.jpg – javasolt forrásmegjelölés: Fotó: The Strong National Museum of Play. (Ez a közlemény megosztási képe, külön sajtókép-letöltés nincs; ha bizonytalan, kép nélkül is rendben van, vagy kérj képet a múzeumtól.)"
+imageCredit: "Kép: The Strong National Museum of Play"
+imageSuggestion: "A The Strong múzeum sajtóközleményéhez tartozó kép a négy új tagról: https://www.museumofplay.org/app/uploads/2026/11/NTHOF-Inductees-26-1024x494.jpg – javasolt forrásmegjelölés: Kép: The Strong National Museum of Play. (Ez a közlemény megosztási képe, külön sajtókép-letöltés nincs; ha bizonytalan, kép nélkül is rendben van, vagy kérj képet a múzeumtól.)"
 sources:
   - name: The Strong National Museum of Play – 2026 National Toy Hall of Fame Inductees Announced Today
     url: https://www.museumofplay.org/press-release/2026-national-toy-hall-of-fame-inductees-announced-today-bingo-care-bears-the-pokemon-trading-card-game-and-slide/

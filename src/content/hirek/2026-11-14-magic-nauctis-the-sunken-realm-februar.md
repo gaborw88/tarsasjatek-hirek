@@ -14,7 +14,7 @@ tags:
   - Gyűjtögetős kártyajátékok
 youtube: ""
 image: ""
-imageSuggestion: "Hivatalos kép a Wizards of the Coast termékoldaláról (Nauctis közösségi megosztóképe): https://images.ctfassets.net/s5n2t79q9icq/7I37SdALd7G1xzh8UD8wA2/82d96df4ec215fc0171ca6e5d083bede/Meta_Image1200x630-v2.jpg – javasolt forrásmegjelölés: Fotó: Wizards of the Coast (a kiadó szerint digitális látványterv, nem valódi kártya). Termékoldal: https://magic.wizards.com/fr/products/nauctis-the-sunken-realm"
+imageSuggestion: "Hivatalos kép a Wizards of the Coast termékoldaláról (Nauctis közösségi megosztóképe): https://images.ctfassets.net/s5n2t79q9icq/7I37SdALd7G1xzh8UD8wA2/82d96df4ec215fc0171ca6e5d083bede/Meta_Image1200x630-v2.jpg – javasolt forrásmegjelölés: Kép: Wizards of the Coast (a kiadó szerint digitális látványterv, nem valódi kártya). Termékoldal: https://magic.wizards.com/fr/products/nauctis-the-sunken-realm"
 sources:
   - name: "Magic: The Gathering – Nauctis: The Sunken Realm (hivatalos termékoldal)"
     url: https://magic.wizards.com/fr/products/nauctis-the-sunken-realm

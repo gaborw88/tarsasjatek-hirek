@@ -21,8 +21,8 @@ tags:
 youtube: ""
 image: /images/uploads/pasted-image-1794400673790.png
 imageAlt: ""
-imageCredit: "Fotó: Tycoon Games"
-imageSuggestion: "Hivatalos dobozkép a kiadó termékoldaláról: https://tycoongames.com/cdn/shop/files/FableQuest-DELUXEBox.jpg?v=1793978430 – javasolt forrásmegjelölés: Fotó: Tycoon Games"
+imageCredit: "Kép: Tycoon Games"
+imageSuggestion: "Hivatalos dobozkép a kiadó termékoldaláról: https://tycoongames.com/cdn/shop/files/FableQuest-DELUXEBox.jpg?v=1793978430 – javasolt forrásmegjelölés: Kép: Tycoon Games"
 sources:
   - name: ICv2 – 'Fable Quest' Coming Soon to Gamefound
     url: https://icv2.com/articles/news/view/63496/fable-quest-coming-soon-gamefound

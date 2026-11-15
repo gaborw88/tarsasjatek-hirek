@@ -12,8 +12,8 @@ tags:
 youtube: ""
 image: /images/uploads/pasted-image-1793780546640.png
 imageAlt: ""
-imageCredit: "Fotó: SPIEL Essen"
-imageSuggestion: "Hivatalos sajtókép: a SPIEL szervezőjének sajtó-képtára – https://www.spielwarenmesse-eg.de/media (SPIEL Essen kategória), vagy a vásár sajtóoldala: https://spiel-essen.de/en/press. Egy általános csarnokkép vagy a SPIEL logója illik a hírhez (felismerhető arcok nélkül). Javasolt forrásmegjelölés: Fotó: SPIEL Essen. Kép nélkül is rendben van."
+imageCredit: "Kép: SPIEL Essen"
+imageSuggestion: "Hivatalos sajtókép: a SPIEL szervezőjének sajtó-képtára – https://www.spielwarenmesse-eg.de/media (SPIEL Essen kategória), vagy a vásár sajtóoldala: https://spiel-essen.de/en/press. Egy általános csarnokkép vagy a SPIEL logója illik a hírhez (felismerhető arcok nélkül). Javasolt forrásmegjelölés: Kép: SPIEL Essen. Kép nélkül is rendben van."
 sources:
   - name: BoardGameWire – SPIEL Essen defends security measures after six thefts during setup and dismantling, including €14,000 publisher loss
     url: https://boardgamewire.com/index.php/2026/11/03/spiel-essen-defends-security-measures-after-six-thefts-during-setup-and-dismantling-including-e14000-publisher-loss/

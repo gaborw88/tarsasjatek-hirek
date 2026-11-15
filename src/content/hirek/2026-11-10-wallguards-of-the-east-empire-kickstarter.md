@@ -20,8 +20,8 @@ tags:
 youtube: ""
 image: /images/uploads/pasted-image-1794315885682.png
 imageAlt: ""
-imageCredit: "Fotó: Garphill Games"
-imageSuggestion: "Hivatalos sajtókép (a kiadó bejelentő bejegyzésének fejléce): https://www.garphill.com/cdn/shop/articles/Wallguards_News_59b90d18-1aa6-495b-ac1d-a1409b07a950.jpg?v=1789510170&width=3840 – javasolt forrásmegjelölés: Fotó: Garphill Games. (A kép tartalmát nem láttam, feltöltés előtt érdemes megnézni.)"
+imageCredit: "Kép: Garphill Games"
+imageSuggestion: "Hivatalos sajtókép (a kiadó bejelentő bejegyzésének fejléce): https://www.garphill.com/cdn/shop/articles/Wallguards_News_59b90d18-1aa6-495b-ac1d-a1409b07a950.jpg?v=1789510170&width=3840 – javasolt forrásmegjelölés: Kép: Garphill Games. (A kép tartalmát nem láttam, feltöltés előtt érdemes megnézni.)"
 sources:
   - name: Garphill Games – Announcing Wallguards of the East Empire!
     url: https://www.garphill.com/blogs/news/announcing-wallguards-of-the-east-empire

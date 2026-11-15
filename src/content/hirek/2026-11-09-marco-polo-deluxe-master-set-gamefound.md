@@ -20,8 +20,8 @@ tags:
 youtube: ""
 image: /images/uploads/pasted-image-1794258461054.png
 imageAlt: ""
-imageCredit: "Fotó: Board&Dice"
-imageSuggestion: "Hivatalos dobozkép a kiadó termékoldaláról: https://boardanddice.com/wp-content/uploads/2026/03/marco-polo-box.webp – javasolt forrásmegjelölés: Fotó: Board&Dice"
+imageCredit: "Kép: Board&Dice"
+imageSuggestion: "Hivatalos dobozkép a kiadó termékoldaláról: https://boardanddice.com/wp-content/uploads/2026/03/marco-polo-box.webp – javasolt forrásmegjelölés: Kép: Board&Dice"
 sources:
   - name: Board&Dice – Marco Polo Deluxe Master Set
     url: https://boardanddice.com/marco-polo-deluxe-master-set/

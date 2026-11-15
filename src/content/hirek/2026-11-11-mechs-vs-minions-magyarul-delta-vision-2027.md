@@ -21,8 +21,8 @@ tags:
 youtube: ""
 image: /images/uploads/pasted-image-1794434971454.png
 imageAlt: ""
-imageCredit: "Fotó: Incredible Dream / Riot Games"
-imageSuggestion: "Hivatalos dobozkép a kiadó (Incredible Dream) termékoldaláról – Classic Edition: https://kinfirechronicles.com/cdn/shop/files/lp-product-item2.png?v=3536943721551425404 , Bandle City Edition: https://kinfirechronicles.com/cdn/shop/files/lp-product-item1.png?v=13603125988620027419 (oldal: https://kinfirechronicles.com/pages/playmvm) – javasolt forrásmegjelölés: Fotó: Incredible Dream / Riot Games"
+imageCredit: "Kép: Incredible Dream / Riot Games"
+imageSuggestion: "Hivatalos dobozkép a kiadó (Incredible Dream) termékoldaláról – Classic Edition: https://kinfirechronicles.com/cdn/shop/files/lp-product-item2.png?v=3536943721551425404 , Bandle City Edition: https://kinfirechronicles.com/cdn/shop/files/lp-product-item1.png?v=13603125988620027419 (oldal: https://kinfirechronicles.com/pages/playmvm) – javasolt forrásmegjelölés: Kép: Incredible Dream / Riot Games"
 sources:
   - name: ICv2 – 'Mechs vs. Minions' Distribution and Publishing Partners Unveiled
     url: https://icv2.com/articles/news/view/63680/mechs-vs-minions-distribution-publishing-partners-unveiled

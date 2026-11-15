@@ -13,8 +13,8 @@ tags:
 youtube: ""
 image: /images/uploads/ODLO06EN-image0_2000_720x.jpg
 imageAlt: ""
-imageCredit: "Fotó: Asmodee / Office Dog"
-imageSuggestion: "Hivatalos dobozkép (The Return of the King – Trick-Taking Game) a kiadói termékoldalon: https://store.asmodee.com/products/the-return-of-the-king-the-trick-taking-game – javasolt forrásmegjelölés: Fotó: Asmodee / Office Dog"
+imageCredit: "Kép: Asmodee / Office Dog"
+imageSuggestion: "Hivatalos dobozkép (The Return of the King – Trick-Taking Game) a kiadói termékoldalon: https://store.asmodee.com/products/the-return-of-the-king-the-trick-taking-game – javasolt forrásmegjelölés: Kép: Asmodee / Office Dog"
 sources:
   - name: "Gémklub – Új megjelenés: Fantasy Tiles"
     url: https://www.gemklub.hu/hirek/uj-megjelenes-fantasy-tiles-2885

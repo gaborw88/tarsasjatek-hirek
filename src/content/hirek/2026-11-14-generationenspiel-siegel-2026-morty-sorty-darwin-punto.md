@@ -20,8 +20,8 @@ tags:
 youtube: ""
 image: /images/uploads/pasted-image-1794758136132.png
 imageAlt: ""
-imageCredit: "Fotó: Schmidt Spiele"
-imageSuggestion: "Hivatalos dobozkép a Schmidt Spiele termékoldalán (Morty Sorty Magic Shop): https://www.schmidtspiele.de/assets/images/e/49468_Morty_Sorty_Magic_Shop_Hexen_Zauberer_nominiert_Spiel_des_Jahres_Familienspiel_72ppi_A_Packshot-7bazb1na6qszmah.jpg – javasolt forrásmegjelölés: Fotó: Schmidt Spiele. (Termékoldal: https://www.schmidtspiele.de/detail/product/morty-sorty-magic-shop.html)"
+imageCredit: "Kép: Schmidt Spiele"
+imageSuggestion: "Hivatalos dobozkép a Schmidt Spiele termékoldalán (Morty Sorty Magic Shop): https://www.schmidtspiele.de/assets/images/e/49468_Morty_Sorty_Magic_Shop_Hexen_Zauberer_nominiert_Spiel_des_Jahres_Familienspiel_72ppi_A_Packshot-7bazb1na6qszmah.jpg – javasolt forrásmegjelölés: Kép: Schmidt Spiele. (Termékoldal: https://www.schmidtspiele.de/detail/product/morty-sorty-magic-shop.html)"
 sources:
   - name: "Spielecafé der Generationen – Generationenspiel-Siegel 2026: Drei neue Siegelspiele"
     url: https://www.jungundaltspielt.de/generationenspiel-siegel-2026-drei-neue-siegelspiele-viele-begegnungen-und-ein-besonderer-abend-auf-der-spielwiesn/

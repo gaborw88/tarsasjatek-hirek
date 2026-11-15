@@ -20,8 +20,8 @@ tags:
 youtube: ''
 image: /images/uploads/pasted-image-1794211504206.png
 imageAlt: ''
-imageCredit: 'Fotó: Gémklub'
-imageSuggestion: 'Hivatalos dobozkép a magyar kiadó termékoldaláról: https://gemklub.cdn.shoprenter.hu/custom/gemklub/image/cache/w2062h1080q100/product/P19643_1.jpg?lastmod=1791817517.1788504975 (termékoldal: https://www.gemklub.hu/robbano-cicak-a-tarsasjatek-16357) – javasolt forrásmegjelölés: Fotó: Gémklub. Alternatíva, az eredeti kiadó termékoldaláról: https://www.explodingkittens.com/cdn/shop/files/01EKG-BG-COREAngled2026GOTY1400px_1_1400x.png?v=1771437648 – Fotó: Exploding Kittens'
+imageCredit: 'Kép: Gémklub'
+imageSuggestion: 'Hivatalos dobozkép a magyar kiadó termékoldaláról: https://gemklub.cdn.shoprenter.hu/custom/gemklub/image/cache/w2062h1080q100/product/P19643_1.jpg?lastmod=1791817517.1788504975 (termékoldal: https://www.gemklub.hu/robbano-cicak-a-tarsasjatek-16357) – javasolt forrásmegjelölés: Kép: Gémklub. Alternatíva, az eredeti kiadó termékoldaláról: https://www.explodingkittens.com/cdn/shop/files/01EKG-BG-COREAngled2026GOTY1400px_1_1400x.png?v=1771437648 – Kép: Exploding Kittens'
 sources:
   - name: Gémklub – Robbanó cicák – A társasjáték (termékoldal)
     url: https://www.gemklub.hu/robbano-cicak-a-tarsasjatek-16357

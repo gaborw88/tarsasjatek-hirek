@@ -21,8 +21,8 @@ tags:
 youtube: ""
 image: /images/uploads/pasted-image-1794733673340.png
 imageAlt: ""
-imageCredit: "Fotó: Office Dog Games / Asmodee"
-imageSuggestion: "Hivatalos kiadói kép: az Office Dog bejelentésének képei (dobozkép és játékelemek) – https://www.officedoggames.com/announcements/announcing-schadenfreude/ – javasolt forrásmegjelölés: Fotó: Office Dog Games / Asmodee"
+imageCredit: "Kép: Office Dog Games / Asmodee"
+imageSuggestion: "Hivatalos kiadói kép: az Office Dog bejelentésének képei (dobozkép és játékelemek) – https://www.officedoggames.com/announcements/announcing-schadenfreude/ – javasolt forrásmegjelölés: Kép: Office Dog Games / Asmodee"
 sources:
   - name: Brettspiel-News.de – Warum ist dieses Stichspiel aus dem Jahr 2020 gerade auf Platz 1 der BGG Hotness?
     url: https://www.brettspiel-news.de/index.php/de/nachrichten-uebersicht/neuerscheinungen/16433-warum-ist-dieses-stichspiel-aus-dem-jahr-2020-gerade-auf-platz-1-der-bgg-hotness

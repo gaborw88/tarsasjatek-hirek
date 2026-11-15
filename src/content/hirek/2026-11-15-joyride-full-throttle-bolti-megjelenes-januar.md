@@ -12,7 +12,7 @@ tags:
   - Megjelenések
   - Rebellion Unplugged
   - Joyride
-imageSuggestion: "A kiadó saját Gamefound-kampányoldalának képe: https://imgcdn.gamefound.com/og-image-fb/projects/6102/3f3dd5be-ca68-4b5e-8f7d-0fc228da466a.jpg – javasolt forrásmegjelölés: Fotó: Rebellion Unplugged. (Kampányoldal: https://gamefound.com/en/projects/rebellionunplugged/joyride-full-throttle/updates/23)"
+imageSuggestion: "A kiadó saját Gamefound-kampányoldalának képe: https://imgcdn.gamefound.com/og-image-fb/projects/6102/3f3dd5be-ca68-4b5e-8f7d-0fc228da466a.jpg – javasolt forrásmegjelölés: Kép: Rebellion Unplugged. (Kampányoldal: https://gamefound.com/en/projects/rebellionunplugged/joyride-full-throttle/updates/23)"
 sources:
   - name: "ICv2 – Rebellion Unplugged Will Release 'Joyride: Full Throttle'"
     url: https://icv2.com/articles/news/view/63847/rebellion-unplugged-will-release-joyride-full-throttle

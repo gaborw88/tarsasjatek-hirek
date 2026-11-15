@@ -21,8 +21,8 @@ tags:
 youtube: ""
 image: /images/uploads/pasted-image-1794315698475.png
 imageAlt: ""
-imageCredit: "Fotó: Maestro Media / Supercell"
-imageSuggestion: "A kiadó saját Kickstarter-kampányoldalának képei (a Maestro Media töltötte fel): https://www.kickstarter.com/projects/maestromedia/clash-royale-the-grand-arena – javasolt forrásmegjelölés: Fotó: Maestro Media / Supercell. (A kampányoldalt nem tudtam megnyitni, a képet feltöltés előtt érdemes ott kiválasztani.)"
+imageCredit: "Kép: Maestro Media / Supercell"
+imageSuggestion: "A kiadó saját Kickstarter-kampányoldalának képei (a Maestro Media töltötte fel): https://www.kickstarter.com/projects/maestromedia/clash-royale-the-grand-arena – javasolt forrásmegjelölés: Kép: Maestro Media / Supercell. (A kampányoldalt nem tudtam megnyitni, a képet feltöltés előtt érdemes ott kiválasztani.)"
 sources:
   - name: Pocket Gamer.biz – Clash Royale tabletop game surpasses $100,000 on Kickstarter after reaching target in one hour
     url: https://www.pocketgamer.biz/clash-royale-tabletop-game-surpasses-100000-on-kickstarter-after-reaching-target-in-one-hour/

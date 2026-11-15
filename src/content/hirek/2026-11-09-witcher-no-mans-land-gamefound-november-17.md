@@ -21,8 +21,8 @@ tags:
 youtube: ""
 image: /images/uploads/1000031337.jpg
 imageAlt: ""
-imageCredit: "Fotó: Monster Fight Club"
-imageSuggestion: "A kiadó saját előkampány-oldalán (a Monster Fight Club hivatalos regisztrációs linkje ide visz: https://launchoracle.com/monster-fight-club/witcher/8W4E8) vannak termékképek, pl.: https://media.launchoracle.com/campaigns/properties/d14b1e32-2579-4ee7-989f-ba67564f0690/761852fa-ad9b-45e4-b2a5-532ef0b37282.jpeg?v=761852fa-ad9b-45e4-b2a5-532ef0b37282 – javasolt forrásmegjelölés: Fotó: Monster Fight Club. A képet érdemes megnézni, mielőtt felkerül (a kép tartalmát nem láttam). November 17. után a Gamefound-kampányoldal képei is használhatók."
+imageCredit: "Kép: Monster Fight Club"
+imageSuggestion: "A kiadó saját előkampány-oldalán (a Monster Fight Club hivatalos regisztrációs linkje ide visz: https://launchoracle.com/monster-fight-club/witcher/8W4E8) vannak termékképek, pl.: https://media.launchoracle.com/campaigns/properties/d14b1e32-2579-4ee7-989f-ba67564f0690/761852fa-ad9b-45e4-b2a5-532ef0b37282.jpeg?v=761852fa-ad9b-45e4-b2a5-532ef0b37282 – javasolt forrásmegjelölés: Kép: Monster Fight Club. A képet érdemes megnézni, mielőtt felkerül (a kép tartalmát nem láttam). November 17. után a Gamefound-kampányoldal képei is használhatók."
 sources:
   - name: "GamingTrend – The Witcher: No Man's Land goes live on Gamefound November 17th"
     url: https://gamingtrend.com/news/the-witcher-no-mans-land-goes-live-on-gamefound-november-17th/

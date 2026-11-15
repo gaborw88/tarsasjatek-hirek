@@ -13,8 +13,8 @@ tags:
 youtube: ""
 image: /images/uploads/pasted-image-1793959163484.png
 imageAlt: ""
-imageCredit: "Fotó: Wizards of the Coast"
-imageSuggestion: "Hivatalos sajtókép a filmhez még nincs, színészfotót pedig nem használunk. Ha kell kép, a Magic: The Gathering hivatalos logója jöhet szóba a Wizards of the Coast sajtó- vagy arculati oldaláról (Fotó: Wizards of the Coast) – ezt a szerkesztőnek kell megkeresnie és ellenőriznie. Kép nélkül is rendben van."
+imageCredit: "Kép: Wizards of the Coast"
+imageSuggestion: "Hivatalos sajtókép a filmhez még nincs, színészfotót pedig nem használunk. Ha kell kép, a Magic: The Gathering hivatalos logója jöhet szóba a Wizards of the Coast sajtó- vagy arculati oldaláról (Kép: Wizards of the Coast) – ezt a szerkesztőnek kell megkeresnie és ellenőriznie. Kép nélkül is rendben van."
 sources:
   - name: "TheWrap – Maya Hawke to Star in Live-Action 'Magic: The Gathering' Movie at Legendary and Hasbro"
     url: https://www.thewrap.com/creative-content/movies/maya-hawke-live-action-magic-the-gathering-movie/

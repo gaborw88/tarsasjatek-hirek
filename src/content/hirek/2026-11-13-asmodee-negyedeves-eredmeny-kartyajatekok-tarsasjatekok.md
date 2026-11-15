@@ -19,8 +19,8 @@ tags:
 youtube: ""
 image: /images/uploads/pasted-image-1794602280210.png
 imageAlt: ""
-imageCredit: "Fotó: Asmodee"
-imageSuggestion: "Pénzügyi/iparági hír, hivatalos sajtókép nincs hozzá. Az Asmodee új (30. évfordulós) logójáról szóló sajtóközlemény: https://storage.mfn.se/f5c805f8-7dd7-4c1a-88c5-c61810f90f46/asmodee-celebrates-30th-anniversary-with-new-consumer-facing-brand-reveal-inspired-by-players.pdf – ha van benne letölthető logó, javasolt forrásmegjelölés: Fotó: Asmodee. Kép nélkül is rendben van."
+imageCredit: "Kép: Asmodee"
+imageSuggestion: "Pénzügyi/iparági hír, hivatalos sajtókép nincs hozzá. Az Asmodee új (30. évfordulós) logójáról szóló sajtóközlemény: https://storage.mfn.se/f5c805f8-7dd7-4c1a-88c5-c61810f90f46/asmodee-celebrates-30th-anniversary-with-new-consumer-facing-brand-reveal-inspired-by-players.pdf – ha van benne letölthető logó, javasolt forrásmegjelölés: Kép: Asmodee. Kép nélkül is rendben van."
 sources:
   - name: "Asmodee – Asmodee's interim report April–September 2026: Growth across all categories (sajtóközlemény)"
     url: https://www.inderes.fi/en/releases/asmodees-interim-report-april-september-2026-growth-across-all-categories

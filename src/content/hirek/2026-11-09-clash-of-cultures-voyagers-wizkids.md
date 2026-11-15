@@ -21,7 +21,7 @@ youtube: ""
 image: /images/uploads/pasted-image-1794258734457.png
 imageAlt: ""
 imageCredit: ""
-imageSuggestion: "A Voyagers dobozképét a WizKids még nem tette közzé (sem termékoldalon, sem az ICv2-cikkben nem találtam). Átmeneti megoldásként az alapjáték hivatalos képe a WizKids sajtóközleményéből: https://eadn-wc03-13179282.nxedge.io/wp-content/uploads/2021/09/clash2-web-393263-nQsKSqoB.jpg (közlemény: https://wizkids.com/?p=22581) – javasolt forrásmegjelölés: Fotó: WizKids. Később érdemes a WizKids oldalán megnézni, felkerült-e a Voyagers dobozképe."
+imageSuggestion: "A Voyagers dobozképét a WizKids még nem tette közzé (sem termékoldalon, sem az ICv2-cikkben nem találtam). Átmeneti megoldásként az alapjáték hivatalos képe a WizKids sajtóközleményéből: https://eadn-wc03-13179282.nxedge.io/wp-content/uploads/2021/09/clash2-web-393263-nQsKSqoB.jpg (közlemény: https://wizkids.com/?p=22581) – javasolt forrásmegjelölés: Kép: WizKids. Később érdemes a WizKids oldalán megnézni, felkerült-e a Voyagers dobozképe."
 sources:
   - name: "ICv2 – WizKids Unveils 'Clash of Cultures: Voyagers'"
     url: https://icv2.com/articles/news/view/63833/wizkids-unveils-clash-cultures-voyagers

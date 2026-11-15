@@ -22,7 +22,7 @@ youtube: ""
 image: /images/uploads/pasted-image-1794752069842.png
 imageAlt: ""
 imageCredit: "Kép: Czech Games Edition"
-imageSuggestion: "Hivatalos sajtókép a Czech Games Edition sajtóoldaláról (https://www.czechgames.com/for-press-games/kingdom-come-deliverance-the-board-game) – dobozkép: https://cdn.prod.website-files.com/67d17a45b4e1484b40ea8869/6a43c4a32e8431ef17c3cb95_box%20image_kcd%2002.webp , sajtó számára készült fő kép: https://cdn.prod.website-files.com/67d17a45b4e1484b40ea8869/6a3e6ceab62f0f159fdcf931_hero%20image%20for%20press_KC%20%2002.webp – javasolt forrásmegjelölés: Fotó: Czech Games Edition. (A magyar dobozkép még nem ismert, a Gémklubtól később kérhető.)"
+imageSuggestion: "Hivatalos sajtókép a Czech Games Edition sajtóoldaláról (https://www.czechgames.com/for-press-games/kingdom-come-deliverance-the-board-game) – dobozkép: https://cdn.prod.website-files.com/67d17a45b4e1484b40ea8869/6a43c4a32e8431ef17c3cb95_box%20image_kcd%2002.webp , sajtó számára készült fő kép: https://cdn.prod.website-files.com/67d17a45b4e1484b40ea8869/6a3e6ceab62f0f159fdcf931_hero%20image%20for%20press_KC%20%2002.webp – javasolt forrásmegjelölés: Kép: Czech Games Edition. (A magyar dobozkép még nem ismert, a Gémklubtól később kérhető.)"
 sources:
   - name: "Gémklub – Új megjelenés: Kingdom Come: Deliverance"
     url: https://www.gemklub.hu/hirek/uj-megjelenes-kingdom-come-deliverance-2891

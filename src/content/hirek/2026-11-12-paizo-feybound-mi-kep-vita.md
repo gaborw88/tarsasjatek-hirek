@@ -21,8 +21,8 @@ tags:
 youtube: ""
 image: /images/uploads/pasted-image-1794601933181.png
 imageAlt: ""
-imageCredit: "Fotó: Paizo"
-imageSuggestion: "Hivatalos dobozkép (borító) a kiadó webáruházából: https://store.paizo.com/pathfinder-feybound/ – javasolt forrásmegjelölés: Fotó: Paizo. (A vitatott belső illusztrációkat nem javaslom.)"
+imageCredit: "Kép: Paizo"
+imageSuggestion: "Hivatalos dobozkép (borító) a kiadó webáruházából: https://store.paizo.com/pathfinder-feybound/ – javasolt forrásmegjelölés: Kép: Paizo. (A vitatott belső illusztrációkat nem javaslom.)"
 sources:
   - name: Wargamer – Pathfinder publisher disputes claims of AI art in its latest book, Feybound
     url: https://www.wargamer.com/pathfinder/feybound-ai-art

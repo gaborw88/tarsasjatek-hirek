@@ -20,8 +20,8 @@ tags:
 youtube: ""
 image: /images/uploads/1000031335.jpg
 imageAlt: ""
-imageCredit: "Fotó: Pendragon Game Studio"
-imageSuggestion: "A kiadó saját Gamefound-kampányoldalának képe: https://imgcdn.gamefound.com/og-image-fb/projects/10031/47e98262-cee1-416f-98ee-fcb327df4f75.png – javasolt forrásmegjelölés: Fotó: Pendragon Game Studio. (A kép tartalmát nem láttam, érdemes megnézni, mielőtt felkerül; a kampány indulása után a kampányoldalon több termékkép is lesz.)"
+imageCredit: "Kép: Pendragon Game Studio"
+imageSuggestion: "A kiadó saját Gamefound-kampányoldalának képe: https://imgcdn.gamefound.com/og-image-fb/projects/10031/47e98262-cee1-416f-98ee-fcb327df4f75.png – javasolt forrásmegjelölés: Kép: Pendragon Game Studio. (A kép tartalmát nem láttam, érdemes megnézni, mielőtt felkerül; a kampány indulása után a kampányoldalon több termékkép is lesz.)"
 sources:
   - name: "Board Game (boardgame.fr) – The Thing (jeu de plateau et jeu de cartes) : la campagne Gamefound sera lancée le 10 novembre"
     url: https://www.boardgame.fr/2026/11/09/the-thing-jeu-de-plateau-et-jeu-de-cartes-la-campagne-gamefound-sera-lancee-le-10-novembre/

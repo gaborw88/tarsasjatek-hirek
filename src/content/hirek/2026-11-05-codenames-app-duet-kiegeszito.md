@@ -13,8 +13,8 @@ tags:
 youtube: ""
 image: /images/uploads/pasted-image-1793919793102.png
 imageAlt: ""
-imageCredit: "Fotó: Czech Games Edition"
-imageSuggestion: "Hivatalos sajtóanyag: https://codenamesapp.com/press (letölthető médiacsomag, alkalmazás-képernyőképek, dobozkép és logók), például a logó: https://codenamesapp.com/press/img/screenshots/cn_logo_eng.png – javasolt forrásmegjelölés: Fotó: Czech Games Edition"
+imageCredit: "Kép: Czech Games Edition"
+imageSuggestion: "Hivatalos sajtóanyag: https://codenamesapp.com/press (letölthető médiacsomag, alkalmazás-képernyőképek, dobozkép és logók), például a logó: https://codenamesapp.com/press/img/screenshots/cn_logo_eng.png – javasolt forrásmegjelölés: Kép: Czech Games Edition"
 sources:
   - name: EverythingBoardGames.com – Duet comes to the Codenames App!
     url: https://everythingboardgames.com/2026/11/duet-comes-to-the-codenames-app.html

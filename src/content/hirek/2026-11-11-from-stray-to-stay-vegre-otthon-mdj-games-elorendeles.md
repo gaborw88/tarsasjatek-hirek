@@ -21,8 +21,8 @@ tags:
 youtube: ""
 image: /images/uploads/pasted-image-1794405411454.png
 imageAlt: ""
-imageCredit: "Fotó: MDJ Games"
-imageSuggestion: "Hivatalos dobozkép a kiadó termékoldaláról: https://www.mdjgames.hu/wp-content/uploads/2026/09/box.jpg (a teljes játék fotója: https://www.mdjgames.hu/wp-content/uploads/2026/09/whole-game.jpg) – javasolt forrásmegjelölés: Fotó: MDJ Games"
+imageCredit: "Kép: MDJ Games"
+imageSuggestion: "Hivatalos dobozkép a kiadó termékoldaláról: https://www.mdjgames.hu/wp-content/uploads/2026/09/box.jpg (a teljes játék fotója: https://www.mdjgames.hu/wp-content/uploads/2026/09/whole-game.jpg) – javasolt forrásmegjelölés: Kép: MDJ Games"
 sources:
   - name: "MDJ Games – From Stray to Stay: Végre otthon (termékoldal)"
     url: https://www.mdjgames.hu/termek/stray/

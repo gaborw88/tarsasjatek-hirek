@@ -13,8 +13,8 @@ tags:
 youtube: ""
 image: /images/uploads/pasted-image-1793794204435.png
 imageAlt: ""
-imageCredit: "Fotó: Steamforged Games"
-imageSuggestion: "Hivatalos kép a kiadó saját bejelentő oldalán: https://steamforged.com/blogs/brands/helldivers-2-board-game-announcement – javasolt forrásmegjelölés: Fotó: Steamforged Games. (Alternatíva: a kiadó Gamefound-kampányoldalának képei.)"
+imageCredit: "Kép: Steamforged Games"
+imageSuggestion: "Hivatalos kép a kiadó saját bejelentő oldalán: https://steamforged.com/blogs/brands/helldivers-2-board-game-announcement – javasolt forrásmegjelölés: Kép: Steamforged Games. (Alternatíva: a kiadó Gamefound-kampányoldalának képei.)"
 sources:
   - name: "Brettspiel-News.de – Helldivers 2: The Board Game verpasst den Oktober-Termin, letztes Update im August"
     url: https://www.brettspiel-news.de/index.php/de/nachrichten-uebersicht/crowdfunding/16380-helldivers-2-the-board-game-verpasst-den-oktober-termin-letztes-update-im-august

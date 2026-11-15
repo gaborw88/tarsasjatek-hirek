@@ -13,7 +13,7 @@ youtube: ""
 image: /images/uploads/pasted-image-1794117918196.png
 imageAlt: ""
 imageCredit: ""
-imageSuggestion: "Hivatalos dobozkép a Ravensburger brit termékoldalán: https://www.ravensburger.co.uk/en-GB/products/games/children-games/rolliverse-rollis-adventure-12003078 – javasolt forrásmegjelölés: Fotó: Ravensburger. (Az oldalt most nem sikerült megnyitni, ezért a képet feltöltés előtt ellenőrizd; a Minecraft- és Star Wars-dobozoknál a licencelt grafika miatt érdemesebb a saját Rolli's Adventures-dobozt használni.)"
+imageSuggestion: "Hivatalos dobozkép a Ravensburger brit termékoldalán: https://www.ravensburger.co.uk/en-GB/products/games/children-games/rolliverse-rollis-adventure-12003078 – javasolt forrásmegjelölés: Kép: Ravensburger. (Az oldalt most nem sikerült megnyitni, ezért a képet feltöltés előtt ellenőrizd; a Minecraft- és Star Wars-dobozoknál a licencelt grafika miatt érdemesebb a saját Rolli's Adventures-dobozt használni.)"
 sources:
   - name: The Toy Insider – Rolliverse Brings Minecraft, Star Wars, and More Favorite Worlds to Family Game Night
     url: https://thetoyinsider.com/ravensburger-rolliverse-news/

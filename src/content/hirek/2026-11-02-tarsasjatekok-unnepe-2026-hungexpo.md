@@ -12,8 +12,8 @@ tags:
 youtube: ""
 image: /images/uploads/pasted-image-1793751910563.png
 imageAlt: ""
-imageCredit: "Fotó: Társasjátékok Ünnepe"
-imageSuggestion: "Nyilvános sajtóképtárat nem találtam. Javaslat: kérj képet a szervezőktől a tarsasjatekokunnepe.hu oldalon megadott elérhetőségen, vagy valamelyik főtámogató kiadótól (pl. Gémklub). Ez jó alkalom a bemutatkozásra és a sajtóakkreditáció megbeszélésére is. Javasolt forrásmegjelölés: Fotó: Társasjátékok Ünnepe"
+imageCredit: "Kép: Társasjátékok Ünnepe"
+imageSuggestion: "Nyilvános sajtóképtárat nem találtam. Javaslat: kérj képet a szervezőktől a tarsasjatekokunnepe.hu oldalon megadott elérhetőségen, vagy valamelyik főtámogató kiadótól (pl. Gémklub). Ez jó alkalom a bemutatkozásra és a sajtóakkreditáció megbeszélésére is. Javasolt forrásmegjelölés: Kép: Társasjátékok Ünnepe"
 sources:
   - name: Társasjátékok Ünnepe – hivatalos információk
     url: https://tarsasjatekokunnepe.hu/informaciok/

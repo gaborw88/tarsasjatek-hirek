@@ -20,8 +20,8 @@ tags:
 youtube: ""
 image: /images/uploads/pasted-image-1794319585978.png
 imageAlt: ""
-imageCredit: "Fotó: Fantasy Flight Games"
-imageSuggestion: "Hivatalos dobozkép: https://shop.asmodee.ca/en/ffgce01 (Cosmic Encounter, Asmodee/Fantasy Flight Games termékoldal) – javasolt forrásmegjelölés: Fotó: Fantasy Flight Games. Az elhunytról hivatalos sajtófotó nincs, és személyről készült képet nem javaslok; kép nélkül is rendben van."
+imageCredit: "Kép: Fantasy Flight Games"
+imageSuggestion: "Hivatalos dobozkép: https://shop.asmodee.ca/en/ffgce01 (Cosmic Encounter, Asmodee/Fantasy Flight Games termékoldal) – javasolt forrásmegjelölés: Kép: Fantasy Flight Games. Az elhunytról hivatalos sajtófotó nincs, és személyről készült képet nem javaslok; kép nélkül is rendben van."
 sources:
   - name: BoardGameWire – Cosmic Encounter co-creator Jack Kittredge, whose work influenced generations of board game designers, dies aged 82
     url: https://boardgamewire.com/index.php/2026/11/10/cosmic-encounter-co-creator-jack-kittredge-whose-work-influenced-generations-of-board-game-designers-dies-aged-82/

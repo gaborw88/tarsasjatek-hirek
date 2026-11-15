@@ -20,8 +20,8 @@ tags:
 youtube: ""
 image: /images/uploads/pasted-image-1794604316103.png
 imageAlt: ""
-imageCredit: "Fotó: Awaken Realms"
-imageSuggestion: "A kiadó saját Gamefound-kampányoldalának képei használhatók (az Awaken Realms töltötte fel): https://gamefound.com/en/projects/awaken-realms/nemesis-legacy – javasolt forrásmegjelölés: Fotó: Awaken Realms. Szerkesztő ellenőrizze a felhasználási jogot."
+imageCredit: "Kép: Awaken Realms"
+imageSuggestion: "A kiadó saját Gamefound-kampányoldalának képei használhatók (az Awaken Realms töltötte fel): https://gamefound.com/en/projects/awaken-realms/nemesis-legacy – javasolt forrásmegjelölés: Kép: Awaken Realms. Szerkesztő ellenőrizze a felhasználási jogot."
 sources:
   - name: "BoardGameWire – Nemesis: Legacy breaks board game crowdfunding record amid blockbuster year for sector, but publishers warn of rising costs, growing risks"
     url: https://boardgamewire.com/index.php/2026/11/13/nemesis-legacy-breaks-board-game-crowdfunding-record-amid-blockbuster-year-for-sector-but-publishers-warn-of-rising-costs-growing-risks/

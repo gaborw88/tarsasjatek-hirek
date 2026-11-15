@@ -130,7 +130,7 @@ collections:
         label: Kép forrása
         widget: string
         required: false
-        hint: "Megjelenik a kép alatt. Pl.: „Fotó: Gémklub sajtóanyag” vagy „Fotó: saját”"
+        hint: "Megjelenik a kép alatt. Pl.: „Kép: Gémklub sajtóanyag” vagy „Kép: saját”"
       - name: imageSuggestion
         label: "💡 Javasolt kép (csak szerkesztőknek, nem jelenik meg)"
         widget: text
