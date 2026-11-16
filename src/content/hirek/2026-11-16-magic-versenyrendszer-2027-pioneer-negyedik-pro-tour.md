@@ -2,21 +2,28 @@
 published: false
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
+status: ⏳ tervezet
 title: "Visszatér a Pioneer, 2028-tól négy Pro Tour lesz: átalakul a Magic versenyrendszere"
 description: "A Wizards of the Coast bejelentette a Magic: The Gathering 2027-es versenynaptárát: a Pioneer formátum visszakerül a nagy versenyekre, a Spotlight Series 14 állomásosra bővül, 2028-tól pedig egy negyedik, csak limitált formátumú Pro Tour is érkezik."
 date: 2026-11-16T23:15:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Magic: The Gathering", "Wizards of the Coast", "Versenyek", "Gyűjtögetős kártyajátékok"]
+author: Szerkesztőség
+tags:
+  - "Magic: The Gathering"
+  - Wizards of the Coast
+  - Versenyek
+  - Gyűjtögetős kártyajátékok
 imageSuggestion: "Hivatalos kép: a Magic Spotlight Series logója a Wizards of the Coast bejelentésében: https://media.wizards.com/2024/images/daily/DmHPZDAfGW.webp – javasolt forrásmegjelölés: Kép: Wizards of the Coast. (A bejelentés fő képe versenyzőkről készült tömegfotó, valódi személyek miatt nem javasolt; kép nélkül is rendben van.)"
 sources:
-  - name: "Wizards of the Coast – Everything New for Competitive Play in 2027"
-    url: "https://magic.wizards.com/en/news/announcements/everything-new-for-competitive-play-in-2027"
-  - name: "Cards Realm – Magic announces 2027 competitive calendar, bringing back Pioneer"
-    url: "https://mtg.cardsrealm.com/en-ca/articles/magic-announces-2027-competitive-calendar-bringing-back-pioneer"
+  - name: Wizards of the Coast – Everything New for Competitive Play in 2027
+    url: https://magic.wizards.com/en/news/announcements/everything-new-for-competitive-play-in-2027
+  - name: Cards Realm – Magic announces 2027 competitive calendar, bringing back Pioneer
+    url: https://mtg.cardsrealm.com/en-ca/articles/magic-announces-2027-competitive-calendar-bringing-back-pioneer
   - name: "ICv2 – Wizards of the Coast Announces 'Magic: The Gathering' Competitive Play Event Changes"
-    url: "https://icv2.com/articles/news/view/63895/wizards-coast-announces-magic-the-gathering-competitive-play-event-changes"
+    url: https://icv2.com/articles/news/view/63895/wizards-coast-announces-magic-the-gathering-competitive-play-event-changes
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 16. 23:13
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 A Wizards of the Coast november 14-én közzétette, mi változik a Magic: The Gathering szervezett versenyein 2027-ben és azt követően. A bejelentés legfontosabb pontjai: visszatér a Pioneer formátum, bővül a nyílt versenyeket tömörítő Spotlight Series, 2028-tól pedig a profi körversenyben a mostani három helyett négy Pro Tour lesz.
