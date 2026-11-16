@@ -1,13 +1,13 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Kooperatív történetmóddal tér vissza a The Breach: november 17-én indul a Hellcore-kampány a Gamefoundon'
+published: true
+publishedAt: 2026-11-16T21:17:28.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 16. 22:17
+approvedBy: Weszprémy Gábor · 2026. 11. 16. 22:17
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 16. 22:17
+title: "Kooperatív történetmóddal tér vissza a The Breach: november 17-én indul a Hellcore-kampány a Gamefoundon"
 description: Az olasz Ludus Magnus Studio újranyomja cyberpunk hekkerjátékát, a The Breach-et, és egy új kiegészítőt is hoz hozzá, amely kooperatív kampányt ad a versengő alapjátékhoz.
 date: 2026-11-15T17:00:00+01:00
 type: gyujtott
@@ -17,13 +17,13 @@ tags:
   - Gamefound
   - Ludus Magnus Studio
   - The Breach
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794863788219.png
-imageAlt: ''
-imageCredit: 'Kép: Ludus Magnus Studio'
-imageSuggestion: 'A kiadó saját Gamefound-kampányoldalának képe: https://imgcdn.gamefound.com/og-image-fb/projects/9795/91e5e329-68bf-4bdb-9155-f935b9e48401.jpg – javasolt forrásmegjelölés: Kép: Ludus Magnus Studio. (A kiadó játékoldalán dobozképek is vannak: https://ludusmagnusstudio.com/the-breach/)'
+imageAlt: ""
+imageCredit: "Kép: Ludus Magnus Studio"
+imageSuggestion: "A kiadó saját Gamefound-kampányoldalának képe: https://imgcdn.gamefound.com/og-image-fb/projects/9795/91e5e329-68bf-4bdb-9155-f935b9e48401.jpg – javasolt forrásmegjelölés: Kép: Ludus Magnus Studio. (A kiadó játékoldalán dobozképek is vannak: https://ludusmagnusstudio.com/the-breach/)"
 sources:
-  - name: 'Gamefound – The Breach: Reprint & Hellcore expansion (Ludus Magnus Studio), Hellcore // Story Mode'
+  - name: "Gamefound – The Breach: Reprint & Hellcore expansion (Ludus Magnus Studio), Hellcore // Story Mode"
     url: https://gamefound.com/en/projects/lms/thebreach-reprint-hellcoreexpansion/updates/3
   - name: Brettspielbox – Brettspiel Crowdfunding News 46/26
     url: https://brettspielbox.de/brettspiel-crowdfunding-news-46-26/
