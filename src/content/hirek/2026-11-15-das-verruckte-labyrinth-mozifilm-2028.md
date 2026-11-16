@@ -1,14 +1,14 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 19:02
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Mozifilm lesz a Labyrinthból: leforgatták a Ravensburger-klasszikus német adaptációját, 2028 januárjában jön'
-description: 'Véget ért a forgatás: Peter Thorwarth rendezésében kalandvígjáték készült a 40 éves Das verrückte Labyrinth című családi játékból. A német mozikba 2028. január 20-án érkezhet.'
+published: true
+publishedAt: 2026-11-16T22:55:01.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 16. 23:55
+approvedBy: Weszprémy Gábor · 2026. 11. 16. 23:55
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 16. 23:55
+title: "Mozifilm lesz a Labyrinthból: leforgatták a Ravensburger-klasszikus német adaptációját, 2028 januárjában jön"
+description: "Véget ért a forgatás: Peter Thorwarth rendezésében kalandvígjáték készült a 40 éves Das verrückte Labyrinth című családi játékból. A német mozikba 2028. január 20-án érkezhet."
 date: 2026-11-15T21:00:00+01:00
 type: gyujtott
 author: Szerkesztőség
@@ -16,15 +16,15 @@ tags:
   - Filmadaptáció
   - Ravensburger
   - Labyrinth
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794869611799.png
-imageAlt: ''
-imageCredit: 'Kép: Ravensburger'
-imageSuggestion: 'Hivatalos kiadói termékoldal dobozképekkel: https://www.ravensburger.de/de-DE/produkte/spiele/marke-labyrinth – javasolt forrásmegjelölés: Kép: Ravensburger. (A filmből hivatalos sajtókép egyelőre nem található; ha a Constantin Film kiad állóképet vagy plakátot, az is jó választás lehet.)'
+imageAlt: ""
+imageCredit: "Kép: Ravensburger"
+imageSuggestion: "Hivatalos kiadói termékoldal dobozképekkel: https://www.ravensburger.de/de-DE/produkte/spiele/marke-labyrinth – javasolt forrásmegjelölés: Kép: Ravensburger. (A filmből hivatalos sajtókép egyelőre nem található; ha a Constantin Film kiad állóképet vagy plakátot, az is jó választás lehet.)"
 sources:
-  - name: 'Quotenmeter – «Das verrückte Labyrinth»: Dreharbeiten zur Brettspielverfilmung abgeschlossen'
+  - name: "Quotenmeter – «Das verrückte Labyrinth»: Dreharbeiten zur Brettspielverfilmung abgeschlossen"
     url: https://www.quotenmeter.de/n/177210/das-verrueckte-labyrinth-dreharbeiten-zur-brettspielverfilmung-abgeschlossen
-  - name: 'Wochenblatt – Ravensburg: „Das verrückte Labyrinth“ wird verfilmt'
+  - name: "Wochenblatt – Ravensburg: „Das verrückte Labyrinth“ wird verfilmt"
     url: https://www.wochenblatt-news.de/region-ravensburg/ravensburg/das-verrueckte-labyrinth-kinofilm-zum-ravensburger-spieleklassiker-abgedreht/
 ---
 
