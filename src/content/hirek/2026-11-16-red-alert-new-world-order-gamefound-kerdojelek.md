@@ -1,13 +1,13 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 16. 19:03
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Kérdőjelek a Red Alert: New World Order körül: licenc nélküli név, MI-vel javított képek és rekordmagas átlagos támogatás'
+published: true
+publishedAt: 2026-11-16T21:11:26.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 16. 22:11
+approvedBy: Weszprémy Gábor · 2026. 11. 16. 22:11
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 16. 22:11
+title: "Kérdőjelek a Red Alert: New World Order körül: licenc nélküli név, MI-vel javított képek és rekordmagas átlagos támogatás"
 description: Négy és fél óra alatt teljesítette a célját a Wolf Storm Entertainment Gamefound-kampánya, a közösség azonban több figyelmeztető jelet is felvetett. A Brettspiel-News.de tényellenőrzése szerint a vádak egy része igaz, egy része túlzó, sok kérdés pedig nyitott.
 date: 2026-11-16T19:00:00+01:00
 type: gyujtott
@@ -17,17 +17,17 @@ tags:
   - Gamefound
   - Wolf Storm Entertainment
   - Mesterséges intelligencia
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794863401042.png
-imageAlt: ''
-imageCredit: 'Kép: Wolf Storm Entertainment'
-imageSuggestion: 'A kiadó saját Gamefound-kampányoldalának megosztási képe: https://imgcdn.gamefound.com/og-image-fb/projects/5330/e9878e3d-c7b2-4b40-bd36-aec0598a86f6.png – javasolt forrásmegjelölés: Kép: Wolf Storm Entertainment. Figyelem: a kiadó elismerte, hogy egyes promóciós képeket MI-eszközökkel javítottak, és nem ellenőriztem, mit ábrázol ez a kép – mivel a cikk éppen erről szól, kép nélkül is rendben van.'
+imageAlt: ""
+imageCredit: "Kép: Wolf Storm Entertainment"
+imageSuggestion: "A kiadó saját Gamefound-kampányoldalának megosztási képe: https://imgcdn.gamefound.com/og-image-fb/projects/5330/e9878e3d-c7b2-4b40-bd36-aec0598a86f6.png – javasolt forrásmegjelölés: Kép: Wolf Storm Entertainment. Figyelem: a kiadó elismerte, hogy egyes promóciós képeket MI-eszközökkel javítottak, és nem ellenőriztem, mit ábrázol ez a kép – mivel a cikk éppen erről szól, kép nélkül is rendben van."
 sources:
-  - name: 'Brettspiel-News.de – Red Alert: New World Order auf Gamefound: Was an den Warnzeichen dran ist'
+  - name: "Brettspiel-News.de – Red Alert: New World Order auf Gamefound: Was an den Warnzeichen dran ist"
     url: https://www.brettspiel-news.de/index.php/de/nachrichten-uebersicht/brettspielangebote/16472-red-alert-new-world-order-auf-gamefound-was-an-den-warnzeichen-dran-ist
-  - name: 'Gamefound – Red Alert: New World Order, Update #1: Important Update (Wolf Storm Entertainment)'
+  - name: "Gamefound – Red Alert: New World Order, Update #1: Important Update (Wolf Storm Entertainment)"
     url: https://gamefound.com/en/projects/wolf-storm-entertainment/red-alert-new-world-order/updates/1
-  - name: 'Gamefound – Red Alert: New World Order, Update #23: Fully Funded in 4 Hours!'
+  - name: "Gamefound – Red Alert: New World Order, Update #23: Fully Funded in 4 Hours!"
     url: https://gamefound.com/en/projects/wolf-storm-entertainment/red-alert-new-world-order/updates/23
 ---
 
