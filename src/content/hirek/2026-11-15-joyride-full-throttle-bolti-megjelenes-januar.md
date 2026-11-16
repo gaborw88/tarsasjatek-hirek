@@ -1,13 +1,13 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Hatfős autós káosz januártól: boltokba kerül a Joyride: Full Throttle'
+published: true
+publishedAt: 2026-11-16T22:35:01.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 16. 23:35
+approvedBy: Weszprémy Gábor · 2026. 11. 16. 23:35
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 16. 23:35
+title: "Hatfős autós káosz januártól: boltokba kerül a Joyride: Full Throttle"
 description: A Rebellion Unplugged január 6-án hozza ki az amerikai boltokban a Joyride-sorozat önállóan is játszható új részét, amely csapatmódot és hat új autót kínál.
 date: 2026-11-15T17:30:00+01:00
 type: gyujtott
@@ -16,17 +16,17 @@ tags:
   - Megjelenések
   - Rebellion Unplugged
   - Joyride
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794868448292.png
-imageAlt: ''
-imageCredit: 'Kép: Rebellion Unplugged'
-imageSuggestion: 'A kiadó saját Gamefound-kampányoldalának képe: https://imgcdn.gamefound.com/og-image-fb/projects/6102/3f3dd5be-ca68-4b5e-8f7d-0fc228da466a.jpg – javasolt forrásmegjelölés: Kép: Rebellion Unplugged. (Kampányoldal: https://gamefound.com/en/projects/rebellionunplugged/joyride-full-throttle/updates/23)'
+imageAlt: ""
+imageCredit: "Kép: Rebellion Unplugged"
+imageSuggestion: "A kiadó saját Gamefound-kampányoldalának képe: https://imgcdn.gamefound.com/og-image-fb/projects/6102/3f3dd5be-ca68-4b5e-8f7d-0fc228da466a.jpg – javasolt forrásmegjelölés: Kép: Rebellion Unplugged. (Kampányoldal: https://gamefound.com/en/projects/rebellionunplugged/joyride-full-throttle/updates/23)"
 sources:
   - name: "ICv2 – Rebellion Unplugged Will Release 'Joyride: Full Throttle'"
     url: https://icv2.com/articles/news/view/63847/rebellion-unplugged-will-release-joyride-full-throttle
   - name: Wargamer – Award winning car board game Joyride just launched an eye-watering 80s coded sequel
     url: https://www.wargamer.com/joyride-full-throttle/gamefound-launch-miniatures
-  - name: 'Bleeding Cool – Rebellion Unplugged Announces Joyride: Full Throttle'
+  - name: "Bleeding Cool – Rebellion Unplugged Announces Joyride: Full Throttle"
     url: https://bleedingcool.com/games/rebellion-unplugged-announces-joyride-full-throttle
 ---
 
