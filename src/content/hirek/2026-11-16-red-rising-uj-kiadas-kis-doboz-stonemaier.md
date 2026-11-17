@@ -1,14 +1,14 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 16. 11:10
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Kisebb doboz, playmat, olcsóbb ár: új kiadásban tér vissza a Stonemaier Red Risingja'
-description: 'A Stonemaier Games újra elérhetővé tette a Red Rising kártyajátékot: a 2026-os változat jóval kisebb dobozban, kartontábla helyett feltekerhető playmattel és alacsonyabb ajánlott áron érkezik, a játékmenet változatlan.'
+published: true
+publishedAt: 2026-11-17T20:50:26.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 17. 21:50
+approvedBy: Weszprémy Gábor · 2026. 11. 17. 21:50
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 17. 21:50
+title: "Kisebb doboz, playmat, olcsóbb ár: új kiadásban tér vissza a Stonemaier Red Risingja"
+description: "A Stonemaier Games újra elérhetővé tette a Red Rising kártyajátékot: a 2026-os változat jóval kisebb dobozban, kartontábla helyett feltekerhető playmattel és alacsonyabb ajánlott áron érkezik, a játékmenet változatlan."
 date: 2026-11-16T12:00:00+01:00
 type: gyujtott
 author: Szerkesztőség
@@ -17,15 +17,15 @@ tags:
   - Stonemaier Games
   - Red Rising
   - Újrakiadás
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794948463081.png
-imageAlt: ''
-imageCredit: 'Kép: Stonemaier Games'
-imageSuggestion: 'Hivatalos termékkép a kiadó webáruházában (az új, kis dobozos kiadás): https://store.stonemaiergames.com/cdn/shop/files/3d-redrisingsmall-square.webp?v=1789555275 (termékoldal: https://store.stonemaiergames.com/products/red-rising) – javasolt forrásmegjelölés: Kép: Stonemaier Games'
+imageAlt: ""
+imageCredit: "Kép: Stonemaier Games"
+imageSuggestion: "Hivatalos termékkép a kiadó webáruházában (az új, kis dobozos kiadás): https://store.stonemaiergames.com/cdn/shop/files/3d-redrisingsmall-square.webp?v=1789555275 (termékoldal: https://store.stonemaiergames.com/products/red-rising) – javasolt forrásmegjelölés: Kép: Stonemaier Games"
 sources:
-  - name: 'Stonemaier Games – Jamey Stegmaier: What Happened to Red Rising?'
+  - name: "Stonemaier Games – Jamey Stegmaier: What Happened to Red Rising?"
     url: https://stonemaiergames.com/what-happened-to-red-rising/
-  - name: 'Brettspiel-News.de – Red Rising schrumpft: Stonemaier rollt den Spielplan ein und senkt die UVP'
+  - name: "Brettspiel-News.de – Red Rising schrumpft: Stonemaier rollt den Spielplan ein und senkt die UVP"
     url: https://www.brettspiel-news.de/index.php/de/magazin-fuer-brettspieler-start/16478-red-rising-schrumpft-stonemaier-rollt-den-spielplan-ein-und-senkt-die-uvp
   - name: Stonemaier Games webáruház – Red Rising
     url: https://store.stonemaiergames.com/products/red-rising
