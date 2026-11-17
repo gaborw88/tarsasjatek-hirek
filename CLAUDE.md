@@ -27,7 +27,14 @@ A tulajdonos nem programozó: vele mindig magyarul, egyszerűen, szakzsargon né
       url: "https://..."
   ---
   ```
-- Nyelv: igényes, természetes magyar, hírportál-stílus. Játékcímeket az eredeti (angol/német) címükön hagyd, ha van hivatalos magyar kiadás, zárójelben add meg a magyar címet is. Kiadók, tervezők neve eredeti formában.
+- Nyelv: igényes, természetes magyar, hírportál-stílus. Kiadók, tervezők neve eredeti formában.
+- **Játékcímek és magyar cím – kötelező ellenőrzés minden cikknél:** a játékot az eredeti (angol/német stb.) címén
+  említsd, de **a cikkben szereplő minden játéknál keress rá, hogy van-e hivatalos magyar kiadása** (pl. „<eredeti cím>
+  magyar kiadás”, „<eredeti cím> társasjáték magyar”, illetve a Gémklub, Delta Vision, Reflexshop, Compaya, Piatnik stb.
+  oldalán). Ha van, **az első említésnél zárójelben add meg a magyar címet**: „Catan (magyarul: Catan – A telepesek)”,
+  „Wingspan (Fesztávolság)”. Ha a játék eleve magyar fejlesztés, a magyar cím kerül előre, és az idegen nyelvű
+  cím a zárójelbe. Ha a magyar kiadást nem tudod megerősíteni, ne írj magyar címet (ne fordítsd le magadtól).
+  A címben (`title`) elég az egyik név; ha a játéknak ismert magyar címe van, inkább azt használd.
 - Szerzői jog: más weboldalak szövegét **nem másolod át**. Hírösszefoglalónál saját szavaiddal írod meg a tényeket. Idézet legfeljebb egy rövid mondat, idézőjelben, forrásmegjelöléssel.
 - Képek: képet **soha ne tölts le, ne linkelj be és ne tegyél az `image` mezőbe** – azt mindig egy szerkesztő tölti fel, miután ellenőrizte a felhasználási jogot.
   Helyette, ha találsz **hivatalos, sajtó számára közzétett képet** (kiadói sajtócsomag / „press kit” / „sajtóanyag” oldal,
