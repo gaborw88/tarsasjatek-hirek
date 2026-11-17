@@ -30,7 +30,7 @@ approved: true
 chiefApproved: true
 status: ✅ megjelent
 publishedAt: 2026-11-03T18:00:00.000Z
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 17. 14:39
 ---
 
 Az Essen körüli hetekben a Gémklub egymás után jelentette be a következő magyar kiadásait. A Fantasy Tiles és A Gyűrűk Ura ütésvivős kártyajáték mellett (erről korábban külön cikkben írtunk) több könnyed családi játék és két kiegészítő is szerepel a tervekben. Pontos megjelenési dátumot és árat a kiadó egyik címnél sem közölt.

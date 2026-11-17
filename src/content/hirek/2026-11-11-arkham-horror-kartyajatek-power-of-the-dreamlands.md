@@ -4,7 +4,7 @@ approved: true
 chiefApproved: true
 published: true
 publishedAt: 2026-11-11T09:23:41.457Z
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 17. 14:39
 approvedBy: Weszprémy Gábor · 2026. 11. 11. 10:22
 chiefApprovedBy: Weszprémy Gábor · 2026. 11. 11. 10:22
 title: "Álmokból valóság: februárban érkezik az Arkham Horror kártyajáték új, Álomvilágba kalauzoló kiegészítője"

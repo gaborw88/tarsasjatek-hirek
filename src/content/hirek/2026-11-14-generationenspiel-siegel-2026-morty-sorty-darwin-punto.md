@@ -4,7 +4,7 @@ approved: true
 chiefApproved: true
 published: true
 publishedAt: 2026-11-15T16:02:16.000Z
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 17. 14:39
 approvedBy: Weszprémy Gábor · 2026. 11. 15. 17:02
 chiefApprovedBy: Weszprémy Gábor · 2026. 11. 15. 17:02
 title: "Fiatalok és idősek közös asztalánál: kiosztották a 2026-os Generationenspiel-Siegelt"

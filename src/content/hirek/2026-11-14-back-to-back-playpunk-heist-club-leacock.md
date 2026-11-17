@@ -4,7 +4,7 @@ approved: true
 chiefApproved: true
 published: true
 publishedAt: 2026-11-15T15:04:13.000Z
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 17. 14:39
 approvedBy: Weszprémy Gábor · 2026. 11. 15. 16:04
 chiefApprovedBy: Weszprémy Gábor · 2026. 11. 15. 16:04
 title: Fordított Just One a Captain Flip kiadójától, 24 fős rablós partijáték Matt Leacocktól

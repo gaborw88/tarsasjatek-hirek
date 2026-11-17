@@ -24,6 +24,7 @@ approved: true
 chiefApproved: true
 status: ✅ megjelent
 publishedAt: 2026-11-03T14:00:00.000Z
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 17. 14:39
 ---
 
 Az amerikai **Anthropic** – a Claude nevű mesterségesintelligencia-modellek fejlesztője – **október 27. körül** két mondattal bővítette **Claude Code** nevű programozó-asszisztensének alapútmutatását. Eszerint az eszköz segíthet eredeti játékok, egy adott műfajba tartozó játékok, illetve a felhasználó saját tervei alapján készülő játékok elkészítésében, de **egy konkrét, már létező játékot nem készít el újra** – akkor sem, ha azt átneveznék.

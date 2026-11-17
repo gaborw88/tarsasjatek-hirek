@@ -4,7 +4,7 @@ approved: true
 chiefApproved: true
 published: true
 publishedAt: 2026-11-15T21:07:03.000Z
-lastEditedBy: Weszprémy Gábor · 2026. 11. 15. 22:07
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 17. 14:39
 approvedBy: Weszprémy Gábor · 2026. 11. 15. 22:07
 chiefApprovedBy: Weszprémy Gábor · 2026. 11. 15. 22:07
 title: "Catan, Monopoly és Elizabeth Hargrave kagylógyűjtője: ők versenyeznek az amerikai játékipar „Év játéka” díjáért"

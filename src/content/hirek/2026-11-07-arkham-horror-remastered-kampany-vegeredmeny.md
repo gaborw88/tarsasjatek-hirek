@@ -3,7 +3,7 @@ status: ✅ megjelent
 approved: true
 chiefApproved: true
 published: true
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 17. 14:39
 approvedBy: Weszprémy Gábor
 chiefApprovedBy: Weszprémy Gábor
 title: "Ötmillió dollár fölött zárt: tizennyolcszorosát gyűjtötte össze a céljának az Arkham Horror Remastered"
