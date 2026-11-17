@@ -1,13 +1,13 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 16. 07:09
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Vidámpark a Sárkánypalota legendájából: november 20-án indul a japán Ryugu Kickstarter-kampánya'
+published: true
+publishedAt: 2026-11-17T20:39:56.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 17. 21:39
+approvedBy: Weszprémy Gábor · 2026. 11. 17. 21:39
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 17. 21:39
+title: "Vidámpark a Sárkánypalota legendájából: november 20-án indul a japán Ryugu Kickstarter-kampánya"
 description: A japán 14games Urashima Taro meséjére épülő munkáslerakós stratégiai játéka, a Ryugu the Fleeting Paradise november 20-án érkezik a Kickstarterre; a játékban az idő a legfontosabb erőforrás.
 date: 2026-11-16T09:30:00+01:00
 type: gyujtott
@@ -17,11 +17,11 @@ tags:
   - Kickstarter
   - 14games
   - Ryugu the Fleeting Paradise
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794947952035.png
-imageAlt: ''
-imageCredit: 'Kép: 14games'
-imageSuggestion: 'Hivatalos kép a kiadó saját Kickstarter-kampányoldalán: https://www.kickstarter.com/projects/14games/ryugu (az oldalt most nem tudtam megnyitni; a kampány indulása után a kiadó által feltöltött dobozkép használható) – javasolt forrásmegjelölés: Kép: 14games. A 14games-nek külön sajtóoldalát nem találtam; ha addig nincs kép, kép nélkül is rendben van.'
+imageAlt: ""
+imageCredit: "Kép: 14games"
+imageSuggestion: "Hivatalos kép a kiadó saját Kickstarter-kampányoldalán: https://www.kickstarter.com/projects/14games/ryugu (az oldalt most nem tudtam megnyitni; a kampány indulása után a kiadó által feltöltött dobozkép használható) – javasolt forrásmegjelölés: Kép: 14games. A 14games-nek külön sajtóoldalát nem találtam; ha addig nincs kép, kép nélkül is rendben van."
 sources:
   - name: "Punchboard – Ryugu Preview: Everything's better down where it's wetter"
     url: https://punchboard.co.uk/ryugu-board-game-review/
