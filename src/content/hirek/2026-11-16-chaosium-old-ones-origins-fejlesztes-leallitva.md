@@ -1,14 +1,14 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 16. 15:03
-approvedBy: ''
-chiefApprovedBy: ''
+published: true
+publishedAt: 2026-11-17T22:59:03.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 17. 23:59
+approvedBy: Weszprémy Gábor · 2026. 11. 17. 23:59
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 17. 23:59
 title: Leállította a Chaosium az Old Ones Origins fejlesztését, miután a tervezőt gyermekek elleni bűncselekményekben bűnösnek mondták ki
-description: 'A Chaosium azonnal felfüggesztette a Forbidden Stars alapjaira épülő, közel 770 ezer dollárt gyűjtő Call of Cthulhu: Old Ones Origins fejlesztését, miután egy amerikai esküdtszék a játék tervezőjét, Samuel Bailey-t gyermekek sérelmére elkövetett szexuális bűncselekményekben bűnösnek találta.'
+description: "A Chaosium azonnal felfüggesztette a Forbidden Stars alapjaira épülő, közel 770 ezer dollárt gyűjtő Call of Cthulhu: Old Ones Origins fejlesztését, miután egy amerikai esküdtszék a játék tervezőjét, Samuel Bailey-t gyermekek sérelmére elkövetett szexuális bűncselekményekben bűnösnek találta."
 date: 2026-11-16T15:00:00+01:00
 type: gyujtott
 author: Szerkesztőség
@@ -17,17 +17,17 @@ tags:
   - Chaosium
   - Közösségi finanszírozás
   - Gamefound
-youtube: ''
-image: ''
-imageAlt: ''
-imageCredit: ''
+youtube: ""
+image: ""
+imageAlt: ""
+imageCredit: ""
 imageSuggestion: A hír jellege miatt játék- vagy dobozképet nem javaslok. Ha mindenképp kell kép, a Chaosium hivatalos logója jöhet szóba a kiadó sajtó-/arculati oldaláról (ilyet most nem találtam) – kép nélkül is rendben van.
 sources:
   - name: BoardGameWire – Chaosium halts crowdfunded Forbidden Stars remake after designer Samuel Bailey convicted of child sex offences
     url: https://boardgamewire.com/index.php/2026/11/16/chaosium-halts-crowdfunded-forbidden-stars-remake-after-designer-samuel-bailey-convicted-of-child-sex-offences/
   - name: Wargamer – Forbidden Stars board game remake canceled as designer is convicted of child abuse
     url: https://www.wargamer.com/board-games/old-ones-origins-canceled
-  - name: 'Brettspiel-News.de – Old Ones Origins: Designer verurteilt wegen Sexualdelikten an Kindern – Projekt gestoppt'
+  - name: "Brettspiel-News.de – Old Ones Origins: Designer verurteilt wegen Sexualdelikten an Kindern – Projekt gestoppt"
     url: https://www.brettspiel-news.de/index.php/de/nachrichten-uebersicht/branche/16480-old-ones-origins-chaosium-stoppt-entwicklung-nach-schuldspruch-gegen-designer
 ---
 
