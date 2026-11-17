@@ -32,7 +32,7 @@ November 5-én elindult a Steamen a **Digital Tabletop Fest 2026**, a társasjá
 
 ## Kik állnak mögötte?
 
-A fesztivált két, digitális adaptációkra szakosodott stúdió szervezi. A brit **Nomad Games** többek között a Catan (magyarul: *Catan telepesei*), a Talisman és a Fury of Dracula számítógépes változatáról ismert, a lengyel, poznańi **Monster Couch** pedig a Wingspan (magyarul Fesztáv), a Flamecraft (magyarul: *Lángművesek*) és a Quilts & Cats of Calico digitális kiadásait készítette – jelenleg a Wingspan testvérjátékának tartott Wyrmspan adaptációján dolgozik. Idén a fesztivál a világ legnagyobb közönségnek szóló társasjáték-vására, a **SPIEL Essen** együttműködésével valósul meg.
+A fesztivált két, digitális adaptációkra szakosodott stúdió szervezi. A brit **Nomad Games** többek között a Catan (magyarul: *Catan telepesei*), a Talisman és a Fury of Dracula számítógépes változatáról ismert, a lengyel, poznańi **Monster Couch** pedig a Wingspan (magyarul Fesztáv), a Flamecraft (magyarul: *Lángművesek*) és a Quilts & Cats of Calico digitális kiadásait készítette – jelenleg a Wingspan testvérjátékának tartott Wyrmspan (magyarul: *Reptáv*) adaptációján dolgozik. Idén a fesztivál a világ legnagyobb közönségnek szóló társasjáték-vására, a **SPIEL Essen** együttműködésével valósul meg.
 
 ## Mi várható?
 

@@ -48,4 +48,4 @@ A **Feuerland** kiadó **The Danes** című játéka Uwe Rosenberg nagy sikerű 
 
 Brandon Sanderson *The Stormlight Archive* regénysorozatának világában játszódik a **Brotherwise Games** stratégiai játéka, a **Stormlight: War for Roshar**, amelyet John D. Clair tervezett. A Kickstarteren csaknem **2,9 millió dollárnál** tart, a kampány november 6-án zárul.
 
-Szintén a héten ér véget a **Mantic Games** *Plants vs. Zombies: The Board Game* kampánya (több mint 960 ezer font), valamint a *Calico* (magyarul: *Calico – Foltok, cicák, takarók*) és a *Cascadia* alkotóitól, a **Flatout Gamestől** érkező **Perennial** is, amely a 8000 dolláros célja tizenhatszorosát gyűjtötte össze.
+Szintén a héten ér véget a **Mantic Games** *Plants vs. Zombies: The Board Game* kampánya (több mint 960 ezer font), valamint a *Calico* (magyarul: *Calico – Foltok, cicák, takarók*) és a *Cascadia* (magyarul: *Cascadia vadvilága*) alkotóitól, a **Flatout Gamestől** érkező **Perennial** is, amely a 8000 dolláros célja tizenhatszorosát gyűjtötte össze.

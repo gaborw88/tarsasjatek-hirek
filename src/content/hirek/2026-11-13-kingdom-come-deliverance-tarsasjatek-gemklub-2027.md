@@ -36,7 +36,7 @@ A Gémklub november 13-án jelentette be, hogy 2027-ben megjelenteti a **Kingdom
 
 ## Két sztártervező első közös munkája
 
-A játék a cseh Warhorse Studios azonos című, középkori szerepjátékán alapul, és a szintén cseh Czech Games Edition (CGE) adja ki. Tervezői a Codenames (magyarul: Fedőnevek) alkotója, Vlaada Chvátil, valamint a SETI tervezője, Tomáš Holek – ez az első alkalom, hogy ketten együtt dolgoztak egy játékon. Az angol kiadás az idei esseni SPIEL vásáron mutatkozott be.
+A játék a cseh Warhorse Studios azonos című, középkori szerepjátékán alapul, és a szintén cseh Czech Games Edition (CGE) adja ki. Tervezői a Codenames (magyarul: Fedőnevek) alkotója, Vlaada Chvátil, valamint a SETI (magyarul: *SETI: Kutatás a földön kívüli élet után*) tervezője, Tomáš Holek – ez az első alkalom, hogy ketten együtt dolgoztak egy játékon. Az angol kiadás az idei esseni SPIEL vásáron mutatkozott be.
 
 A videójátékkal ellentétben a játékosok nem a főhőst, Henryt irányítják: a 15. századi, háború sújtotta Csehországban szegény parasztként próbálnak boldogulni. Segíthetnek a helyi nemeseknek, szerezhetnek – akár lopással is – erőforrásokat, fejleszthetik a képességeiket a harctól az alkímiáig, és kapcsolatokat építhetnek. A túléléshez vadászni is kell, és még a ruházat állapota is számít. A rendszer pakliépítésre és képességpróbákra épül, könnyed szerepjátékos elemekkel; a játékosok versengenek, de közvetlenül nem támadják egymást. Egy parti öt játékbeli napig tart, és az nyer, aki a legjobban teljesíti a céljait.
 

@@ -45,4 +45,4 @@ A játékot eredetileg a máltai Mighty Boards adta ki közösségi finanszíroz
 
 ## A többi díjazott
 
-A döntőben a Rebirth mellett az **Art Society**, a **Bomb Busters** (magyarul: *Bombairtók*), az **Echoes of Time** és a **Thunder Road: Vendetta** szerepelt. Az év társasjáték-tervezőjének **Paolo Mori** bizonyult, aki többek között Bruno Cathalát, Tomáš Holeket és magát Kniziát előzte meg. Az év szerepjátéka a **Legend in the Mist** lett, különdíjat kapott a családi **Cozy Stickerville**, életműdíjat pedig Alessio Cavatore, a Warhammer-játékok egyik alkotója vehetett át.
+A döntőben a Rebirth mellett az **Art Society** (magyarul: *Műgyűjtők társasága*), a **Bomb Busters** (magyarul: *Bombairtók*), az **Echoes of Time** és a **Thunder Road: Vendetta** szerepelt. Az év társasjáték-tervezőjének **Paolo Mori** bizonyult, aki többek között Bruno Cathalát, Tomáš Holeket és magát Kniziát előzte meg. Az év szerepjátéka a **Legend in the Mist** lett, különdíjat kapott a családi **Cozy Stickerville**, életműdíjat pedig Alessio Cavatore, a Warhammer-játékok egyik alkotója vehetett át.

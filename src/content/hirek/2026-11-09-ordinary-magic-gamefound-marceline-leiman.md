@@ -31,7 +31,7 @@ sources:
     url: https://gamefound.com/en/projects/unstable-games/ordinary-magic/updates/4
 ---
 
-Erős rajtot vett az **Ordinary Magic**, az *Unstable Unicorns* kártyajátékról ismert, a TeeTurtle tulajdonában lévő Unstable Games új stúdiója. Első Gamefound-kampányuk 30 ezer dolláros célját 7 perc 44 másodperc alatt érték el, hétfő délre pedig már több mint 5200 támogató több mint 736 ezer dollárt adott össze a Brettspiel-News.de összesítése szerint. A kampány kedden, november 10-én este zárul.
+Erős rajtot vett az **Ordinary Magic**, az *Unstable Unicorns* (magyarul: *Unikornisok: A rémes ménes*) kártyajátékról ismert, a TeeTurtle tulajdonában lévő Unstable Games új stúdiója. Első Gamefound-kampányuk 30 ezer dolláros célját 7 perc 44 másodperc alatt érték el, hétfő délre pedig már több mint 5200 támogató több mint 736 ezer dollárt adott össze a Brettspiel-News.de összesítése szerint. A kampány kedden, november 10-én este zárul.
 
 ## Három játék, egy közös világ
 

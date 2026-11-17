@@ -30,7 +30,7 @@ Harminc évvel az első lapok megjelenése után a **Pokémon Trading Card Game*
 
 ## Bingó, Troll Maci, csúszda – és a Pokémon
 
-A kártyajáték mellett idén a **bingó**, a **Troll Maci** (Care Bears) és a **csúszda** kapott helyet a csarnokban. A tizenkét döntős között ott volt többek között a Mahjong, a Yahtzee, a Sorry!, a Mouse Trap, a Bop It!, a Polly Pocket, a Monster High babák és a Tickle Me Elmo is. Jelölni bárki jelölhet, a végső döntést a múzeum történészek, pedagógusok és más szakemberek tanácsai alapján hozza meg.
+A kártyajáték mellett idén a **bingó**, a **Troll Maci** (Care Bears) és a **csúszda** kapott helyet a csarnokban. A tizenkét döntős között ott volt többek között a Mahjong, a Yahtzee, a Sorry!, a Mouse Trap (magyarul: *Egérfogó*), a Bop It!, a Polly Pocket, a Monster High babák és a Tickle Me Elmo is. Jelölni bárki jelölhet, a végső döntést a múzeum történészek, pedagógusok és más szakemberek tanácsai alapján hozza meg.
 
 ## Miért éppen most?
 
