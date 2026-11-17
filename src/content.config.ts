@@ -29,6 +29,8 @@ const hirek = defineCollection({
     imageCredit: z.string().optional(),
     // Csak szerkesztőknek: javasolt kép linkje (nem jelenik meg az oldalon)
     imageSuggestion: z.string().optional(),
+    jatekok: z.array(z.string()).optional(),
+    magyarCimek: z.string().optional(),
     sources: z
       .array(z.object({ name: z.string(), url: z.string() }))
       .default([]),

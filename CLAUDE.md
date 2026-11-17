@@ -35,7 +35,14 @@ A tulajdonos nem programozó: vele mindig magyarul, egyszerűen, szakzsargon né
   Ha a játék eleve magyar fejlesztés, a magyar cím kerül előre, és az idegen nyelvű
   cím a zárójelbe. Ha a magyar kiadást nem tudod megerősíteni, ne írj magyar címet (ne fordítsd le magadtól).
   A címben (`title`) elég az egyik név; ha a játéknak ismert magyar címe van, inkább azt használd.
-  **Hogyan ellenőrizd:** a BoardGameGeek oldalai közvetlenül nem nyithatók meg, de a keresőben megjelennek.
+  **A `jatekok` mező (kötelező, ha a cikkben játék szerepel):** a frontmatterben sorold fel a cikkben említett
+  összes játék eredeti címét (`jatekok: ["Wyrmspan", "Art Society"]`; ha tudod a BGG-azonosítót: `"Wyrmspan #410201"`).
+  Mentés után a GitHub a BoardGameGeekről lekérdezi a magyar kiadásokat, és beírja a `magyarCimek` mezőbe (ezt a
+  mezőt te ne töltsd ki és ne módosítsd), a szerkesztő így jóváhagyás előtt ellenőrizheti.
+  **Mielőtt írsz, nézd meg a `src/data/magyar-cimek.json` fájlt:** ez a BGG-ből már lekérdezett játékok listája
+  (`magyarKiadas`, `magyarKiadasok` – kiadó, év –, `magyarCimJeloltek`). Ha egy játéknál `magyarKiadas: true` és van
+  egyértelmű jelölt, használd azt a magyar címet; ha `magyarKiadas: false`, nincs magyar kiadás.
+  **Hogyan ellenőrizd, ha a játék még nincs a listában:** a BoardGameGeek oldalai közvetlenül nem nyithatók meg, de a keresőben megjelennek.
   Keress így: „<eredeti cím> Hungarian edition boardgamegeek” (a BGG „Version” oldalán látszik a magyar kiadás neve és
   kiadója), és „<eredeti cím> analog.games” (az analog.games oldal „also published under these names” listájában
   benne vannak a magyar címek is). Jó forrás még a tarsasjatekok.com adatlapja és a magyar kiadó termékoldala vagy

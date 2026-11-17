@@ -112,6 +112,18 @@ collections:
         widget: list
         default: []
         hint: "Pl.: Magyar megjelenések, Gémklub, Essen Spiel, Kickstarter, Díjak"
+      - name: jatekok
+        label: "🎲 Játékok a cikkben (eredeti címmel)"
+        widget: list
+        required: false
+        default: []
+        hint: "Soronként egy játék eredeti címe (pl. Wyrmspan). Mentés után a rendszer a BoardGameGeeken megnézi, van-e magyar kiadása. Ha rossz játékot talál, írd a cím után a BGG-azonosítót: Wyrmspan #410201"
+      - name: magyarCimek
+        label: "🇭🇺 Magyar címek (BGG – automatikus, csak szerkesztőknek)"
+        widget: text
+        required: false
+        readonly: true
+        hint: "Mentés után pár perccel frissül. Ellenőrizd, hogy a szövegben szerepelnek-e a magyar címek."
       - name: youtube
         label: YouTube-videó linkje
         widget: string

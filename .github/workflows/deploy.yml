@@ -5,6 +5,9 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  schedule:
+    # Hetente újranézi a BGG-n azokat a játékokat, amelyeknek korábban nem volt magyar kiadása
+    - cron: '17 4 * * 1'
 
 permissions:
   contents: write
@@ -51,6 +54,28 @@ jobs:
               sleep 3
             done
             # Biztonsági ellenőrzés: összefésülési jelek nem kerülhetnek az oldalba
+            ! grep -rl '^<<<<<<< ' src szerkesztok.yml
+          fi
+      # Magyar játékcímek a BoardGameGeekről (csak ha a BGG_TOKEN titok be van állítva)
+      - name: Magyar címek (BGG)
+        env:
+          BGG_TOKEN: ${{ secrets.BGG_TOKEN }}
+        run: |
+          out=$(node scripts/bgg-magyar-cimek.mjs); echo "$out"
+          if echo "$out" | grep -q VALTOZOTT; then
+            git config user.name "github-actions"
+            git config user.email "github-actions@users.noreply.github.com"
+            git add -A src/content/hirek src/data
+            git commit -q -m "Magyar címek frissítése (BGG)" || exit 0
+            for i in 1 2 3 4 5; do
+              git push -q origin HEAD:main && break
+              git fetch -q origin main && git reset -q --hard origin/main
+              out=$(node scripts/bgg-magyar-cimek.mjs); echo "$out"
+              echo "$out" | grep -q VALTOZOTT || break
+              git add -A src/content/hirek src/data
+              git commit -q -m "Magyar címek frissítése (BGG)" || break
+              sleep 3
+            done
             ! grep -rl '^<<<<<<< ' src szerkesztok.yml
           fi
       - run: npm run build
