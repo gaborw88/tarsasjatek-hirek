@@ -1,9 +1,13 @@
 ---
-published: false
-approved: false
-chiefApproved: false
 status: ⏳ tervezet
-title: "Forró csoki és narancs a téli kávézóban: magyarul is megjelent a Coffee Rush: Téli kiadás"
+approved: true
+chiefApproved: true
+published: false
+publishedAt: ''
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 16. 07:09
+approvedBy: ''
+chiefApprovedBy: ''
+title: 'Forró csoki és narancs a téli kávézóban: magyarul is megjelent a Coffee Rush: Téli kiadás'
 description: A Gémklub kínálatában magyarul is kapható a koreai Coffee Rush önálló téli változata, amely mozgatható hozzávaló-lapkákkal, új alapanyaggal és fejlesztésekkel frissíti a gyors kávézós rendeléskezelő játékot.
 date: 2026-11-16T09:00:00+01:00
 type: gyujtott
@@ -13,19 +17,20 @@ tags:
   - Gémklub
   - Coffee Rush
   - Korea Boardgames
-imageSuggestion: "A dobozkép a Gémklub termékoldalán várhatóan elérhető: https://www.gemklub.hu/coffee-rush-teli-kiadas-16358 (ezt az oldalt most nem tudtam megnyitni, kérlek, ellenőrizd). Alternatíva: az angol kiadás hivatalos dobozképe az Asmodee UK termékoldaláról: https://www.asmodee.co.uk/cdn/shop/files/KBGCRW0101_1.jpg?v=1794732380&width=1214 – javasolt forrásmegjelölés: Kép: Korea Boardgames (magyar dobozhoz: Kép: Gémklub)."
+youtube: ''
+image: /images/uploads/pasted-image-1794946962249.png
+imageAlt: ''
+imageCredit: 'Kép: Gémklub'
+imageSuggestion: 'A dobozkép a Gémklub termékoldalán várhatóan elérhető: https://www.gemklub.hu/coffee-rush-teli-kiadas-16358 (ezt az oldalt most nem tudtam megnyitni, kérlek, ellenőrizd). Alternatíva: az angol kiadás hivatalos dobozképe az Asmodee UK termékoldaláról: https://www.asmodee.co.uk/cdn/shop/files/KBGCRW0101_1.jpg?v=1794732380&width=1214 – javasolt forrásmegjelölés: Kép: Korea Boardgames (magyar dobozhoz: Kép: Gémklub).'
 sources:
   - name: Gémklub – kezdőlap (újdonságok)
     url: https://www.gemklub.hu/
-  - name: "tarsasjatekok.com – Coffee Rush: Winter"
+  - name: 'tarsasjatekok.com – Coffee Rush: Winter'
     url: https://tarsasjatekok.com/tarsasjatek/coffee-rush-winter-2026
-  - name: "The Opinionated Gamers – Dale Yu: Review of Coffee Rush Winter"
+  - name: 'The Opinionated Gamers – Dale Yu: Review of Coffee Rush Winter'
     url: https://opinionatedgamers.com/2026/09/09/dale-yu-review-of-coffee-rush-winter/
   - name: Asmodee UK – Coffee Rush Winter Edition
     url: https://www.asmodee.co.uk/products/kbgcrw0101-coffee-rush-winter-edition
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 16. 07:09
-approvedBy: ""
-chiefApprovedBy: ""
 ---
 
 A Gémklub honlapján a friss megjelenések között szerepel a **Coffee Rush: Téli kiadás**, a népszerű koreai kávézós játék téli változata, amely a hazai játékboltokban is elérhetővé vált. A játékot eredetileg a **Korea Boardgames** adta ki, tervezője **Euijin Han**, illusztrátora Siwon Hwang.
