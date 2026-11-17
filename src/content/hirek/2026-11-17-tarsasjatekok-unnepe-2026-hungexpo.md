@@ -1,13 +1,13 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 17. 06:59
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Hétvégén jön a 14. Társasjátékok Ünnepe: új helyszínen, a Hungexpón várják a játékosokat'
+published: true
+publishedAt: 2026-11-17T13:08:26.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 17. 14:08
+approvedBy: Weszprémy Gábor · 2026. 11. 17. 14:08
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 17. 14:08
+title: "Hétvégén jön a 14. Társasjátékok Ünnepe: új helyszínen, a Hungexpón várják a játékosokat"
 description: November 21–22-én rendezik meg Budapesten a Társasjátékok Ünnepét és Társasjátékvásárt, idén először a Hungexpo Kongresszusi Központjában. A kedvezményes elővétel csütörtök délutánig tart.
 date: 2026-11-17T09:00:00+01:00
 type: gyujtott
@@ -16,11 +16,11 @@ tags:
   - Magyar megjelenések
   - Rendezvények
   - Társasjátékok Ünnepe
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1793751910563.png
-imageAlt: ''
-imageCredit: 'Kép: Társasjátékok Ünnepe'
-imageSuggestion: 'Hivatalos sajtókép nem található: a rendezvény honlapján (tarsasjatekokunnepe.hu) nincs sajtó- vagy arculati oldal. Megoldás: kérj logót vagy plakátot a szervezőktől (Játékostárs Alapítvány, a honlapon megadott e-mail-címen) – javasolt forrásmegjelölés: Kép: Társasjátékok Ünnepe. Kép nélkül is rendben van.'
+imageAlt: ""
+imageCredit: "Kép: Társasjátékok Ünnepe"
+imageSuggestion: "Hivatalos sajtókép nem található: a rendezvény honlapján (tarsasjatekokunnepe.hu) nincs sajtó- vagy arculati oldal. Megoldás: kérj logót vagy plakátot a szervezőktől (Játékostárs Alapítvány, a honlapon megadott e-mail-címen) – javasolt forrásmegjelölés: Kép: Társasjátékok Ünnepe. Kép nélkül is rendben van."
 sources:
   - name: Társasjátékok Ünnepe – Gyakran ismételt kérdések
     url: https://tarsasjatekokunnepe.hu/gyik/
