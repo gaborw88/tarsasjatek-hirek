@@ -1,9 +1,13 @@
 ---
-published: false
-approved: false
-chiefApproved: false
 status: ⏳ tervezet
-title: "Hétvégén jön a 14. Társasjátékok Ünnepe: új helyszínen, a Hungexpón várják a játékosokat"
+approved: true
+chiefApproved: true
+published: false
+publishedAt: ''
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 17. 06:59
+approvedBy: ''
+chiefApprovedBy: ''
+title: 'Hétvégén jön a 14. Társasjátékok Ünnepe: új helyszínen, a Hungexpón várják a játékosokat'
 description: November 21–22-én rendezik meg Budapesten a Társasjátékok Ünnepét és Társasjátékvásárt, idén először a Hungexpo Kongresszusi Központjában. A kedvezményes elővétel csütörtök délutánig tart.
 date: 2026-11-17T09:00:00+01:00
 type: gyujtott
@@ -12,7 +16,11 @@ tags:
   - Magyar megjelenések
   - Rendezvények
   - Társasjátékok Ünnepe
-imageSuggestion: "Hivatalos sajtókép nem található: a rendezvény honlapján (tarsasjatekokunnepe.hu) nincs sajtó- vagy arculati oldal. Megoldás: kérj logót vagy plakátot a szervezőktől (Játékostárs Alapítvány, a honlapon megadott e-mail-címen) – javasolt forrásmegjelölés: Kép: Társasjátékok Ünnepe. Kép nélkül is rendben van."
+youtube: ''
+image: /images/uploads/pasted-image-1793751910563.png
+imageAlt: ''
+imageCredit: 'Kép: Társasjátékok Ünnepe'
+imageSuggestion: 'Hivatalos sajtókép nem található: a rendezvény honlapján (tarsasjatekokunnepe.hu) nincs sajtó- vagy arculati oldal. Megoldás: kérj logót vagy plakátot a szervezőktől (Játékostárs Alapítvány, a honlapon megadott e-mail-címen) – javasolt forrásmegjelölés: Kép: Társasjátékok Ünnepe. Kép nélkül is rendben van.'
 sources:
   - name: Társasjátékok Ünnepe – Gyakran ismételt kérdések
     url: https://tarsasjatekokunnepe.hu/gyik/
@@ -22,16 +30,13 @@ sources:
     url: https://budapest.imami.hu/helyi-hirek/probald-ki-eld-vidd-haza-jon-tarsasjatekok-unnepe-4
   - name: Esemény Menedzser – Társasjátékok Ünnepe, 2026. november 21–22.
     url: https://esemenymenedzser.hu/esemeny/szakvasarok-kiallitasok/tarsasjatekok-unnepe-2026-november-21-22.html
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 17. 06:59
-approvedBy: ""
-chiefApprovedBy: ""
 ---
 
 A hazai társasjátékos naptár egyik legnagyobb eseménye következik: **november 21-én és 22-én** rendezik meg Budapesten a **Társasjátékok Ünnepét és Társasjátékvásárt**, amely a szervezők szerint immár 14. alkalommal várja a játékosokat. A rendezvény idén ismét helyszínt vált: tavaly a Papp László Budapest Sportaréna adott otthont neki, most a **Hungexpo Kongresszusi Központjába** (X. kerület, Albertirsai út 10.) költözik.
 
 ## Mire számíthatnak a látogatók?
 
-A kapuk szombaton 10 és 19, vasárnap 10 és 18 óra között lesznek nyitva. A jegy egész napos belépésre és korlátlan játékra jogosít: a szervezők több mint 600 asztalt és több száz kipróbálható játékot ígérnek, az asztaloknál szabálymagyarázók segítenek. A kiállítók között ott lesznek a legnagyobb hazai kiadók és forgalmazók, valamint társasjátékkávézók és fejlesztők is. Több standon kedvezményesen meg is lehet vásárolni a kipróbált játékokat – hogy bankkártyával vagy készpénzzel, az kiállítónként eltér.
+A kapuk szombaton 10 és 19, vasárnap 10 és 18 óra között lesznek nyitva. A jegy egész napos belépésre és korlátlan játékra jogosít: a szervezők több mint 600 asztalt és több száz kipróbálható játékot ígérnek, az asztaloknál szabálymagyarázók segítenek. Több standon kedvezményesen meg is lehet vásárolni a kipróbált játékokat – hogy bankkártyával vagy készpénzzel, az kiállítónként eltér.
 
 A program a családoknak és a rutinos játékosoknak is szól: lesz gyerekprogram és családi sarok, a tapasztaltabbaknak pedig versenyek és bajnokságok. Fontos tudnivaló, hogy saját játékot nem lehet bevinni és játszani, csak a kiállítók játékait lehet kipróbálni.
 
