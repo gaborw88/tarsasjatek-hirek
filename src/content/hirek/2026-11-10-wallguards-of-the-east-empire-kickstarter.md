@@ -4,7 +4,7 @@ approved: true
 chiefApproved: true
 published: true
 publishedAt: 2026-11-10T13:08:52.653Z
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 17. 18:50
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 17. 18:52
 approvedBy: Weszprémy Gábor · 2026. 11. 10. 14:07
 chiefApprovedBy: Weszprémy Gábor · 2026. 11. 10. 14:07
 title: "Konstantinápoly falain: a Wallguards of the East Empire nyitja a Garphill Games új trilógiáját"
