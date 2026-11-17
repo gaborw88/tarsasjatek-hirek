@@ -1,13 +1,13 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 16. 11:10
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Szöveg kerül az ikonok mellé: javított második kiadást kap a Wildscape, az első kiadás tulajdonosai önköltségen pótolhatják'
+published: true
+publishedAt: 2026-11-17T22:55:11.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 17. 23:55
+approvedBy: Weszprémy Gábor · 2026. 11. 17. 23:55
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 17. 23:55
+title: "Szöveg kerül az ikonok mellé: javított második kiadást kap a Wildscape, az első kiadás tulajdonosai önköltségen pótolhatják"
 description: A Karma Games a nehezen értelmezhető kártyaikonok miatti visszajelzésekre reagálva rövid szabályszöveggel nyomja újra a Wildscape kártyáit; az első kiadás vásárlói külön megvásárolhatják az új lapokat.
 date: 2026-11-16T12:30:00+01:00
 type: gyujtott
@@ -17,15 +17,15 @@ tags:
   - Karma Games
   - Wildscape
   - Újranyomás
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794955985068.png
-imageAlt: ''
-imageCredit: 'Kép: Karma Games'
-imageSuggestion: 'Hivatalos termékkép a kiadó webáruházában: https://store.karma-games.com/cdn/shop/files/WLD.png?v=1783240792&width=1946 (előrendelési oldal: https://store.karma-games.com/pages/wildscape-preorder) – javasolt forrásmegjelölés: Kép: Karma Games'
+imageAlt: ""
+imageCredit: "Kép: Karma Games"
+imageSuggestion: "Hivatalos termékkép a kiadó webáruházában: https://store.karma-games.com/cdn/shop/files/WLD.png?v=1783240792&width=1946 (előrendelési oldal: https://store.karma-games.com/pages/wildscape-preorder) – javasolt forrásmegjelölés: Kép: Karma Games"
 sources:
   - name: Karma Games – Wildscape Preorder (2nd Print Run)
     url: https://store.karma-games.com/pages/wildscape-preorder
-  - name: 'Brettspiel-News.de – Wildscape: Zweiter Druck mit Kartentext, Erstauflage soll nachrüsten können'
+  - name: "Brettspiel-News.de – Wildscape: Zweiter Druck mit Kartentext, Erstauflage soll nachrüsten können"
     url: https://www.brettspiel-news.de/index.php/de/nachrichten-uebersicht/branche/16470-wildscape-zweiter-druck-mit-kartentext-erstauflage-soll-nachr-sten-k-nnen
 ---
 
