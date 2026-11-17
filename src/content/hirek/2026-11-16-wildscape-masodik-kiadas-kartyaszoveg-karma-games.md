@@ -1,10 +1,14 @@
 ---
-published: false
-approved: false
-chiefApproved: false
 status: ⏳ tervezet
-title: "Szöveg kerül az ikonok mellé: javított második kiadást kap a Wildscape, az első kiadás tulajdonosai önköltségen pótolhatják"
-description: A Karma Games a nehezen értelmezhető kártyaikonok miatti visszajelzésekre reagálva rövid szabályszöveggel nyomja újra a Wildscape kártyáit; az első kiadás vásárlói önköltségi áron juthatnak hozzá az új lapokhoz.
+approved: true
+chiefApproved: true
+published: false
+publishedAt: ''
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 16. 11:10
+approvedBy: ''
+chiefApprovedBy: ''
+title: 'Szöveg kerül az ikonok mellé: javított második kiadást kap a Wildscape, az első kiadás tulajdonosai önköltségen pótolhatják'
+description: A Karma Games a nehezen értelmezhető kártyaikonok miatti visszajelzésekre reagálva rövid szabályszöveggel nyomja újra a Wildscape kártyáit; az első kiadás vásárlói külön megvásárolhatják az új lapokat.
 date: 2026-11-16T12:30:00+01:00
 type: gyujtott
 author: Szerkesztőség
@@ -13,15 +17,16 @@ tags:
   - Karma Games
   - Wildscape
   - Újranyomás
-imageSuggestion: "Hivatalos termékkép a kiadó webáruházában: https://store.karma-games.com/cdn/shop/files/WLD.png?v=1783240792&width=1946 (előrendelési oldal: https://store.karma-games.com/pages/wildscape-preorder) – javasolt forrásmegjelölés: Kép: Karma Games"
+youtube: ''
+image: /images/uploads/pasted-image-1794955985068.png
+imageAlt: ''
+imageCredit: 'Kép: Karma Games'
+imageSuggestion: 'Hivatalos termékkép a kiadó webáruházában: https://store.karma-games.com/cdn/shop/files/WLD.png?v=1783240792&width=1946 (előrendelési oldal: https://store.karma-games.com/pages/wildscape-preorder) – javasolt forrásmegjelölés: Kép: Karma Games'
 sources:
   - name: Karma Games – Wildscape Preorder (2nd Print Run)
     url: https://store.karma-games.com/pages/wildscape-preorder
-  - name: "Brettspiel-News.de – Wildscape: Zweiter Druck mit Kartentext, Erstauflage soll nachrüsten können"
+  - name: 'Brettspiel-News.de – Wildscape: Zweiter Druck mit Kartentext, Erstauflage soll nachrüsten können'
     url: https://www.brettspiel-news.de/index.php/de/nachrichten-uebersicht/branche/16470-wildscape-zweiter-druck-mit-kartentext-erstauflage-soll-nachr-sten-k-nnen
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 16. 11:10
-approvedBy: ""
-chiefApprovedBy: ""
 ---
 
 Gyorsan reagált a vásárlói kritikákra a német Karma Games: a **Wildscape** című stratégiai játék második kiadásában a kártyák ikonjai mellé rövid, leíró szabályszöveg kerül angol, német és francia nyelven egyaránt. A kiadó szerint a változtatás arra a visszajelzésre válasz, hogy a lapok ikonjait elsőre nehéz volt megfejteni.
