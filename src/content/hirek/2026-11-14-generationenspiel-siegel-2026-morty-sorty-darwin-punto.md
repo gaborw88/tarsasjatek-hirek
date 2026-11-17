@@ -45,4 +45,4 @@ Nem a legösszetettebb vagy a legnagyobb dobozos játékokat keresik, hanem azok
 
 A minősítést a bajor **Spielecafé der Generationen – Jung und Alt spielt e.V.** egyesület adja, idén Ulrike Scharf bajor szociális miniszter fővédnökségével. A szervezők hangsúlyozzák, hogy nem versenyről, hanem minőségi jelzésről van szó. Az elbírálás két lépcsős: előbb objektív szempontoknak kell megfelelni – jól olvasható szövegek, egymástól jól megkülönböztethető színek, strapabíró alkatrészek –, majd a zsűri azt vizsgálja, valóban összehozza-e a játék a fiatalokat és az időseket. Fontos szempont a rövid, legfeljebb fél órás játékidő és a könnyen átlátható szabály is.
 
-A Würfelreich összefoglalója szerint a minősítést 2018 óta adják ki; korábbi díjazottak között van a Qwixx, a Skyjo, a 7 Wonders Architects és a Can't Stop, tavaly pedig a Flip 7 és a Botanicus is megkapta.
+A Würfelreich összefoglalója szerint a minősítést 2018 óta adják ki; korábbi díjazottak között van a Qwixx, a Skyjo, a 7 Wonders Architects (magyarul: *7 Csoda: Építészek*) és a Can't Stop, tavaly pedig a Flip 7 és a Botanicus is megkapta.

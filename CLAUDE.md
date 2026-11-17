@@ -49,7 +49,7 @@ A tulajdonos nem programozó: vele mindig magyarul, egyszerűen, szakzsargon né
   The Lord of the Rings: Fate of the Fellowship → A Gyűrűk Ura: A Szövetség útja · Flamecraft → Lángművesek ·
   Just One → Csak egy · In the Footsteps of Darwin / Auf den Wegen von Darwin → Darwin nyomában ·
   Bomb Busters → Bombairtók · Calico → Calico – Foltok, cicák, takarók · Endeavor: Deep Sea → Endeavor: A mélység felfedezői ·
-  Dune: Imperium → Dűne: Impérium
+  Dune: Imperium → Dűne: Impérium · 7 Wonders Architects → 7 Csoda: Építészek
   Azonos címmel jelent meg magyarul (nem kell zárójel): Ark Nova, Talisman, Ticket to Ride, Azul, Carcassonne.
 - Szerzői jog: más weboldalak szövegét **nem másolod át**. Hírösszefoglalónál saját szavaiddal írod meg a tényeket. Idézet legfeljebb egy rövid mondat, idézőjelben, forrásmegjelöléssel.
 - Képek: képet **soha ne tölts le, ne linkelj be és ne tegyél az `image` mezőbe** – azt mindig egy szerkesztő tölti fel, miután ellenőrizte a felhasználási jogot.
