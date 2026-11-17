@@ -2,19 +2,26 @@
 published: false
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
+status: ⏳ tervezet
 title: "Ogrék, törpök és csontvázak munkában: az Ares Games viszi boltokba a Yonder angol kiadását"
-description: "Az olasz Ares Games adja ki és forgalmazza a Sinister Fish Games fantasy munkáslerakós játékának, a Haakon Gaarder tervezte Yondernek az angol nyelvű változatát; a boltokba 2027 késő tavaszán kerül."
+description: Az olasz Ares Games adja ki és forgalmazza a Sinister Fish Games fantasy munkáslerakós játékának, a Haakon Gaarder tervezte Yondernek az angol nyelvű változatát; a boltokba 2027 késő tavaszán kerül.
 date: 2026-11-17T13:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Kiadói hírek", "Ares Games", "Sinister Fish Games", "Yonder"]
+author: Szerkesztőség
+tags:
+  - Kiadói hírek
+  - Ares Games
+  - Sinister Fish Games
+  - Yonder
 imageSuggestion: "Hivatalos kép a kiadó saját Kickstarter-kampányoldalán: https://www.kickstarter.com/projects/sinisterfish/yonder (a Sinister Fish Games által feltöltött dobozkép) – javasolt forrásmegjelölés: Kép: Sinister Fish Games. Külön sajtóoldalt sem a Sinister Fish Games-nél, sem az Ares Gamesnél nem találtam; ha a kampányoldal képe nem megfelelő, érdemes az Ares Gamestől sajtóképet kérni."
 sources:
-  - name: "ICv2 – Ares to Publish 'Yonder' with Sinister Fish Games"
-    url: "https://icv2.com/articles/news/view/63899/ares-publish-yonder-sinister-fish-games"
-  - name: "Tabletop Gaming News – Sinister Fish Games to Launch “Yonder” on Kickstarter"
-    url: "https://tabletopgamingnews.com/?p=17218"
+  - name: ICv2 – Ares to Publish 'Yonder' with Sinister Fish Games
+    url: https://icv2.com/articles/news/view/63899/ares-publish-yonder-sinister-fish-games
+  - name: Tabletop Gaming News – Sinister Fish Games to Launch “Yonder” on Kickstarter
+    url: https://tabletopgamingnews.com/?p=17218
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 17. 14:56
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 Új partnerre talált a brit **Sinister Fish Games** egyik legsikeresebb közösségi finanszírozású játéka: az olasz **Ares Games** adja ki és forgalmazza a **Yonder** angol nyelvű kiadását. A megállapodásról az ICv2 amerikai szaklap számolt be november 17-én. Az Ares tervei szerint a játék 2027 késő tavaszán kerül a boltokba, miután a Kickstarter-támogatók megkapták a saját példányaikat.
