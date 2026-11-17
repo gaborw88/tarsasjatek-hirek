@@ -50,11 +50,13 @@ A tulajdonos nem programozó: vele mindig magyarul, egyszerűen, szakzsargon né
   Just One → Csak egy · In the Footsteps of Darwin / Auf den Wegen von Darwin → Darwin nyomában ·
   Bomb Busters → Bombairtók · Calico → Calico – Foltok, cicák, takarók · Endeavor: Deep Sea → Endeavor: A mélység felfedezői ·
   Dune: Imperium → Dűne: Impérium · 7 Wonders Architects → 7 Csoda: Építészek ·
-  Wyrmspan → Reptáv · Architects of the West Kingdom → A nyugati királyság építőmesterei ·
+  Wyrmspan → Reptáv · West Kingdom-trilógia → A Nyugati Királyság · South Tigris-trilógia → Dél-Tigris · Architects of the West Kingdom → A nyugati királyság építőmesterei ·
   Paladins of the West Kingdom → A Nyugati Királyság Lovagjai · Viscounts of the West Kingdom → A nyugati királyság várgrófjai ·
   SETI: Search for Extraterrestrial Intelligence → SETI: Kutatás a földön kívüli élet után ·
   Unstable Unicorns → Unikornisok: A rémes ménes · Art Society → Műgyűjtők társasága · Cascadia → Cascadia vadvilága ·
   Mouse Trap → Egérfogó · Warrior Knights → Hadurak · Space Hulk: Death Angel → Space Hulk: A Halál Angyalai
+  Sorozatoknál, trilógiáknál a sorozat magyar nevét add meg; az egyes részek magyar címét csak akkor sorold fel,
+  ha a szövegben is név szerint szerepelnek.
   **Fontos:** a keresés nem hozza ki megbízhatóan a magyar címet. Ha egy játék kiadói között magyar kiadó szerepel
   (Gém Klub, Reflexshop, Delta Vision, Compaya, Piatnik stb.), akkor van magyar kiadás: ilyenkor a magyar kiadó oldalán
   keresd meg a címét; ha nem találod, írd a futás végi beszámolóba, hogy a magyar címet a szerkesztőnek kell pótolnia.

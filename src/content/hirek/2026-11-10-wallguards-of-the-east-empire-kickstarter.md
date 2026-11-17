@@ -31,7 +31,7 @@ sources:
     url: https://brettspielbox.de/brettspiel-crowdfunding-news-45-26/
 ---
 
-A West Kingdom (magyarul megjelent részei: *A nyugati királyság építőmesterei*, *A Nyugati Királyság Lovagjai*, *A nyugati királyság várgrófjai*), a North Sea és a South Tigris után újabb történelmi trilógiába kezd az új-zélandi Garphill Games. Az első rész, a **Wallguards of the East Empire** a kiadó tájékoztatása szerint novemberben indul a Kickstarteren; a brit Megalopolis és a német Brettspielbox összefoglalója a kampány kezdőnapjaként november 10-ét adja meg.
+A West Kingdom (magyarul: *A Nyugati Királyság*), a North Sea és a South Tigris (magyarul: *Dél-Tigris*) után újabb történelmi trilógiába kezd az új-zélandi Garphill Games. Az első rész, a **Wallguards of the East Empire** a kiadó tájékoztatása szerint novemberben indul a Kickstarteren; a brit Megalopolis és a német Brettspielbox összefoglalója a kampány kezdőnapjaként november 10-ét adja meg.
 
 ## Ostrom 821-ben
 
