@@ -4,7 +4,7 @@ approved: true
 chiefApproved: true
 published: true
 publishedAt: 2026-11-09T21:10:42.018Z
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 17. 18:50
 approvedBy: Weszprémy Gábor · 2026. 11. 09. 22:09
 chiefApprovedBy: Weszprémy Gábor · 2026. 11. 09. 22:09
 title: "Könyvesbolt, kísértethotel és kávézó: 700 ezer dollár fölött az Unstable Unicorns kiadójának új stúdiójának játékai"

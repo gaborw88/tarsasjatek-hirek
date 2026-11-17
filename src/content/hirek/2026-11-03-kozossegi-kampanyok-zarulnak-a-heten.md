@@ -31,7 +31,7 @@ approved: true
 chiefApproved: true
 status: ✅ megjelent
 publishedAt: 2026-11-03T11:00:00.000Z
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 17. 14:39
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 17. 18:50
 ---
 
 Sűrű hét elé néznek a közösségi finanszírozást figyelő társasjátékosok: november 4. és 6. között egyszerre több olyan kampány zárul, amely a kitűzött célját sokszorosan túlteljesítette. Az alábbi összegek a Tabletop Analytics november 3-i adatai, a végeredmény ennél még magasabb lehet.

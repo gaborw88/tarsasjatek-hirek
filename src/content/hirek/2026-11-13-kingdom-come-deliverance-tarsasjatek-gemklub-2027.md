@@ -4,7 +4,7 @@ approved: true
 chiefApproved: true
 published: true
 publishedAt: 2026-11-15T14:15:47.000Z
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 15. 17:06
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 17. 18:50
 approvedBy: Weszprémy Gábor · 2026. 11. 15. 15:15
 chiefApprovedBy: Weszprémy Gábor · 2026. 11. 15. 15:15
 title: "Parasztból hős a középkori Csehországban: 2027-ben a Gémklubnál érkezik a Kingdom Come: Deliverance társasjáték"

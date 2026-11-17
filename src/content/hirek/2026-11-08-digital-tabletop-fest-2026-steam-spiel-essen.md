@@ -3,7 +3,7 @@ status: ✅ megjelent
 approved: true
 chiefApproved: true
 published: true
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 17. 14:39
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 17. 18:50
 approvedBy: Weszprémy Gábor
 chiefApprovedBy: Weszprémy Gábor
 title: "Társasjátékok a képernyőn: november 15-ig tart a Steam Digital Tabletop Festje, idén a SPIEL Essennel közösen"
