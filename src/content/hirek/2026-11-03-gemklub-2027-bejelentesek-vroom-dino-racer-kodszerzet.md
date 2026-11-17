@@ -45,4 +45,4 @@ A **Dino Racer** gyors kártyajáték öt furcsa dinoszaurusz háromfutamos vers
 
 - A **Ködszerzet** pakliépítő kártyajáték (*Mistborn: The Deckbuilding Game*) kiegészítője, a **The Well of Ascension**, Brandon Sanderson regénysorozatának második kötetét dolgozza fel. John D. Clair munkája új fémeket és képességeket, valamint egy egyszemélyes/kooperatív módot hoz Luthadel ostromáról. Angolul 2026. november 18-án kerül a boltokba, a Gémklub 2027-re ígéri a magyar változatot.
 - A **Kertvárosi kémek** (*Agent Avenue*) új kiegészítőt kap **Four Seasons** címmel. Részleteket és megjelenési időt a kiadó még nem közölt.
-- Az **Exploding Kittens: The Board Game**, a népszerű kártyajáték társasjáték-változata a Gémklub szerint „hamarosan” érkezik magyarul.
+- Az **Exploding Kittens: The Board Game** (magyarul: *Robbanó cicák – A társasjáték*), a népszerű kártyajáték társasjáték-változata a Gémklub szerint „hamarosan” érkezik magyarul.

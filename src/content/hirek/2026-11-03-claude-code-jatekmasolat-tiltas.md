@@ -32,7 +32,7 @@ A változtatást **Addy Osmani**, az Anthropic munkatársa erősítette meg. Ind
 
 ## Miért érinti a társasjátékokat?
 
-A játékszabályok és -mechanizmusok általában nem állnak szerzői jogi védelem alatt, a mesterséges intelligencia pedig megkönnyíti, hogy valaki egy meglévő játék rendszerét új grafikával és szöveggel építse újra. A BoardGameWire emlékeztet: 2025-ben egy fejlesztő néhány perc alatt készíttetett el így egy (hibás) böngészős Catan-klónt. A témában régóta vannak példák: a népszerű **Colonist.io** ingyenes Catan-alternatívaként működik, míg a Disney fellépése nyomán 2024-ben megszűnt a **Pixelborn**, a Disney Lorcana kártyajáték nem hivatalos online változata.
+A játékszabályok és -mechanizmusok általában nem állnak szerzői jogi védelem alatt, a mesterséges intelligencia pedig megkönnyíti, hogy valaki egy meglévő játék rendszerét új grafikával és szöveggel építse újra. A BoardGameWire emlékeztet: 2025-ben egy fejlesztő néhány perc alatt készíttetett el így egy (hibás) böngészős Catan-klónt (a Catan magyarul *Catan telepesei* címen ismert). A témában régóta vannak példák: a népszerű **Colonist.io** ingyenes Catan-alternatívaként működik, míg a Disney fellépése nyomán 2024-ben megszűnt a **Pixelborn**, a Disney Lorcana kártyajáték nem hivatalos online változata.
 
 A BoardGameWire szerint az új szabály olyan felhasználókat is érintett, akik csak baráti körben, zártan szerették volna játszani egy kereskedelmi társasjáték saját készítésű digitális változatát. Egy wargame-kiadó vezetője pedig elmondta a lapnak, hogy licenc nélkül, fizetős megrendelésre készített más kiadók játékaiból digitális változatot; miután Claude leállt ezekkel a munkákkal, más AI-eszközökkel folytatta őket.
 

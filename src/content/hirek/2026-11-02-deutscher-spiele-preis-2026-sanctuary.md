@@ -38,6 +38,6 @@ A Sanctuary egyszerűbb, rövidebb játék, mint az állatkert-építős Ark Nov
 
 ## A dobogó és a további helyezettek
 
-Második lett a Pegasus Spiele által kiadott **Boss Fighters QR** (Michael Palm és Lukas Zach), harmadik pedig a Kickstarteren sikeres **Galactic Cruise** (T. K. King, Dennis Northcott és Koltin Thomson). Az első tízbe került többek között Matt Leacock **The Lord of the Rings: Fate of the Fellowship** című kooperatív játéka, az Asmodee rekordgyorsan fogyó **Take Time** című játéka, Reiner Knizia **Rebirth** című játéka, valamint a **Star Trek: Captain's Chair**. Az Asmodee négy játékkal szerepelt a toplistán, de egyikkel sem jutott dobogóra.
+Második lett a Pegasus Spiele által kiadott **Boss Fighters QR** (Michael Palm és Lukas Zach), harmadik pedig a Kickstarteren sikeres **Galactic Cruise** (T. K. King, Dennis Northcott és Koltin Thomson). Az első tízbe került többek között Matt Leacock **The Lord of the Rings: Fate of the Fellowship** (magyarul: *A Gyűrűk Ura: A Szövetség útja*) című kooperatív játéka, az Asmodee rekordgyorsan fogyó **Take Time** (magyarul: *Időhurok*) című játéka, Reiner Knizia **Rebirth** című játéka, valamint a **Star Trek: Captain's Chair**. Az Asmodee négy játékkal szerepelt a toplistán, de egyikkel sem jutott dobogóra.
 
 A gyerekjátékok kategóriájában Wojciech Grajkowski **Toriki** című játéka nyert. A Fairplay magazin szintén a napokban kihirdetett „à la carte” kártyajáték-díját pedig a Take Time kapta.

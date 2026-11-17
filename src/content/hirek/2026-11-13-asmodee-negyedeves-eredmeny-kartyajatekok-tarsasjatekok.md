@@ -30,7 +30,7 @@ sources:
     url: https://in.investing.com/news/stock-market-news/asmodee-q2-2026-slides-37-sales-growth-drives-margin-target-hit-93CH-5702189
 ---
 
-Erős negyedévről számolt be pénteken az Asmodee. A francia hátterű, ma Svédországban tőzsdézett játékcsoport – amelyhez többek között a Catan, a Carcassonne, a Ticket to Ride és az Azul tartozik, és amely Európa-szerte forgalmazza a Pokémon, a Magic: The Gathering és a One Piece kártyajátékokat – július és szeptember között 551,8 millió euró árbevételt ért el. Ez 36,8 százalékkal több, mint egy évvel korábban (403,4 millió euró); a felvásárlások hatása nélkül számolt, úgynevezett organikus növekedés 33,3 százalék volt.
+Erős negyedévről számolt be pénteken az Asmodee. A francia hátterű, ma Svédországban tőzsdézett játékcsoport – amelyhez többek között a Catan (magyarul: *Catan telepesei*), a Carcassonne, a Ticket to Ride és az Azul tartozik, és amely Európa-szerte forgalmazza a Pokémon, a Magic: The Gathering és a One Piece kártyajátékokat – július és szeptember között 551,8 millió euró árbevételt ért el. Ez 36,8 százalékkal több, mint egy évvel korábban (403,4 millió euró); a felvásárlások hatása nélkül számolt, úgynevezett organikus növekedés 33,3 százalék volt.
 
 ## A kártyák húzzák a szekeret
 

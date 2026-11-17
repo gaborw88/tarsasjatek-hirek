@@ -29,7 +29,7 @@ sources:
     url: https://store.asmodee.com/collections/coming-soon/products/arkham-horror-the-card-game-power-of-the-dreamlands-deckbuilding-expansion
 ---
 
-Új kiegészítőt jelentett be az **Arkham Horror: The Card Game** kooperatív kártyajátékhoz a Fantasy Flight Games. A **Power of the Dreamlands** nevű csomag 2027. február 19-én kerül a boltokba, ajánlott ára 39,99 dollár.
+Új kiegészítőt jelentett be az **Arkham Horror: The Card Game** (magyarul: *Rettegés Arkhamban: A kártyajáték*) kooperatív kártyajátékhoz a Fantasy Flight Games. A **Power of the Dreamlands** nevű csomag 2027. február 19-én kerül a boltokba, ajánlott ára 39,99 dollár.
 
 ## 147 új kártya az Álomvilágból
 

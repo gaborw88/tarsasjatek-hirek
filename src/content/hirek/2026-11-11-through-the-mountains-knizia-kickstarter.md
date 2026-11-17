@@ -32,7 +32,7 @@ sources:
     url: https://www.kickstarter.com/projects/boardgametables/through-the-mountains-through-the-desert-deluxe-more
 ---
 
-Közel három évtized után kap folytatást Reiner Knizia egyik ismert absztrakt stratégiai játéka. Az amerikai Allplay Kickstarteren gyűjt a **Through the Mountains** című új játékra, amely az 1998-ban megjelent **Through the Desert** önálló folytatása. A kampány október 27-én indult, és a tervek szerint péntek (november 13.) hajnalban zárul.
+Közel három évtized után kap folytatást Reiner Knizia egyik ismert absztrakt stratégiai játéka. Az amerikai Allplay Kickstarteren gyűjt a **Through the Mountains** című új játékra, amely az 1998-ban megjelent **Through the Desert** (magyarul: *Át a sivatagon*) önálló folytatása. A kampány október 27-én indult, és a tervek szerint péntek (november 13.) hajnalban zárul.
 
 ## Tevék helyett jakok
 

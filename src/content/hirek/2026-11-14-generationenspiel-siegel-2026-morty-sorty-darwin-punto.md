@@ -38,7 +38,7 @@ Nem a legösszetettebb vagy a legnagyobb dobozos játékokat keresik, hanem azok
 ## Az idei három játék
 
 - **Morty Sorty Magic Shop** (Schmidt Spiele, tervező: Markus Slawitscheck) – a varázsboltos családi játék 2–4 fővel játszható, és idén a Spiel des Jahres díjra is jelölték.
-- **Auf den Wegen von Darwin** (angolul *In the Footsteps of Darwin*; Sorry We Are French, tervezők: Grégory Grard és Matthieu Verdier) – Darwin útjait felidéző, 2–5 fős játék, amely 2024-ben szintén Spiel des Jahres-jelölt volt.
+- **Auf den Wegen von Darwin** (magyarul *Darwin nyomában*, angolul *In the Footsteps of Darwin*; Sorry We Are French, tervezők: Grégory Grard és Matthieu Verdier) – Darwin útjait felidéző, 2–5 fős játék, amely 2024-ben szintén Spiel des Jahres-jelölt volt.
 - **Punto** (Game Factory, tervező: Bernhard Weber) – kis fémdobozos, kb. 20 perces kártyajáték 2–4 főre, 7 éves kortól.
 
 ## Hogyan kapja meg egy játék?

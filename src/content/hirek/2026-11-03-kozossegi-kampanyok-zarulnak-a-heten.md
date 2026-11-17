@@ -38,7 +38,7 @@ Sűrű hét elé néznek a közösségi finanszírozást figyelő társasjáték
 
 ## Arkham Horror, újra – a Fantasy Flight első kampánya
 
-A **Fantasy Flight Games** (az Asmodee-csoport tagja) október végén indította első saját közösségi kampányát a Gamefoundon. Az **Arkham Horror Remastered** a 2005-ös *Arkham Horror* második kiadásának felújított változata: új grafikát, frissített komponenseket és átdolgozott szabálykönyvet kap, a játékmenet és a szabályok lényegében változatlanok. A kiadó szerint ez az első darab a „trezorból” visszahozott régi játékai közül. A 300 ezer dolláros célt messze túllépve már **több mint 3,5 millió dollárt** gyűjtött, közel 8900 támogatótól.
+A **Fantasy Flight Games** (az Asmodee-csoport tagja) október végén indította első saját közösségi kampányát a Gamefoundon. Az **Arkham Horror Remastered** a 2005-ös *Arkham Horror* második kiadásának felújított változata (a sorozat harmadik kiadása magyarul *Rettegés Arkhamban* címen jelent meg): új grafikát, frissített komponenseket és átdolgozott szabálykönyvet kap, a játékmenet és a szabályok lényegében változatlanok. A kiadó szerint ez az első darab a „trezorból” visszahozott régi játékai közül. A 300 ezer dolláros célt messze túllépve már **több mint 3,5 millió dollárt** gyűjtött, közel 8900 támogatótól.
 
 ## Uwe Rosenberg vikingjei visszatérnek
 
@@ -48,4 +48,4 @@ A **Feuerland** kiadó **The Danes** című játéka Uwe Rosenberg nagy sikerű 
 
 Brandon Sanderson *The Stormlight Archive* regénysorozatának világában játszódik a **Brotherwise Games** stratégiai játéka, a **Stormlight: War for Roshar**, amelyet John D. Clair tervezett. A Kickstarteren csaknem **2,9 millió dollárnál** tart, a kampány november 6-án zárul.
 
-Szintén a héten ér véget a **Mantic Games** *Plants vs. Zombies: The Board Game* kampánya (több mint 960 ezer font), valamint a *Calico* és a *Cascadia* alkotóitól, a **Flatout Gamestől** érkező **Perennial** is, amely a 8000 dolláros célja tizenhatszorosát gyűjtötte össze.
+Szintén a héten ér véget a **Mantic Games** *Plants vs. Zombies: The Board Game* kampánya (több mint 960 ezer font), valamint a *Calico* (magyarul: *Calico – Foltok, cicák, takarók*) és a *Cascadia* alkotóitól, a **Flatout Gamestől** érkező **Perennial** is, amely a 8000 dolláros célja tizenhatszorosát gyűjtötte össze.

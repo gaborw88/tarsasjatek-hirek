@@ -35,7 +35,7 @@ A hét közepén lezárult a **Fantasy Flight Games** (az Asmodee-csoport tagja)
 
 ## Klasszikus a trezorból
 
-A projekt a kiadó új, **Vault Series** nevű kezdeményezésének első darabja, amelyben régebbi, a boltokból már eltűnt játékait hozza vissza. Az _Arkham Horror_ 2005-ös második kiadása H. P. Lovecraft világában játszódó kooperatív játék, amelyben a játékosok nyomozóként próbálják megakadályozni, hogy ősi lények törjenek át a világunkba. A felújított változat új grafikát, korszerűsített komponenseket és áttekinthetőbb szabálykönyvet kap, a játékmenet azonban lényegében a régi marad. A kampányban a második kiadás kiegészítőit is újra elérhetővé tették. Egyelőre csak angol nyelvű kiadást jelentettek be.
+A projekt a kiadó új, **Vault Series** nevű kezdeményezésének első darabja, amelyben régebbi, a boltokból már eltűnt játékait hozza vissza. Az _Arkham Horror_ 2005-ös második kiadása (a sorozat harmadik kiadása magyarul _Rettegés Arkhamban_ címen jelent meg) H. P. Lovecraft világában játszódó kooperatív játék, amelyben a játékosok nyomozóként próbálják megakadályozni, hogy ősi lények törjenek át a világunkba. A felújított változat új grafikát, korszerűsített komponenseket és áttekinthetőbb szabálykönyvet kap, a játékmenet azonban lényegében a régi marad. A kampányban a második kiadás kiegészítőit is újra elérhetővé tették. Egyelőre csak angol nyelvű kiadást jelentettek be.
 
 ## Kétmilliós hajrá
 
