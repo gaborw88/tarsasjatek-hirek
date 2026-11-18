@@ -2,24 +2,35 @@
 published: false
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
+status: ⏳ tervezet
 title: "Gombaszerzetes és repülő zsoldos: 2027-ben magyarul is jön a Homályrév: Apró kalandok első kiegészítője"
 description: "A Gémklub bejelentette, hogy 2027-ben kiadja a zsebméretű Gloomhaven-kalandjáték, a Homályrév: Apró kalandok Pub Crawlers című kiegészítőjét. A bővítés két új kasztot és egy teljesen új hadjáratot hoz."
 date: 2026-11-18T23:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Magyar megjelenések", "Gémklub", "Cephalofair Games", "Kiegészítők", "Gloomhaven"]
-jatekok: ["Gloomhaven: Buttons & Bugs", "Buttons & Bugs: Pub Crawlers", "Gloomhaven"]
+author: Szerkesztőség
+tags:
+  - Magyar megjelenések
+  - Gémklub
+  - Cephalofair Games
+  - Kiegészítők
+  - Gloomhaven
+jatekok:
+  - "Gloomhaven: Buttons & Bugs"
+  - "Buttons & Bugs: Pub Crawlers"
+  - Gloomhaven
 imageSuggestion: "Hivatalos dobozkép a kiadó (Cephalofair Games) termékoldalán: https://cephalofair.com/products/gloomhaven-pubcrawlers-a-buttons-bugs-expansion (képfájl: https://cephalofair.com/cdn/shop/files/BBPC_FM.jpg?v=1784855029&width=2048) – javasolt forrásmegjelölés: Kép: Cephalofair Games. A Gémklub bejelentésénél kép nem látszott; ha lesz magyar dobozkép, az még jobb."
 sources:
   - name: "Gémklub – Új megjelenés: Buttons & Bugs: Pub Crawlers"
-    url: "https://www.gemklub.hu/hirek/uj-megjelenes-buttons-and-bugs-pub-crawlers-2895"
+    url: https://www.gemklub.hu/hirek/uj-megjelenes-buttons-and-bugs-pub-crawlers-2895
   - name: "Cephalofair Games – Announcing Buttons & Bugs: Pub Crawlers Expansion"
-    url: "https://cephalofair.com/blogs/chronicle/announcing-buttons-bugs-pub-crawlers-expansion"
+    url: https://cephalofair.com/blogs/chronicle/announcing-buttons-bugs-pub-crawlers-expansion
   - name: "Cephalofair Games – Buttons & Bugs: Pub Crawlers (termékoldal)"
-    url: "https://cephalofair.com/products/gloomhaven-pubcrawlers-a-buttons-bugs-expansion"
-  - name: "GamesRadar+ – Gloomhaven RPG spinoff Buttons & Bugs gets its first expansion with new classes and a pub crawl"
-    url: "https://www.gamesradar.com/games/board-games/gloomhaven-rpg-spinoff-buttons-and-bugs-gets-its-first-expansion-with-new-classes-and-a-pub-crawl/"
+    url: https://cephalofair.com/products/gloomhaven-pubcrawlers-a-buttons-bugs-expansion
+  - name: GamesRadar+ – Gloomhaven RPG spinoff Buttons & Bugs gets its first expansion with new classes and a pub crawl
+    url: https://www.gamesradar.com/games/board-games/gloomhaven-rpg-spinoff-buttons-and-bugs-gets-its-first-expansion-with-new-classes-and-a-pub-crawl/
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 18. 23:20
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 A Gémklub november 18-án jelentette be, hogy 2027-ben érkezik a **Gloomhaven: Buttons & Bugs** (magyarul: *Homályrév: Apró kalandok*) első nagyobb kiegészítője, a **Buttons & Bugs: Pub Crawlers**. Magyar címet és árat a kiadó egyelőre nem közölt.
