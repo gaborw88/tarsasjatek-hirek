@@ -34,7 +34,7 @@ sources:
     url: https://www.officedoggames.com/announcements/announcing-schadenfreude/
 ---
 
-Nem egy esseni nagy dobozos újdonság, hanem egy kis japán kártyajáték került a BoardGameGeek „Hotness” listájának első helyére: a német Brettspiel-News.de november 10-i beszámolója szerint a **Schadenfreude** vezeti a játékadatbázis népszerűségi rangsorát. Ez a lista nem az értékeléseket, hanem azt méri, hogy az utóbbi időben mely játékok oldalait nézik a legtöbben.
+Nem egy esseni nagy dobozos újdonság, hanem egy kis japán kártyajáték került a BoardGameGeek „Hotness” listájának első helyére: a német Brettspiel-News.de november 10-i beszámolója szerint a **Schadenfreude** (magyarul: *Káröröm*, a Gémklub kiadásában) vezeti a játékadatbázis népszerűségi rangsorát. Ez a lista nem az értékeléseket, hanem azt méri, hogy az utóbbi időben mely játékok oldalait nézik a legtöbben.
 
 ## Japánból az Asmodee-hez
 

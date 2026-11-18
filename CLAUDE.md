@@ -61,7 +61,7 @@ A tulajdonos nem programozó: vele mindig magyarul, egyszerűen, szakzsargon né
   Paladins of the West Kingdom → A Nyugati Királyság Lovagjai · Viscounts of the West Kingdom → A nyugati királyság várgrófjai ·
   SETI: Search for Extraterrestrial Intelligence → SETI: Kutatás a földön kívüli élet után ·
   Unstable Unicorns → Unikornisok: A rémes ménes · Art Society → Műgyűjtők társasága · Cascadia → Cascadia vadvilága ·
-  Mouse Trap → Egérfogó · Warrior Knights → Hadurak · Space Hulk: Death Angel → Space Hulk: A Halál Angyalai
+  Mouse Trap → Egérfogó · Warrior Knights → Hadurak · Space Hulk: Death Angel → Space Hulk: A Halál Angyalai · Schadenfreude → Káröröm (Gémklub)
   Sorozatoknál, trilógiáknál a sorozat magyar nevét add meg; az egyes részek magyar címét csak akkor sorold fel,
   ha a szövegben is név szerint szerepelnek.
   **Fontos:** a keresés nem hozza ki megbízhatóan a magyar címet. Ha egy játék kiadói között magyar kiadó szerepel
