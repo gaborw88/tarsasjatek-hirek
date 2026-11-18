@@ -15,7 +15,6 @@ const nav = [
   { href: url('/cimkek/'), label: 'Témák' },
   { href: url('/rolunk/'), label: 'Rólunk' },
   { href: url('/impresszum/'), label: 'Impresszum' },
-  { href: url('/kereses/'), label: '🔍 Keresés' },
 ];
 ---
 <!doctype html>
@@ -62,6 +61,12 @@ const nav = [
         <img src={url('/images/logo-220.png')} alt={SITE.name} class="logo" width="405" height="220" />
         <span class="brand-tag">{SITE.tagline}</span>
       </a>
+      {!path.startsWith(url('/kereses/')) && (
+        <form class="head-search" action={url('/kereses/')} method="get" role="search">
+          <input type="search" name="q" placeholder="Keresés a cikkekben…" aria-label="Keresés a cikkekben" />
+          <button type="submit" aria-label="Keresés"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="currentColor" d="M10 2a8 8 0 0 1 6.32 12.9l5.39 5.4-1.41 1.4-5.4-5.38A8 8 0 1 1 10 2zm0 2a6 6 0 1 0 0 12 6 6 0 0 0 0-12z"/></svg></button>
+        </form>
+      )}
       <nav>
         {nav.map((n) => (
           <a href={n.href} class:list={[{ active: path === n.href || (n.label === 'Hírek' && path.includes('/hirek/')) }]}>{n.label}</a>
@@ -102,6 +107,11 @@ const nav = [
   .brand-row { display: flex; align-items: center; justify-content: space-between; gap: 20px; padding-top: 22px; padding-bottom: 18px; flex-wrap: wrap; }
   .brand { display: flex; align-items: center; gap: 18px; text-decoration: none; }
   .logo { height: 88px; width: auto; }
+  .head-search { flex: 1 1 220px; max-width: 320px; display: flex; border: 2px solid var(--c-ink); border-radius: 8px; overflow: hidden; background: #fff; }
+  .head-search:focus-within { outline: 3px solid var(--c-accent); outline-offset: 1px; }
+  .head-search input { flex: 1; min-width: 0; border: 0; padding: 8px 12px; font: inherit; font-size: 0.95rem; background: transparent; outline: none; }
+  .head-search button { border: 0; background: var(--c-ink); color: #fff; padding: 0 12px; cursor: pointer; display: flex; align-items: center; }
+  .head-search button:hover { background: #333; }
   .brand-tag { display: block; color: var(--c-muted); font-size: 0.9rem; max-width: 18ch; line-height: 1.3; border-left: 3px solid var(--c-accent); padding-left: 12px; }
   nav { display: flex; gap: 4px; flex-wrap: wrap; }
   nav a { text-decoration: none; font-weight: 550; font-size: 0.95rem; padding: 6px 12px; border-radius: 6px; }
@@ -119,5 +129,5 @@ const nav = [
   .top-links { display: flex; gap: 16px; }
   .fb-link { display: inline-flex; align-items: center; gap: 5px; }
   .foot-links a:hover { color: var(--c-accent-ink); }
-  @media (max-width: 640px) { .foot-in { grid-template-columns: 1fr; } .logo { height: 54px; } .brand-tag { display: none; } }
+  @media (max-width: 640px) { .head-search { order: 3; flex-basis: 100%; max-width: none; } .foot-in { grid-template-columns: 1fr; } .logo { height: 54px; } .brand-tag { display: none; } }
 </style>
