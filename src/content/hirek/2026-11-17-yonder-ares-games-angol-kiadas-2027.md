@@ -1,13 +1,13 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 17. 14:56
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Ogrék, törpök és csontvázak munkában: az Ares Games viszi boltokba a Yonder angol kiadását'
+published: true
+publishedAt: 2026-11-18T19:45:17.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 18. 20:45
+approvedBy: Weszprémy Gábor · 2026. 11. 18. 20:45
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 18. 20:45
+title: "Ogrék, törpök és csontvázak munkában: az Ares Games viszi boltokba a Yonder angol kiadását"
 description: Az olasz Ares Games adja ki és forgalmazza a Sinister Fish Games fantasy munkáslerakós játékának, a Haakon Gaarder tervezte Yondernek az angol nyelvű változatát; a boltokba 2027 késő tavaszán kerül.
 date: 2026-11-17T13:00:00+01:00
 type: gyujtott
@@ -17,11 +17,11 @@ tags:
   - Ares Games
   - Sinister Fish Games
   - Yonder
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1795031048351.png
-imageAlt: ''
-imageCredit: 'Kép: Sinister Fish Games'
-imageSuggestion: 'Hivatalos kép a kiadó saját Kickstarter-kampányoldalán: https://www.kickstarter.com/projects/sinisterfish/yonder (a Sinister Fish Games által feltöltött dobozkép) – javasolt forrásmegjelölés: Kép: Sinister Fish Games. Külön sajtóoldalt sem a Sinister Fish Games-nél, sem az Ares Gamesnél nem találtam; ha a kampányoldal képe nem megfelelő, érdemes az Ares Gamestől sajtóképet kérni.'
+imageAlt: ""
+imageCredit: "Kép: Sinister Fish Games"
+imageSuggestion: "Hivatalos kép a kiadó saját Kickstarter-kampányoldalán: https://www.kickstarter.com/projects/sinisterfish/yonder (a Sinister Fish Games által feltöltött dobozkép) – javasolt forrásmegjelölés: Kép: Sinister Fish Games. Külön sajtóoldalt sem a Sinister Fish Games-nél, sem az Ares Gamesnél nem találtam; ha a kampányoldal képe nem megfelelő, érdemes az Ares Gamestől sajtóképet kérni."
 sources:
   - name: ICv2 – Ares to Publish 'Yonder' with Sinister Fish Games
     url: https://icv2.com/articles/news/view/63899/ares-publish-yonder-sinister-fish-games
