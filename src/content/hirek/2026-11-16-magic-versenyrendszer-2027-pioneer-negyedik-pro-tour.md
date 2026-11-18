@@ -1,27 +1,27 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 16. 23:13
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Visszatér a Pioneer, 2028-tól négy Pro Tour lesz: átalakul a Magic versenyrendszere'
-description: 'A Wizards of the Coast bejelentette a Magic: The Gathering 2027-es versenynaptárát: a Pioneer formátum visszakerül a nagy versenyekre, a Spotlight Series 14 állomásosra bővül, 2028-tól pedig egy negyedik, csak limitált formátumú Pro Tour is érkezik.'
+published: true
+publishedAt: 2026-11-18T10:41:57.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 18. 11:41
+approvedBy: Weszprémy Gábor · 2026. 11. 18. 11:41
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 18. 11:41
+title: "Visszatér a Pioneer, 2028-tól négy Pro Tour lesz: átalakul a Magic versenyrendszere"
+description: "A Wizards of the Coast bejelentette a Magic: The Gathering 2027-es versenynaptárát: a Pioneer formátum visszakerül a nagy versenyekre, a Spotlight Series 14 állomásosra bővül, 2028-tól pedig egy negyedik, csak limitált formátumú Pro Tour is érkezik."
 date: 2026-11-16T23:15:00+01:00
 type: gyujtott
 author: Szerkesztőség
 tags:
-  - 'Magic: The Gathering'
+  - "Magic: The Gathering"
   - Wizards of the Coast
   - Versenyek
   - Gyűjtögetős kártyajátékok
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794998459113.png
-imageAlt: ''
-imageCredit: 'Kép: Wizards of the Coast'
-imageSuggestion: 'Hivatalos kép: a Magic Spotlight Series logója a Wizards of the Coast bejelentésében: https://media.wizards.com/2024/images/daily/DmHPZDAfGW.webp – javasolt forrásmegjelölés: Kép: Wizards of the Coast. (A bejelentés fő képe versenyzőkről készült tömegfotó, valódi személyek miatt nem javasolt; kép nélkül is rendben van.)'
+imageAlt: ""
+imageCredit: "Kép: Wizards of the Coast"
+imageSuggestion: "Hivatalos kép: a Magic Spotlight Series logója a Wizards of the Coast bejelentésében: https://media.wizards.com/2024/images/daily/DmHPZDAfGW.webp – javasolt forrásmegjelölés: Kép: Wizards of the Coast. (A bejelentés fő képe versenyzőkről készült tömegfotó, valódi személyek miatt nem javasolt; kép nélkül is rendben van.)"
 sources:
   - name: Wizards of the Coast – Everything New for Competitive Play in 2027
     url: https://magic.wizards.com/en/news/announcements/everything-new-for-competitive-play-in-2027
