@@ -1,0 +1,61 @@
+---
+import Base from '../layouts/Base.astro';
+const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
+---
+<Base title="Keresés" description="Keresés a DOBJektív cikkei között">
+  <div class="search-page">
+    <h1>Keresés</h1>
+    <p class="meta">Keress játékra, kiadóra, tervezőre vagy bármilyen szóra a megjelent cikkeinkben.</p>
+    <div id="kereso"></div>
+    <noscript><p>A kereséshez engedélyezd a JavaScriptet a böngésződben.</p></noscript>
+  </div>
+  <link rel="stylesheet" href={`${base}pagefind/pagefind-ui.css`} />
+  <script is:inline src={`${base}pagefind/pagefind-ui.js`}></script>
+  <script is:inline define:vars={{ base }}>
+    window.addEventListener('DOMContentLoaded', () => {
+      if (!window.PagefindUI) {
+        document.getElementById('kereso').innerHTML = '<p class="meta">A kereső csak a közzétett oldalon működik.</p>';
+        return;
+      }
+      const ui = new PagefindUI({
+        element: '#kereso',
+        bundlePath: `${base}pagefind/`,
+        showSubResults: false,
+        showImages: false,
+        resetStyles: false,
+        translations: {
+          placeholder: 'Keresés a cikkekben…',
+          clear_search: 'Törlés',
+          load_more: 'További találatok',
+          search_label: 'Keresés a cikkekben',
+          zero_results: 'Nincs találat erre: [SEARCH_TERM]',
+          many_results: '[COUNT] találat erre: [SEARCH_TERM]',
+          one_result: '1 találat erre: [SEARCH_TERM]',
+          searching: 'Keresés: [SEARCH_TERM]…',
+        },
+      });
+      const q = new URLSearchParams(location.search).get('q');
+      if (q) ui.triggerSearch(q);
+      setTimeout(() => document.querySelector('#kereso input')?.focus(), 50);
+    });
+  </script>
+</Base>
+<style is:global>
+  .search-page { max-width: 760px; margin: 0 auto; padding: 8px 0 48px; }
+  .search-page h1 { margin-bottom: 4px; }
+  #kereso {
+    margin-top: 24px;
+    --pagefind-ui-scale: 0.9;
+    --pagefind-ui-primary: #111;
+    --pagefind-ui-text: #111;
+    --pagefind-ui-background: #fff;
+    --pagefind-ui-border: #d8d3cc;
+    --pagefind-ui-tag: #f3efe8;
+    --pagefind-ui-border-width: 2px;
+    --pagefind-ui-border-radius: 8px;
+    --pagefind-ui-font: inherit;
+  }
+  #kereso .pagefind-ui__search-input:focus { outline: 3px solid #f9ab0a; outline-offset: 1px; }
+  #kereso .pagefind-ui__result-link { color: #111; font-family: var(--f-head); }
+  #kereso mark { background: #ffe3a3; color: inherit; }
+</style>

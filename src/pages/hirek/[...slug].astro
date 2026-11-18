@@ -31,16 +31,16 @@ const sourceLabel = d.type === 'forditas' ? 'Az eredeti cikk' : 'Források';
 ---
 <Base title={d.title} description={d.description} image={d.image || ytThumb} type="article" published={d.date}>
   {!d.published && <div class="draft-banner">TERVEZET – ez a cikk még nincs jóváhagyva, a nyilvános oldalon nem látszik.</div>}
-  <article class="article">
+  <article class="article" data-pagefind-body>
     <header>
       <div class="row">
         <span class="badge" style={`background:${t.color};color:${t.text}`}>{t.label}</span>
         {d.tags.map((tg) => <a class="tag" href={url(`/cimkek/${slugifyTag(tg)}/`)}>{tg}</a>)}
       </div>
-      <h1>{d.title}</h1>
+      <h1 data-pagefind-meta="title">{d.title}</h1>
       <p class="lede">{d.description}</p>
       <p class="meta">
-        {d.author ?? SITE.defaultAuthor} · <time datetime={d.date.toISOString()}>{formatDate(d.date)}</time> · {readingTime(article.body ?? '')} perc olvasás
+        {d.author ?? SITE.defaultAuthor} · <time datetime={d.date.toISOString()} data-pagefind-meta="date">{formatDate(d.date)}</time> · {readingTime(article.body ?? '')} perc olvasás
       </p>
     </header>
 
@@ -65,14 +65,14 @@ const sourceLabel = d.type === 'forditas' ? 'Az eredeti cikk' : 'Források';
 
     <div class="prose"><Content /></div>
 
-    <Share url={pageUrl} title={d.title} />
+    <div data-pagefind-ignore><Share url={pageUrl} title={d.title} /></div>
 
     {disclosure && (
-      <p class="disclosure">{disclosure} <a href={url('/rolunk/#hogyan-készülnek-a-cikkeink')}>Hogyan készülnek a cikkeink?</a></p>
+      <p class="disclosure" data-pagefind-ignore>{disclosure} <a href={url('/rolunk/#hogyan-készülnek-a-cikkeink')}>Hogyan készülnek a cikkeink?</a></p>
     )}
 
     {d.sources.length > 0 && (
-      <aside class="sources">
+      <aside class="sources" data-pagefind-ignore>
         <h2>{sourceLabel}</h2>
         {d.type === 'forditas' && <p class="meta">Ez a cikk az alábbi írás magyar fordítása, a forrás feltüntetésével.</p>}
         <ul>

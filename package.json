@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "dev": "node scripts/yt-thumbs.mjs && astro dev",
-    "build": "node scripts/yt-thumbs.mjs && astro build",
+    "build": "node scripts/yt-thumbs.mjs && astro build && pagefind --site dist",
     "preview": "astro preview"
   },
   "dependencies": {
@@ -17,5 +17,8 @@
     "astro": "^7.4.4",
     "fast-xml-parser": "^5.12.1",
     "yaml": "^2.9.1"
+  },
+  "devDependencies": {
+    "pagefind": "^1.6.0"
   }
 }
