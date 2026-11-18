@@ -1,13 +1,13 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 17. 19:13
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Hasta la vista, Skynet: két óra alatt összejött a Terminator 2 társasjáték Kickstarter-gyűjtése'
+published: true
+publishedAt: 2026-11-18T00:02:11.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 18. 01:02
+approvedBy: Weszprémy Gábor · 2026. 11. 18. 01:02
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 18. 01:02
+title: "Hasta la vista, Skynet: két óra alatt összejött a Terminator 2 társasjáték Kickstarter-gyűjtése"
 description: November 16-án indult a Kickstarteren a Cation Arts hivatalos licencű Terminator 2-társasjátéka, amely két órán belül elérte a 25 ezer dolláros célt. A kooperatív vagy egy a többiek ellen játszható játék 2027 végén érkezik.
 date: 2026-11-17T19:15:00+01:00
 type: gyujtott
@@ -18,17 +18,17 @@ tags:
   - Cation Arts
   - Terminator 2
   - Filmes licenc
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794960045458.png
-imageAlt: ''
-imageCredit: 'Kép: Cation Arts'
-imageSuggestion: 'Hivatalos kép a kiadó saját Kickstarter-kampányoldalán: https://www.kickstarter.com/projects/cationarts/terminator-2-the-board-game (a Cation Arts által feltöltött doboz- és játékképek) – javasolt forrásmegjelölés: Kép: Cation Arts. Külön sajtóoldalt nem találtam; a kampányoldalt ebben a futásban nem tudtam közvetlenül megnyitni, ezért a képet feltöltés előtt érdemes ott ellenőrizni.'
+imageAlt: ""
+imageCredit: "Kép: Cation Arts"
+imageSuggestion: "Hivatalos kép a kiadó saját Kickstarter-kampányoldalán: https://www.kickstarter.com/projects/cationarts/terminator-2-the-board-game (a Cation Arts által feltöltött doboz- és játékképek) – javasolt forrásmegjelölés: Kép: Cation Arts. Külön sajtóoldalt nem találtam; a kampányoldalt ebben a futásban nem tudtam közvetlenül megnyitni, ezért a képet feltöltés előtt érdemes ott ellenőrizni."
 sources:
-  - name: 'Brettspiel-News.de – Terminator 2 auf Kickstarter: Neuer Anlauf für das Brettspiel zum Kultfilm'
+  - name: "Brettspiel-News.de – Terminator 2 auf Kickstarter: Neuer Anlauf für das Brettspiel zum Kultfilm"
     url: https://www.brettspiel-news.de/index.php/de/nachrichten-uebersicht/crowdfunding/16488-terminator-2-auf-kickstarter-neuer-anlauf-f-r-das-brettspiel-zum-kultfilm
-  - name: 'Cardsrealm – Terminator 2: The Board Game Surpasses Its Goal in Two Hours'
+  - name: "Cardsrealm – Terminator 2: The Board Game Surpasses Its Goal in Two Hours"
     url: https://board.cardsrealm.com/en-us/articles/terminator-2-the-board-game-surpasses-its-goal-in-two-hours
-  - name: 'Kickstarter – Terminator 2: The Board Game (Cation Arts)'
+  - name: "Kickstarter – Terminator 2: The Board Game (Cation Arts)"
     url: https://www.kickstarter.com/projects/cationarts/terminator-2-the-board-game
 ---
 
