@@ -62,6 +62,9 @@ A tulajdonos nem programozó: vele mindig magyarul, egyszerűen, szakzsargon né
   SETI: Search for Extraterrestrial Intelligence → SETI: Kutatás a földön kívüli élet után ·
   Unstable Unicorns → Unikornisok: A rémes ménes · Art Society → Műgyűjtők társasága · Cascadia → Cascadia vadvilága ·
   Mouse Trap → Egérfogó · Warrior Knights → Hadurak · Space Hulk: Death Angel → Space Hulk: A Halál Angyalai · Schadenfreude → Káröröm (Gémklub)
+  Ha egy játéknál magyar címet adsz meg (vagy utólag pótolod), ellenőrizd, hogy a cikkben ne maradjon olyan mondat,
+  amely szerint a játéknak nincs magyar kiadása; ha a „nincs hír” mondat egy másik termékre (pl. egy új kiegészítőre)
+  vonatkozik, írd ki egyértelműen, mire.
   Sorozatoknál, trilógiáknál a sorozat magyar nevét add meg; az egyes részek magyar címét csak akkor sorold fel,
   ha a szövegben is név szerint szerepelnek.
   **Fontos:** a keresés nem hozza ki megbízhatóan a magyar címet. Ha egy játék kiadói között magyar kiadó szerepel

@@ -37,4 +37,4 @@ A kiegészítő nem új kalandot vagy forgatókönyvet hoz, hanem a nyomozók pa
 
 ## Az alapjáték kell hozzá
 
-A Power of the Dreamlands önmagában nem játszható, a használatához szükség van az Arkham Horror: The Card Game alapdobozára. Az alapjátékkal együtt 1–4 fővel, 14 éves kortól ajánlott, egy játék nagyjából 90 percig tart. A kiadó webáruházában a termék már szerepel a „hamarosan érkezik” kínálatban. Magyar nyelvű megjelenéséről egyelőre nincs hír.
+A Power of the Dreamlands önmagában nem játszható, a használatához szükség van az Arkham Horror: The Card Game alapdobozára. Az alapjátékkal együtt 1–4 fővel, 14 éves kortól ajánlott, egy játék nagyjából 90 percig tart. A kiadó webáruházában a termék már szerepel a „hamarosan érkezik” kínálatban. A kiegészítő magyar nyelvű megjelenéséről egyelőre nincs hír.

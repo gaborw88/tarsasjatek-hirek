@@ -34,7 +34,7 @@ A Deutscher Spiele Preis eredményéről nem zsűri dönt: Németország, Ausztr
 
 ## Az Ark Nova kisebb testvére
 
-A Sanctuary egyszerűbb, rövidebb játék, mint az állatkert-építős Ark Nova; Németországban Artengarten néven jelent meg 2025-ben. A kiadó, a Feuerland Spiele vezetője szerint Németországban eddig mintegy 20 ezer példány fogyott belőle. A 2012-ben alapított Feuerland számára ez már a negyedik Deutscher Spiele Preis: korábban a Terra Mystica (2013), a Wingspan (2019) és az Ark Nova (2022) hozott neki győzelmet.
+A Sanctuary egyszerűbb, rövidebb játék, mint az állatkert-építős Ark Nova; Németországban Artengarten néven jelent meg 2025-ben. A kiadó, a Feuerland Spiele vezetője szerint Németországban eddig mintegy 20 ezer példány fogyott belőle. A 2012-ben alapított Feuerland számára ez már a negyedik Deutscher Spiele Preis: korábban a Terra Mystica (2013), a Wingspan (magyarul: *Fesztáv*, 2019) és az Ark Nova (2022) hozott neki győzelmet.
 
 ## A dobogó és a további helyezettek
 

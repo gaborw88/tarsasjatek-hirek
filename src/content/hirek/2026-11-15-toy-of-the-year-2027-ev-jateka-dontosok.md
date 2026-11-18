@@ -48,7 +48,7 @@ Az amerikai játékipar egyik legismertebb elismerése, a **Toy of the Year (TOT
 - **Sanibel** (Hasbro)
 - **Tonieplay Monopoly Real Estate Rush Game** (tonies USA)
 
-A mezőny vegyes: a klasszikus családi és ügyességi játékok mellett két, a hobbijátékosok körében is ismert cím is szerepel. A *CATAN – On the Road* idén tavasszal megjelent, 120 lapos kártyajáték, amely a Catan (magyarul: *Catan telepesei*) alapötletét sűríti körülbelül negyedórás, 3–4 fős, utazáshoz is alkalmas formába. A *Sanibel* a *Wingspan* tervezője, **Elizabeth Hargrave** játéka, amelyet az Avalon Hill adott ki: a játékosok egy hosszú tengerparton haladva gyűjtenek kagylókat és cápafogakat, miközben a hullámok újabb leleteket sodornak a partra. Magyar kiadásukról egyelőre nincs hír.
+A mezőny vegyes: a klasszikus családi és ügyességi játékok mellett két, a hobbijátékosok körében is ismert cím is szerepel. A *CATAN – On the Road* idén tavasszal megjelent, 120 lapos kártyajáték, amely a Catan (magyarul: *Catan telepesei*) alapötletét sűríti körülbelül negyedórás, 3–4 fős, utazáshoz is alkalmas formába. A *Sanibel* a *Wingspan* (magyarul: *Fesztáv*) tervezője, **Elizabeth Hargrave** játéka, amelyet az Avalon Hill adott ki: a játékosok egy hosszú tengerparton haladva gyűjtenek kagylókat és cápafogakat, miközben a hullámok újabb leleteket sodornak a partra. Magyar kiadásukról egyelőre nincs hír.
 
 ## Közönségszavazás és díjátadó
 

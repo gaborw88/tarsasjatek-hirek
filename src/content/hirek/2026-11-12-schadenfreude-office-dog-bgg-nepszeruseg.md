@@ -38,7 +38,7 @@ Nem egy esseni nagy dobozos újdonság, hanem egy kis japán kártyajáték ker�
 
 ## Japánból az Asmodee-hez
 
-A Schadenfreude eredetileg Japánban jelent meg, a Turbine stúdió játékaként (a BoardGameGeeken 2020 óta szerepel). Az új, nemzetközi kiadást az **Office Dog**, az Asmodee észak-amerikai fejlesztőstúdiója készítette: a kiadó júniusban jelentette be, felfrissített grafikával, új dobozzal és pontosított szabályokkal. A játék november 6-án került a boltokba, az ICv2 szerint az Egyesült Államokban 24,99 dolláros ajánlott áron; a német kiadást az Asmodee forgalmazza. Magyar kiadásáról egyelőre nincs hír.
+A Schadenfreude eredetileg Japánban jelent meg, a Turbine stúdió játékaként (a BoardGameGeeken 2020 óta szerepel). Az új, nemzetközi kiadást az **Office Dog**, az Asmodee észak-amerikai fejlesztőstúdiója készítette: a kiadó júniusban jelentette be, felfrissített grafikával, új dobozzal és pontosított szabályokkal. A játék november 6-án került a boltokba, az ICv2 szerint az Egyesült Államokban 24,99 dolláros ajánlott áron; a német kiadást az Asmodee forgalmazza.
 
 ## Fordított logika
 
