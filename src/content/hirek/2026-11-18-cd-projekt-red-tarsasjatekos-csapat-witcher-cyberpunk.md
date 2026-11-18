@@ -1,25 +1,35 @@
 ---
-status: "⏳ tervezet"
+status: ⏳ tervezet
 approved: false
 chiefApproved: false
 published: false
 title: "Saját társasjátékos csapatot állított fel a CD Projekt Red: kisebb Vaják- és Cyberpunk-játékok jöhetnek"
-description: "A lengyel videojáték-fejlesztő külön részleget szervezett a The Witcher és a Cyberpunk asztali játékainak irányítására. A cél a nagy, figurás dobozok mellett rövidebb, egyórás játékok kiadása, új kiadói partnerekkel."
+description: A lengyel videojáték-fejlesztő külön részleget szervezett a The Witcher és a Cyberpunk asztali játékainak irányítására. A cél a nagy, figurás dobozok mellett rövidebb, egyórás játékok kiadása, új kiadói partnerekkel.
 date: 2026-11-18T15:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Iparági hírek", "CD Projekt Red", "The Witcher", "Cyberpunk", "Licencek"]
-jatekok: ["The Witcher: Old World", "Cyberpunk TCG"]
+author: Szerkesztőség
+tags:
+  - Iparági hírek
+  - CD Projekt Red
+  - The Witcher
+  - Cyberpunk
+  - Licencek
+jatekok:
+  - "The Witcher: Old World"
+  - Cyberpunk TCG
 youtube: ""
 image: ""
 imageAlt: ""
 imageCredit: ""
 imageSuggestion: "Iparági hír egy cégről, konkrét új játék nélkül, ezért dobozkép nem illik hozzá. Illusztrációnak a CD Projekt Red hivatalos logója jöhet szóba a cég sajtóoldaláról (press.cdprojektred.com) – javasolt forrásmegjelölés: Kép: CD Projekt Red. Kép nélkül is rendben van."
 sources:
-  - name: "BoardGameWire – CD Projekt Red builds dedicated tabletop team as it eyes smaller Witcher and Cyberpunk games, new publishing partnerships"
-    url: "https://boardgamewire.com/index.php/2026/11/18/cd-projekt-red-builds-dedicated-tabletop-team-as-it-eyes-smaller-witcher-and-cyberpunk-games-new-publishing-partnerships/"
-  - name: "Inven Global – 'Cyberpunk TCG' Raises $27M, Setting New Kickstarter Record for Games"
-    url: "https://www.invenglobal.com/articles/21038/cyberpunk-tcg-raises-27m-setting-new-kickstarter-record-for-games"
+  - name: BoardGameWire – CD Projekt Red builds dedicated tabletop team as it eyes smaller Witcher and Cyberpunk games, new publishing partnerships
+    url: https://boardgamewire.com/index.php/2026/11/18/cd-projekt-red-builds-dedicated-tabletop-team-as-it-eyes-smaller-witcher-and-cyberpunk-games-new-publishing-partnerships/
+  - name: Inven Global – 'Cyberpunk TCG' Raises $27M, Setting New Kickstarter Record for Games
+    url: https://www.invenglobal.com/articles/21038/cyberpunk-tcg-raises-27m-setting-new-kickstarter-record-for-games
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 18. 19:01
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 A *The Witcher* (Vaják) és a *Cyberpunk 2077* videojátékokról ismert lengyel **CD Projekt Red** önálló csapatot hozott létre, amely ezentúl a cég asztali játékait felügyeli. Erről a stúdió új társasjáték-felelőse, **Paweł Burza** beszélt a BoardGameWire-nek adott interjúban.

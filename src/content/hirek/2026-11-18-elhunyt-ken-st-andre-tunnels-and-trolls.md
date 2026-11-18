@@ -1,25 +1,36 @@
 ---
-status: "⏳ tervezet"
+status: ⏳ tervezet
 approved: false
 chiefApproved: false
 published: false
-title: "Elhunyt Ken St. Andre, a Tunnels & Trolls szerepjáték megalkotója"
-description: "79 éves korában meghalt Ken St. Andre amerikai játéktervező, aki 1975-ben a történelem egyik legelső asztali szerepjátékát írta meg, és a Fallout-sorozatot is ihlető Wasteland számítógépes játék alkotói között volt."
+title: Elhunyt Ken St. Andre, a Tunnels & Trolls szerepjáték megalkotója
+description: 79 éves korában meghalt Ken St. Andre amerikai játéktervező, aki 1975-ben a történelem egyik legelső asztali szerepjátékát írta meg, és a Fallout-sorozatot is ihlető Wasteland számítógépes játék alkotói között volt.
 date: 2026-11-18T16:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Gyászhír", "Iparági hírek", "Szerepjátékok", "Tunnels & Trolls"]
-jatekok: ["Tunnels & Trolls", "Starfaring", "Monsters! Monsters!", "Stormbringer"]
+author: Szerkesztőség
+tags:
+  - Gyászhír
+  - Iparági hírek
+  - Szerepjátékok
+  - Tunnels & Trolls
+jatekok:
+  - Tunnels & Trolls
+  - Starfaring
+  - Monsters! Monsters!
+  - Stormbringer
 youtube: ""
 image: ""
 imageAlt: ""
 imageCredit: ""
 imageSuggestion: "Gyászhír valódi személyről: róla készült fotót nem javaslok, hivatalos sajtókép nincs. Ha kell illusztráció, a Tunnels & Trolls jelenlegi kiadójától (Rebellion Unplugged) kérhető a szabálykönyv borítóképe vagy a játék logója – kép nélkül is rendben van."
 sources:
-  - name: "Wargamer – Ken St. Andre, author of the second ever roleplaying game, has died"
-    url: "https://www.wargamer.com/tunnels-and-trolls/ken-st-andre-obituary"
-  - name: "ICv2 – R.I.P. Ken St. Andre"
-    url: "https://icv2.com/articles/news/view/63912/r-i-p-ken-st-andre"
+  - name: Wargamer – Ken St. Andre, author of the second ever roleplaying game, has died
+    url: https://www.wargamer.com/tunnels-and-trolls/ken-st-andre-obituary
+  - name: ICv2 – R.I.P. Ken St. Andre
+    url: https://icv2.com/articles/news/view/63912/r-i-p-ken-st-andre
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 18. 19:01
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 November 15-én, 79 éves korában elhunyt **Ken St. Andre** amerikai játéktervező, a **Tunnels & Trolls** szerepjáték megalkotója. Halálhírét barátja és üzlettársa, Steven Crompton tette közzé a játék rajongói fórumán. A Wargamer szerint St. Andre több mint tíz évig küzdött a rákkal, és az utóbbi időben a szíve is egyre gyengült. Feleségét, Rocío Ulloa Lópezt és két gyermekét gyászolja.
