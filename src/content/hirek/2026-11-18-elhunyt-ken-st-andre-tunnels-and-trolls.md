@@ -1,12 +1,12 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 18. 19:01
-approvedBy: ''
-chiefApprovedBy: ''
+published: true
+publishedAt: 2026-11-18T20:45:51.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 18. 21:45
+approvedBy: Weszprémy Gábor · 2026. 11. 18. 21:45
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 18. 21:45
 title: Elhunyt Ken St. Andre, a Tunnels & Trolls szerepjáték megalkotója
 description: 79 éves korában meghalt Ken St. Andre amerikai játéktervező, aki 1975-ben az egyik legelső asztali szerepjátékot írta meg, és a Fallout-sorozatot is ihlető Wasteland számítógépes játék alkotói között volt.
 date: 2026-11-18T16:00:00+01:00
@@ -17,11 +17,11 @@ tags:
   - Iparági hírek
   - Szerepjátékok
   - Tunnels & Trolls
-youtube: ''
-image: ''
-imageAlt: ''
-imageCredit: ''
-imageSuggestion: 'Gyászhír valódi személyről: róla készült fotót nem javaslok, hivatalos sajtókép nincs. Ha kell illusztráció, a Tunnels & Trolls jelenlegi kiadójától (Rebellion Unplugged) kérhető a szabálykönyv borítóképe vagy a játék logója – kép nélkül is rendben van.'
+youtube: ""
+image: ""
+imageAlt: ""
+imageCredit: ""
+imageSuggestion: "Gyászhír valódi személyről: róla készült fotót nem javaslok, hivatalos sajtókép nincs. Ha kell illusztráció, a Tunnels & Trolls jelenlegi kiadójától (Rebellion Unplugged) kérhető a szabálykönyv borítóképe vagy a játék logója – kép nélkül is rendben van."
 sources:
   - name: Wargamer – Ken St. Andre, author of the second ever roleplaying game, has died
     url: https://www.wargamer.com/tunnels-and-trolls/ken-st-andre-obituary
