@@ -1,9 +1,13 @@
 ---
-published: false
-approved: false
-chiefApproved: false
 status: ⏳ tervezet
-title: "Tíz lapot tilt be a Riot: Riven uralmának vet véget a Riftbound új tiltólistája"
+approved: true
+chiefApproved: true
+published: false
+publishedAt: ''
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 17. 06:59
+approvedBy: ''
+chiefApprovedBy: ''
+title: 'Tíz lapot tilt be a Riot: Riven uralmának vet véget a Riftbound új tiltólistája'
 description: November 23-tól nyolc kártya és két csatatér kerül tiltólistára a League of Legends-univerzumban játszódó Riftbound gyűjtögetős kártyajátékban. A legnagyobb vesztes Riven, aki a stuttgarti Európa-bajnokságon a paklik 43 százalékában szerepelt.
 date: 2026-11-17T10:00:00+01:00
 type: gyujtott
@@ -12,19 +16,20 @@ tags:
   - Gyűjtögetős kártyajátékok
   - Riftbound
   - Riot Games
-imageSuggestion: "Hivatalos sajtókép a Riot Games Radiance-sajtóközleménye mellett (Games Press): https://www.gamespress.com/Step-Into-the-Spotlight-in-Riftbound-Radiance-Available-Now – javasolt forrásmegjelölés: Kép: Riot Games. (A nagy felbontású kép letöltéséhez Games Press-fiók kell; a közlemény oldalán látható kép is a Riot hivatalos anyaga.)"
+youtube: ''
+image: /images/uploads/pasted-image-1795030502561.png
+imageAlt: ''
+imageCredit: 'Kép: Riot Games'
+imageSuggestion: 'Hivatalos sajtókép a Riot Games Radiance-sajtóközleménye mellett (Games Press): https://www.gamespress.com/Step-Into-the-Spotlight-in-Riftbound-Radiance-Available-Now – javasolt forrásmegjelölés: Kép: Riot Games. (A nagy felbontású kép letöltéséhez Games Press-fiók kell; a közlemény oldalán látható kép is a Riot hivatalos anyaga.)'
 sources:
   - name: ICv2 – Riot Games Drops the Ban Hammer on 10 'Riftbound TCG' Cards
     url: https://icv2.com/articles/news/view/63891/riot-games-drops-ban-hammer-10-riftbound-tcg-cards
-  - name: "Riftbound.zone – Riftbound Bans November 2026: New Ban List, Riven and Nocturne Out"
+  - name: 'Riftbound.zone – Riftbound Bans November 2026: New Ban List, Riven and Nocturne Out'
     url: https://riftbound.zone/en/riftbound-new-bans-november-2026-ban-list/
   - name: GameDaily – Riftbound November Ban List Hits Riven, Kennen, Kai'Sa, and Dazzling Aurora
     url: https://gamedaily.com/games/riftbound-november-ban-list
   - name: Riftbound (X) – Radiance Ban List Updates (Effective November 23, 2026)
     url: https://x.com/playriftbound/status/2121272109544697985
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 17. 06:59
-approvedBy: ""
-chiefApprovedBy: ""
 ---
 
 Komoly beavatkozást jelentett be a **Riot Games** a League of Legends videojáték világában játszódó **Riftbound** gyűjtögetős kártyajátékban: **november 23-tól nyolc kártya és két csatatér (Battlefield)** kerül tiltólistára a Standard és a 2v2 konstruált formátumban, így a hivatalos versenyeken is. A jelenlegi lapok november 22-ig még játszhatók.
