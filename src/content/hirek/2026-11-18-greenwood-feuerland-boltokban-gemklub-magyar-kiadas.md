@@ -1,8 +1,12 @@
 ---
-published: false
-approved: false
-chiefApproved: false
 status: ⏳ tervezet
+approved: true
+chiefApproved: true
+published: false
+publishedAt: ''
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 18. 14:57
+approvedBy: ''
+chiefApprovedBy: ''
 title: Boltokba került az idei Essen egyik slágere, a Greenwood – a magyar kiadást a Gémklub ígérte
 description: Németországban már kapható a Feuerland Spiele nagy stratégiai játéka, amely a Spiel Essen alatt két nap is elfogyott. A Gémklub tavasszal jelentette be a magyar kiadást, őszi megjelenéssel.
 date: 2026-11-18T17:00:00+01:00
@@ -15,19 +19,20 @@ tags:
   - Feuerland Spiele
   - Essen Spiel
   - Greenwood
-jatekok:
-  - "Greenwood #469383"
-imageSuggestion: "Hivatalos dobozkép a Gémklub bejelentésénél: https://www.gemklub.hu/uj-megjelenes-greenwood-2740 (képfájl: https://gemklub.cdn.shoprenter.hu/custom/gemklub/image/cache/w500h500q100np1/Marketing/hirek/2026/04_aprilis/Bejelentes_doboz_greenwood.png) – javasolt forrásmegjelölés: Kép: Gémklub"
+youtube: ''
+image: /images/uploads/pasted-image-1795042028170.png
+imageAlt: ''
+imageCredit: 'Kép: Gémklub'
+imageSuggestion: 'Hivatalos dobozkép a Gémklub bejelentésénél: https://www.gemklub.hu/uj-megjelenes-greenwood-2740 (képfájl: https://gemklub.cdn.shoprenter.hu/custom/gemklub/image/cache/w500h500q100np1/Marketing/hirek/2026/04_aprilis/Bejelentes_doboz_greenwood.png) – javasolt forrásmegjelölés: Kép: Gémklub'
 sources:
-  - name: "Brettspiel-News.de – Greenwood ist da: Feuerlands Messe-Hit jetzt im Handel lieferbar"
+  - name: 'Brettspiel-News.de – Greenwood ist da: Feuerlands Messe-Hit jetzt im Handel lieferbar'
     url: https://www.brettspiel-news.de/index.php/en/nachrichten-uebersicht/neuerscheinungen/16496-greenwood-ist-da-feuerlands-messe-hit-jetzt-im-handel-lieferbar
-  - name: "Gémklub – Új megjelenés: Greenwood"
+  - name: 'Gémklub – Új megjelenés: Greenwood'
     url: https://www.gemklub.hu/uj-megjelenes-greenwood-2740
   - name: The Dice Tower – Greenwood (játékadatlap)
     url: https://dicetower.com/board-game/469383
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 18. 14:57
-approvedBy: ""
-chiefApprovedBy: ""
+jatekok:
+  - 'Greenwood #469383'
 ---
 
 Három héttel a Spiel Essen után a német boltokba is megérkezett a vásár egyik legtöbbet emlegetett újdonsága, a **Greenwood**. A **Feuerland Spiele** kiadásában megjelent stratégiai játékot **Christos Giannakoulas** és **Manolis Zachariadis** tervezte. A Brettspiel-News.de szerint a német webáruházak november 13. óta szállítják, a kiadó által javasolt fogyasztói ár 79,90 euró.
