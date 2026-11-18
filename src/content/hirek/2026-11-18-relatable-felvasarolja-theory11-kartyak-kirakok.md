@@ -2,20 +2,28 @@
 published: false
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
-title: "Felvásárolta a prémium kártyapaklijairól ismert theory11-et a What Do You Meme? kiadója"
-description: "A partijátékairól ismert amerikai Relatable megvette a bűvészetből indult theory11-et, amely licences kártyapaklikat, kirakókat és játékokat készít. A vételárat nem hozták nyilvánosságra."
+status: ⏳ tervezet
+title: Felvásárolta a prémium kártyapaklijairól ismert theory11-et a What Do You Meme? kiadója
+description: A partijátékairól ismert amerikai Relatable megvette a bűvészetből indult theory11-et, amely licences kártyapaklikat, kirakókat és játékokat készít. A vételárat nem hozták nyilvánosságra.
 date: 2026-11-18T17:30:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Iparági hírek", "Felvásárlás", "Relatable", "theory11"]
-jatekok: ["What Do You Meme?"]
-imageSuggestion: "Iparági hír, hivatalos sajtókép nincs a közleményekhez csatolva. A szerkesztő a theory11 vagy a Relatable hivatalos logóját kérheti el a cégektől – kép nélkül is rendben van."
+author: Szerkesztőség
+tags:
+  - Iparági hírek
+  - Felvásárlás
+  - Relatable
+  - theory11
+jatekok:
+  - What Do You Meme?
+imageSuggestion: Iparági hír, hivatalos sajtókép nincs a közleményekhez csatolva. A szerkesztő a theory11 vagy a Relatable hivatalos logóját kérheti el a cégektől – kép nélkül is rendben van.
 sources:
-  - name: "ICv2 – 'What Do You Meme' Publisher Relatable Acquires theory11"
-    url: "https://icv2.com/articles/news/view/63907/what-do-you-meme-publisher-relatable-acquires-theory11"
-  - name: "The Toy Book – Relatable Acquires Theory11, Expanding Its Gaming Portfolio"
-    url: "https://toybook.com/relatable-theory11-aquisition-news/"
+  - name: ICv2 – 'What Do You Meme' Publisher Relatable Acquires theory11
+    url: https://icv2.com/articles/news/view/63907/what-do-you-meme-publisher-relatable-acquires-theory11
+  - name: The Toy Book – Relatable Acquires Theory11, Expanding Its Gaming Portfolio
+    url: https://toybook.com/relatable-theory11-aquisition-news/
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 18. 14:57
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 Újabb céggel bővült az amerikai **Relatable** portfóliója: a *What Do You Meme?* című partijáték kiadója bejelentette, hogy felvásárolja a **theory11**-et. A hírt az ICv2 és a The Toy Book szakportál is közölte; a vételárat és a további feltételeket a felek nem hozták nyilvánosságra.
