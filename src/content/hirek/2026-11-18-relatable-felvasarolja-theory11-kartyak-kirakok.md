@@ -1,12 +1,12 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 18. 14:57
-approvedBy: ''
-chiefApprovedBy: ''
+published: true
+publishedAt: 2026-11-18T22:56:45.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 18. 23:56
+approvedBy: Weszprémy Gábor · 2026. 11. 18. 23:56
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 18. 23:56
 title: Felvásárolta a prémium kártyapaklijairól ismert theory11-et a What Do You Meme? kiadója
 description: A partijátékairól ismert amerikai Relatable megvette a bűvészetből indult theory11-et, amely licences kártyapaklikat, kirakókat és játékokat készít. A vételárat nem hozták nyilvánosságra.
 date: 2026-11-18T17:30:00+01:00
@@ -17,10 +17,10 @@ tags:
   - Felvásárlás
   - Relatable
   - theory11
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1795042561426.png
-imageAlt: ''
-imageCredit: 'Kép: Relatable'
+imageAlt: ""
+imageCredit: "Kép: Relatable"
 imageSuggestion: Iparági hír, hivatalos sajtókép nincs a közleményekhez csatolva. A szerkesztő a theory11 vagy a Relatable hivatalos logóját kérheti el a cégektől – kép nélkül is rendben van.
 sources:
   - name: ICv2 – 'What Do You Meme' Publisher Relatable Acquires theory11
