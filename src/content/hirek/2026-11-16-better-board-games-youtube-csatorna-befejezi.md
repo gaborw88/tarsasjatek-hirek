@@ -1,12 +1,12 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 16. 19:03
-approvedBy: ''
-chiefApprovedBy: ''
+published: true
+publishedAt: 2026-11-18T10:17:15.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 18. 11:17
+approvedBy: Weszprémy Gábor · 2026. 11. 18. 11:17
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 18. 11:17
 title: Nyolc év után befejezi a rendszeres adást a Better Board Games, az egyik legnépszerűbb német társasjátékos YouTube-csatorna
 description: Christoph Dick és Thomas Brendel az év végén lezárja a heti videók korszakát. A csatorna online marad, a támogatói közösség társasjátékos hétvégéit pedig egy új egyesület viszi tovább.
 date: 2026-11-16T19:30:00+01:00
@@ -16,13 +16,13 @@ tags:
   - Iparági hírek
   - Better Board Games
   - Németország
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794996920231.png
-imageAlt: ''
-imageCredit: 'Kép: Better Board Games'
+imageAlt: ""
+imageCredit: "Kép: Better Board Games"
 imageSuggestion: YouTube-csatornáról szóló hír, hivatalos sajtókép nincs; a csatorna logóját sajtó- vagy arculati oldalon nem találtam. Ha kell kép, kérj logót a csatorna készítőitől – kép nélkül is rendben van.
 sources:
-  - name: 'Brettspiel-News.de – Better Board Games zieht den Schlussstrich: Regelbetrieb endet nach acht Jahren'
+  - name: "Brettspiel-News.de – Better Board Games zieht den Schlussstrich: Regelbetrieb endet nach acht Jahren"
     url: https://www.brettspiel-news.de/index.php/de/nachrichten-uebersicht/branche/16473-better-board-games-zieht-den-schlussstrich-regelbetrieb-endet-nach-acht-jahren
   - name: "YouTube – Better Board Games: Darum ziehen wir einen Schlussstrich und so geht's weiter!"
     url: https://www.youtube.com/watch?v=Se5dkj1NYMU
