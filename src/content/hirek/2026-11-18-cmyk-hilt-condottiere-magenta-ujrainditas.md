@@ -1,13 +1,13 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 18. 11:03
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Hilt néven, tábla nélkül tér vissza a Condottiere: kisebb dobozban és olcsóbban indítja újra Magenta-sorozatát a CMYK'
+published: true
+publishedAt: 2026-11-18T20:04:24.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 18. 21:04
+approvedBy: Weszprémy Gábor · 2026. 11. 18. 21:04
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 18. 21:04
+title: "Hilt néven, tábla nélkül tér vissza a Condottiere: kisebb dobozban és olcsóbban indítja újra Magenta-sorozatát a CMYK"
 description: Az amerikai CMYK kiadó november 17-től árulja új, kártyapakli méretű dobozokban a Magenta-sorozat kártyajátékait, köztük a Condottiere újragondolt változatát, a Hiltet. Közben bejelentette a Magical Athlete folytatását is.
 date: 2026-11-18T13:00:00+01:00
 type: gyujtott
@@ -18,11 +18,11 @@ tags:
   - Hilt
   - Condottiere
   - Magical Athlete
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1795032161430.png
-imageAlt: ''
-imageCredit: 'Kép: CMYK'
-imageSuggestion: 'Hivatalos dobozkép a kiadó termékoldalán: https://www.cmyk.games/products/hilt (képfájl: https://www.cmyk.games/cdn/shop/files/Hilt_1024x1024.png) – javasolt forrásmegjelölés: Kép: CMYK'
+imageAlt: ""
+imageCredit: "Kép: CMYK"
+imageSuggestion: "Hivatalos dobozkép a kiadó termékoldalán: https://www.cmyk.games/products/hilt (képfájl: https://www.cmyk.games/cdn/shop/files/Hilt_1024x1024.png) – javasolt forrásmegjelölés: Kép: CMYK"
 sources:
   - name: W. Eric Martin's Board Game Beat – Run Like the (Second) Wind for More Magical Athlete
     url: https://www.wericmartin.com/run-like-the-second-wind-for-more-magical-athlete/
@@ -35,7 +35,7 @@ jatekok:
   - Condottiere
   - Fruit Fight
   - Magical Athlete
-  - 'Magical Athlete: Second Wind'
+  - "Magical Athlete: Second Wind"
 ---
 
 Új formában kerülnek a boltokba az amerikai **CMYK** kiadó Magenta-sorozatának könnyed kártyajátékai. A kiadó november 17-én kezdte árulni saját webáruházában a sorozat úgynevezett Standard kiadásait: ezek kártyapakli méretű, kihúzható dobozban érkeznek, amelynek borítóján egy valódi kártya látszik. A W. Eric Martin által vezetett Board Game Beat szerint a CMYK azzal indokolta a váltást, hogy a korábbi dobozok a szükségesnél nagyobbak voltak, az ár pedig soknak tűnt egy könnyű játékért. A nagyobb, 25 dolláros „Home” kiadás mellett az új változat 15 dollárba kerül (a webáruházban 14,99 dollár).
