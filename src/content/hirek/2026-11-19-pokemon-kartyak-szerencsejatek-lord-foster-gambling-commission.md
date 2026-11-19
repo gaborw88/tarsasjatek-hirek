@@ -2,22 +2,31 @@
 published: false
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
-title: "Szerencsejáték-e egy Pokémon-booster? Egy brit lord kérdésére a hatóság szerint nem, de a törvényt a parlament módosíthatja"
-description: "Lord Foster, a brit Lordok Háza szerencsejáték-reformot sürgető csoportjának elnöke levélben kérdezte meg a brit szerencsejáték-felügyeletet, miért nem esnek a gyűjtögetős kártyák a szerencsejáték-törvény hatálya alá. A hatóság szerint a viszonteladási piac önmagában nem tesz szerencsejátékká egy kártyacsomagot."
+status: ⏳ tervezet
+title: Szerencsejáték-e egy Pokémon-booster? Egy brit lord kérdésére a hatóság szerint nem, de a törvényt a parlament módosíthatja
+description: Lord Foster, a brit Lordok Háza szerencsejáték-reformot sürgető csoportjának elnöke levélben kérdezte meg a brit szerencsejáték-felügyeletet, miért nem esnek a gyűjtögetős kártyák a szerencsejáték-törvény hatálya alá. A hatóság szerint a viszonteladási piac önmagában nem tesz szerencsejátékká egy kártyacsomagot.
 date: 2026-11-19T18:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Iparági hírek", "Gyűjtögetős kártyajátékok", "Pokémon", "Szabályozás", "Egyesült Királyság"]
-jatekok: ["Pokémon Trading Card Game"]
-imageSuggestion: "Szabályozási hír, hivatalos sajtókép nincs (a levelezést a Kanto Post hozta nyilvánosságra, saját képeik nem használhatók). Kép nélkül is rendben van; ha mindenképp kell, kérj képet a The Pokémon Company sajtóosztályától, vagy egy általános, saját készítésű fotó jöhet szóba boosterekről (márkajelzés nélkül)."
+author: Szerkesztőség
+tags:
+  - Iparági hírek
+  - Gyűjtögetős kártyajátékok
+  - Pokémon
+  - Szabályozás
+  - Egyesült Királyság
+jatekok:
+  - Pokémon Trading Card Game
+imageSuggestion: Szabályozási hír, hivatalos sajtókép nincs (a levelezést a Kanto Post hozta nyilvánosságra, saját képeik nem használhatók). Kép nélkül is rendben van; ha mindenképp kell, kérj képet a The Pokémon Company sajtóosztályától, vagy egy általános, saját készítésű fotó jöhet szóba boosterekről (márkajelzés nélkül).
 sources:
-  - name: "Kanto Post – Lord Foster challenges UK gambling regulator over Pokémon cards as market booms"
-    url: "https://www.kantopost.com/pokemon-tcg/lord-foster-gambling-commission/"
-  - name: "iGaming Business – Pokémon cards should face greater gambling scrutiny, says Lord Foster"
-    url: "https://igamingbusiness.com/legal-compliance/pokemon-cards-face-gambling-scrutiny-lord-foster/"
-  - name: "Wargamer – UK Lord questions why Pokémon cards aren't covered by gambling laws"
-    url: "https://www.wargamer.com/pokemon-trading-card-game/gambling-laws-lord-uk"
+  - name: Kanto Post – Lord Foster challenges UK gambling regulator over Pokémon cards as market booms
+    url: https://www.kantopost.com/pokemon-tcg/lord-foster-gambling-commission/
+  - name: iGaming Business – Pokémon cards should face greater gambling scrutiny, says Lord Foster
+    url: https://igamingbusiness.com/legal-compliance/pokemon-cards-face-gambling-scrutiny-lord-foster/
+  - name: Wargamer – UK Lord questions why Pokémon cards aren't covered by gambling laws
+    url: https://www.wargamer.com/pokemon-trading-card-game/gambling-laws-lord-uk
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 19. 23:03
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 Nyilvánosságra került egy nyári levélváltás, amely a gyűjtögetős kártyajátékok egyik legérzékenyebb kérdését feszegeti: szerencsejáték-e, ha valaki véletlenszerű tartalmú kártyacsomagot vásárol, amelyből egy ritka lap akár komoly összeget is érhet a viszonteladói piacon.
