@@ -1,28 +1,4 @@
 {
-  "Art Society": {
-    "id": "395375",
-    "nev": "Art Society",
-    "tipus": "boardgame",
-    "ev": 2023,
-    "magyarKiadas": true,
-    "magyarKiadasok": [
-      {
-        "nev": "Hungarian edition",
-        "kiadok": [
-          "Gémklub"
-        ],
-        "ev": 2024,
-        "tobbnyelvu": false
-      }
-    ],
-    "magyarCimJeloltek": [
-      "Galerie der Künste",
-      "Műgyűjtők társasága"
-    ],
-    "egyebNevek": [],
-    "biztos": true,
-    "ellenorizve": "2026-11-19"
-  },
   "Bomb Busters": {
     "id": "413246",
     "nev": "Bomb Busters",
@@ -78,30 +54,6 @@
     ],
     "magyarCimJeloltek": [
       "Calico: Foltok, cicák, takarók"
-    ],
-    "egyebNevek": [],
-    "biztos": true,
-    "ellenorizve": "2026-11-19"
-  },
-  "Cascadia": {
-    "id": "295947",
-    "nev": "Cascadia",
-    "tipus": "boardgame",
-    "ev": 2021,
-    "magyarKiadas": true,
-    "magyarKiadasok": [
-      {
-        "nev": "Hungarian edition",
-        "kiadok": [
-          "Gémklub"
-        ],
-        "ev": 2021,
-        "tobbnyelvu": false
-      }
-    ],
-    "magyarCimJeloltek": [
-      "Cascadia vadvilága",
-      "Kaskádie"
     ],
     "egyebNevek": [],
     "biztos": true,
@@ -166,48 +118,6 @@
     "hiba": "nincs találat",
     "ellenorizve": "2026-11-19"
   },
-  "Flamecraft": {
-    "id": "336986",
-    "nev": "Flamecraft",
-    "tipus": "boardgame",
-    "ev": 2022,
-    "magyarKiadas": true,
-    "magyarKiadasok": [
-      {
-        "nev": "Hungarian deluxe edition",
-        "kiadok": [
-          "Cardboard Alchemy",
-          "Lucky Duck Games"
-        ],
-        "ev": 2022,
-        "tobbnyelvu": false
-      },
-      {
-        "nev": "Hungarian edition",
-        "kiadok": [
-          "Cardboard Alchemy",
-          "Lucky Duck Games"
-        ],
-        "ev": 2022,
-        "tobbnyelvu": false
-      },
-      {
-        "nev": "Hungarian edition",
-        "kiadok": [
-          "Gémklub"
-        ],
-        "ev": 2022,
-        "tobbnyelvu": false
-      }
-    ],
-    "magyarCimJeloltek": [
-      "Draci v práci",
-      "Lángművesek"
-    ],
-    "egyebNevek": [],
-    "biztos": true,
-    "ellenorizve": "2026-11-19"
-  },
   "Fruit Fight": {
     "id": "339214",
     "nev": "Fruit Fight",
@@ -238,31 +148,6 @@
     ],
     "magyarCimJeloltek": [
       "Homályrév"
-    ],
-    "egyebNevek": [],
-    "biztos": true,
-    "ellenorizve": "2026-11-19"
-  },
-  "Gloomhaven: Buttons & Bugs": {
-    "id": "393672",
-    "nev": "Gloomhaven: Buttons & Bugs",
-    "tipus": "boardgame",
-    "ev": 2024,
-    "magyarKiadas": true,
-    "magyarKiadasok": [
-      {
-        "nev": "Hungarian edition",
-        "kiadok": [
-          "Gémklub"
-        ],
-        "ev": 2025,
-        "tobbnyelvu": false
-      }
-    ],
-    "magyarCimJeloltek": [
-      "Gloomhaven: Knoflíci a brouci",
-      "Gloomhaven: Knöpfe und Krabbler",
-      "Homályrév: Apró kalandok"
     ],
     "egyebNevek": [],
     "biztos": true,

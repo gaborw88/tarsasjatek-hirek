@@ -57,6 +57,19 @@ export function looksHungarian(name) {
   const huSuffix = /(ság|ség|ban|ben|ból|ből|ról|ről|nak|nek|tól|től|hoz|hez|ok|ek|ák|ék|ai|ei|ája|ága|ége)(?=[\s:–!?.,-]|$)/.test(w);
   return /(gy|ny|sz|zs|cs|ly|ty)/.test(w) && (huWord || huSuffix);
 }
+/** Mennyire valószínű, hogy magyar (nagyobb = valószínűbb). */
+export function huScore(name) {
+  const w = String(name || '').toLowerCase();
+  let sc = 1;
+  if (/[őű]/.test(w)) sc += 4;
+  if (/(^|[\s:–-])(a|az|és|egy|vagy)(?=[\s:–-]|$)/.test(w)) sc += 2;
+  if (/(ság|ség|ban|ben|ból|ből|ról|ről|nak|nek|ok|ek|ák|ék|ai|ei|ája|ága|ége|vá|ve)(?=[\s:–!?.,-]|$)/.test(w)) sc += 1;
+  if (/(gy|ny|sz|zs|cs|ly|ty)/.test(w)) sc += 1;
+  if (/(^|\s)(der|die|das|und|von|im|zum|zur|des|den|dem|ein|eine)(\s|$)/.test(w)) sc -= 5;   // német
+  if (/(^|\s)(v|ve|na|se|z|ze|pro|do|od|i|el|la|le|les|de|del|di|il|lo|o|os|as|um|uma)(\s|$)/.test(w)) sc -= 5; // cseh, latin nyelvek
+  if (/(ie|ce|ci|ky|ký|ová|ský)$/.test(w.split(/\s+/).pop() || '')) sc -= 3;          // jellegzetes cseh/szlovák végződés
+  return sc;
+}
 // Más nyelvek jellegzetes betűi, illetve nem latin írás → biztosan nem magyar
 const FOREIGN = /[ñçàèâêîôûãõäßøåčřšžłęąćńśźżăşţđýěůťďňľĺŕ\u0400-\u04FF\u0370-\u03FF\u3040-\u30FF\u4E00-\u9FFF\uAC00-\uD7AF\u0E00-\u0E7F]/i;
 
@@ -85,7 +98,12 @@ export function parseThing(xml) {
   const generic = /\b(edition|kiadás|version|printing|reprint|first|second|third|1st|2nd|3rd|multilingual|hungarian)\b/i;
   const candidates = new Set();
   for (const v of huVersions) if (v.nev && !generic.test(v.nev)) candidates.add(v.nev);
-  if (huVersions.length) for (const a of alternates) if (looksHungarian(a)) candidates.add(a);
+  if (huVersions.length) {
+    // A magyarnak látszó nevek közül csak a legvalószínűbbek maradnak (pl. német, cseh nevek kiszűrése)
+    const scored = alternates.filter(looksHungarian).map((a) => [a, huScore(a)]);
+    const best = Math.max(-99, ...scored.map(([, sc]) => sc));
+    for (const [a, sc] of scored) if (sc === best && sc > 0) candidates.add(a);
+  }
   // Ha nincs biztos jelölt: a latin betűs, nem idegen jellegű alternatív nevek (a szerkesztő választ)
   const egyebNevek = huVersions.length && !candidates.size
     ? alternates.filter((a) => !FOREIGN.test(a) && norm(a) !== norm(primary)).slice(0, 10) : [];
