@@ -32,6 +32,11 @@ jatekok:
   - Starfaring
   - Monsters! Monsters!
   - Stormbringer
+magyarCimek: |-
+  Tunnels & Trolls: nem található a BGG-n – nézd meg kézzel
+  Starfaring: nem található a BGG-n – nézd meg kézzel
+  Monsters! Monsters!: a BGG szerint nincs magyar kiadása (BGG #481533, bizonytalan találat – ellenőrizd, jó játék-e)
+  Stormbringer: a BGG szerint nincs magyar kiadása (BGG #37800)
 ---
 
 November 15-én, 79 éves korában elhunyt **Ken St. Andre** amerikai játéktervező, a **Tunnels & Trolls** szerepjáték megalkotója. Halálhírét barátja és üzlettársa, Steven Crompton tette közzé a játék rajongói fórumán. A Wargamer szerint St. Andre több mint tíz évig küzdött a rákkal, és az utóbbi időben a szíve is egyre gyengült.

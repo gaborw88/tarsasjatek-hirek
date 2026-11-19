@@ -29,6 +29,7 @@ sources:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 19. 06:56
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: "The Lord of the Rings: Circle of Conflict: a BGG szerint nincs magyar kiadása (BGG #462620)"
 ---
 
 Új Gyűrűk Ura-társasjáték került a boltokba: az Asmodee-hez tartozó **Office Dog** november 13-án jelentette meg a **The Lord of the Rings: Circle of Conflict** című stratégiai kockajátékot. A játékot **Geoff Engelstein** és **Stephen Buonocore** tervezte, 2–4 játékos számára készült, 14 éves kortól ajánlott, egy parti nagyjából 60–90 percig tart.

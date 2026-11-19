@@ -32,6 +32,9 @@ sources:
 jatekok:
   - Pokémon Trading Card Game
   - "Magic: The Gathering"
+magyarCimek: |-
+  Pokémon Trading Card Game: a BGG szerint nincs magyar kiadása (BGG #2165)
+  Magic: The Gathering: a BGG szerint nincs magyar kiadása (BGG #463)
 ---
 
 Rendkívüli évet zár az amerikai játékpiac: a **Circana** piackutató cég friss adatai szerint **2026 január és szeptember között 20 százalékkal** nőtt a játékok dollárban mért forgalma az előző év azonos időszakához képest. Az eladott darabszám 18 százalékkal emelkedett, az átlagár 2 százalékkal. A 11 fő termékcsoportból tíz bővült.

@@ -35,6 +35,10 @@ chiefApproved: true
 status: ✅ megjelent
 publishedAt: 2026-11-03T15:00:00.000Z
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 19. 13:49
+magyarCimek: |-
+  Rebirth: a BGG szerint nincs magyar kiadása (BGG #417197)
+  Art Society → VAN MAGYAR KIADÁS (Gémklub, 2024); lehetséges magyar cím: Galerie der Künste / Műgyűjtők társasága (BGG #395375)
+  Bomb Busters → Bombairtók (Reflexshop, 2025; BGG #413246)
 ---
 
 Újabb rangos elismerést gyűjtött be Reiner Knizia: a **Rebirth** című játéka nyerte az olasz **Gioco dell'Anno 2026** (Az év játéka) díjat. Az eredményt a 60. alkalommal megrendezett Lucca Comics & Games fesztivál díjátadó gáláján hirdették ki a város Teatro del Giglio színházában. Az 1991 óta odaítélt díjról kilenctagú zsűri dönt; tavaly a Botanicus nyert.

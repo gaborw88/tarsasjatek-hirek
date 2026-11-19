@@ -31,6 +31,9 @@ sources:
 jatekok:
   - "The Witcher: Old World"
   - Cyberpunk TCG
+magyarCimek: |-
+  The Witcher: Old World → The Witcher: Óvilág (CD Projekt RED, Delta Vision Publishing, Go On Board, 2023, 2025; BGG #331106)
+  Cyberpunk TCG: nem található a BGG-n – nézd meg kézzel
 ---
 
 A *The Witcher* (Vaják) és a *Cyberpunk 2077* videojátékokról ismert lengyel **CD Projekt Red** önálló csapatot hozott létre, amely ezentúl a cég asztali játékait felügyeli. Erről a stúdió új társasjáték-felelőse, **Paweł Burza** beszélt a BoardGameWire-nek adott interjúban.

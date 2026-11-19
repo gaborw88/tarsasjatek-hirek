@@ -31,6 +31,10 @@ sources:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 18. 23:20
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: |-
+  Gloomhaven: Buttons & Bugs → VAN MAGYAR KIADÁS (Gémklub, 2025); lehetséges magyar cím: Gloomhaven: Knoflíci a brouci / Gloomhaven: Knöpfe und Krabbler / Homályrév: Apró kalandok (BGG #393672)
+  Buttons & Bugs: Pub Crawlers: a BGG szerint nincs magyar kiadása (BGG #473161)
+  Gloomhaven → Homályrév (Gémklub, 2019; BGG #174430)
 ---
 
 A Gémklub november 18-án jelentette be, hogy 2027-ben érkezik a **Gloomhaven: Buttons & Bugs** (magyarul: *Homályrév: Apró kalandok*) első nagyobb kiegészítője, a **Buttons & Bugs: Pub Crawlers**. Magyar címet és árat a kiadó egyelőre nem közölt.

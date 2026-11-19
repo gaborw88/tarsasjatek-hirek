@@ -33,6 +33,7 @@ sources:
     url: https://dicetower.com/board-game/469383
 jatekok:
   - "Greenwood #469383"
+magyarCimek: "Greenwood → VAN MAGYAR KIADÁS (Gémklub, 2026), a magyar cím nem azonosítható biztosan – lehet, hogy azonos az eredetivel (BGG #469383)"
 ---
 
 Három héttel a Spiel Essen után a német boltokba is megérkezett a vásár egyik legtöbbet emlegetett újdonsága, a **Greenwood**. A **Feuerland Spiele** kiadásában megjelent stratégiai játékot **Christos Giannakoulas** és **Manolis Zachariadis** tervezte. A Brettspiel-News.de szerint a német webáruházak november 13. óta szállítják, a kiadó által javasolt fogyasztói ár 79,90 euró.

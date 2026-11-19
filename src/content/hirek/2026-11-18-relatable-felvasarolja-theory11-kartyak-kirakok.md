@@ -29,6 +29,7 @@ sources:
     url: https://toybook.com/relatable-theory11-aquisition-news/
 jatekok:
   - What Do You Meme?
+magyarCimek: "What Do You Meme?: a BGG szerint nincs magyar kiadása (BGG #226610)"
 ---
 
 Újabb céggel bővült az amerikai **Relatable** portfóliója: a *What Do You Meme?* című partijáték kiadója bejelentette, hogy felvásárolja a **theory11**-et. A hírt az ICv2 és a The Toy Book szakportál is közölte; a vételárat és a további feltételeket a felek nem hozták nyilvánosságra.

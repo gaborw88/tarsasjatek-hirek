@@ -36,6 +36,12 @@ jatekok:
   - Fruit Fight
   - Magical Athlete
   - "Magical Athlete: Second Wind"
+magyarCimek: |-
+  Hilt: a BGG szerint nincs magyar kiadása (BGG #484019)
+  Condottiere → VAN MAGYAR KIADÁS (Fantasy Flight Games, Delta Vision Publishing, Z-Man Games, 2007, 2018), a magyar cím nem azonosítható biztosan – lehet, hogy azonos az eredetivel; a BGG-n szereplő további nevek: رکب (Rakab) (BGG #112)
+  Fruit Fight: a BGG szerint nincs magyar kiadása (BGG #339214)
+  Magical Athlete → VAN MAGYAR KIADÁS (Gémklub, 2026), a magyar cím nem azonosítható biztosan – lehet, hogy azonos az eredetivel; a BGG-n szereplő további nevek: Kerge futam / Magico Atleta / Magiczni Atleci / Superatleții / Turbo-Flitzpiepen 2000 (BGG #454103)
+  Magical Athlete: Second Wind: a BGG szerint nincs magyar kiadása (BGG #482837)
 ---
 
 Új formában kerülnek a boltokba az amerikai **CMYK** kiadó Magenta-sorozatának könnyed kártyajátékai. A kiadó november 17-én kezdte árulni saját webáruházában a sorozat úgynevezett Standard kiadásait: ezek kártyapakli méretű, kihúzható dobozban érkeznek, amelynek borítóján egy valódi kártya látszik. A W. Eric Martin által vezetett Board Game Beat szerint a CMYK azzal indokolta a váltást, hogy a korábbi dobozok a szükségesnél nagyobbak voltak, az ár pedig soknak tűnt egy könnyű játékért. A nagyobb, 25 dolláros „Home” kiadás mellett az új változat 15 dollárba kerül (a webáruházban 14,99 dollár).

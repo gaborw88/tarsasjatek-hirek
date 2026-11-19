@@ -30,6 +30,12 @@ sources:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 19. 10:56
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: |-
+  Trinket Trove: a BGG szerint nincs magyar kiadása (BGG #436931)
+  Hanami: a BGG szerint nincs magyar kiadása (BGG #450860)
+  Cascadia: Alpine Lakes → Cascadia: Tengerszemek (Gémklub, 2026; BGG #446815)
+  Cascadia → VAN MAGYAR KIADÁS (Gémklub, 2021); lehetséges magyar cím: Cascadia vadvilága / Kaskádie (BGG #295947)
+  Tidal Blades 2: Rise of the Unfolders: a BGG szerint nincs magyar kiadása (BGG #233261)
 ---
 
 Új francia társasjáték-kiadó jelent meg a piacon: a **Moona Games** mögött a Lucky Duck Games két korábbi vezetője, Davy Spychala és Guillaume Poueys áll, akik az Aurora Game Studios alapítójával, Damien Chauveau-val közösen indították el a céget 2026 júliusában – számolt be a BoardGameWire.

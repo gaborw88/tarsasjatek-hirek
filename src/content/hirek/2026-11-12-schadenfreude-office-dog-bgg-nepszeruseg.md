@@ -34,6 +34,7 @@ sources:
     url: https://www.officedoggames.com/game-releases/informative/schadenfreude-is-coming-to-essen-spiel-2026/
   - name: Office Dog Games – Announcing Schadenfreude
     url: https://www.officedoggames.com/announcements/announcing-schadenfreude/
+magyarCimek: "Schadenfreude → Káröröm (Gémklub, 2026; BGG #324711)"
 ---
 
 Nem egy esseni nagy dobozos újdonság, hanem egy kis japán kártyajáték került a BoardGameGeek „Hotness” listájának első helyére: a német Brettspiel-News.de november 10-i beszámolója szerint a **Schadenfreude** (magyarul: *Káröröm*, a Gémklub kiadásában) vezeti a játékadatbázis népszerűségi rangsorát. Ez a lista nem az értékeléseket, hanem azt méri, hogy az utóbbi időben mely játékok oldalait nézik a legtöbben.
