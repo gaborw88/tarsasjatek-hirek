@@ -1,14 +1,14 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 18. 23:20
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Gombaszerzetes és repülő zsoldos: 2027-ben magyarul is jön a Homályrév: Apró kalandok első kiegészítője'
-description: 'A Gémklub bejelentette, hogy 2027-ben kiadja a zsebméretű Gloomhaven-kalandjáték, a Homályrév: Apró kalandok Pub Crawlers című kiegészítőjét. A bővítés két új kasztot és egy teljesen új hadjáratot hoz.'
+published: true
+publishedAt: 2026-11-19T12:57:01.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 19. 13:57
+approvedBy: Weszprémy Gábor · 2026. 11. 19. 13:57
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 19. 13:57
+title: "Gombaszerzetes és repülő zsoldos: 2027-ben magyarul is jön a Homályrév: Apró kalandok első kiegészítője"
+description: "A Gémklub bejelentette, hogy 2027-ben kiadja a zsebméretű Gloomhaven-kalandjáték, a Homályrév: Apró kalandok Pub Crawlers című kiegészítőjét. A bővítés két új kasztot és egy teljesen új hadjáratot hoz."
 date: 2026-11-18T23:00:00+01:00
 type: gyujtott
 author: Szerkesztőség
@@ -18,23 +18,23 @@ tags:
   - Cephalofair Games
   - Kiegészítők
   - Gloomhaven
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1795092938043.png
-imageAlt: ''
-imageCredit: 'Kép: Cephalofair Games'
-imageSuggestion: 'Hivatalos dobozkép a kiadó (Cephalofair Games) termékoldalán: https://cephalofair.com/products/gloomhaven-pubcrawlers-a-buttons-bugs-expansion (képfájl: https://cephalofair.com/cdn/shop/files/BBPC_FM.jpg?v=1784855029&width=2048) – javasolt forrásmegjelölés: Kép: Cephalofair Games. A Gémklub bejelentésénél kép nem látszott; ha lesz magyar dobozkép, az még jobb.'
+imageAlt: ""
+imageCredit: "Kép: Cephalofair Games"
+imageSuggestion: "Hivatalos dobozkép a kiadó (Cephalofair Games) termékoldalán: https://cephalofair.com/products/gloomhaven-pubcrawlers-a-buttons-bugs-expansion (képfájl: https://cephalofair.com/cdn/shop/files/BBPC_FM.jpg?v=1784855029&width=2048) – javasolt forrásmegjelölés: Kép: Cephalofair Games. A Gémklub bejelentésénél kép nem látszott; ha lesz magyar dobozkép, az még jobb."
 sources:
-  - name: 'Gémklub – Új megjelenés: Buttons & Bugs: Pub Crawlers'
+  - name: "Gémklub – Új megjelenés: Buttons & Bugs: Pub Crawlers"
     url: https://www.gemklub.hu/hirek/uj-megjelenes-buttons-and-bugs-pub-crawlers-2895
-  - name: 'Cephalofair Games – Announcing Buttons & Bugs: Pub Crawlers Expansion'
+  - name: "Cephalofair Games – Announcing Buttons & Bugs: Pub Crawlers Expansion"
     url: https://cephalofair.com/blogs/chronicle/announcing-buttons-bugs-pub-crawlers-expansion
-  - name: 'Cephalofair Games – Buttons & Bugs: Pub Crawlers (termékoldal)'
+  - name: "Cephalofair Games – Buttons & Bugs: Pub Crawlers (termékoldal)"
     url: https://cephalofair.com/products/gloomhaven-pubcrawlers-a-buttons-bugs-expansion
   - name: GamesRadar+ – Gloomhaven RPG spinoff Buttons & Bugs gets its first expansion with new classes and a pub crawl
     url: https://www.gamesradar.com/games/board-games/gloomhaven-rpg-spinoff-buttons-and-bugs-gets-its-first-expansion-with-new-classes-and-a-pub-crawl/
 jatekok:
-  - 'Gloomhaven: Buttons & Bugs'
-  - 'Buttons & Bugs: Pub Crawlers'
+  - "Gloomhaven: Buttons & Bugs"
+  - "Buttons & Bugs: Pub Crawlers"
   - Gloomhaven
 magyarCimek: |-
   Gloomhaven: Buttons & Bugs → Homályrév: Apró kalandok (Gémklub, 2025; BGG #393672)
