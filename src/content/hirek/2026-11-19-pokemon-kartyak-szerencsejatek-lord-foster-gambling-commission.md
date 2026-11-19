@@ -27,6 +27,7 @@ sources:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 19. 23:03
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: "Pokémon Trading Card Game: a BGG szerint nincs magyar kiadása (BGG #2165)"
 ---
 
 Nyilvánosságra került egy nyári levélváltás, amely a gyűjtögetős kártyajátékok egyik legérzékenyebb kérdését feszegeti: szerencsejáték-e, ha valaki véletlenszerű tartalmú kártyacsomagot vásárol, amelyből egy ritka lap akár komoly összeget is érhet a viszonteladói piacon.
