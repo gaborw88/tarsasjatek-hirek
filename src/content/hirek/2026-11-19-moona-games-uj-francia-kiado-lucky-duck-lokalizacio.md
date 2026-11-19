@@ -2,22 +2,34 @@
 published: false
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
+status: ⏳ tervezet
 title: "A Lucky Duck volt vezetői új kiadót alapítottak: a francia Moona Games a honosításra épít"
-description: "A Lucky Duck Games két korábbi vezetője megalapította a Moona Gamest, amely évente 8–10 nemzetközi játék francia kiadását tervezi. Első megjelenésük, a Trinket Trove francia változata már az első napokban elfogyott."
+description: A Lucky Duck Games két korábbi vezetője megalapította a Moona Gamest, amely évente 8–10 nemzetközi játék francia kiadását tervezi. Első megjelenésük, a Trinket Trove francia változata már az első napokban elfogyott.
 date: 2026-11-19T21:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Iparági hírek", "Kiadói hírek", "Moona Games", "Lucky Duck Games"]
-jatekok: ["Trinket Trove", "Hanami", "Cascadia: Alpine Lakes", "Cascadia", "Tidal Blades 2: Rise of the Unfolders"]
+author: Szerkesztőség
+tags:
+  - Iparági hírek
+  - Kiadói hírek
+  - Moona Games
+  - Lucky Duck Games
+jatekok:
+  - Trinket Trove
+  - Hanami
+  - "Cascadia: Alpine Lakes"
+  - Cascadia
+  - "Tidal Blades 2: Rise of the Unfolders"
 imageSuggestion: "A Moona Gamesnek nem találtam hivatalos sajtóoldalát vagy sajtócsomagját. A cikkben szereplő első megjelenés eredeti kiadásának dobozképe a kiadó termékoldalán: https://gamehead.com/pages/trinket-trove – javasolt forrásmegjelölés: Kép: GameHead. Jobb megoldás, ha a szerkesztő a Moona Gamestől kéri el a logót vagy a Babioles dobozképét; kép nélkül is rendben van."
 sources:
-  - name: "BoardGameWire – Ex-Lucky Duck execs build new publisher Moona Games around localisation strategy their old company scaled back"
-    url: "https://boardgamewire.com/index.php/2026/11/17/ex-lucky-duck-execs-build-new-publisher-moona-games-around-localisation-strategy-their-old-company-scaled-back/"
-  - name: "Esprit Jeu – Babioles (Moona Games)"
-    url: "https://www.espritjeu.com/babioles.html"
-  - name: "Ludum – Moona Games termékei"
-    url: "https://www.ludum.fr/editeur/602-moona-games"
+  - name: BoardGameWire – Ex-Lucky Duck execs build new publisher Moona Games around localisation strategy their old company scaled back
+    url: https://boardgamewire.com/index.php/2026/11/17/ex-lucky-duck-execs-build-new-publisher-moona-games-around-localisation-strategy-their-old-company-scaled-back/
+  - name: Esprit Jeu – Babioles (Moona Games)
+    url: https://www.espritjeu.com/babioles.html
+  - name: Ludum – Moona Games termékei
+    url: https://www.ludum.fr/editeur/602-moona-games
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 19. 10:56
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 Új francia társasjáték-kiadó jelent meg a piacon: a **Moona Games** mögött a Lucky Duck Games két korábbi vezetője, Davy Spychala és Guillaume Poueys áll, akik az Aurora Game Studios alapítójával, Damien Chauveau-val közösen indították el a céget 2026 júliusában – számolt be a BoardGameWire.
