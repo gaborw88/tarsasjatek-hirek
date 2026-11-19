@@ -28,6 +28,10 @@ sources:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 19. 19:08
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: |-
+  Namiji: a BGG szerint nincs magyar kiadása (BGG #275215)
+  Tokaido → VAN MAGYAR KIADÁS (Delta Vision Publishing, Gémklub, 2018, 2025), a magyar cím nem azonosítható biztosan – lehet, hogy azonos az eredetivel (BGG #123540)
+  Tokaido Duo: a BGG szerint nincs magyar kiadása (BGG #363183)
 ---
 
 A **Stonemaier Games** befejezi a **Tokaido**-sorozat felújítását: a kiadó blogja szerint a **Namiji** új kiadása november 20-án kerül az észak-amerikai és egyesült királyságbeli szaküzletekbe, világszerte és az online boltokban pedig december 4-én jelenik meg.

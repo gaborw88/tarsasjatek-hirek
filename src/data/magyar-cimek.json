@@ -209,6 +209,30 @@
     "biztos": true,
     "ellenorizve": "2026-11-19"
   },
+  "Formaggio": {
+    "id": "430533",
+    "nev": "Formaggio",
+    "tipus": "boardgame",
+    "ev": 2025,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-19"
+  },
+  "Fromage": {
+    "id": "384213",
+    "nev": "Fromage",
+    "tipus": "boardgame",
+    "ev": 2024,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-19"
+  },
   "Fruit Fight": {
     "id": "339214",
     "nev": "Fruit Fight",
@@ -375,11 +399,35 @@
     "biztos": false,
     "ellenorizve": "2026-11-19"
   },
+  "Namiji": {
+    "id": "275215",
+    "nev": "Namiji",
+    "tipus": "boardgame",
+    "ev": 2022,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-19"
+  },
   "Pokémon Trading Card Game": {
     "id": "2165",
     "nev": "Pokémon Trading Card Game",
     "tipus": "boardgame",
     "ev": 1996,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-19"
+  },
+  "Queso": {
+    "id": "483608",
+    "nev": "Queso",
+    "tipus": "boardgame",
+    "ev": 2028,
     "magyarKiadas": false,
     "magyarKiadasok": [],
     "magyarCimJeloltek": [],
@@ -510,6 +558,47 @@
     "nev": "Tidal Blades 2: Rise of the Unfolders",
     "tipus": "boardgame",
     "ev": 2024,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-19"
+  },
+  "Tokaido": {
+    "id": "123540",
+    "nev": "Tokaido",
+    "tipus": "boardgame",
+    "ev": 2012,
+    "magyarKiadas": true,
+    "magyarKiadasok": [
+      {
+        "nev": "Delta Vision Hungarian edition",
+        "kiadok": [
+          "Delta Vision Publishing"
+        ],
+        "ev": 2025,
+        "tobbnyelvu": false
+      },
+      {
+        "nev": "Gém Klub Hungarian edition",
+        "kiadok": [
+          "Gémklub"
+        ],
+        "ev": 2018,
+        "tobbnyelvu": false
+      }
+    ],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-19"
+  },
+  "Tokaido Duo": {
+    "id": "363183",
+    "nev": "Tokaido Duo",
+    "tipus": "boardgame",
+    "ev": 2022,
     "magyarKiadas": false,
     "magyarKiadasok": [],
     "magyarCimJeloltek": [],

@@ -28,6 +28,10 @@ sources:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 19. 19:08
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: |-
+  Queso: a BGG szerint nincs magyar kiadása (BGG #483608)
+  Fromage: a BGG szerint nincs magyar kiadása (BGG #384213)
+  Formaggio: a BGG szerint nincs magyar kiadása (BGG #430533)
 ---
 
 Harmadik, egyben utolsó részéhez érkezik a sajtkészítésről szóló társasjáték-sorozat: az amerikai **R2i Games** (Road to Infamy) november 19-én bejelentette a **Queso** című játékot, amely a francia **Fromage** és az olasz **Formaggio** után Spanyolországba viszi a sajtkészítőket.
