@@ -1,9 +1,13 @@
 ---
-published: false
-approved: false
-chiefApproved: false
 status: ⏳ tervezet
-title: "Chocobók zöldségvadászaton: 2027-ben nyugaton is boltokba kerül a Square Enix új Final Fantasy-társasjátéka"
+approved: true
+chiefApproved: true
+published: false
+publishedAt: ''
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 19. 15:09
+approvedBy: ''
+chiefApprovedBy: ''
+title: 'Chocobók zöldségvadászaton: 2027-ben nyugaton is boltokba kerül a Square Enix új Final Fantasy-társasjátéka'
 description: A Chocobo's Scout Frenzy egy 2–5 fős, félórás kártyás licitjáték, amelyben a Final Fantasy jellegzetes madarai pontokat érő zöldségekért versengenek, és szörnyekbe botolhatnak. Japánban 2027. március 27-én jelenik meg, a nyugati boltokba az év harmadik negyedévében érkezik.
 date: 2026-11-19T15:30:00+01:00
 type: gyujtott
@@ -13,17 +17,18 @@ tags:
   - Square Enix
   - Final Fantasy
   - Videójáték-adaptáció
-jatekok:
-  - Chocobo's Scout Frenzy
-imageSuggestion: "Hivatalos sajtóképet vagy a Square Enix webáruházának termékoldalát nem találtam meg a keresőben (a japán hírportálok a kiadó képeit használják, de azokat nem javaslom). Megoldás: a Square Enix e-STORE vagy a nyugati Square Enix Store termékoldaláról vehető dobozkép, ha a termék felkerül – javasolt forrásmegjelölés: Kép: Square Enix. Kép nélkül is rendben van."
+youtube: ''
+image: /images/uploads/pasted-image-1795127719489.png
+imageAlt: ''
+imageCredit: 'Kép: Square Enix'
+imageSuggestion: 'Hivatalos sajtóképet vagy a Square Enix webáruházának termékoldalát nem találtam meg a keresőben (a japán hírportálok a kiadó képeit használják, de azokat nem javaslom). Megoldás: a Square Enix e-STORE vagy a nyugati Square Enix Store termékoldaláról vehető dobozkép, ha a termék felkerül – javasolt forrásmegjelölés: Kép: Square Enix. Kép nélkül is rendben van.'
 sources:
   - name: ICv2 – Join 'Chocobo's Scout Frenzy' in New 'Final Fantasy' Board Game
     url: https://icv2.com/articles/news/view/63922/join-chocobos-scout-frenzy-new-final-fantasy-board-game
   - name: Dengeki Online – チョコボのスカウトフレンジーボードゲーム (japán bejelentés)
     url: https://dengekionline.com/article/202610/91100
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 19. 15:09
-approvedBy: ""
-chiefApprovedBy: ""
+jatekok:
+  - Chocobo's Scout Frenzy
 magyarCimek: "Chocobo's Scout Frenzy: nem található a BGG-n – nézd meg kézzel"
 ---
 
