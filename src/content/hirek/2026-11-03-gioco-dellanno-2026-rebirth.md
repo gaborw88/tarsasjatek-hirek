@@ -37,7 +37,7 @@ publishedAt: 2026-11-03T15:00:00.000Z
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 19. 13:49
 magyarCimek: |-
   Rebirth: a BGG szerint nincs magyar kiadása (BGG #417197)
-  Art Society → VAN MAGYAR KIADÁS (Gémklub, 2024); lehetséges magyar cím: Galerie der Künste / Műgyűjtők társasága (BGG #395375)
+  Art Society → Műgyűjtők társasága (Gémklub, 2024; BGG #395375)
   Bomb Busters → Bombairtók (Reflexshop, 2025; BGG #413246)
 ---
 

@@ -37,7 +37,7 @@ publishedAt: 2026-11-03T11:00:00.000Z
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 19. 13:49
 magyarCimek: |-
   Calico → Calico: Foltok, cicák, takarók (Alderac Entertainment Group, Flatout Games, Gémklub, 2021; BGG #283155)
-  Cascadia → VAN MAGYAR KIADÁS (Gémklub, 2021); lehetséges magyar cím: Cascadia vadvilága / Kaskádie (BGG #295947)
+  Cascadia → Cascadia vadvilága (Gémklub, 2021; BGG #295947)
 ---
 
 Sűrű hét elé néznek a közösségi finanszírozást figyelő társasjátékosok: november 4. és 6. között egyszerre több olyan kampány zárul, amely a kitűzött célját sokszorosan túlteljesítette. Az alábbi összegek a Tabletop Analytics november 3-i adatai, a végeredmény ennél még magasabb lehet.

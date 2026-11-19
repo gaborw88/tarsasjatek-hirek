@@ -31,7 +31,7 @@ sources:
 publishedAt: 2026-11-08T18:50:32.113Z
 magyarCimek: |-
   Wyrmspan → Reptáv (Delta Vision Publishing, 2024; BGG #410201)
-  Flamecraft → VAN MAGYAR KIADÁS (Cardboard Alchemy, Lucky Duck Games, Gémklub, 2022); lehetséges magyar cím: Draci v práci / Lángművesek (BGG #336986)
+  Flamecraft → Lángművesek (Cardboard Alchemy, Lucky Duck Games, Gémklub, 2022; BGG #336986)
 ---
 
 November 5-én elindult a Steamen a **Digital Tabletop Fest 2026**, a társasjátékok digitális változatainak és a társasjátékok által ihletett videojátékoknak szentelt tematikus fesztivál. Az esemény **november 15-ig** tart.
