@@ -1,14 +1,14 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 19. 06:56
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Boltokba került a Circle of Conflict: Gyűrűk Ura-kockajáték, amelyben mindenki a Szövetséget és Szauront is irányítja'
-description: 'Az Asmodee-hez tartozó Office Dog november 13-án kiadta a The Lord of the Rings: Circle of Conflict című stratégiai kockajátékot. A 2–4 fős játékban minden játékos egyszerre vezeti a Szabad Népek és az Árnyék seregét.'
+published: true
+publishedAt: 2026-11-19T20:26:58.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 19. 21:26
+approvedBy: Weszprémy Gábor · 2026. 11. 19. 21:26
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 19. 21:26
+title: "Boltokba került a Circle of Conflict: Gyűrűk Ura-kockajáték, amelyben mindenki a Szövetséget és Szauront is irányítja"
+description: "Az Asmodee-hez tartozó Office Dog november 13-án kiadta a The Lord of the Rings: Circle of Conflict című stratégiai kockajátékot. A 2–4 fős játékban minden játékos egyszerre vezeti a Szabad Népek és az Árnyék seregét."
 date: 2026-11-19T13:00:00+01:00
 type: gyujtott
 author: Szerkesztőség
@@ -18,23 +18,23 @@ tags:
   - Office Dog
   - A Gyűrűk Ura
   - Megjelenések
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1795119945212.png
-imageAlt: ''
-imageCredit: 'Kép: Office Dog / Asmodee'
-imageSuggestion: 'Hivatalos dobozkép az Asmodee UK termékoldalán: https://www.asmodee.co.uk/products/odgrwm0201-the-lord-of-the-rings-circle-of-conflict (képfájl: https://www.asmodee.co.uk/cdn/shop/files/ODGRWM0201_1.jpg) – javasolt forrásmegjelölés: Kép: Office Dog / Asmodee'
+imageAlt: ""
+imageCredit: "Kép: Office Dog / Asmodee"
+imageSuggestion: "Hivatalos dobozkép az Asmodee UK termékoldalán: https://www.asmodee.co.uk/products/odgrwm0201-the-lord-of-the-rings-circle-of-conflict (képfájl: https://www.asmodee.co.uk/cdn/shop/files/ODGRWM0201_1.jpg) – javasolt forrásmegjelölés: Kép: Office Dog / Asmodee"
 sources:
   - name: Screen Rant – Lord Of The Rings Officially Returns To The Third Age With Brand-New Release
     url: https://screenrant.com/lord-of-the-rings-circle-of-conflict-november-release/
   - name: Toy World Magazine – Asmodee unveils new Lord of the Rings dice game
     url: https://toyworldmag.co.uk/asmodee-unveils-new-lord-of-the-rings-dice-game/
-  - name: 'Asmodee UK – The Lord of the Rings: Circle of Conflict (termékoldal)'
+  - name: "Asmodee UK – The Lord of the Rings: Circle of Conflict (termékoldal)"
     url: https://www.asmodee.co.uk/products/odgrwm0201-the-lord-of-the-rings-circle-of-conflict
-  - name: 'Get Your Comic On – Asmodee Debuts New Tabletop Game Lord of the Rings: Circle of Conflict'
+  - name: "Get Your Comic On – Asmodee Debuts New Tabletop Game Lord of the Rings: Circle of Conflict"
     url: https://getyourcomicon.co.uk/blog/2026/11/16/sound-the-horns-asmodee-debuts-new-tabletop-game-lord-of-the-rings-circle-of-conflict/
 jatekok:
-  - 'The Lord of the Rings: Circle of Conflict'
-magyarCimek: 'The Lord of the Rings: Circle of Conflict: a BGG szerint nincs magyar kiadása (BGG #462620)'
+  - "The Lord of the Rings: Circle of Conflict"
+magyarCimek: "The Lord of the Rings: Circle of Conflict: a BGG szerint nincs magyar kiadása (BGG #462620)"
 ---
 
 Új Gyűrűk Ura-társasjáték került a boltokba: az Asmodee-hez tartozó **Office Dog** november 13-án jelentette meg a **The Lord of the Rings: Circle of Conflict** című stratégiai kockajátékot. A játékot **Geoff Engelstein** és **Stephen Buonocore** tervezte, 2–4 játékos számára készült, 14 éves kortól ajánlott, egy parti nagyjából 60–90 percig tart.
