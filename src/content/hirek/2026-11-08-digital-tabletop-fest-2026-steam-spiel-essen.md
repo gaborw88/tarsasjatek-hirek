@@ -3,7 +3,7 @@ status: ✅ megjelent
 approved: true
 chiefApproved: true
 published: true
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 17. 18:50
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 19. 13:49
 approvedBy: Weszprémy Gábor
 chiefApprovedBy: Weszprémy Gábor
 title: "Társasjátékok a képernyőn: november 15-ig tart a Steam Digital Tabletop Festje, idén a SPIEL Essennel közösen"
@@ -12,8 +12,8 @@ date: 2026.11.08 21:00
 type: gyujtott
 author: Szerkesztőség
 jatekok:
-  - "Wyrmspan"
-  - "Flamecraft"
+  - Wyrmspan
+  - Flamecraft
 tags:
   - Digitális társasjátékok
   - Essen Spiel

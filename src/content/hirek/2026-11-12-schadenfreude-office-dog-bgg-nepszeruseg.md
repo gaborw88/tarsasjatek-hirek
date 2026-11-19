@@ -4,7 +4,7 @@ approved: true
 chiefApproved: true
 published: true
 publishedAt: 2026-11-15T09:09:29.000Z
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 18. 15:36
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 19. 13:49
 approvedBy: Weszprémy Gábor · 2026. 11. 15. 10:09
 chiefApprovedBy: Weszprémy Gábor · 2026. 11. 15. 10:09
 title: "Aki második, az nyer: a BoardGameGeek népszerűségi listájának élére ugrott egy japán ütésvivős kártyajáték"
@@ -13,7 +13,7 @@ date: 2026-11-12T17:00:00+01:00
 type: gyujtott
 author: Szerkesztőség
 jatekok:
-  - "Schadenfreude"
+  - Schadenfreude
 tags:
   - Kiadói hírek
   - Megjelenések

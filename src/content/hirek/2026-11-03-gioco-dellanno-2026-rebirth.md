@@ -6,9 +6,9 @@ date: 2026-11-03T16:00:00+01:00
 type: gyujtott
 author: Szerkesztőség
 jatekok:
-  - "Rebirth"
-  - "Art Society"
-  - "Bomb Busters"
+  - Rebirth
+  - Art Society
+  - Bomb Busters
 tags:
   - Díjak
   - Gioco dell'Anno
@@ -34,7 +34,7 @@ approved: true
 chiefApproved: true
 status: ✅ megjelent
 publishedAt: 2026-11-03T15:00:00.000Z
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 17. 18:50
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 19. 13:49
 ---
 
 Újabb rangos elismerést gyűjtött be Reiner Knizia: a **Rebirth** című játéka nyerte az olasz **Gioco dell'Anno 2026** (Az év játéka) díjat. Az eredményt a 60. alkalommal megrendezett Lucca Comics & Games fesztivál díjátadó gáláján hirdették ki a város Teatro del Giglio színházában. Az 1991 óta odaítélt díjról kilenctagú zsűri dönt; tavaly a Botanicus nyert.
