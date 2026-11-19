@@ -2,22 +2,32 @@
 published: false
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
+status: ⏳ tervezet
 title: "Franciaország és Olaszország után Spanyolország: bejelentették a sajtkészítős Fromage-trilógia záró részét, a Quesót"
-description: "Az R2i Games bejelentette a Queso című játékot, a Fromage és a Formaggio után a sajtkészítős sorozat harmadik, egyben utolsó darabját. A Kickstarter-kampány 2027 tavaszán indulhat."
+description: Az R2i Games bejelentette a Queso című játékot, a Fromage és a Formaggio után a sajtkészítős sorozat harmadik, egyben utolsó darabját. A Kickstarter-kampány 2027 tavaszán indulhat.
 date: 2026-11-19T19:20:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Kiadói hírek", "Közösségi finanszírozás", "R2i Games", "Kickstarter"]
-jatekok: ["Queso", "Fromage", "Formaggio"]
+author: Szerkesztőség
+tags:
+  - Kiadói hírek
+  - Közösségi finanszírozás
+  - R2i Games
+  - Kickstarter
+jatekok:
+  - Queso
+  - Fromage
+  - Formaggio
 imageSuggestion: "A Quesóhoz még nincs hivatalos kép (a játék fejlesztés alatt áll). A kiadó honlapján a Fromage dobozképe és logója elérhető: https://roadtoinfamy.com/ – javasolt forrásmegjelölés: Kép: R2i Games. Később a Queso Kickstarter-oldalának (https://www.kickstarter.com/projects/roadtoinfamy/queso) kiadói képe is használható lesz. Kép nélkül is rendben van."
 sources:
-  - name: "Tabletop Sentinel – R2i Games Announces The Final Game in Popular Fromage Trilogy – Queso"
-    url: "https://www.tabletopsentinel.com/news/modern/r2i-games-announces-the-final-game-in-popular-fromage-trilogy-queso"
-  - name: "Kickstarter – Queso by Road To Infamy (előkampány-oldal)"
-    url: "https://www.kickstarter.com/projects/roadtoinfamy/queso"
-  - name: "Wikipedia – Fromage (board game)"
-    url: "https://en.wikipedia.org/wiki/Fromage_(board_game)"
+  - name: Tabletop Sentinel – R2i Games Announces The Final Game in Popular Fromage Trilogy – Queso
+    url: https://www.tabletopsentinel.com/news/modern/r2i-games-announces-the-final-game-in-popular-fromage-trilogy-queso
+  - name: Kickstarter – Queso by Road To Infamy (előkampány-oldal)
+    url: https://www.kickstarter.com/projects/roadtoinfamy/queso
+  - name: Wikipedia – Fromage (board game)
+    url: https://en.wikipedia.org/wiki/Fromage_(board_game)
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 19. 19:08
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 Harmadik, egyben utolsó részéhez érkezik a sajtkészítésről szóló társasjáték-sorozat: az amerikai **R2i Games** (Road to Infamy) november 19-én bejelentette a **Queso** című játékot, amely a francia **Fromage** és az olasz **Formaggio** után Spanyolországba viszi a sajtkészítőket.

@@ -2,22 +2,32 @@
 published: false
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
+status: ⏳ tervezet
 title: "Csónakkal a japán partok mentén: boltokba kerül a Namiji Stonemaier-féle kiadása"
-description: "Antoine Bauza tengerparti utazós játéka, a Namiji november 20-án Észak-Amerikában és az Egyesült Királyságban, december 4-én világszerte jelenik meg a Stonemaier Games új kiadásában. A dobozba bekerült a korábbi kiegészítő és egy szólómód is."
+description: Antoine Bauza tengerparti utazós játéka, a Namiji november 20-án Észak-Amerikában és az Egyesült Királyságban, december 4-én világszerte jelenik meg a Stonemaier Games új kiadásában. A dobozba bekerült a korábbi kiegészítő és egy szólómód is.
 date: 2026-11-19T19:15:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Kiadói hírek", "Stonemaier Games", "Tokaido", "Antoine Bauza"]
-jatekok: ["Namiji", "Tokaido", "Tokaido Duo"]
+author: Szerkesztőség
+tags:
+  - Kiadói hírek
+  - Stonemaier Games
+  - Tokaido
+  - Antoine Bauza
+jatekok:
+  - Namiji
+  - Tokaido
+  - Tokaido Duo
 imageSuggestion: "Hivatalos dobozkép a kiadói termékoldalon: https://stonemaiergames.com/games/tokaido/namiji/ (a kép közvetlen linkje: https://stonemaiergames.com/wp-content/uploads/2026/10/3d-namiji-785x1024.webp) – javasolt forrásmegjelölés: Kép: Stonemaier Games"
 sources:
-  - name: "Stonemaier Games – Namiji Is Here!"
-    url: "https://stonemaiergames.com/namiji-is-here/"
-  - name: "ICv2 – Stonemaier Completes 'Tokaido' Journey with 'Namiji'"
-    url: "https://icv2.com/articles/news/view/63574/stonemaier-completes-tokaido-journey-namiji"
-  - name: "Stonemaier Games – Namiji (termékoldal)"
-    url: "https://stonemaiergames.com/games/tokaido/namiji/"
+  - name: Stonemaier Games – Namiji Is Here!
+    url: https://stonemaiergames.com/namiji-is-here/
+  - name: ICv2 – Stonemaier Completes 'Tokaido' Journey with 'Namiji'
+    url: https://icv2.com/articles/news/view/63574/stonemaier-completes-tokaido-journey-namiji
+  - name: Stonemaier Games – Namiji (termékoldal)
+    url: https://stonemaiergames.com/games/tokaido/namiji/
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 19. 19:08
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 A **Stonemaier Games** befejezi a **Tokaido**-sorozat felújítását: a kiadó blogja szerint a **Namiji** új kiadása november 20-án kerül az észak-amerikai és egyesült királyságbeli szaküzletekbe, világszerte és az online boltokban pedig december 4-én jelenik meg.
