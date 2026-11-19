@@ -1,13 +1,13 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 19. 15:09
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Okkult császár és roswelli technológia: a Board Game Arenán tér vissza a Tannhäuser'
+published: true
+publishedAt: 2026-11-19T15:57:52.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 19. 16:57
+approvedBy: Weszprémy Gábor · 2026. 11. 19. 16:57
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 19. 16:57
+title: "Okkult császár és roswelli technológia: a Board Game Arenán tér vissza a Tannhäuser"
 description: Hónapokig tartó tesztelés után november 16-án elkészült a 2007-es Tannhäuser online változata a Board Game Arenán. A kétszemélyes, alternatív történelmi csatajáték rögtön felkerült a BoardGameGeek népszerűségi listájára.
 date: 2026-11-19T15:45:00+01:00
 type: gyujtott
@@ -17,19 +17,19 @@ tags:
   - Board Game Arena
   - Fantasy Flight Games
   - Asmodee
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1795103719948.png
-imageAlt: ''
-imageCredit: 'Kép: Board Game Arena'
-imageSuggestion: 'Iparági/digitális hír; hivatalos sajtóképet nem találtam. A Board Game Arena hírében és játékoldalán szerepel a játék képe (https://en.boardgamearena.com/gamepanel?game=tannhauser), de felhasználási joga nem tisztázott. Megoldás: a Board Game Arena logója a hivatalos arculati oldalukról, vagy kép nélkül is rendben van.'
+imageAlt: ""
+imageCredit: "Kép: Board Game Arena"
+imageSuggestion: "Iparági/digitális hír; hivatalos sajtóképet nem találtam. A Board Game Arena hírében és játékoldalán szerepel a játék képe (https://en.boardgamearena.com/gamepanel?game=tannhauser), de felhasználási joga nem tisztázott. Megoldás: a Board Game Arena logója a hivatalos arculati oldalukról, vagy kép nélkül is rendben van."
 sources:
-  - name: 'Board Game Arena – Tannhäuser: The Never-Ending War to End All Wars!'
+  - name: "Board Game Arena – Tannhäuser: The Never-Ending War to End All Wars!"
     url: https://en.boardgamearena.com/news?id=1166
-  - name: 'Brettspiel-News.de – Tannhäuser auf Platz 33 der BGG-Hotness: Board Game Arena holt den Weird-War-Klassiker zurück'
+  - name: "Brettspiel-News.de – Tannhäuser auf Platz 33 der BGG-Hotness: Board Game Arena holt den Weird-War-Klassiker zurück"
     url: https://www.brettspiel-news.de/index.php/de/nachrichten-uebersicht/neuerscheinungen/16493-tannh-user-auf-platz-33-der-bgg-hotness-board-game-arena-holt-den-weird-war-klassiker-zur-ck
 jatekok:
-  - 'Tannhäuser #25261'
-magyarCimek: 'Tannhäuser: a BGG szerint nincs magyar kiadása (BGG #25261)'
+  - "Tannhäuser #25261"
+magyarCimek: "Tannhäuser: a BGG szerint nincs magyar kiadása (BGG #25261)"
 ---
 
 Online is játszható a **Tannhäuser**, William Grosselin és Didier Poli 2007-es csatajátéka: a **Board Game Arena** november 16-án jelentette be, hogy a hónapokig tartó alfa-tesztelés után a játék teljes értékű változata elérhető az oldalon. Az online adaptációt a Lunalol nevű fejlesztő készítette, a Brettspiel-News.de szerint a projektet az Asmodee indította el.
