@@ -11,6 +11,9 @@ description: Kedvezményekkel, tervezői interjúkkal és szakmai beszélgetése
 date: 2026.11.08 21:00
 type: gyujtott
 author: Szerkesztőség
+jatekok:
+  - "Wyrmspan"
+  - "Flamecraft"
 tags:
   - Digitális társasjátékok
   - Essen Spiel

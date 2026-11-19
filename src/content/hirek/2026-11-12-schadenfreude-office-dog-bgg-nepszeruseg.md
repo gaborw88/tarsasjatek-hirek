@@ -12,6 +12,8 @@ description: A japán Schadenfreude az Asmodee-hez tartozó Office Dog új kiad�
 date: 2026-11-12T17:00:00+01:00
 type: gyujtott
 author: Szerkesztőség
+jatekok:
+  - "Schadenfreude"
 tags:
   - Kiadói hírek
   - Megjelenések

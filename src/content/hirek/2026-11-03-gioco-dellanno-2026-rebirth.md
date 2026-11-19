@@ -5,6 +5,10 @@ description: A Lucca Comics & Games fesztiválon kiosztott Gioco dell'Anno 2026 
 date: 2026-11-03T16:00:00+01:00
 type: gyujtott
 author: Szerkesztőség
+jatekok:
+  - "Rebirth"
+  - "Art Society"
+  - "Bomb Busters"
 tags:
   - Díjak
   - Gioco dell'Anno

@@ -5,6 +5,9 @@ description: November első hetében több nagy közösségi finanszírozású t
 date: 2026-11-03T12:00:00+01:00
 type: gyujtott
 author: Szerkesztőség
+jatekok:
+  - "Calico"
+  - "Cascadia"
 tags:
   - Közösségi finanszírozás
   - Gamefound
