@@ -24,6 +24,7 @@ sources:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 19. 15:09
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: "Tannhäuser: a BGG szerint nincs magyar kiadása (BGG #25261)"
 ---
 
 Online is játszható a **Tannhäuser**, William Grosselin és Didier Poli 2007-es csatajátéka: a **Board Game Arena** november 16-án jelentette be, hogy a hónapokig tartó alfa-tesztelés után a játék teljes értékű változata elérhető az oldalon. Az online adaptációt a Lunalol nevű fejlesztő készítette, a Brettspiel-News.de szerint a projektet az Asmodee indította el.

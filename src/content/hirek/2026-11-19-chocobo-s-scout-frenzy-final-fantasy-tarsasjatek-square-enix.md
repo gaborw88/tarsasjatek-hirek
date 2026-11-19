@@ -24,6 +24,7 @@ sources:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 19. 15:09
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: "Chocobo's Scout Frenzy: nem található a BGG-n – nézd meg kézzel"
 ---
 
 Újabb társasjátékkal bővül a **Final Fantasy**-univerzum: a **Square Enix** 2027 harmadik negyedévében az amerikai és nyugati boltokba is elhozza a **Chocobo's Scout Frenzy** című kártyajátékot – számolt be az ICv2. Japánban a játékot már októberben bejelentették, ott 2027. március 27-én jelenik meg, 4400 jenes áron.

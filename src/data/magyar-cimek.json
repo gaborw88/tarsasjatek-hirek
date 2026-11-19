@@ -128,6 +128,10 @@
     "biztos": true,
     "ellenorizve": "2026-11-19"
   },
+  "Chocobo's Scout Frenzy": {
+    "hiba": "nincs találat",
+    "ellenorizve": "2026-11-19"
+  },
   "Condottiere": {
     "id": "112",
     "nev": "Condottiere",
@@ -427,6 +431,18 @@
     "nev": "Stormbringer",
     "tipus": "boardgame",
     "ev": 2001,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-19"
+  },
+  "Tannhäuser #25261": {
+    "id": "25261",
+    "nev": "Tannhäuser",
+    "tipus": "boardgame",
+    "ev": 2007,
     "magyarKiadas": false,
     "magyarKiadasok": [],
     "magyarCimJeloltek": [],
