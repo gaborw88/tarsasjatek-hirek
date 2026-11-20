@@ -2,22 +2,29 @@
 published: false
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
+status: ⏳ tervezet
 title: "Hosszú várakozás után Arcadiába viszi a Pathfindert a Paizo: három könyv jön 2027 őszén"
-description: "A Paizo 2027 szeptembere és novembere között három kötetet ad ki a Pathfinder eddig alig bemutatott, az amerikai kontinensek ihlette földrészéről, Arcadiáról. A karakterkönyvben négy játszható nép is lesz, köztük egy háromméteres, botsáskához hasonló faj."
+description: A Paizo 2027 szeptembere és novembere között három kötetet ad ki a Pathfinder eddig alig bemutatott, az amerikai kontinensek ihlette földrészéről, Arcadiáról. A karakterkönyvben négy játszható nép is lesz, köztük egy háromméteres, botsáskához hasonló faj.
 date: 2026-11-20T15:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Szerepjátékok", "Paizo", "Pathfinder"]
-jatekok: ["Pathfinder Roleplaying Game (Second Edition)"]
+author: Szerkesztőség
+tags:
+  - Szerepjátékok
+  - Paizo
+  - Pathfinder
+jatekok:
+  - Pathfinder Roleplaying Game (Second Edition)
 imageSuggestion: "Hivatalos sajtókép nem volt elérhető. A bejelentés eredeti forrása a Paizo blogbejegyzése (https://paizo.com/blog/visit-arcadia-in-2027), a hírportálok által átvett klinkoi koncepcióképet (Kent Hamilton) a Paizo tette közzé – képet a Paizótól érdemes kérni, javasolt forrásmegjelölés: Kép: Paizo. Kép nélkül is rendben van."
 sources:
-  - name: "Wargamer – Pathfinder announces new line of 2027 books in long-requested Arcadia setting"
-    url: "https://www.wargamer.com/pathfinder/arcadia-projects"
-  - name: "Geek Native – Paizo introduces ten-foot insectile klinkois as Pathfinder heads to Arcadia in 2027"
-    url: "https://www.geeknative.com/244595/paizo-introduces-ten-foot-insectile-klinkois-as-pathfinder-heads-to-arcadia-in-2027/"
-  - name: "EN World – Pathfinder announces new lore books focused on Arcadia"
-    url: "https://www.enworld.org/threads/pathfinder-announces-new-lore-books-focused-on-arcadia.721406/"
+  - name: Wargamer – Pathfinder announces new line of 2027 books in long-requested Arcadia setting
+    url: https://www.wargamer.com/pathfinder/arcadia-projects
+  - name: Geek Native – Paizo introduces ten-foot insectile klinkois as Pathfinder heads to Arcadia in 2027
+    url: https://www.geeknative.com/244595/paizo-introduces-ten-foot-insectile-klinkois-as-pathfinder-heads-to-arcadia-in-2027/
+  - name: EN World – Pathfinder announces new lore books focused on Arcadia
+    url: https://www.enworld.org/threads/pathfinder-announces-new-lore-books-focused-on-arcadia.721406/
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 20. 11:04
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 A Paizo november 17-i blogbejegyzésében bejelentette, hogy 2027-ben végre részletesen bemutatja a Pathfinder szerepjáték világának, Golarionnak egyik legkevésbé feltárt földrészét, Arcadiát. A kontinenst Észak- és Dél-Amerika ihlette, és a játékosok régóta kérték, hogy kapjon saját könyvet.
