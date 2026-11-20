@@ -1,13 +1,13 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 19. 10:56
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'A Lucky Duck volt vezetői új kiadót alapítottak: a francia Moona Games a honosításra épít'
+published: true
+publishedAt: 2026-11-20T21:25:14.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 20. 22:25
+approvedBy: Weszprémy Gábor · 2026. 11. 20. 22:25
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 20. 22:25
+title: "A Lucky Duck volt vezetői új kiadót alapítottak: a francia Moona Games a honosításra épít"
 description: A Lucky Duck Games két korábbi vezetője megalapította a Moona Gamest, amely évente 8–10 nemzetközi játék francia kiadását tervezi. Első megjelenésük, a Trinket Trove francia változata már az első napokban elfogyott.
 date: 2026-11-19T21:00:00+01:00
 type: gyujtott
@@ -17,11 +17,11 @@ tags:
   - Kiadói hírek
   - Moona Games
   - Lucky Duck Games
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1795209768910.png
-imageAlt: ''
-imageCredit: 'Kép: Moona Games'
-imageSuggestion: 'A Moona Gamesnek nem találtam hivatalos sajtóoldalát vagy sajtócsomagját. A cikkben szereplő első megjelenés eredeti kiadásának dobozképe a kiadó termékoldalán: https://gamehead.com/pages/trinket-trove – javasolt forrásmegjelölés: Kép: GameHead. Jobb megoldás, ha a szerkesztő a Moona Gamestől kéri el a logót vagy a Babioles dobozképét; kép nélkül is rendben van.'
+imageAlt: ""
+imageCredit: "Kép: Moona Games"
+imageSuggestion: "A Moona Gamesnek nem találtam hivatalos sajtóoldalát vagy sajtócsomagját. A cikkben szereplő első megjelenés eredeti kiadásának dobozképe a kiadó termékoldalán: https://gamehead.com/pages/trinket-trove – javasolt forrásmegjelölés: Kép: GameHead. Jobb megoldás, ha a szerkesztő a Moona Gamestől kéri el a logót vagy a Babioles dobozképét; kép nélkül is rendben van."
 sources:
   - name: BoardGameWire – Ex-Lucky Duck execs build new publisher Moona Games around localisation strategy their old company scaled back
     url: https://boardgamewire.com/index.php/2026/11/17/ex-lucky-duck-execs-build-new-publisher-moona-games-around-localisation-strategy-their-old-company-scaled-back/
@@ -32,9 +32,9 @@ sources:
 jatekok:
   - Trinket Trove
   - Hanami
-  - 'Cascadia: Alpine Lakes'
+  - "Cascadia: Alpine Lakes"
   - Cascadia
-  - 'Tidal Blades 2: Rise of the Unfolders'
+  - "Tidal Blades 2: Rise of the Unfolders"
 magyarCimek: |-
   Trinket Trove: a BGG szerint nincs magyar kiadása (BGG #436931)
   Hanami: a BGG szerint nincs magyar kiadása (BGG #450860)
