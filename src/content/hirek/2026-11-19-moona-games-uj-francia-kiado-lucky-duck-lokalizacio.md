@@ -1,9 +1,13 @@
 ---
-published: false
-approved: false
-chiefApproved: false
 status: ⏳ tervezet
-title: "A Lucky Duck volt vezetői új kiadót alapítottak: a francia Moona Games a honosításra épít"
+approved: true
+chiefApproved: true
+published: false
+publishedAt: ''
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 19. 10:56
+approvedBy: ''
+chiefApprovedBy: ''
+title: 'A Lucky Duck volt vezetői új kiadót alapítottak: a francia Moona Games a honosításra épít'
 description: A Lucky Duck Games két korábbi vezetője megalapította a Moona Gamest, amely évente 8–10 nemzetközi játék francia kiadását tervezi. Első megjelenésük, a Trinket Trove francia változata már az első napokban elfogyott.
 date: 2026-11-19T21:00:00+01:00
 type: gyujtott
@@ -13,13 +17,11 @@ tags:
   - Kiadói hírek
   - Moona Games
   - Lucky Duck Games
-jatekok:
-  - Trinket Trove
-  - Hanami
-  - "Cascadia: Alpine Lakes"
-  - Cascadia
-  - "Tidal Blades 2: Rise of the Unfolders"
-imageSuggestion: "A Moona Gamesnek nem találtam hivatalos sajtóoldalát vagy sajtócsomagját. A cikkben szereplő első megjelenés eredeti kiadásának dobozképe a kiadó termékoldalán: https://gamehead.com/pages/trinket-trove – javasolt forrásmegjelölés: Kép: GameHead. Jobb megoldás, ha a szerkesztő a Moona Gamestől kéri el a logót vagy a Babioles dobozképét; kép nélkül is rendben van."
+youtube: ''
+image: /images/uploads/pasted-image-1795209768910.png
+imageAlt: ''
+imageCredit: 'Kép: Moona Games'
+imageSuggestion: 'A Moona Gamesnek nem találtam hivatalos sajtóoldalát vagy sajtócsomagját. A cikkben szereplő első megjelenés eredeti kiadásának dobozképe a kiadó termékoldalán: https://gamehead.com/pages/trinket-trove – javasolt forrásmegjelölés: Kép: GameHead. Jobb megoldás, ha a szerkesztő a Moona Gamestől kéri el a logót vagy a Babioles dobozképét; kép nélkül is rendben van.'
 sources:
   - name: BoardGameWire – Ex-Lucky Duck execs build new publisher Moona Games around localisation strategy their old company scaled back
     url: https://boardgamewire.com/index.php/2026/11/17/ex-lucky-duck-execs-build-new-publisher-moona-games-around-localisation-strategy-their-old-company-scaled-back/
@@ -27,9 +29,12 @@ sources:
     url: https://www.espritjeu.com/babioles.html
   - name: Ludum – Moona Games termékei
     url: https://www.ludum.fr/editeur/602-moona-games
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 19. 10:56
-approvedBy: ""
-chiefApprovedBy: ""
+jatekok:
+  - Trinket Trove
+  - Hanami
+  - 'Cascadia: Alpine Lakes'
+  - Cascadia
+  - 'Tidal Blades 2: Rise of the Unfolders'
 magyarCimek: |-
   Trinket Trove: a BGG szerint nincs magyar kiadása (BGG #436931)
   Hanami: a BGG szerint nincs magyar kiadása (BGG #450860)
@@ -46,6 +51,6 @@ A Lucky Duck Games – amelyet 2024-ben a Goliath vásárolt meg – az utóbbi 
 
 ## Gyors start
 
-Az első megjelenés, a GameHead Trinket Trove című kártyajátékának francia változata (*Babioles*) november 6-án került a boltokba. A BoardGameWire szerint a kereskedők a teljes, 10 000 példányos első nyomást előrendelték, az utánnyomás már folyamatban van; a francia webáruházakban jelenleg is hiánycikk. A kínálatba kerül két, a Lucky Duck menetrendjéből kikerült cím, a Hanami és a Cascadia (magyarul: Cascadia vadvilága) önálló folytatása, a Cascadia: Alpine Lakes is, a Tidal Blades 2: Rise of the Unfolders francia kiadására pedig több mint 120 000 eurót gyűjtöttek közösségi finanszírozással (a szállítást 2027 utolsó negyedévére ígérik).
+Az első megjelenés, a GameHead Trinket Trove című kártyajátékának francia változata (_Babioles_) november 6-án került a boltokba. A BoardGameWire szerint a kereskedők a teljes, 10 000 példányos első nyomást előrendelték, az utánnyomás már folyamatban van; a francia webáruházakban jelenleg is hiánycikk. A kínálatba kerül két, a Lucky Duck menetrendjéből kikerült cím, a Hanami és a Cascadia (Cascadia vadvilága) önálló folytatása, a Cascadia: Alpine Lakes (Cascadia: Tengerszemek) is, a Tidal Blades 2: Rise of the Unfolders francia kiadására pedig több mint 120 000 eurót gyűjtöttek közösségi finanszírozással (a szállítást 2027 utolsó negyedévére ígérik).
 
 A hattagú csapat jellemzően társként, nem alkalmazottként dolgozik; a forgalmazást Franciaországban a Néoludis, Belgiumban, Kanadában és Svájcban helyi partnerek végzik, így a raktárkockázat nagy része nem a kiadót terheli. Az alapítók 2029-re nagyjából tízfős csapattal számolnak.
