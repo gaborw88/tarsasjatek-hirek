@@ -1,14 +1,14 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 20. 15:03
-approvedBy: ''
-chiefApprovedBy: ''
+published: true
+publishedAt: 2026-11-20T23:03:01.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 21. 00:03
+approvedBy: Weszprémy Gábor · 2026. 11. 21. 00:03
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 21. 00:03
 title: 1,7 millió dollárral zárult a Final Fantasy-társasjáték Kickstarter-kampánya
-description: 'A KessCo kooperatív Origins of Light: A Final Fantasy Board Game című játéka november 18-án 5368 támogatótól közel 1,71 millió dollárt gyűjtve fejezte be kampányát. A 10 ezer dolláros célt több mint 170-szeresen teljesítette.'
+description: "A KessCo kooperatív Origins of Light: A Final Fantasy Board Game című játéka november 18-án 5368 támogatótól közel 1,71 millió dollárt gyűjtve fejezte be kampányát. A 10 ezer dolláros célt több mint 170-szeresen teljesítette."
 date: 2026-11-20T16:00:00+01:00
 type: gyujtott
 author: Szerkesztőség
@@ -18,21 +18,21 @@ tags:
   - Final Fantasy
   - KessCo
   - Videójáték-adaptáció
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1794075141521.png
-imageAlt: ''
-imageCredit: 'Kép: KessCo / Square Enix'
-imageSuggestion: 'A kiadó saját Kickstarter-kampányoldalának fő képe (a korábbi cikkünknél is ezt javasoltuk): https://i.kickstarter.com/assets/055/578/886/ac9ae957ea9743e653500766682a0abd_original.png – javasolt forrásmegjelölés: Kép: KessCo / Square Enix. (A képlink a PledgeBox kampánykövető oldaláról származik; érdemes a Kickstarter-oldalon ellenőrizni. A november 5-i cikkhez feltöltött kép is újra felhasználható.)'
+imageAlt: ""
+imageCredit: "Kép: KessCo / Square Enix"
+imageSuggestion: "A kiadó saját Kickstarter-kampányoldalának fő képe (a korábbi cikkünknél is ezt javasoltuk): https://i.kickstarter.com/assets/055/578/886/ac9ae957ea9743e653500766682a0abd_original.png – javasolt forrásmegjelölés: Kép: KessCo / Square Enix. (A képlink a PledgeBox kampánykövető oldaláról származik; érdemes a Kickstarter-oldalon ellenőrizni. A november 5-i cikkhez feltöltött kép is újra felhasználható.)"
 sources:
-  - name: 'PledgeBox – Origins of Light: A Final Fantasy Board Game (kampánykövető)'
+  - name: "PledgeBox – Origins of Light: A Final Fantasy Board Game (kampánykövető)"
     url: https://www.pledgebox.com/projects/origins-of-light-a-final-fantasy-board-game
   - name: God is a Geek – Origins of Light Final Fantasy Board Game Has One Day Left on Kickstarter
     url: https://godisageek.com/2026/11/origins-of-light-final-fantasy-kickstarter-ends/
   - name: CBR – Final Fantasy Returns in 2027 With Surprise New Release
     url: https://www.cbr.com/final-fantasy-new-release-2027-origins-of-light/
 jatekok:
-  - 'Origins of Light: A Final Fantasy Board Game #479062'
-magyarCimek: 'Origins of Light: A Final Fantasy Board Game: a BGG szerint nincs magyar kiadása (BGG #479062)'
+  - "Origins of Light: A Final Fantasy Board Game #479062"
+magyarCimek: "Origins of Light: A Final Fantasy Board Game: a BGG szerint nincs magyar kiadása (BGG #479062)"
 ---
 
 Lezárult az **Origins of Light: A Final Fantasy Board Game** Kickstarter-kampánya. A **Square Enix** hivatalos licencével készülő kooperatív társasjáték a PledgeBox kampánykövető adatai szerint **1 707 980 dollárt** gyűjtött **5368 támogatótól**, ami átlagosan nagyjából 318 dolláros támogatást jelent. A kitűzött cél mindössze 10 ezer dollár volt.
