@@ -26,6 +26,7 @@ sources:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 20. 07:03
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: "Dungeons & Dragons: a BGG szerint nincs magyar kiadása (BGG #140509)"
 ---
 
 A Dungeons & Dragons hivatalos digitális platformja, a D&D Beyond is azon weboldalak közé tartozott, amelyeken november 16-án kártékony kód futott. A támadók nem közvetlenül a D&D Beyondot törték fel, hanem az Optimizely nevű külső szolgáltatót, amelynek weboldal-tesztelő eszközét sok nagy cég használja.

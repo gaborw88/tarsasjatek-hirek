@@ -168,6 +168,18 @@
     "hiba": "nincs találat",
     "ellenorizve": "2026-11-19"
   },
+  "Dungeons & Dragons": {
+    "id": "140509",
+    "nev": "Dragones Y Mazmorras",
+    "tipus": "boardgame",
+    "ev": 1985,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-20"
+  },
   "Flamecraft": {
     "id": "336986",
     "nev": "Flamecraft",
@@ -469,6 +481,18 @@
     "egyebNevek": [],
     "biztos": true,
     "ellenorizve": "2026-11-19"
+  },
+  "StarCraft: Tabletop Miniatures Game": {
+    "id": "456520",
+    "nev": "StarCraft: Tabletop Miniatures Game",
+    "tipus": "boardgame",
+    "ev": 2026,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-20"
   },
   "Starfaring": {
     "hiba": "nincs találat",

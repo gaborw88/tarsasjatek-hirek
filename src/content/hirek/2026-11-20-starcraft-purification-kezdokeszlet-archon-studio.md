@@ -22,6 +22,7 @@ sources:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 20. 07:03
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: "StarCraft: Tabletop Miniatures Game: a BGG szerint nincs magyar kiadása (BGG #456520)"
 ---
 
 A lengyel Archon Studio újabb kezdőkészlettel bővíti a Blizzard sci-fi univerzumán alapuló StarCraft: Tabletop Miniatures Game-et. A Purification Two Player Starter Set az ICv2 beszámolója szerint még novemberben megjelenik, ajánlott ára 229 dollár.
