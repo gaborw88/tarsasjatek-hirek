@@ -1,14 +1,14 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 20. 07:03
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Zergek és protossok: új kétszemélyes kezdőkészlet érkezik a StarCraft miniatűrjátékhoz'
-description: 'Az Archon Studio novemberben kiadja a StarCraft: Tabletop Miniatures Game Purification nevű kétszemélyes kezdőkészletét 20 figurával, köztük Alarakkal és Stukovval. Mellé egy Firebat-kiegészítő is megjelenik.'
+published: true
+publishedAt: 2026-11-20T22:07:45.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 20. 23:07
+approvedBy: Weszprémy Gábor · 2026. 11. 20. 23:07
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 20. 23:07
+title: "Zergek és protossok: új kétszemélyes kezdőkészlet érkezik a StarCraft miniatűrjátékhoz"
+description: "Az Archon Studio novemberben kiadja a StarCraft: Tabletop Miniatures Game Purification nevű kétszemélyes kezdőkészletét 20 figurával, köztük Alarakkal és Stukovval. Mellé egy Firebat-kiegészítő is megjelenik."
 date: 2026-11-20T12:30:00+01:00
 type: gyujtott
 author: Szerkesztőség
@@ -17,17 +17,17 @@ tags:
   - Archon Studio
   - StarCraft
   - Miniatűrjátékok
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1795212420837.png
-imageAlt: ''
-imageCredit: 'Kép: Archon Studio'
-imageSuggestion: 'A kiadó webáruházában (archon-studio.com, StarCraft Tabletop Miniatures Game rovat) a Purification készlet termékoldalát nem találtam meg; ha felkerül, onnan lehet hivatalos dobozképet venni – javasolt forrásmegjelölés: Kép: Archon Studio. Addig érdemes képet kérni a kiadótól, vagy kép nélkül közölni.'
+imageAlt: ""
+imageCredit: "Kép: Archon Studio"
+imageSuggestion: "A kiadó webáruházában (archon-studio.com, StarCraft Tabletop Miniatures Game rovat) a Purification készlet termékoldalát nem találtam meg; ha felkerül, onnan lehet hivatalos dobozképet venni – javasolt forrásmegjelölés: Kép: Archon Studio. Addig érdemes képet kérni a kiadótól, vagy kép nélkül közölni."
 sources:
   - name: ICv2 – Archon Studio Launches New 'StarCraft' Miniatures Starter Set
     url: https://icv2.com/articles/news/view/63901/archon-studio-launches-new-starcraft-miniatures-starter-set
 jatekok:
-  - 'StarCraft: Tabletop Miniatures Game'
-magyarCimek: 'StarCraft: Tabletop Miniatures Game: a BGG szerint nincs magyar kiadása (BGG #456520)'
+  - "StarCraft: Tabletop Miniatures Game"
+magyarCimek: "StarCraft: Tabletop Miniatures Game: a BGG szerint nincs magyar kiadása (BGG #456520)"
 ---
 
 A lengyel Archon Studio újabb kezdőkészlettel bővíti a Blizzard sci-fi univerzumán alapuló StarCraft: Tabletop Miniatures Game-et. A Purification Two Player Starter Set az ICv2 beszámolója szerint még novemberben megjelenik, ajánlott ára 229 dollár.
