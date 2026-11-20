@@ -29,6 +29,13 @@ imageSuggestion: "Hivatalos dobozkép még nincs: a legtöbb új EXIT-rész bor�
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 20. 18:58
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: |-
+  EXIT: The Game: a BGG szerint nincs magyar kiadása (BGG #468525, bizonytalan találat – ellenőrizd, jó játék-e)
+  EXIT: Das Spiel – Fourth Wing: Das erste Jahr: a BGG szerint nincs magyar kiadása (BGG #475427)
+  Catan → Catan: Základní hra (Piatnik Distribution, KOSMOS, 2005, 2011, 2015; BGG #13)
+  The White Castle → A fehér várkastély (Reflexshop, 2024; BGG #371942)
+  The White Castle: Bōeki: a BGG szerint nincs magyar kiadása (BGG #474947)
+  Vroom: a BGG szerint nincs magyar kiadása (BGG #461381)
 ---
 
 A német KOSMOS kiadó megmutatta, milyen játékokkal indul 2027-ben. A kínálat gerincét ismét az Inka és Markus Brand nevéhez fűződő EXIT szabadulószoba-sorozat adja: hét új rész érkezik, köztük egy új, kisebb formátum is. A listáról W. Eric Martin, a Board Game Beat szerzője számolt be; a címek egyelőre a német kiadás szerint ismertek.

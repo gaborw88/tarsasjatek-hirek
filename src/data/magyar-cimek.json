@@ -140,6 +140,46 @@
     "biztos": true,
     "ellenorizve": "2026-11-19"
   },
+  "Catan": {
+    "id": "13",
+    "nev": "Catan",
+    "tipus": "boardgame",
+    "ev": 1995,
+    "magyarKiadas": true,
+    "magyarKiadasok": [
+      {
+        "nev": "Hungarian first edition",
+        "kiadok": [
+          "Piatnik Distribution"
+        ],
+        "ev": 2005,
+        "tobbnyelvu": false
+      },
+      {
+        "nev": "Hungarian second edition",
+        "kiadok": [
+          "KOSMOS",
+          "Piatnik Distribution"
+        ],
+        "ev": 2011,
+        "tobbnyelvu": false
+      },
+      {
+        "nev": "Hungarian third edition",
+        "kiadok": [
+          "Piatnik Distribution"
+        ],
+        "ev": 2015,
+        "tobbnyelvu": false
+      }
+    ],
+    "magyarCimJeloltek": [
+      "Catan: Základní hra"
+    ],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-20"
+  },
   "Chocobo's Scout Frenzy": {
     "hiba": "nincs találat",
     "ellenorizve": "2026-11-19"
@@ -190,6 +230,30 @@
     "magyarCimJeloltek": [],
     "egyebNevek": [],
     "biztos": true,
+    "ellenorizve": "2026-11-20"
+  },
+  "EXIT: Das Spiel – Fourth Wing: Das erste Jahr": {
+    "id": "475427",
+    "nev": "EXIT: Das Spiel – Fourth Wing: Das erste Jahr",
+    "tipus": "boardgame",
+    "ev": 2026,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-20"
+  },
+  "EXIT: The Game": {
+    "id": "468525",
+    "nev": "EXIT: The Game – Kids: Puzzle Fun in the Sea",
+    "tipus": "boardgame",
+    "ev": 2026,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": false,
     "ellenorizve": "2026-11-20"
   },
   "Flamecraft": {
@@ -566,6 +630,41 @@
     "biztos": true,
     "ellenorizve": "2026-11-19"
   },
+  "The White Castle": {
+    "id": "371942",
+    "nev": "The White Castle",
+    "tipus": "boardgame",
+    "ev": 2023,
+    "magyarKiadas": true,
+    "magyarKiadasok": [
+      {
+        "nev": "Hungarian edition",
+        "kiadok": [
+          "Reflexshop"
+        ],
+        "ev": 2024,
+        "tobbnyelvu": false
+      }
+    ],
+    "magyarCimJeloltek": [
+      "A fehér várkastély"
+    ],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-20"
+  },
+  "The White Castle: Bōeki": {
+    "id": "474947",
+    "nev": "The White Castle: Bōeki",
+    "tipus": "boardgameexpansion",
+    "ev": 2026,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-20"
+  },
   "The Witcher: Old World": {
     "id": "331106",
     "nev": "The Witcher: Old World",
@@ -677,6 +776,18 @@
   "Tunnels & Trolls": {
     "hiba": "nincs találat",
     "ellenorizve": "2026-11-19"
+  },
+  "Vroom": {
+    "id": "461381",
+    "nev": "Vroom",
+    "tipus": "boardgame",
+    "ev": 2026,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-20"
   },
   "What Do You Meme?": {
     "id": "226610",
