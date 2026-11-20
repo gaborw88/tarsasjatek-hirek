@@ -25,6 +25,7 @@ sources:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 20. 11:04
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: "Pathfinder Roleplaying Game (Second Edition): nem található a BGG-n – nézd meg kézzel"
 ---
 
 A Paizo november 17-i blogbejegyzésében bejelentette, hogy 2027-ben végre részletesen bemutatja a Pathfinder szerepjáték világának, Golarionnak egyik legkevésbé feltárt földrészét, Arcadiát. A kontinenst Észak- és Dél-Amerika ihlette, és a játékosok régóta kérték, hogy kapjon saját könyvet.
