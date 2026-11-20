@@ -1,13 +1,13 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 20. 11:04
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Hosszú várakozás után Arcadiába viszi a Pathfindert a Paizo: három könyv jön 2027 őszén'
+published: true
+publishedAt: 2026-11-20T21:38:50.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 20. 22:38
+approvedBy: Weszprémy Gábor · 2026. 11. 20. 22:38
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 20. 22:38
+title: "Hosszú várakozás után Arcadiába viszi a Pathfindert a Paizo: három könyv jön 2027 őszén"
 description: A Paizo 2027 szeptembere és novembere között három kötetet ad ki a Pathfinder eddig alig bemutatott, az amerikai kontinensek ihlette földrészéről, Arcadiáról. A karakterkönyvben négy játszható nép is lesz, köztük egy háromméteres, botsáskához hasonló faj.
 date: 2026-11-20T15:00:00+01:00
 type: gyujtott
@@ -16,11 +16,11 @@ tags:
   - Szerepjátékok
   - Paizo
   - Pathfinder
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1795210621894.png
-imageAlt: ''
-imageCredit: 'Kép: Paizo'
-imageSuggestion: 'Hivatalos sajtókép nem volt elérhető. A bejelentés eredeti forrása a Paizo blogbejegyzése (https://paizo.com/blog/visit-arcadia-in-2027), a hírportálok által átvett klinkoi koncepcióképet (Kent Hamilton) a Paizo tette közzé – képet a Paizótól érdemes kérni, javasolt forrásmegjelölés: Kép: Paizo. Kép nélkül is rendben van.'
+imageAlt: ""
+imageCredit: "Kép: Paizo"
+imageSuggestion: "Hivatalos sajtókép nem volt elérhető. A bejelentés eredeti forrása a Paizo blogbejegyzése (https://paizo.com/blog/visit-arcadia-in-2027), a hírportálok által átvett klinkoi koncepcióképet (Kent Hamilton) a Paizo tette közzé – képet a Paizótól érdemes kérni, javasolt forrásmegjelölés: Kép: Paizo. Kép nélkül is rendben van."
 sources:
   - name: Wargamer – Pathfinder announces new line of 2027 books in long-requested Arcadia setting
     url: https://www.wargamer.com/pathfinder/arcadia-projects
@@ -30,7 +30,7 @@ sources:
     url: https://www.enworld.org/threads/pathfinder-announces-new-lore-books-focused-on-arcadia.721406/
 jatekok:
   - Pathfinder Roleplaying Game (Second Edition)
-magyarCimek: 'Pathfinder Roleplaying Game (Second Edition): nem található a BGG-n – nézd meg kézzel'
+magyarCimek: "Pathfinder Roleplaying Game (Second Edition): nem található a BGG-n – nézd meg kézzel"
 ---
 
 A Paizo november 17-i blogbejegyzésében bejelentette, hogy 2027-ben végre részletesen bemutatja a Pathfinder szerepjáték világának, Golarionnak egyik legkevésbé feltárt földrészét, Arcadiát. A kontinenst Észak- és Dél-Amerika ihlette, és a játékosok régóta kérték, hogy kapjon saját könyvet.
