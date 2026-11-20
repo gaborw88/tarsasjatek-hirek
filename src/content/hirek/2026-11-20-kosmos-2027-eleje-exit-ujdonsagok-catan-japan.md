@@ -2,20 +2,33 @@
 published: false
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
+status: ⏳ tervezet
 title: "Alice nyomában, zsebméretben és Fourth Winggel: ezekkel az EXIT-részekkel indítja 2027-et a KOSMOS"
-description: "A német kiadó 2027 eleji kínálatában hét új EXIT-rejtvényjáték, egy Japán-térkép a Catan telepeseihez, a The White Castle kiegészítője és a kooperatív Vroom szerepel."
+description: A német kiadó 2027 eleji kínálatában hét új EXIT-rejtvényjáték, egy Japán-térkép a Catan telepeseihez, a The White Castle kiegészítője és a kooperatív Vroom szerepel.
 date: 2026-11-20T15:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Kiadói hírek", "KOSMOS", "EXIT", "Catan"]
-jatekok: ["EXIT: The Game", "EXIT: Das Spiel – Fourth Wing: Das erste Jahr", "Catan", "The White Castle", "The White Castle: Bōeki", "Vroom"]
+author: Szerkesztőség
+tags:
+  - Kiadói hírek
+  - KOSMOS
+  - EXIT
+  - Catan
+jatekok:
+  - "EXIT: The Game"
+  - "EXIT: Das Spiel – Fourth Wing: Das erste Jahr"
+  - Catan
+  - The White Castle
+  - "The White Castle: Bōeki"
+  - Vroom
 sources:
-  - name: "Board Game Beat (W. Eric Martin) – More EXITs Await You in 2027"
-    url: "https://www.wericmartin.com/more-exits-await-you-in-2027/"
+  - name: Board Game Beat (W. Eric Martin) – More EXITs Await You in 2027
+    url: https://www.wericmartin.com/more-exits-await-you-in-2027/
   - name: "Pegasus Spiele – EXIT – Das Spiel: Fourth Wing – Das erste Jahr (termékoldal)"
-    url: "https://pegasus.de/EXIT-Das-Spiel-Fourth-Wing-Das-erste-Jahr-E/FKS6873590"
+    url: https://pegasus.de/EXIT-Das-Spiel-Fourth-Wing-Das-erste-Jahr-E/FKS6873590
 imageSuggestion: "Hivatalos dobozkép még nincs: a legtöbb új EXIT-rész borítója a beszámoló szerint még nem készült el, a Pegasus termékoldalán is csak helyettesítő kép látható. Érdemes a KOSMOS sajtóoldalán (https://www.kosmos.de/en/pages/unternehmen/presse) képet kérni – javasolt forrásmegjelölés: Kép: KOSMOS. Kép nélkül is rendben van."
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 20. 18:58
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 A német KOSMOS kiadó megmutatta, milyen játékokkal indul 2027-ben. A kínálat gerincét ismét az Inka és Markus Brand nevéhez fűződő EXIT szabadulószoba-sorozat adja: hét új rész érkezik, köztük egy új, kisebb formátum is. A listáról W. Eric Martin, a Board Game Beat szerzője számolt be; a címek egyelőre a német kiadás szerint ismertek.
