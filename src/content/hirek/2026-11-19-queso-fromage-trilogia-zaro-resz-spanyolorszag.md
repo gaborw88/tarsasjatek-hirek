@@ -1,13 +1,13 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 19. 19:08
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Franciaország és Olaszország után Spanyolország: bejelentették a sajtkészítős Fromage-trilógia záró részét, a Quesót'
+published: true
+publishedAt: 2026-11-20T21:20:06.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 20. 22:20
+approvedBy: Weszprémy Gábor · 2026. 11. 20. 22:20
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 20. 22:20
+title: "Franciaország és Olaszország után Spanyolország: bejelentették a sajtkészítős Fromage-trilógia záró részét, a Quesót"
 description: Az R2i Games bejelentette a Queso című játékot, a Fromage és a Formaggio után a sajtkészítős sorozat harmadik, egyben utolsó darabját. A Kickstarter-kampány 2027 tavaszán indulhat.
 date: 2026-11-19T19:20:00+01:00
 type: gyujtott
@@ -17,11 +17,11 @@ tags:
   - Közösségi finanszírozás
   - R2i Games
   - Kickstarter
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1795209278731.png
-imageAlt: ''
-imageCredit: 'Kép: R2i Games'
-imageSuggestion: 'A Quesóhoz még nincs hivatalos kép (a játék fejlesztés alatt áll). A kiadó honlapján a Fromage dobozképe és logója elérhető: https://roadtoinfamy.com/ – javasolt forrásmegjelölés: Kép: R2i Games. Később a Queso Kickstarter-oldalának (https://www.kickstarter.com/projects/roadtoinfamy/queso) kiadói képe is használható lesz. Kép nélkül is rendben van.'
+imageAlt: ""
+imageCredit: "Kép: R2i Games"
+imageSuggestion: "A Quesóhoz még nincs hivatalos kép (a játék fejlesztés alatt áll). A kiadó honlapján a Fromage dobozképe és logója elérhető: https://roadtoinfamy.com/ – javasolt forrásmegjelölés: Kép: R2i Games. Később a Queso Kickstarter-oldalának (https://www.kickstarter.com/projects/roadtoinfamy/queso) kiadói képe is használható lesz. Kép nélkül is rendben van."
 sources:
   - name: Tabletop Sentinel – R2i Games Announces The Final Game in Popular Fromage Trilogy – Queso
     url: https://www.tabletopsentinel.com/news/modern/r2i-games-announces-the-final-game-in-popular-fromage-trilogy-queso
