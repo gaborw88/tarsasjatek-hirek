@@ -1,4 +1,8 @@
 {
+  "Ancient Hands": {
+    "hiba": "nincs találat",
+    "ellenorizve": "2026-11-20"
+  },
   "Art Society": {
     "id": "395375",
     "nev": "Art Society",
@@ -93,6 +97,18 @@
     "egyebNevek": [],
     "biztos": true,
     "ellenorizve": "2026-11-19"
+  },
+  "Call of Cthulhu: Old Ones Origins": {
+    "id": "474883",
+    "nev": "Old Ones Origins",
+    "tipus": "boardgame",
+    "ev": 2028,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-20"
   },
   "Cascadia": {
     "id": "295947",
@@ -220,11 +236,43 @@
     "hiba": "nincs találat",
     "ellenorizve": "2026-11-19"
   },
+  "Disaster Artist": {
+    "hiba": "nincs találat",
+    "ellenorizve": "2026-11-20"
+  },
+  "Divine Right": {
+    "id": "23",
+    "nev": "Divine Right",
+    "tipus": "boardgame",
+    "ev": 1979,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-20"
+  },
   "Dungeons & Dragons": {
     "id": "140509",
     "nev": "Dragones Y Mazmorras",
     "tipus": "boardgame",
     "ev": 1985,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-20"
+  },
+  "Era: Babylon": {
+    "hiba": "nincs találat",
+    "ellenorizve": "2026-11-20"
+  },
+  "Era: Medieval Age": {
+    "id": "270971",
+    "nev": "Era: Medieval Age",
+    "tipus": "boardgame",
+    "ev": 2019,
     "magyarKiadas": false,
     "magyarKiadasok": [],
     "magyarCimJeloltek": [],
@@ -296,6 +344,18 @@
     "egyebNevek": [],
     "biztos": true,
     "ellenorizve": "2026-11-19"
+  },
+  "Forbidden Stars": {
+    "id": "175155",
+    "nev": "Forbidden Stars",
+    "tipus": "boardgame",
+    "ev": 2015,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-20"
   },
   "Formaggio": {
     "id": "430533",
@@ -424,7 +484,23 @@
     "biztos": true,
     "ellenorizve": "2026-11-19"
   },
+  "Hovercraft": {
+    "id": "466896",
+    "nev": "Hovercraft in a Minefield: Alligator Rescue",
+    "tipus": "boardgame",
+    "ev": 2025,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": false,
+    "ellenorizve": "2026-11-20"
+  },
   "LAND&SEA Tactical Miniatures Game": {
+    "hiba": "nincs találat",
+    "ellenorizve": "2026-11-20"
+  },
+  "Love Potion Factory": {
     "hiba": "nincs találat",
     "ellenorizve": "2026-11-20"
   },
@@ -502,6 +578,22 @@
     "egyebNevek": [],
     "biztos": true,
     "ellenorizve": "2026-11-19"
+  },
+  "OkEros": {
+    "hiba": "nincs találat",
+    "ellenorizve": "2026-11-20"
+  },
+  "Operatives": {
+    "id": "330972",
+    "nev": "Battlespace: SORD Operatives Card Pack Supplement",
+    "tipus": "boardgameexpansion",
+    "ev": 2021,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": false,
+    "ellenorizve": "2026-11-20"
   },
   "Origins of Light: A Final Fantasy Board Game #479062": {
     "id": "479062",
@@ -772,6 +864,10 @@
     "egyebNevek": [],
     "biztos": true,
     "ellenorizve": "2026-11-19"
+  },
+  "Trucks Full of People": {
+    "hiba": "nincs találat",
+    "ellenorizve": "2026-11-20"
   },
   "Tunnels & Trolls": {
     "hiba": "nincs találat",

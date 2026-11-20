@@ -25,6 +25,9 @@ sources:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 20. 23:02
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: |-
+  Call of Cthulhu: Old Ones Origins: a BGG szerint nincs magyar kiadása (BGG #474883)
+  Forbidden Stars: a BGG szerint nincs magyar kiadása (BGG #175155)
 ---
 
 Újabb közleményt adott ki a Chaosium a **Call of Cthulhu: Old Ones Origins** ügyében. Mint arról korábban beszámoltunk, a kiadó november közepén leállította a Forbidden Stars alapjaira épülő stratégiai játék fejlesztését, miután egy Washington állambeli esküdtszék a tervezőt, Samuel Bailey-t gyermekek sérelmére elkövetett szexuális bűncselekményekben bűnösnek mondta ki.

@@ -35,6 +35,17 @@ sources:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 20. 23:02
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: |-
+  Era: Babylon: nem található a BGG-n – nézd meg kézzel
+  Era: Medieval Age: a BGG szerint nincs magyar kiadása (BGG #270971)
+  OkEros: nem található a BGG-n – nézd meg kézzel
+  Love Potion Factory: nem található a BGG-n – nézd meg kézzel
+  Disaster Artist: nem található a BGG-n – nézd meg kézzel
+  Ancient Hands: nem található a BGG-n – nézd meg kézzel
+  Hovercraft: a BGG szerint nincs magyar kiadása (BGG #466896, bizonytalan találat – ellenőrizd, jó játék-e)
+  Operatives: a BGG szerint nincs magyar kiadása (BGG #330972, bizonytalan találat – ellenőrizd, jó játék-e)
+  Divine Right: a BGG szerint nincs magyar kiadása (BGG #23)
+  Trucks Full of People: nem található a BGG-n – nézd meg kézzel
 ---
 
 Az idei PAX Unplugged egyik legkülönösebb programja olyan társasjátékokat állít a középpontba, amelyeket sosem lehet majd megvásárolni. A **These Games Are Not For Sale** („Ezek a játékok nem eladók”) elnevezésű bemutatót Tony Tran és Gene Koo szervezi; a philadelphiai rendezvény (december 4–6.) szombati napján, **december 5-én reggel 10-től este 10-ig** lehet kipróbálni a játékokat a Pennsylvania Convention Center Terrace Ballroom termében, a PAX-belépővel ingyenesen.
