@@ -25,6 +25,9 @@ sources:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 20. 15:03
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: |-
+  LAND&SEA Tactical Miniatures Game: nem található a BGG-n – nézd meg kézzel
+  BattleTech: a BGG szerint nincs magyar kiadása (BGG #1540)
 ---
 
 Két, a **BattleTech** világából ismert alkotó új taktikai miniatűrjátékkal jelentkezik. A **LAND&SEA Tactical Miniatures Game** Kickstarter-kampánya a GamingTrend beszámolója szerint **november 24-én**, kedden indul, és december 24-ig tart. A kampányt a **Creative Juggernaut** jegyzi.

@@ -22,6 +22,18 @@
     "biztos": true,
     "ellenorizve": "2026-11-19"
   },
+  "BattleTech": {
+    "id": "1540",
+    "nev": "BattleTech",
+    "tipus": "boardgame",
+    "ev": 1984,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-20"
+  },
   "Bomb Busters": {
     "id": "413246",
     "nev": "Bomb Busters",
@@ -348,6 +360,10 @@
     "biztos": true,
     "ellenorizve": "2026-11-19"
   },
+  "LAND&SEA Tactical Miniatures Game": {
+    "hiba": "nincs találat",
+    "ellenorizve": "2026-11-20"
+  },
   "Magic: The Gathering": {
     "id": "463",
     "nev": "Magic: The Gathering",
@@ -422,6 +438,18 @@
     "egyebNevek": [],
     "biztos": true,
     "ellenorizve": "2026-11-19"
+  },
+  "Origins of Light: A Final Fantasy Board Game #479062": {
+    "id": "479062",
+    "nev": "Origins of Light: A Final Fantasy Board Game",
+    "tipus": "boardgame",
+    "ev": 2027,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-20"
   },
   "Pathfinder Roleplaying Game (Second Edition)": {
     "hiba": "nincs találat",

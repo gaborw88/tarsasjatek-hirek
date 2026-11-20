@@ -27,6 +27,7 @@ sources:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 20. 15:03
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: "Origins of Light: A Final Fantasy Board Game: a BGG szerint nincs magyar kiadása (BGG #479062)"
 ---
 
 Lezárult az **Origins of Light: A Final Fantasy Board Game** Kickstarter-kampánya. A **Square Enix** hivatalos licencével készülő kooperatív társasjáték a PledgeBox kampánykövető adatai szerint **1 707 980 dollárt** gyűjtött **5368 támogatótól**, ami átlagosan nagyjából 318 dolláros támogatást jelent. A kitűzött cél mindössze 10 ezer dollár volt.
