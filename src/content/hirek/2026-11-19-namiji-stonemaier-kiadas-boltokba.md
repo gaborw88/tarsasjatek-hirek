@@ -1,13 +1,13 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 19. 19:08
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Csónakkal a japán partok mentén: boltokba kerül a Namiji Stonemaier-féle kiadása'
+published: true
+publishedAt: 2026-11-20T20:35:33.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 20. 21:35
+approvedBy: Weszprémy Gábor · 2026. 11. 20. 21:35
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 20. 21:35
+title: "Csónakkal a japán partok mentén: boltokba kerül a Namiji Stonemaier-féle kiadása"
 description: Antoine Bauza tengerparti utazós játéka, a Namiji november 20-án Észak-Amerikában és az Egyesült Királyságban, december 4-én világszerte jelenik meg a Stonemaier Games új kiadásában. A dobozba bekerült a korábbi kiegészítő és egy szólómód is.
 date: 2026-11-19T19:15:00+01:00
 type: gyujtott
@@ -17,11 +17,11 @@ tags:
   - Stonemaier Games
   - Tokaido
   - Antoine Bauza
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1795205335879.png
-imageAlt: ''
-imageCredit: 'Kép: Stonemaier Games'
-imageSuggestion: 'Hivatalos dobozkép a kiadói termékoldalon: https://stonemaiergames.com/games/tokaido/namiji/ (a kép közvetlen linkje: https://stonemaiergames.com/wp-content/uploads/2026/10/3d-namiji-785x1024.webp) – javasolt forrásmegjelölés: Kép: Stonemaier Games'
+imageAlt: ""
+imageCredit: "Kép: Stonemaier Games"
+imageSuggestion: "Hivatalos dobozkép a kiadói termékoldalon: https://stonemaiergames.com/games/tokaido/namiji/ (a kép közvetlen linkje: https://stonemaiergames.com/wp-content/uploads/2026/10/3d-namiji-785x1024.webp) – javasolt forrásmegjelölés: Kép: Stonemaier Games"
 sources:
   - name: Stonemaier Games – Namiji Is Here!
     url: https://stonemaiergames.com/namiji-is-here/
