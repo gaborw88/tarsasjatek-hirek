@@ -2,19 +2,27 @@
 published: false
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
-title: "Készül a szakszervezetre? Munkaügyi igazgatót keres a Wizards of the Coast"
-description: "Még tart a D&D és a Magic alkotóinak szakszervezeti szavazása, de a Wizards of the Coast már olyan vezetőt keres, aki az első kollektív szerződés tárgyalását is vinné."
+status: ⏳ tervezet
+title: Készül a szakszervezetre? Munkaügyi igazgatót keres a Wizards of the Coast
+description: Még tart a D&D és a Magic alkotóinak szakszervezeti szavazása, de a Wizards of the Coast már olyan vezetőt keres, aki az első kollektív szerződés tárgyalását is vinné.
 date: 2026-11-21T15:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Iparági hírek", "Wizards of the Coast", "Hasbro", "Dungeons & Dragons", "Magic: The Gathering"]
+author: Szerkesztőség
+tags:
+  - Iparági hírek
+  - Wizards of the Coast
+  - Hasbro
+  - Dungeons & Dragons
+  - "Magic: The Gathering"
 imageSuggestion: "Iparági hír, hivatalos sajtókép nincs. Ha szeretnél képet: a Wizards of the Coast hivatalos logója (a korábbi szakszervezeti cikknél is használt kép) – javasolt forrásmegjelölés: Kép: Wizards of the Coast. Kép nélkül is rendben van."
 sources:
-  - name: "Wargamer – After D&D union vote, WotC hires labor relations director to prepare managers for unionized workplace"
-    url: "https://www.wargamer.com/dnd/wotc-hiring-director-labor-relations-union"
-  - name: "Gamejobs.co – Director Labor Relations at Hasbro (álláshirdetés)"
-    url: "https://gamejobs.co/Director-Labor-Relations-at-Hasbro"
+  - name: Wargamer – After D&D union vote, WotC hires labor relations director to prepare managers for unionized workplace
+    url: https://www.wargamer.com/dnd/wotc-hiring-director-labor-relations-union
+  - name: Gamejobs.co – Director Labor Relations at Hasbro (álláshirdetés)
+    url: https://gamejobs.co/Director-Labor-Relations-at-Hasbro
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 21. 23:03
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 Miközben a Dungeons & Dragons és a Magic: The Gathering csapatai még szavaznak arról, hogy szakszervezetbe lépnek-e, a Wizards of the Coast már munkaügyi kapcsolatokért felelős igazgatót keres. A Hasbro álláshirdetését a Wargamer szúrta ki november 19-én.
