@@ -1,4 +1,63 @@
 {
+  "Agent Avenue": {
+    "id": "422732",
+    "nev": "Agent Avenue",
+    "tipus": "boardgame",
+    "ev": 2024,
+    "magyarKiadas": true,
+    "magyarKiadasok": [
+      {
+        "nev": "Hungarian edition",
+        "kiadok": [
+          "Gémklub",
+          "Nerdlab Games"
+        ],
+        "ev": 2025,
+        "tobbnyelvu": false
+      }
+    ],
+    "magyarCimJeloltek": [
+      "Kertvárosi kémek"
+    ],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-21"
+  },
+  "Agent Avenue: Division M": {
+    "id": "450196",
+    "nev": "Agent Avenue: Division M",
+    "tipus": "boardgameexpansion",
+    "ev": 2025,
+    "magyarKiadas": true,
+    "magyarKiadasok": [
+      {
+        "nev": "Hungarian edition",
+        "kiadok": [
+          "Gémklub"
+        ],
+        "ev": 2026,
+        "tobbnyelvu": false
+      }
+    ],
+    "magyarCimJeloltek": [
+      "Kertvárosi kémek: Egerek a szomszédban"
+    ],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-21"
+  },
+  "Agent Avenue: Four Seasons": {
+    "id": "474854",
+    "nev": "Agent Avenue: Four Seasons",
+    "tipus": "boardgameexpansion",
+    "ev": 2026,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-21"
+  },
   "Ancient Hands": {
     "hiba": "nincs találat",
     "ellenorizve": "2026-11-20"
@@ -896,6 +955,42 @@
     "egyebNevek": [],
     "biztos": true,
     "ellenorizve": "2026-11-19"
+  },
+  "Wingspan #266192": {
+    "id": "266192",
+    "nev": "Wingspan",
+    "tipus": "boardgame",
+    "ev": 2019,
+    "magyarKiadas": true,
+    "magyarKiadasok": [
+      {
+        "nev": "Hungarian edition",
+        "kiadok": [
+          "Delta Vision Publishing",
+          "Stonemaier Games"
+        ],
+        "ev": 2019,
+        "tobbnyelvu": false
+      }
+    ],
+    "magyarCimJeloltek": [
+      "Fesztáv"
+    ],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-21"
+  },
+  "Wingspan Pocket #473508": {
+    "id": "473508",
+    "nev": "Wingspan Pocket",
+    "tipus": "boardgame",
+    "ev": 2026,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-21"
   },
   "Wyrmspan": {
     "id": "410201",

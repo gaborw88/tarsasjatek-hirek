@@ -29,6 +29,10 @@ jatekok:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 21. 07:04
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: |-
+  Agent Avenue → Kertvárosi kémek (Gémklub, Nerdlab Games, 2025; BGG #422732)
+  Agent Avenue: Four Seasons: a BGG szerint nincs magyar kiadása (BGG #474854)
+  Agent Avenue: Division M → Kertvárosi kémek: Egerek a szomszédban (Gémklub, 2026; BGG #450196)
 ---
 
 Újabb részletek derültek ki az **Agent Avenue: Four Seasons** kiegészítőről, amely a dán Nerdlab Games kétszemélyes kémjátékát, az Agent Avenue-t (magyarul: *Kertvárosi kémek*) bővíti. A kiegészítő magyar kiadását a Gémklub már az ősszel bejelentette, de megjelenési időt és magyar címet egyelőre nem közölt.

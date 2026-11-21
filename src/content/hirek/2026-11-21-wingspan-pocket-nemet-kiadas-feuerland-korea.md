@@ -27,6 +27,9 @@ jatekok:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 21. 07:04
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: |-
+  Wingspan → Fesztáv (Delta Vision Publishing, Stonemaier Games, 2019; BGG #266192)
+  Wingspan Pocket: a BGG szerint nincs magyar kiadása (BGG #473508)
 ---
 
 Európában is terjeszkedik a **Wingspan Pocket**, a 2019-ben Kennerspiel des Jahres díjat nyert Wingspan (magyarul: *Fesztáv*) kompakt, kártyás változata. A játékot az amerikai Stonemaier Games idén nyáron, a Gen Conra adta ki; most a német Feuerland Spiele jelentette be *Flügelschlag Federleicht* címen a német nyelvű kiadást, Dél-Koreában pedig a hétvégén mutatják be.
