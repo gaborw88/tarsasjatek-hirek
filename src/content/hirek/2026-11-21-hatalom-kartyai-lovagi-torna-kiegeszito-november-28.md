@@ -27,6 +27,7 @@ sources:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 21. 11:02
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: "Hatalom Kártyái: a BGG szerint nincs magyar kiadása (BGG #59650, bizonytalan találat – ellenőrizd, jó játék-e)"
 ---
 
 Újabb kiegészítővel bővül a hazai fejlesztésű gyűjtögetős kártyajáték, a Hatalom Kártyái (HKK). A Beholder bejelentése szerint a **Lovagi torna** november 28-án, szombaton jelenik meg, a budapesti 65. Beholder Találkozón; az előrendelés november 12-én indult, és november 27-ig tart. Az előrendelt csomagokat a találkozón 14 órától lehet átvenni, a postázás november 30-án, hétfőn kezdődik.

@@ -531,6 +531,18 @@
     "biztos": true,
     "ellenorizve": "2026-11-19"
   },
+  "Hatalom Kártyái": {
+    "id": "59650",
+    "nev": "Hatalom Kártyái Kártyajáték",
+    "tipus": "boardgame",
+    "ev": 1995,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": false,
+    "ellenorizve": "2026-11-21"
+  },
   "Hilt": {
     "id": "484019",
     "nev": "Hilt",
