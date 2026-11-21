@@ -1,14 +1,14 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 20. 23:02
-approvedBy: ''
-chiefApprovedBy: ''
+published: true
+publishedAt: 2026-11-21T21:17:38.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 21. 22:17
+approvedBy: Weszprémy Gábor · 2026. 11. 21. 22:17
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 21. 22:17
 title: Csalásra hivatkozva bontja fel a Chaosium a szerződést az Old Ones Origins elítélt tervezőjével
-description: 'A kiadó közölte: nem ad ki olyan játékot, amelyhez Samuel Bailey neve kötődik, vagy amelyből ő bevételhez jutna. A Gamefound-projektet egyelőre nem törölték, a támogatók jövő héten kapnak részletesebb tájékoztatást.'
+description: "A kiadó közölte: nem ad ki olyan játékot, amelyhez Samuel Bailey neve kötődik, vagy amelyből ő bevételhez jutna. A Gamefound-projektet egyelőre nem törölték, a támogatók jövő héten kapnak részletesebb tájékoztatást."
 date: 2026-11-20T20:00:00+01:00
 type: gyujtott
 author: Szerkesztőség
@@ -18,20 +18,20 @@ tags:
   - Közösségi finanszírozás
   - Gamefound
 jatekok:
-  - 'Call of Cthulhu: Old Ones Origins'
+  - "Call of Cthulhu: Old Ones Origins"
   - Forbidden Stars
 magyarCimek: |-
   Call of Cthulhu: Old Ones Origins: a BGG szerint nincs magyar kiadása (BGG #474883)
   Forbidden Stars: a BGG szerint nincs magyar kiadása (BGG #175155)
-youtube: ''
-image: ''
-imageAlt: ''
-imageCredit: ''
+youtube: ""
+image: ""
+imageAlt: ""
+imageCredit: ""
 imageSuggestion: A hír jellege miatt játék- vagy dobozképet nem javaslok. Kép nélkül is rendben van; ha mégis kell, a Chaosium hivatalos logója jöhet szóba a kiadó arculati oldaláról (ilyet most nem találtam).
 sources:
   - name: "EN World – Christian Hoffer: Chaosium provides update on Old One Origins, cancels Samuel Bailey's contract for fraud"
     url: https://www.enworld.org/threads/chaosium-provides-update-on-old-one-origins-cancels-samuel-baileys-contract-for-fraud.721441/
-  - name: 'Gamefound – Call of Cthulhu: Old Ones Origins: Old Ones Origins project status update (Update 32)'
+  - name: "Gamefound – Call of Cthulhu: Old Ones Origins: Old Ones Origins project status update (Update 32)"
     url: https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/32
 ---
 
