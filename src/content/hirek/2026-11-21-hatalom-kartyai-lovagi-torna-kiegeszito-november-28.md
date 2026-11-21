@@ -1,9 +1,13 @@
 ---
-published: false
-approved: false
-chiefApproved: false
 status: ⏳ tervezet
-title: "Lovagi torna Alanorban: november 28-án jelenik meg a Hatalom Kártyái új kiegészítője"
+approved: true
+chiefApproved: true
+published: false
+publishedAt: ''
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 21. 11:02
+approvedBy: ''
+chiefApprovedBy: ''
+title: 'Lovagi torna Alanorban: november 28-án jelenik meg a Hatalom Kártyái új kiegészítője'
 description: A Beholder november 28-án, a 65. Beholder Találkozón adja ki a magyar gyűjtögetős kártyajáték, a Hatalom Kártyái (HKK) Lovagi torna című kiegészítőjét. Az előrendelés november 27-ig tart.
 date: 2026-11-21T12:00:00+01:00
 type: gyujtott
@@ -16,18 +20,19 @@ tags:
   - Kiegészítők
 jatekok:
   - Hatalom Kártyái
-imageSuggestion: "Dobozkép a hkk.hu-n nem látszott (a webbolt termékoldalát nem sikerült megnyitni: https://webbolt.hkk.hu/termek/hatalom_kartyai___lovagi_torna/2207 – ott valószínűleg van termékkép). A kiadó beharangozó cikkének illusztrációja: https://hkk.hu/pic/zoli/HKK_cikk_lapok/lovagibecsulet_FA.jpg (Patkós Ferenc illusztrációja) – javasolt forrásmegjelölés: Kép: Beholder / Patkós Ferenc. Ez kártyaillusztráció, nem kifejezetten sajtókép, ezért érdemes engedélyt kérni a Beholdertől."
+magyarCimek: 'Hatalom Kártyái: a BGG szerint nincs magyar kiadása (BGG #59650, bizonytalan találat – ellenőrizd, jó játék-e)'
+youtube: ''
+image: /images/uploads/pasted-image-1795303200444.png
+imageAlt: ''
+imageCredit: 'Kép: Beholder'
+imageSuggestion: 'Dobozkép a hkk.hu-n nem látszott (a webbolt termékoldalát nem sikerült megnyitni: https://webbolt.hkk.hu/termek/hatalom_kartyai___lovagi_torna/2207 – ott valószínűleg van termékkép). A kiadó beharangozó cikkének illusztrációja: https://hkk.hu/pic/zoli/HKK_cikk_lapok/lovagibecsulet_FA.jpg (Patkós Ferenc illusztrációja) – javasolt forrásmegjelölés: Kép: Beholder / Patkós Ferenc. Ez kártyaillusztráció, nem kifejezetten sajtókép, ezért érdemes engedélyt kérni a Beholdertől.'
 sources:
-  - name: "HKK.hu – Új HKK Kiegészítő: Lovagi torna"
+  - name: 'HKK.hu – Új HKK Kiegészítő: Lovagi torna'
     url: https://www.hkk.hu/blog/hkk_lovagi_torna_beharangozo
   - name: HKK.hu – Hírek (Lovagi torna előrendelés, lapbemutatók)
     url: https://www.hkk.hu/hirek/hkk
   - name: HKK.hu – Lovagi torna lapbemutató, 1. hét
     url: https://www.hkk.hu/blog/hkk_lovagi_torna_lapbemutato_01
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 21. 11:02
-approvedBy: ""
-chiefApprovedBy: ""
-magyarCimek: "Hatalom Kártyái: a BGG szerint nincs magyar kiadása (BGG #59650, bizonytalan találat – ellenőrizd, jó játék-e)"
 ---
 
 Újabb kiegészítővel bővül a hazai fejlesztésű gyűjtögetős kártyajáték, a Hatalom Kártyái (HKK). A Beholder bejelentése szerint a **Lovagi torna** november 28-án, szombaton jelenik meg, a budapesti 65. Beholder Találkozón; az előrendelés november 12-én indult, és november 27-ig tart. Az előrendelt csomagokat a találkozón 14 órától lehet átvenni, a postázás november 30-án, hétfőn kezdődik.
