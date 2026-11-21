@@ -2,22 +2,33 @@
 published: false
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
+status: ⏳ tervezet
 title: "Négy évszak a kémek utcájában: ezt tudjuk a Kertvárosi kémek új kiegészítőjéről"
-description: "Évszakonként változó pályákkal, új ügynökökkel és feketepiaci lapokkal bővül a Nerdlab kétszemélyes blöffjátéka; a német kiadás az év végén érkezik, a magyar változatot a Gémklub már bejelentette."
+description: Évszakonként változó pályákkal, új ügynökökkel és feketepiaci lapokkal bővül a Nerdlab kétszemélyes blöffjátéka; a német kiadás az év végén érkezik, a magyar változatot a Gémklub már bejelentette.
 date: 2026-11-21T15:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Kiadói hírek", "Magyar megjelenések", "Gémklub", "Nerdlab Games", "Kiegészítők"]
+author: Szerkesztőség
+tags:
+  - Kiadói hírek
+  - Magyar megjelenések
+  - Gémklub
+  - Nerdlab Games
+  - Kiegészítők
 imageSuggestion: "Hivatalos dobozkép a Nerdlab Games webshopjának termékoldalán várható: https://shop.nerdlab-games.com/products/agent-avenue-expansion-four-seasons (a link a kiadó Agent Avenue-oldaláról származik, a képet nem ellenőriztem – kérlek, nézd meg) – javasolt forrásmegjelölés: Kép: Nerdlab Games. A magyar dobozképet a Gémklubtól lehet kérni."
 sources:
   - name: "Brettspiel-News.de – Agent Avenue: Four Seasons – Vier Jahreszeiten für das Agentenduell"
-    url: "https://www.brettspiel-news.de/index.php/de/nachrichten-uebersicht/neuerscheinungen/16514-agent-avenue-four-seasons-vier-jahreszeiten-f-r-das-agentenduell"
-  - name: "Nerdlab Games – Agent Avenue (kiadói oldal)"
-    url: "https://shop.nerdlab-games.com/pages/agent-avenue"
-  - name: "Gémklub – Hírek"
-    url: "https://www.gemklub.hu/hirek"
-jatekok: ["Agent Avenue", "Agent Avenue: Four Seasons", "Agent Avenue: Division M"]
+    url: https://www.brettspiel-news.de/index.php/de/nachrichten-uebersicht/neuerscheinungen/16514-agent-avenue-four-seasons-vier-jahreszeiten-f-r-das-agentenduell
+  - name: Nerdlab Games – Agent Avenue (kiadói oldal)
+    url: https://shop.nerdlab-games.com/pages/agent-avenue
+  - name: Gémklub – Hírek
+    url: https://www.gemklub.hu/hirek
+jatekok:
+  - Agent Avenue
+  - "Agent Avenue: Four Seasons"
+  - "Agent Avenue: Division M"
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 21. 07:04
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 Újabb részletek derültek ki az **Agent Avenue: Four Seasons** kiegészítőről, amely a dán Nerdlab Games kétszemélyes kémjátékát, az Agent Avenue-t (magyarul: *Kertvárosi kémek*) bővíti. A kiegészítő magyar kiadását a Gémklub már az ősszel bejelentette, de megjelenési időt és magyar címet egyelőre nem közölt.

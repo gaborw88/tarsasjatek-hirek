@@ -2,22 +2,31 @@
 published: false
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
+status: ⏳ tervezet
 title: "Egyetlen madársor a három élőhely helyett: német és koreai kiadást kap a Fesztáv zsebméretű változata"
-description: "A Wingspan Pocket, Elizabeth Hargrave madaras sikerjátékának kártyás kistestvére 2027 tavaszán németül is megjelenhet a Feuerland Spielénél, Dél-Koreában pedig e hétvégén mutatják be."
+description: A Wingspan Pocket, Elizabeth Hargrave madaras sikerjátékának kártyás kistestvére 2027 tavaszán németül is megjelenhet a Feuerland Spielénél, Dél-Koreában pedig e hétvégén mutatják be.
 date: 2026-11-21T12:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Kiadói hírek", "Stonemaier Games", "Feuerland Spiele", "Fesztáv"]
+author: Szerkesztőség
+tags:
+  - Kiadói hírek
+  - Stonemaier Games
+  - Feuerland Spiele
+  - Fesztáv
 imageSuggestion: "Hivatalos dobozkép a Stonemaier Games termékoldalán várható: https://aus.stonemaiergames.com/products/wingspan-pocket (az oldalt ebben a futásban nem tudtam megnyitni, a keresőben jelent meg – kérlek, ellenőrizd) – javasolt forrásmegjelölés: Kép: Stonemaier Games. A német dobozképet a Feuerland Spiele oldaláról (https://www.feuerland-spiele.de/spielwelten/fluegelschlag/) lehet kérni."
 sources:
   - name: "Brettspiel-News.de – Flügelschlag Federleicht: Eine Vogelreihe statt drei Lebensräumen"
-    url: "https://www.brettspiel-news.de/index.php/de/nachrichten-uebersicht/ankuendigungen/16512-fluegelschlag-federleicht-eine-vogelreihe-statt-drei-lebensraeumen"
-  - name: "ICv2 – Stonemaier Games Announces 'Wingspan Pocket'"
-    url: "https://icv2.com/articles/news/view/62774/stonemaier-games-announces-wingspan-pocket"
-  - name: "Inven Global – Nine New Games Including Wingspan Pocket Debut at Board Game Festa"
-    url: "https://www.invenglobal.com/articles/28770/nine-new-games-including-wingspan-pocket-debut-at-board-game-festa"
-jatekok: ["Wingspan #266192", "Wingspan Pocket #473508"]
+    url: https://www.brettspiel-news.de/index.php/de/nachrichten-uebersicht/ankuendigungen/16512-fluegelschlag-federleicht-eine-vogelreihe-statt-drei-lebensraeumen
+  - name: ICv2 – Stonemaier Games Announces 'Wingspan Pocket'
+    url: https://icv2.com/articles/news/view/62774/stonemaier-games-announces-wingspan-pocket
+  - name: Inven Global – Nine New Games Including Wingspan Pocket Debut at Board Game Festa
+    url: https://www.invenglobal.com/articles/28770/nine-new-games-including-wingspan-pocket-debut-at-board-game-festa
+jatekok:
+  - "Wingspan #266192"
+  - "Wingspan Pocket #473508"
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 21. 07:04
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 Európában is terjeszkedik a **Wingspan Pocket**, a 2019-ben Kennerspiel des Jahres díjat nyert Wingspan (magyarul: *Fesztáv*) kompakt, kártyás változata. A játékot az amerikai Stonemaier Games idén nyáron, a Gen Conra adta ki; most a német Feuerland Spiele jelentette be *Flügelschlag Federleicht* címen a német nyelvű kiadást, Dél-Koreában pedig a hétvégén mutatják be.
