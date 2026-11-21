@@ -1,13 +1,13 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 21. 11:02
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Lovagi torna Alanorban: november 28-án jelenik meg a Hatalom Kártyái új kiegészítője'
+published: true
+publishedAt: 2026-11-21T23:21:01.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 22. 00:21
+approvedBy: Weszprémy Gábor · 2026. 11. 22. 00:21
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 22. 00:21
+title: "Lovagi torna Alanorban: november 28-án jelenik meg a Hatalom Kártyái új kiegészítője"
 description: A Beholder november 28-án, a 65. Beholder Találkozón adja ki a magyar gyűjtögetős kártyajáték, a Hatalom Kártyái (HKK) Lovagi torna című kiegészítőjét. Az előrendelés november 27-ig tart.
 date: 2026-11-21T12:00:00+01:00
 type: gyujtott
@@ -20,14 +20,14 @@ tags:
   - Kiegészítők
 jatekok:
   - Hatalom Kártyái
-magyarCimek: 'Hatalom Kártyái: a BGG szerint nincs magyar kiadása (BGG #59650, bizonytalan találat – ellenőrizd, jó játék-e)'
-youtube: ''
+magyarCimek: "Hatalom Kártyái: a BGG szerint nincs magyar kiadása (BGG #59650, bizonytalan találat – ellenőrizd, jó játék-e)"
+youtube: ""
 image: /images/uploads/pasted-image-1795303200444.png
-imageAlt: ''
-imageCredit: 'Kép: Beholder'
-imageSuggestion: 'Dobozkép a hkk.hu-n nem látszott (a webbolt termékoldalát nem sikerült megnyitni: https://webbolt.hkk.hu/termek/hatalom_kartyai___lovagi_torna/2207 – ott valószínűleg van termékkép). A kiadó beharangozó cikkének illusztrációja: https://hkk.hu/pic/zoli/HKK_cikk_lapok/lovagibecsulet_FA.jpg (Patkós Ferenc illusztrációja) – javasolt forrásmegjelölés: Kép: Beholder / Patkós Ferenc. Ez kártyaillusztráció, nem kifejezetten sajtókép, ezért érdemes engedélyt kérni a Beholdertől.'
+imageAlt: ""
+imageCredit: "Kép: Beholder"
+imageSuggestion: "Dobozkép a hkk.hu-n nem látszott (a webbolt termékoldalát nem sikerült megnyitni: https://webbolt.hkk.hu/termek/hatalom_kartyai___lovagi_torna/2207 – ott valószínűleg van termékkép). A kiadó beharangozó cikkének illusztrációja: https://hkk.hu/pic/zoli/HKK_cikk_lapok/lovagibecsulet_FA.jpg (Patkós Ferenc illusztrációja) – javasolt forrásmegjelölés: Kép: Beholder / Patkós Ferenc. Ez kártyaillusztráció, nem kifejezetten sajtókép, ezért érdemes engedélyt kérni a Beholdertől."
 sources:
-  - name: 'HKK.hu – Új HKK Kiegészítő: Lovagi torna'
+  - name: "HKK.hu – Új HKK Kiegészítő: Lovagi torna"
     url: https://www.hkk.hu/blog/hkk_lovagi_torna_beharangozo
   - name: HKK.hu – Hírek (Lovagi torna előrendelés, lapbemutatók)
     url: https://www.hkk.hu/hirek/hkk
