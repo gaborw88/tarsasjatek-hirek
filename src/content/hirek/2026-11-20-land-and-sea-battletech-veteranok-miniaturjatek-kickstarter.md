@@ -1,9 +1,13 @@
 ---
-published: false
-approved: false
-chiefApproved: false
 status: ⏳ tervezet
-title: "Óceáni idegenek ellen: BattleTech-veteránok miniatűrjátéka indul a Kickstarteren"
+approved: true
+chiefApproved: true
+published: false
+publishedAt: ''
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 20. 15:03
+approvedBy: ''
+chiefApprovedBy: ''
+title: 'Óceáni idegenek ellen: BattleTech-veteránok miniatűrjátéka indul a Kickstarteren'
 description: Brent Evans és Blaine L. Pardoe, a BattleTech-univerzum két ismert alkotója november 24-én indítja a LAND&SEA Tactical Miniatures Game Kickstarter-kampányát. A játékban emberi egységek és robotok harcolnak a tengerekből előtörő idegenek ellen.
 date: 2026-11-20T16:30:00+01:00
 type: gyujtott
@@ -16,18 +20,19 @@ tags:
 jatekok:
   - LAND&SEA Tactical Miniatures Game
   - BattleTech
-imageSuggestion: "Hivatalos sajtókit vagy kiadói termékoldal nem volt elérhető. A GamingTrend cikkében szereplő figurafotók Brent Evans nevével vannak jelölve, de felhasználási engedélyt nem találtam. Javaslat: a november 24-én induló Kickstarter-oldal (kickstarter.com/projects/1790714474/landandsea-tactical-miniatures-game) fő képe, amint a kampány elindul – javasolt forrásmegjelölés: Kép: Creative Juggernaut –, vagy kép kérése az alkotóktól a landandseagame.com oldalon keresztül. Kép nélkül is közölhető."
+magyarCimek: |-
+  LAND&SEA Tactical Miniatures Game: nem található a BGG-n – nézd meg kézzel
+  BattleTech: a BGG szerint nincs magyar kiadása (BGG #1540)
+youtube: ''
+image: /images/uploads/pasted-image-1795278427386.png
+imageAlt: ''
+imageCredit: 'Kép: Creative Juggernaut'
+imageSuggestion: 'Hivatalos sajtókit vagy kiadói termékoldal nem volt elérhető. A GamingTrend cikkében szereplő figurafotók Brent Evans nevével vannak jelölve, de felhasználási engedélyt nem találtam. Javaslat: a november 24-én induló Kickstarter-oldal (kickstarter.com/projects/1790714474/landandsea-tactical-miniatures-game) fő képe, amint a kampány elindul – javasolt forrásmegjelölés: Kép: Creative Juggernaut –, vagy kép kérése az alkotóktól a landandseagame.com oldalon keresztül. Kép nélkül is közölhető.'
 sources:
   - name: GamingTrend – BattleTech veterans launch LAND&SEA on Kickstarter November 24
     url: https://gamingtrend.com/news/battletech-veterans-launch-land-sea-on-kickstarter-november-24/
   - name: Blaine L. Pardoe – The Kickstarter Cometh!
     url: https://blainelpardoe989049.substack.com/p/the-kickstarter-cometh
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 20. 15:03
-approvedBy: ""
-chiefApprovedBy: ""
-magyarCimek: |-
-  LAND&SEA Tactical Miniatures Game: nem található a BGG-n – nézd meg kézzel
-  BattleTech: a BGG szerint nincs magyar kiadása (BGG #1540)
 ---
 
 Két, a **BattleTech** világából ismert alkotó új taktikai miniatűrjátékkal jelentkezik. A **LAND&SEA Tactical Miniatures Game** Kickstarter-kampánya a GamingTrend beszámolója szerint **november 24-én**, kedden indul, és december 24-ig tart. A kampányt a **Creative Juggernaut** jegyzi.
