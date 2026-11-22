@@ -2,23 +2,31 @@
 published: false
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
+status: ⏳ tervezet
 title: "Rokokó palotát építtet egy volt kőfaragó: boltokba indul a Prestige"
-description: "A Kickstarteren finanszírozott Prestige, Stefan Kretschmann munkáslehelyezős stratégiai játéka a Skellig Games és a Queen Games gondozásában a kampány után a kereskedelmi forgalomba is bekerül; a német boltok decemberre várják."
+description: A Kickstarteren finanszírozott Prestige, Stefan Kretschmann munkáslehelyezős stratégiai játéka a Skellig Games és a Queen Games gondozásában a kampány után a kereskedelmi forgalomba is bekerül; a német boltok decemberre várják.
 date: 2026-11-22T12:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Kiadói hírek", "Skellig Games", "Queen Games", "Crowdfunding"]
-jatekok: ["Prestige #444252"]
+author: Szerkesztőség
+tags:
+  - Kiadói hírek
+  - Skellig Games
+  - Queen Games
+  - Crowdfunding
+jatekok:
+  - "Prestige #444252"
 sources:
   - name: "Brettspiel-News.de – Prestige: Ein früherer Steinmetz lässt bei Skellig Rokoko-Schlösser bauen"
-    url: "https://www.brettspiel-news.de/index.php/de/nachrichten-uebersicht/neuerscheinungen/16524-prestige-ein-fr-herer-steinmetz-l-sst-bei-skellig-rokoko-schl-sser-bauen"
-  - name: "FroGames – Prestige (angol kiadás, termékoldal)"
-    url: "https://frogames.it/en/products/prestige"
-  - name: "tarsasjatekok.com – Prestige (2026) adatlap"
-    url: "https://tarsasjatekok.com/tarsasjatek/prestige-2026"
+    url: https://www.brettspiel-news.de/index.php/de/nachrichten-uebersicht/neuerscheinungen/16524-prestige-ein-fr-herer-steinmetz-l-sst-bei-skellig-rokoko-schl-sser-bauen
+  - name: FroGames – Prestige (angol kiadás, termékoldal)
+    url: https://frogames.it/en/products/prestige
+  - name: tarsasjatekok.com – Prestige (2026) adatlap
+    url: https://tarsasjatekok.com/tarsasjatek/prestige-2026
 youtube: ""
 imageSuggestion: "Hivatalos dobozkép a Skellig Games termékoldalán várható: https://www.skellig-games.de/prestige.html (ebben a futásban nem tudtam megnyitni, a Brettspiel-News.de cikke hivatkozik rá – kérlek, ellenőrizd), illetve a kiadó Kickstarter-kampányoldalán: https://www.kickstarter.com/projects/skellig-games/prestige – javasolt forrásmegjelölés: Kép: Skellig Games"
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 22. 11:04
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 A német Skellig Games a Kickstarter-kampány után a boltokba is elhozza a **Prestige** című stratégiai játékot, amelyet a Queen Games-szel közösen ad ki. A német online áruházak előrendelésben kínálják, a szállítást december elejére, illetve az év utolsó negyedévére ígérik; a kiadó ajánlott ára 80 euró. A játék angol, német és francia nyelven jelenik meg, magyar kiadásáról egyelőre nincs hír.
