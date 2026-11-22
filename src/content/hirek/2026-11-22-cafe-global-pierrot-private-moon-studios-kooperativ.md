@@ -1,13 +1,13 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 22. 14:56
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Kávézóbirodalom közös erővel: már rendelhető Pierrot kooperatív stratégiai játéka, a Café Global'
+published: true
+publishedAt: 2026-11-22T20:38:04.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 22. 21:38
+approvedBy: Weszprémy Gábor · 2026. 11. 22. 21:38
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 22. 21:38
+title: "Kávézóbirodalom közös erővel: már rendelhető Pierrot kooperatív stratégiai játéka, a Café Global"
 description: A Private Moon Studios 21 000 forintért kínálja a Café Global című kooperatív, tablóépítős játékot, amelyben a játékosok együtt építenek világméretű kávézóhálózatot egy agresszív rivális ellenében.
 date: 2026-11-22T15:00:00+01:00
 type: gyujtott
@@ -17,13 +17,13 @@ tags:
   - Private Moon Studios
   - Társasjátékok Ünnepe
 jatekok:
-  - 'Café Global #462717'
-magyarCimek: 'Café Global → VAN MAGYAR KIADÁS (Private Moon Studios, 2026), a magyar cím nem azonosítható biztosan – lehet, hogy azonos az eredetivel (BGG #462717)'
-youtube: ''
+  - "Café Global #462717"
+magyarCimek: "Café Global → VAN MAGYAR KIADÁS (Private Moon Studios, 2026), a magyar cím nem azonosítható biztosan – lehet, hogy azonos az eredetivel (BGG #462717)"
+youtube: ""
 image: /images/uploads/pasted-image-1795379795506.png
-imageAlt: ''
-imageCredit: 'Kép: Private Moon Studios'
-imageSuggestion: 'Hivatalos dobozkép a kiadó játékismertető oldalán: https://boardgames.privatemoon.com/wp-content/uploads/sites/8/2026/05/CafeGlobal-box_sm-atlatszo.png (kisebb változat a termékoldalon: https://privatemoonstudios.hu/wp-content/uploads/2026/01/cafe_glboal-300x277.png) – javasolt forrásmegjelölés: Kép: Private Moon Studios'
+imageAlt: ""
+imageCredit: "Kép: Private Moon Studios"
+imageSuggestion: "Hivatalos dobozkép a kiadó játékismertető oldalán: https://boardgames.privatemoon.com/wp-content/uploads/sites/8/2026/05/CafeGlobal-box_sm-atlatszo.png (kisebb változat a termékoldalon: https://privatemoonstudios.hu/wp-content/uploads/2026/01/cafe_glboal-300x277.png) – javasolt forrásmegjelölés: Kép: Private Moon Studios"
 sources:
   - name: Private Moon Studios – Café Global (termékoldal)
     url: https://privatemoonstudios.hu/termekek/cafe-global/
