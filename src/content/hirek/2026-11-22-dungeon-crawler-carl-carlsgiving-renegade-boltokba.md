@@ -1,13 +1,13 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 22. 22:58
-approvedBy: ''
-chiefApprovedBy: ''
-title: '„Carlsgiving”: november 23-án boltokba kerülnek a Dungeon Crawler Carl játékai, a Renegade a helyi szaküzletekbe hívja a rajongókat'
+published: true
+publishedAt: 2026-11-22T23:28:56.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 23. 00:28
+approvedBy: Weszprémy Gábor · 2026. 11. 23. 00:28
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 23. 00:28
+title: "„Carlsgiving”: november 23-án boltokba kerülnek a Dungeon Crawler Carl játékai, a Renegade a helyi szaküzletekbe hívja a rajongókat"
 description: A Renegade Game Studios hétfőn juttatja el a szaküzletekbe a Dungeon Crawler Carl szerepjátékot és az Unstoppable kártyajátékot. A boltba csábító akció december 31-ig tart, bemutatókkal, nyereményjátékkal és a boltoknak ingyenes hirdetésekkel.
 date: 2026-11-22T21:00:00+01:00
 type: gyujtott
@@ -19,18 +19,18 @@ tags:
   - Szerepjáték
   - Társasjáték-boltok
 jatekok:
-  - 'Dungeon Crawler Carl: Unstoppable'
+  - "Dungeon Crawler Carl: Unstoppable"
   - Dungeon Crawler Carl Roleplaying Game
   - Unstoppable
 magyarCimek: |-
   Dungeon Crawler Carl: Unstoppable: a BGG szerint nincs magyar kiadása (BGG #459928)
   Dungeon Crawler Carl Roleplaying Game: nem található a BGG-n – nézd meg kézzel
   Unstoppable: a BGG szerint nincs magyar kiadása (BGG #420498)
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1795390067262.png
-imageAlt: ''
-imageCredit: 'Kép: Renegade Game Studios'
-imageSuggestion: 'Hivatalos dobozkép a forgalmazó Asmodee UK termékoldalán: https://www.asmodee.co.uk/cdn/shop/files/RGS02988_1.jpg (termékoldal: https://www.asmodee.co.uk/products/rgs02988-dungeon-crawler-carl-unstoppable) – javasolt forrásmegjelölés: Kép: Renegade Game Studios. Alternatíva: a szerepjáték-könyvek képe a Renegade Carlsgiving-oldalán (https://dungeoncrawlercarl.renegadegamestudios.com/carlsgiving).'
+imageAlt: ""
+imageCredit: "Kép: Renegade Game Studios"
+imageSuggestion: "Hivatalos dobozkép a forgalmazó Asmodee UK termékoldalán: https://www.asmodee.co.uk/cdn/shop/files/RGS02988_1.jpg (termékoldal: https://www.asmodee.co.uk/products/rgs02988-dungeon-crawler-carl-unstoppable) – javasolt forrásmegjelölés: Kép: Renegade Game Studios. Alternatíva: a szerepjáték-könyvek képe a Renegade Carlsgiving-oldalán (https://dungeoncrawlercarl.renegadegamestudios.com/carlsgiving)."
 sources:
   - name: ICv2 – Renegade Game Studios Announces 'Carlsgiving' Promotion for 'Dungeon Crawler Carl' Games
     url: https://icv2.com/articles/news/view/63928/renegade-game-studios-announces-carlsgiving-promotion-dungeon-crawler-carl-games
