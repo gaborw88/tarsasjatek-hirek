@@ -2,21 +2,28 @@
 published: false
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
+status: ⏳ tervezet
 title: "Félmillió euró, öt év, se játék, se teljes pénz: a 43 százalékos visszatérítéssel zárult Adventures in Neverland története"
-description: "A Pán Péter-történetet feldolgozó kalandjáték 2020-ban több mint 500 ezer eurót gyűjtött a Kickstarteren, de sosem jelent meg. A német Brettspiel-News összefoglalója szerint a támogatók a befizetésük 43 százalékát kaphatják vissza."
+description: A Pán Péter-történetet feldolgozó kalandjáték 2020-ban több mint 500 ezer eurót gyűjtött a Kickstarteren, de sosem jelent meg. A német Brettspiel-News összefoglalója szerint a támogatók a befizetésük 43 százalékát kaphatják vissza.
 date: 2026-11-22T15:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Iparági hírek", "Közösségi finanszírozás", "Kickstarter"]
-jatekok: ["Adventures in Neverland #260143"]
+author: Szerkesztőség
+tags:
+  - Iparági hírek
+  - Közösségi finanszírozás
+  - Kickstarter
+jatekok:
+  - "Adventures in Neverland #260143"
 image: ""
-imageSuggestion: "A hír egy kudarcba fulladt kampányról szól, ezért a játék promóciós képét nem javaslom (az a játék reklámjának hatna). Kép nélkül is rendben van; ha mégis kell, semleges, saját készítésű illusztráció (pl. Kickstarter-logó nélküli, általános „közösségi finanszírozás” grafika) jöhet szóba."
+imageSuggestion: A hír egy kudarcba fulladt kampányról szól, ezért a játék promóciós képét nem javaslom (az a játék reklámjának hatna). Kép nélkül is rendben van; ha mégis kell, semleges, saját készítésű illusztráció (pl. Kickstarter-logó nélküli, általános „közösségi finanszírozás” grafika) jöhet szóba.
 sources:
   - name: "Brettspiel-News.de – Daniel Krause: Crowdfunding-Horror: Adventures in Neverland – 501.617 Euro eingesammelt, nie geliefert, 43 Prozent zurück"
-    url: "https://www.brettspiel-news.de/index.php/de/magazin-fuer-brettspieler-start/16516-crowdfunding-horror-adventures-in-neverland-501-617-euro-eingesammelt-nie-geliefert-43-prozent-zur-c"
-  - name: "Kicktraq – Adventures in Neverland (a kampány adatai)"
-    url: "https://www.kicktraq.com/projects/bba/adventures-in-neverland/"
+    url: https://www.brettspiel-news.de/index.php/de/magazin-fuer-brettspieler-start/16516-crowdfunding-horror-adventures-in-neverland-501-617-euro-eingesammelt-nie-geliefert-43-prozent-zur-c
+  - name: Kicktraq – Adventures in Neverland (a kampány adatai)
+    url: https://www.kicktraq.com/projects/bba/adventures-in-neverland/
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 22. 19:02
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 Részletes összefoglalót közölt a német Brettspiel-News.de a közösségi finanszírozás egyik legszomorúbb európai esetéről. Az **Adventures in Neverland** című, Pán Péter és Hook kapitány világában játszódó kalandjáték 2020 tavaszán több mint félmillió eurót gyűjtött, a támogatók azonban soha nem kapták meg – a pénzüknek pedig csak kevesebb mint a felét láthatják viszont.
