@@ -2,22 +2,33 @@
 published: false
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
+status: ⏳ tervezet
 title: "„Carlsgiving”: november 23-án boltokba kerülnek a Dungeon Crawler Carl játékai, a Renegade a helyi szaküzletekbe hívja a rajongókat"
-description: "A Renegade Game Studios hétfőn juttatja el a szaküzletekbe a Dungeon Crawler Carl szerepjátékot és az Unstoppable kártyajátékot. A boltba csábító akció december 31-ig tart, bemutatókkal, nyereményjátékkal és a boltoknak ingyenes hirdetésekkel."
+description: A Renegade Game Studios hétfőn juttatja el a szaküzletekbe a Dungeon Crawler Carl szerepjátékot és az Unstoppable kártyajátékot. A boltba csábító akció december 31-ig tart, bemutatókkal, nyereményjátékkal és a boltoknak ingyenes hirdetésekkel.
 date: 2026-11-22T21:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Kiadói hírek", "Renegade Game Studios", "Dungeon Crawler Carl", "Szerepjáték", "Társasjáték-boltok"]
-jatekok: ["Dungeon Crawler Carl: Unstoppable", "Dungeon Crawler Carl Roleplaying Game", "Unstoppable"]
+author: Szerkesztőség
+tags:
+  - Kiadói hírek
+  - Renegade Game Studios
+  - Dungeon Crawler Carl
+  - Szerepjáték
+  - Társasjáték-boltok
+jatekok:
+  - "Dungeon Crawler Carl: Unstoppable"
+  - Dungeon Crawler Carl Roleplaying Game
+  - Unstoppable
 imageSuggestion: "Hivatalos dobozkép a forgalmazó Asmodee UK termékoldalán: https://www.asmodee.co.uk/cdn/shop/files/RGS02988_1.jpg (termékoldal: https://www.asmodee.co.uk/products/rgs02988-dungeon-crawler-carl-unstoppable) – javasolt forrásmegjelölés: Kép: Renegade Game Studios. Alternatíva: a szerepjáték-könyvek képe a Renegade Carlsgiving-oldalán (https://dungeoncrawlercarl.renegadegamestudios.com/carlsgiving)."
 sources:
-  - name: "ICv2 – Renegade Game Studios Announces 'Carlsgiving' Promotion for 'Dungeon Crawler Carl' Games"
-    url: "https://icv2.com/articles/news/view/63928/renegade-game-studios-announces-carlsgiving-promotion-dungeon-crawler-carl-games"
-  - name: "Renegade Game Studios – Carlsgiving"
-    url: "https://dungeoncrawlercarl.renegadegamestudios.com/carlsgiving"
-  - name: "Geek Native – Carlsgiving brings Dungeon Crawler Carl RPG and Unstoppable to hobby stores"
-    url: "https://www.geeknative.com/244598/carlsgiving-brings-dungeon-crawler-carl-rpg-and-unstoppable-to-hobby-stores"
+  - name: ICv2 – Renegade Game Studios Announces 'Carlsgiving' Promotion for 'Dungeon Crawler Carl' Games
+    url: https://icv2.com/articles/news/view/63928/renegade-game-studios-announces-carlsgiving-promotion-dungeon-crawler-carl-games
+  - name: Renegade Game Studios – Carlsgiving
+    url: https://dungeoncrawlercarl.renegadegamestudios.com/carlsgiving
+  - name: Geek Native – Carlsgiving brings Dungeon Crawler Carl RPG and Unstoppable to hobby stores
+    url: https://www.geeknative.com/244598/carlsgiving-brings-dungeon-crawler-carl-rpg-and-unstoppable-to-hobby-stores
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 22. 22:58
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 Hétfőn, november 23-án érkeznek meg a szaküzletekbe Matt Dinniman népszerű LitRPG-regénysorozatának asztali változatai: a *Dungeon Crawler Carl Roleplaying Game* szerepjáték és a *Dungeon Crawler Carl: Unstoppable* kártyajáték. A kiadó, az amerikai Renegade Game Studios a megjelenést egy „Carlsgiving” nevű, a hálaadás hetére időzített boltos kampánnyal köti össze, amelynek célja, hogy a vásárlókat a helyi társasjáték-üzletekbe terelje.
