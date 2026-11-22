@@ -1,12 +1,12 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 21. 23:03
-approvedBy: ''
-chiefApprovedBy: ''
+published: true
+publishedAt: 2026-11-22T01:29:52.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 22. 02:29
+approvedBy: Weszprémy Gábor · 2026. 11. 22. 02:29
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 22. 02:29
 title: Készül a szakszervezetre? Munkaügyi igazgatót keres a Wizards of the Coast
 description: Még tart a D&D és a Magic alkotóinak szakszervezeti szavazása, de a Wizards of the Coast már olyan vezetőt keres, aki az első kollektív szerződés tárgyalását is vinné.
 date: 2026-11-21T15:00:00+01:00
@@ -17,14 +17,14 @@ tags:
   - Wizards of the Coast
   - Hasbro
   - Dungeons & Dragons
-  - 'Magic: The Gathering'
+  - "Magic: The Gathering"
 jatekok: []
-magyarCimek: ''
-youtube: ''
+magyarCimek: ""
+youtube: ""
 image: /images/uploads/pasted-image-1793794154054.png
-imageAlt: ''
-imageCredit: ''
-imageSuggestion: 'Iparági hír, hivatalos sajtókép nincs. Ha szeretnél képet: a Wizards of the Coast hivatalos logója (a korábbi szakszervezeti cikknél is használt kép) – javasolt forrásmegjelölés: Kép: Wizards of the Coast. Kép nélkül is rendben van.'
+imageAlt: ""
+imageCredit: ""
+imageSuggestion: "Iparági hír, hivatalos sajtókép nincs. Ha szeretnél képet: a Wizards of the Coast hivatalos logója (a korábbi szakszervezeti cikknél is használt kép) – javasolt forrásmegjelölés: Kép: Wizards of the Coast. Kép nélkül is rendben van."
 sources:
   - name: Wargamer – After D&D union vote, WotC hires labor relations director to prepare managers for unionized workplace
     url: https://www.wargamer.com/dnd/wotc-hiring-director-labor-relations-union
