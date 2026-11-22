@@ -1,13 +1,13 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 22. 11:04
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Rokokó palotát építtet egy volt kőfaragó: boltokba indul a Prestige'
+published: true
+publishedAt: 2026-11-22T19:28:35.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 22. 20:28
+approvedBy: Weszprémy Gábor · 2026. 11. 22. 20:28
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 22. 20:28
+title: "Rokokó palotát építtet egy volt kőfaragó: boltokba indul a Prestige"
 description: A Kickstarteren finanszírozott Prestige, Stefan Kretschmann munkáslehelyezős stratégiai játéka a Skellig Games és a Queen Games gondozásában a kampány után a kereskedelmi forgalomba is bekerül; a német boltok decemberre várják.
 date: 2026-11-22T12:00:00+01:00
 type: gyujtott
@@ -18,15 +18,15 @@ tags:
   - Queen Games
   - Crowdfunding
 jatekok:
-  - 'Prestige #444252'
-magyarCimek: 'Prestige: a BGG szerint nincs magyar kiadása (BGG #444252)'
-youtube: ''
+  - "Prestige #444252"
+magyarCimek: "Prestige: a BGG szerint nincs magyar kiadása (BGG #444252)"
+youtube: ""
 image: /images/uploads/pasted-image-1795375663113.png
-imageAlt: ''
-imageCredit: 'Kép: Skellig Games'
-imageSuggestion: 'Hivatalos dobozkép a Skellig Games termékoldalán várható: https://www.skellig-games.de/prestige.html (ebben a futásban nem tudtam megnyitni, a Brettspiel-News.de cikke hivatkozik rá – kérlek, ellenőrizd), illetve a kiadó Kickstarter-kampányoldalán: https://www.kickstarter.com/projects/skellig-games/prestige – javasolt forrásmegjelölés: Kép: Skellig Games'
+imageAlt: ""
+imageCredit: "Kép: Skellig Games"
+imageSuggestion: "Hivatalos dobozkép a Skellig Games termékoldalán várható: https://www.skellig-games.de/prestige.html (ebben a futásban nem tudtam megnyitni, a Brettspiel-News.de cikke hivatkozik rá – kérlek, ellenőrizd), illetve a kiadó Kickstarter-kampányoldalán: https://www.kickstarter.com/projects/skellig-games/prestige – javasolt forrásmegjelölés: Kép: Skellig Games"
 sources:
-  - name: 'Brettspiel-News.de – Prestige: Ein früherer Steinmetz lässt bei Skellig Rokoko-Schlösser bauen'
+  - name: "Brettspiel-News.de – Prestige: Ein früherer Steinmetz lässt bei Skellig Rokoko-Schlösser bauen"
     url: https://www.brettspiel-news.de/index.php/de/nachrichten-uebersicht/neuerscheinungen/16524-prestige-ein-fr-herer-steinmetz-l-sst-bei-skellig-rokoko-schl-sser-bauen
   - name: FroGames – Prestige (angol kiadás, termékoldal)
     url: https://frogames.it/en/products/prestige
