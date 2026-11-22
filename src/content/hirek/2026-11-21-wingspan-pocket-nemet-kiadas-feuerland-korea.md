@@ -1,13 +1,13 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 21. 07:04
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Egyetlen madársor a három élőhely helyett: német és koreai kiadást kap a Fesztáv zsebméretű változata'
+published: true
+publishedAt: 2026-11-22T00:42:45.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 22. 01:42
+approvedBy: Weszprémy Gábor · 2026. 11. 22. 01:42
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 22. 01:42
+title: "Egyetlen madársor a három élőhely helyett: német és koreai kiadást kap a Fesztáv zsebméretű változata"
 description: A Wingspan Pocket, Elizabeth Hargrave madaras sikerjátékának kártyás kistestvére 2027 tavaszán németül is megjelenhet a Feuerland Spielénél, Dél-Koreában pedig e hétvégén mutatják be.
 date: 2026-11-21T12:00:00+01:00
 type: gyujtott
@@ -18,18 +18,18 @@ tags:
   - Feuerland Spiele
   - Fesztáv
 jatekok:
-  - 'Wingspan #266192'
-  - 'Wingspan Pocket #473508'
+  - "Wingspan #266192"
+  - "Wingspan Pocket #473508"
 magyarCimek: |-
   Wingspan → Fesztáv (Delta Vision Publishing, Stonemaier Games, 2019; BGG #266192)
   Wingspan Pocket: a BGG szerint nincs magyar kiadása (BGG #473508)
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1795308100933.png
-imageAlt: ''
-imageCredit: 'Kép: Stonemaier Games'
-imageSuggestion: 'Hivatalos dobozkép a Stonemaier Games termékoldalán várható: https://aus.stonemaiergames.com/products/wingspan-pocket (az oldalt ebben a futásban nem tudtam megnyitni, a keresőben jelent meg – kérlek, ellenőrizd) – javasolt forrásmegjelölés: Kép: Stonemaier Games. A német dobozképet a Feuerland Spiele oldaláról (https://www.feuerland-spiele.de/spielwelten/fluegelschlag/) lehet kérni.'
+imageAlt: ""
+imageCredit: "Kép: Stonemaier Games"
+imageSuggestion: "Hivatalos dobozkép a Stonemaier Games termékoldalán várható: https://aus.stonemaiergames.com/products/wingspan-pocket (az oldalt ebben a futásban nem tudtam megnyitni, a keresőben jelent meg – kérlek, ellenőrizd) – javasolt forrásmegjelölés: Kép: Stonemaier Games. A német dobozképet a Feuerland Spiele oldaláról (https://www.feuerland-spiele.de/spielwelten/fluegelschlag/) lehet kérni."
 sources:
-  - name: 'Brettspiel-News.de – Flügelschlag Federleicht: Eine Vogelreihe statt drei Lebensräumen'
+  - name: "Brettspiel-News.de – Flügelschlag Federleicht: Eine Vogelreihe statt drei Lebensräumen"
     url: https://www.brettspiel-news.de/index.php/de/nachrichten-uebersicht/ankuendigungen/16512-fluegelschlag-federleicht-eine-vogelreihe-statt-drei-lebensraeumen
   - name: ICv2 – Stonemaier Games Announces 'Wingspan Pocket'
     url: https://icv2.com/articles/news/view/62774/stonemaier-games-announces-wingspan-pocket
