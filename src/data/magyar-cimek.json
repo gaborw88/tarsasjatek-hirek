@@ -694,6 +694,18 @@
     "biztos": true,
     "ellenorizve": "2026-11-19"
   },
+  "Prestige #444252": {
+    "id": "444252",
+    "nev": "Prestige",
+    "tipus": "boardgame",
+    "ev": 2026,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-22"
+  },
   "Queso": {
     "id": "483608",
     "nev": "Queso",

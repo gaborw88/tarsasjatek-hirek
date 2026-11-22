@@ -27,6 +27,7 @@ imageSuggestion: "Hivatalos dobozkép a Skellig Games termékoldalán várható:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 22. 11:04
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: "Prestige: a BGG szerint nincs magyar kiadása (BGG #444252)"
 ---
 
 A német Skellig Games a Kickstarter-kampány után a boltokba is elhozza a **Prestige** című stratégiai játékot, amelyet a Queen Games-szel közösen ad ki. A német online áruházak előrendelésben kínálják, a szállítást december elejére, illetve az év utolsó negyedévére ígérik; a kiadó ajánlott ára 80 euró. A játék angol, német és francia nyelven jelenik meg, magyar kiadásáról egyelőre nincs hír.
