@@ -1,8 +1,12 @@
 ---
-published: false
-approved: false
-chiefApproved: false
 status: ⏳ tervezet
+approved: true
+chiefApproved: true
+published: false
+publishedAt: ''
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 21. 15:00
+approvedBy: ''
+chiefApprovedBy: ''
 title: A Wizards of the Coast a D&D-regények szerzőinek adja tovább az Anthropic-egyezségből járó pénzt
 description: A Dungeons & Dragons kiadója jogtulajdonosként részesül az Anthropic mesterségesintelligencia-cég 1,5 milliárd dolláros szerzői jogi egyezségéből, de a rá eső részt a regények, kalandmodulok és történetek alkotóinak juttatja.
 date: 2026-11-21T15:00:00+01:00
@@ -14,17 +18,20 @@ tags:
   - Dungeons & Dragons
   - Mesterséges intelligencia
   - Szerzői jog
-imageSuggestion: "Iparági, jogi hír, hivatalos sajtókép nincs hozzá. Ha kell kép, a Wizards of the Coast vagy a Dungeons & Dragons hivatalos logója jöhet szóba a cég sajtó- vagy arculati oldaláról (a szerkesztőnek kell megkeresnie) – javasolt forrásmegjelölés: Kép: Wizards of the Coast. Kép nélkül is rendben van."
+jatekok: []
+magyarCimek: ''
+youtube: ''
+image: /images/uploads/pasted-image-1793794154054.png
+imageAlt: ''
+imageCredit: 'Kép: Wizards of the Coast'
+imageSuggestion: 'Iparági, jogi hír, hivatalos sajtókép nincs hozzá. Ha kell kép, a Wizards of the Coast vagy a Dungeons & Dragons hivatalos logója jöhet szóba a cég sajtó- vagy arculati oldaláról (a szerkesztőnek kell megkeresnie) – javasolt forrásmegjelölés: Kép: Wizards of the Coast. Kép nélkül is rendben van.'
 sources:
   - name: "Wargamer – Mollie Russell: Wizards of the Coast shares AI copyright settlement money with D&D's authors"
     url: https://www.wargamer.com/dnd/anthropic-settlement
-  - name: "EN World – Christian Hoffer: Wizards of the Coast to share payout of Anthropic copyright settlement with authors of stolen work"
+  - name: 'EN World – Christian Hoffer: Wizards of the Coast to share payout of Anthropic copyright settlement with authors of stolen work'
     url: https://www.enworld.org/threads/wizards-of-the-coast-to-share-payout-of-anthropic-copyright-settlement-with-authors-of-stolen-work.721447/
   - name: NBC News – AI company Anthropic agrees to pay $1.5B to settle lawsuit with authors
     url: https://www.nbcnews.com/tech/tech-news/anthropic-settlement-lawsuit-authors-rcna229422
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 21. 15:00
-approvedBy: ""
-chiefApprovedBy: ""
 ---
 
 A Dungeons & Dragons kiadója, a Wizards of the Coast (WotC) bejelentette, hogy a D&D-hez kapcsolódó regények, kalandmodulok és történetek után járó kártérítést nem tartja meg, hanem továbbadja a művek szerzőinek. A pénz a Bartz kontra Anthropic perben született egyezségből származik.
