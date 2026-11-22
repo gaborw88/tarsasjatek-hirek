@@ -132,6 +132,27 @@
     "biztos": true,
     "ellenorizve": "2026-11-19"
   },
+  "Café Global #462717": {
+    "id": "462717",
+    "nev": "Café Global",
+    "tipus": "boardgame",
+    "ev": 2026,
+    "magyarKiadas": true,
+    "magyarKiadasok": [
+      {
+        "nev": "Hungarian edition",
+        "kiadok": [
+          "Private Moon Studios"
+        ],
+        "ev": 2026,
+        "tobbnyelvu": false
+      }
+    ],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-22"
+  },
   "Calico": {
     "id": "283155",
     "nev": "Calico",

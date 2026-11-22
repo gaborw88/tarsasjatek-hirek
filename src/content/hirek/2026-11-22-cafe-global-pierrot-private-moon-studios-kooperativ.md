@@ -26,6 +26,7 @@ imageSuggestion: "Hivatalos dobozkép a kiadó játékismertető oldalán: https
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 22. 14:56
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: "Café Global → VAN MAGYAR KIADÁS (Private Moon Studios, 2026), a magyar cím nem azonosítható biztosan – lehet, hogy azonos az eredetivel (BGG #462717)"
 ---
 
 Új játékkal jelentkezett Pierrot, a legismertebb magyar társasjáték-tervező saját kiadója, a Private Moon Studios. A **Café Global** november közepén került fel „új” jelöléssel a kiadó webáruházába, ahol 21 000 forintért rendelhető; pontos szállítási dátumot a kiadó nem közölt. A játékot a Telex vasárnap záruló Társasjátékok Ünnepéről szóló beszámolója is említi, eszerint ez Pierrot idei második nagydobozos játéka.
