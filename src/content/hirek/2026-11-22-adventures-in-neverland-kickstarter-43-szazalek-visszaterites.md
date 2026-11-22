@@ -24,6 +24,7 @@ sources:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 22. 19:02
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: "Adventures in Neverland: a BGG szerint nincs magyar kiadása (BGG #260143)"
 ---
 
 Részletes összefoglalót közölt a német Brettspiel-News.de a közösségi finanszírozás egyik legszomorúbb európai esetéről. Az **Adventures in Neverland** című, Pán Péter és Hook kapitány világában játszódó kalandjáték 2020 tavaszán több mint félmillió eurót gyűjtött, a támogatók azonban soha nem kapták meg – a pénzüknek pedig csak kevesebb mint a felét láthatják viszont.
