@@ -29,6 +29,10 @@ sources:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 22. 22:58
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: |-
+  Dungeon Crawler Carl: Unstoppable: a BGG szerint nincs magyar kiadása (BGG #459928)
+  Dungeon Crawler Carl Roleplaying Game: nem található a BGG-n – nézd meg kézzel
+  Unstoppable: a BGG szerint nincs magyar kiadása (BGG #420498)
 ---
 
 Hétfőn, november 23-án érkeznek meg a szaküzletekbe Matt Dinniman népszerű LitRPG-regénysorozatának asztali változatai: a *Dungeon Crawler Carl Roleplaying Game* szerepjáték és a *Dungeon Crawler Carl: Unstoppable* kártyajáték. A kiadó, az amerikai Renegade Game Studios a megjelenést egy „Carlsgiving” nevű, a hálaadás hetére időzített boltos kampánnyal köti össze, amelynek célja, hogy a vásárlókat a helyi társasjáték-üzletekbe terelje.

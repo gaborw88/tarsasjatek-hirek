@@ -344,6 +344,22 @@
     "biztos": true,
     "ellenorizve": "2026-11-20"
   },
+  "Dungeon Crawler Carl Roleplaying Game": {
+    "hiba": "nincs találat",
+    "ellenorizve": "2026-11-22"
+  },
+  "Dungeon Crawler Carl: Unstoppable": {
+    "id": "459928",
+    "nev": "Dungeon Crawler Carl: Unstoppable",
+    "tipus": "boardgame",
+    "ev": 2026,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-22"
+  },
   "Dungeons & Dragons": {
     "id": "140509",
     "nev": "Dragones Y Mazmorras",
@@ -988,6 +1004,18 @@
   "Tunnels & Trolls": {
     "hiba": "nincs találat",
     "ellenorizve": "2026-11-19"
+  },
+  "Unstoppable": {
+    "id": "420498",
+    "nev": "Unstoppable",
+    "tipus": "boardgame",
+    "ev": 2025,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-22"
   },
   "Vroom": {
     "id": "461381",
