@@ -1,10 +1,14 @@
 ---
-published: false
-approved: false
-chiefApproved: false
 status: ⏳ tervezet
-title: "Kávézóbirodalom közös erővel: már rendelhető Pierrot kooperatív stratégiai játéka, a Café Global"
-description: A magyar tervező-kiadó Pierrot Private Moon Studios kiadója 21 000 forintért kínálja a Café Global című kooperatív, tablóépítős játékot, amelyben a játékosok együtt építenek világméretű kávézóhálózatot egy agresszív rivális ellenében.
+approved: true
+chiefApproved: true
+published: false
+publishedAt: ''
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 22. 14:56
+approvedBy: ''
+chiefApprovedBy: ''
+title: 'Kávézóbirodalom közös erővel: már rendelhető Pierrot kooperatív stratégiai játéka, a Café Global'
+description: A Private Moon Studios 21 000 forintért kínálja a Café Global című kooperatív, tablóépítős játékot, amelyben a játékosok együtt építenek világméretű kávézóhálózatot egy agresszív rivális ellenében.
 date: 2026-11-22T15:00:00+01:00
 type: gyujtott
 author: Szerkesztőség
@@ -13,7 +17,13 @@ tags:
   - Private Moon Studios
   - Társasjátékok Ünnepe
 jatekok:
-  - "Café Global #462717"
+  - 'Café Global #462717'
+magyarCimek: 'Café Global → VAN MAGYAR KIADÁS (Private Moon Studios, 2026), a magyar cím nem azonosítható biztosan – lehet, hogy azonos az eredetivel (BGG #462717)'
+youtube: ''
+image: /images/uploads/pasted-image-1795379795506.png
+imageAlt: ''
+imageCredit: 'Kép: Private Moon Studios'
+imageSuggestion: 'Hivatalos dobozkép a kiadó játékismertető oldalán: https://boardgames.privatemoon.com/wp-content/uploads/sites/8/2026/05/CafeGlobal-box_sm-atlatszo.png (kisebb változat a termékoldalon: https://privatemoonstudios.hu/wp-content/uploads/2026/01/cafe_glboal-300x277.png) – javasolt forrásmegjelölés: Kép: Private Moon Studios'
 sources:
   - name: Private Moon Studios – Café Global (termékoldal)
     url: https://privatemoonstudios.hu/termekek/cafe-global/
@@ -21,15 +31,9 @@ sources:
     url: https://boardgames.privatemoon.com/cafe-global/
   - name: Telex After – Brutálisra nőtt a kínálat az idei Társasjátékok Ünnepén
     url: https://telex.hu/after/2026/11/22/tarsasjatekok-unnepe-lurdy-haz-jatek-mini-essen-kingdom-come
-youtube: ""
-imageSuggestion: "Hivatalos dobozkép a kiadó játékismertető oldalán: https://boardgames.privatemoon.com/wp-content/uploads/sites/8/2026/05/CafeGlobal-box_sm-atlatszo.png (kisebb változat a termékoldalon: https://privatemoonstudios.hu/wp-content/uploads/2026/01/cafe_glboal-300x277.png) – javasolt forrásmegjelölés: Kép: Private Moon Studios"
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 22. 14:56
-approvedBy: ""
-chiefApprovedBy: ""
-magyarCimek: "Café Global → VAN MAGYAR KIADÁS (Private Moon Studios, 2026), a magyar cím nem azonosítható biztosan – lehet, hogy azonos az eredetivel (BGG #462717)"
 ---
 
-Új játékkal jelentkezett Pierrot, a legismertebb magyar társasjáték-tervező saját kiadója, a Private Moon Studios. A **Café Global** november közepén került fel „új” jelöléssel a kiadó webáruházába, ahol 21 000 forintért rendelhető; pontos szállítási dátumot a kiadó nem közölt. A játékot a Telex vasárnap záruló Társasjátékok Ünnepéről szóló beszámolója is említi, eszerint ez Pierrot idei második nagydobozos játéka.
+Új játékkal jelentkezett Pierrot saját kiadója, a Private Moon Studios. A **Café Global** november közepén került fel a kiadó webáruházába, ahol 21 000 forintért rendelhető; pontos szállítási dátumot a kiadó nem közölt. A játékot a Telex vasárnap záruló Társasjátékok Ünnepéről szóló beszámolója is említi, eszerint ez Pierrot idei második nagydobozos játéka.
 
 ## Együtt a rivális ellen
 
@@ -39,4 +43,4 @@ A játék hat évet ölel fel. Minden év két szakaszból áll: előbb a játé
 
 ## Alkotók
 
-A játékot és a grafikát is Pierrot jegyzi; a szabálykönyv szerint az illusztrációk generatív mesterséges intelligencia segítségével készültek. A 3D-grafika Kiss Csaba, a szabályfüzet Gracza Balázs munkája. A kiadó honlapja angol nyelvű ismertetőt is közöl a játékról, de azt, hogy angol kiadás is készül-e, egyelőre nem erősítette meg.
+A játékot és a grafikát is Pierrot jegyzi; a szabálykönyv szerint az illusztrációk generatív mesterséges intelligencia segítségével készültek. A 3D-grafika Kiss Csaba, a szabályfüzet Gracza Balázs munkája.
