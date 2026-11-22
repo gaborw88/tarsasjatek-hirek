@@ -1,13 +1,13 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 21. 07:04
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Négy évszak a kémek utcájában: ezt tudjuk a Kertvárosi kémek új kiegészítőjéről'
+published: true
+publishedAt: 2026-11-22T01:17:02.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 22. 02:17
+approvedBy: Weszprémy Gábor · 2026. 11. 22. 02:17
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 22. 02:17
+title: "Négy évszak a kémek utcájában: ezt tudjuk a Kertvárosi kémek új kiegészítőjéről"
 description: Évszakonként változó pályákkal, új ügynökökkel és feketepiaci lapokkal bővül a Nerdlab kétszemélyes blöffjátéka; a német kiadás az év végén érkezik, a magyar változatot a Gémklub már bejelentette.
 date: 2026-11-21T15:00:00+01:00
 type: gyujtott
@@ -20,19 +20,19 @@ tags:
   - Kiegészítők
 jatekok:
   - Agent Avenue
-  - 'Agent Avenue: Four Seasons'
-  - 'Agent Avenue: Division M'
+  - "Agent Avenue: Four Seasons"
+  - "Agent Avenue: Division M"
 magyarCimek: |-
   Agent Avenue → Kertvárosi kémek (Gémklub, Nerdlab Games, 2025; BGG #422732)
   Agent Avenue: Four Seasons: a BGG szerint nincs magyar kiadása (BGG #474854)
   Agent Avenue: Division M → Kertvárosi kémek: Egerek a szomszédban (Gémklub, 2026; BGG #450196)
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1795310106199.png
-imageAlt: ''
-imageCredit: 'Kép: Nerdlab Games'
-imageSuggestion: 'Hivatalos dobozkép a Nerdlab Games webshopjának termékoldalán várható: https://shop.nerdlab-games.com/products/agent-avenue-expansion-four-seasons (a link a kiadó Agent Avenue-oldaláról származik, a képet nem ellenőriztem – kérlek, nézd meg) – javasolt forrásmegjelölés: Kép: Nerdlab Games. A magyar dobozképet a Gémklubtól lehet kérni.'
+imageAlt: ""
+imageCredit: "Kép: Nerdlab Games"
+imageSuggestion: "Hivatalos dobozkép a Nerdlab Games webshopjának termékoldalán várható: https://shop.nerdlab-games.com/products/agent-avenue-expansion-four-seasons (a link a kiadó Agent Avenue-oldaláról származik, a képet nem ellenőriztem – kérlek, nézd meg) – javasolt forrásmegjelölés: Kép: Nerdlab Games. A magyar dobozképet a Gémklubtól lehet kérni."
 sources:
-  - name: 'Brettspiel-News.de – Agent Avenue: Four Seasons – Vier Jahreszeiten für das Agentenduell'
+  - name: "Brettspiel-News.de – Agent Avenue: Four Seasons – Vier Jahreszeiten für das Agentenduell"
     url: https://www.brettspiel-news.de/index.php/de/nachrichten-uebersicht/neuerscheinungen/16514-agent-avenue-four-seasons-vier-jahreszeiten-f-r-das-agentenduell
   - name: Nerdlab Games – Agent Avenue (kiadói oldal)
     url: https://shop.nerdlab-games.com/pages/agent-avenue
