@@ -34,6 +34,14 @@ sources:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 23. 15:04
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: |-
+  Hamburg: a BGG szerint nincs magyar kiadása (BGG #314580)
+  Amsterdam: a BGG szerint nincs magyar kiadása (BGG #314582)
+  New York City: a BGG szerint nincs magyar kiadása (BGG #346645)
+  Marrakesh: a BGG szerint nincs magyar kiadása (BGG #342810)
+  Macao: a BGG szerint nincs magyar kiadása (BGG #55670)
+  Bruges: a BGG szerint nincs magyar kiadása (BGG #136888)
+  Alhambra → Münster (Piatnik Distribution, Queen Games, 2003, 2011; BGG #6249)
 ---
 
 Komoly stratégiai játékok kedvelőinek szól a Reflexshop legfrissebb bejelentése: a kiadó „hamarosan érkező” listájára felkerült a német Queen Games **Stefan Feld City Collection** sorozatának első négy része, a **Hamburg**, az **Amsterdam**, a **New York City** és a **Marrakesh**. Mind a négy magyar kiadás mellett 2027 szerepel várható megjelenésként; pontosabb dátumot és árat a Reflexshop egyelőre nem közölt, a termékek még nem rendelhetők.

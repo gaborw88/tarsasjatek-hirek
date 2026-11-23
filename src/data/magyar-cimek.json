@@ -70,6 +70,50 @@
     "biztos": true,
     "ellenorizve": "2026-11-21"
   },
+  "Alhambra": {
+    "id": "6249",
+    "nev": "Alhambra",
+    "tipus": "boardgame",
+    "ev": 2003,
+    "magyarKiadas": true,
+    "magyarKiadasok": [
+      {
+        "nev": "Piatnik Hungarian edition",
+        "kiadok": [
+          "Piatnik Distribution",
+          "Queen Games"
+        ],
+        "ev": 2003,
+        "tobbnyelvu": false
+      },
+      {
+        "nev": "Piatnik multilingual edition",
+        "kiadok": [
+          "Piatnik Distribution"
+        ],
+        "ev": 2011,
+        "tobbnyelvu": true
+      }
+    ],
+    "magyarCimJeloltek": [
+      "Münster"
+    ],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-23"
+  },
+  "Amsterdam": {
+    "id": "314582",
+    "nev": "Amsterdam",
+    "tipus": "boardgame",
+    "ev": 2022,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-23"
+  },
   "Ancient Hands": {
     "hiba": "nincs találat",
     "ellenorizve": "2026-11-20"
@@ -131,6 +175,18 @@
     "egyebNevek": [],
     "biztos": true,
     "ellenorizve": "2026-11-19"
+  },
+  "Bruges": {
+    "id": "136888",
+    "nev": "Bruges",
+    "tipus": "boardgame",
+    "ev": 2013,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-23"
   },
   "Buttons & Bugs: Pub Crawlers": {
     "id": "473161",
@@ -568,6 +624,18 @@
     "biztos": true,
     "ellenorizve": "2026-11-19"
   },
+  "Hamburg": {
+    "id": "314580",
+    "nev": "Hamburg",
+    "tipus": "boardgame",
+    "ev": 2022,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-23"
+  },
   "Hanami": {
     "id": "450860",
     "nev": "Hanami",
@@ -624,6 +692,18 @@
     "hiba": "nincs találat",
     "ellenorizve": "2026-11-20"
   },
+  "Macao": {
+    "id": "55670",
+    "nev": "Macao",
+    "tipus": "boardgame",
+    "ev": 2009,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-23"
+  },
   "Magic: The Gathering": {
     "id": "463",
     "nev": "Magic: The Gathering",
@@ -674,6 +754,18 @@
     "egyebNevek": [],
     "biztos": true,
     "ellenorizve": "2026-11-19"
+  },
+  "Marrakesh": {
+    "id": "342810",
+    "nev": "Marrakesh",
+    "tipus": "boardgame",
+    "ev": 2022,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-23"
   },
   "Mindbug: Dinopunk Fire #470136": {
     "id": "470136",
@@ -745,6 +837,18 @@
     "egyebNevek": [],
     "biztos": true,
     "ellenorizve": "2026-11-19"
+  },
+  "New York City": {
+    "id": "346645",
+    "nev": "New York City",
+    "tipus": "boardgame",
+    "ev": 2022,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-23"
   },
   "OkEros": {
     "hiba": "nincs találat",
