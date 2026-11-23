@@ -26,6 +26,7 @@ imageSuggestion: "Hivatalos kampánykép a kiadó saját oldaláról (dobozkép 
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 23. 22:55
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: "Assassin's Creed - Animus: a BGG szerint nincs magyar kiadása (BGG #445690, bizonytalan találat – ellenőrizd, jó játék-e)"
 ---
 
 A brit **Mantic Games** az ICv2 értesülése szerint **december 11-én**, még az ünnepi szezonra időzítve, az amerikai kiskereskedelembe is eljuttatja az **Assassin's Creed – Animus** című társasjátékát. A bolti változat ajánlott ára **65 dollár**.
