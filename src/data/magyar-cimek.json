@@ -767,6 +767,28 @@
     "biztos": true,
     "ellenorizve": "2026-11-23"
   },
+  "Men-Nefer": {
+    "id": "404431",
+    "nev": "Men-Nefer",
+    "tipus": "boardgame",
+    "ev": 2024,
+    "magyarKiadas": true,
+    "magyarKiadasok": [
+      {
+        "nev": "Hungarian edition",
+        "kiadok": [
+          "Mosaico Jogos",
+          "Vagabund"
+        ],
+        "ev": 2025,
+        "tobbnyelvu": false
+      }
+    ],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-23"
+  },
   "Mindbug: Dinopunk Fire #470136": {
     "id": "470136",
     "nev": "Mindbug: Dinopunk Fire",
@@ -980,6 +1002,29 @@
     "egyebNevek": [],
     "biztos": true,
     "ellenorizve": "2026-11-19"
+  },
+  "Take Time": {
+    "id": "440540",
+    "nev": "Take Time",
+    "tipus": "boardgame",
+    "ev": 2025,
+    "magyarKiadas": true,
+    "magyarKiadasok": [
+      {
+        "nev": "Hungarian edition",
+        "kiadok": [
+          "Gémklub"
+        ],
+        "ev": 2025,
+        "tobbnyelvu": false
+      }
+    ],
+    "magyarCimJeloltek": [
+      "Időhurok"
+    ],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-23"
   },
   "Tannhäuser #25261": {
     "id": "25261",

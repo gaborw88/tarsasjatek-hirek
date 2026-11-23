@@ -27,6 +27,10 @@ imageSuggestion: "Hivatalos sajtóképet nem találtam: a díj saját oldala (go
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 23. 19:01
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: |-
+  Take Time → Időhurok (Gémklub, 2025; BGG #440540)
+  Bomb Busters → Bombairtók (Reflexshop, 2025; BGG #413246)
+  Men-Nefer → VAN MAGYAR KIADÁS (Mosaico Jogos, Vagabund, 2025), a magyar cím nem azonosítható biztosan – lehet, hogy azonos az eredetivel (BGG #404431)
 ---
 
 Péntek este, november 20-án Antwerpenben, a hétvégi Spel társasjátékvásár előestéjén hirdették ki az idei Gouden Ludo (Arany Ludo) díjak nyerteseit. Az elismerést 2009 óta a flamand társasjátékklubok ernyőszervezete, a FORUM-Federatie adja át, és közönségszavazás dönt róla: a kiadók által benevezett játékokat egész évben a flamand klubok játékestjein próbálják ki, a döntőben pedig flandriai és brüsszeli játékosok rangsorolták a jelölteket.
