@@ -30,6 +30,10 @@ imageSuggestion: "Hivatalos kép a kiadó Dinopunk-oldaláról: https://shop.ner
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 23. 10:58
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: |-
+  Mindbug: Dinopunk Fire: a BGG szerint nincs magyar kiadása (BGG #470136)
+  Mindbug: Dinopunk Ice: a BGG szerint nincs magyar kiadása (BGG #470135)
+  Mindbug: First Contact → Mindbug: Első találkozás (Gémklub, 2025; BGG #345584)
 ---
 
 Kedden, **november 24-én** indul a Gamefoundon a **Mindbug** kártyajáték-család legújabb tagjának, a **Mindbug Dinopunknak** a közösségi gyűjtése. A német Nerdlab Games által kiadott sorozatot Richard Garfield (a Magic: The Gathering alkotója), Skaff Elias, Marvin Hegen és Christian Kudahl jegyzi; az alapjáték, a **Mindbug: First Contact** (magyarul: Mindbug: Első találkozás) magyar nyelven is megjelent.

@@ -675,6 +675,53 @@
     "biztos": true,
     "ellenorizve": "2026-11-19"
   },
+  "Mindbug: Dinopunk Fire #470136": {
+    "id": "470136",
+    "nev": "Mindbug: Dinopunk Fire",
+    "tipus": "boardgame",
+    "ev": 2027,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-23"
+  },
+  "Mindbug: Dinopunk Ice #470135": {
+    "id": "470135",
+    "nev": "Mindbug: Dinopunk Ice",
+    "tipus": "boardgame",
+    "ev": 2027,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-23"
+  },
+  "Mindbug: First Contact": {
+    "id": "345584",
+    "nev": "Mindbug: First Contact",
+    "tipus": "boardgame",
+    "ev": 2022,
+    "magyarKiadas": true,
+    "magyarKiadasok": [
+      {
+        "nev": "Hungarian edition",
+        "kiadok": [
+          "Gémklub"
+        ],
+        "ev": 2025,
+        "tobbnyelvu": false
+      }
+    ],
+    "magyarCimJeloltek": [
+      "Mindbug: Első találkozás"
+    ],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-23"
+  },
   "Monsters! Monsters!": {
     "id": "481533",
     "nev": "Monsters on Board: Second Edition",
