@@ -2,22 +2,31 @@
 published: false
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
+status: ⏳ tervezet
 title: "Időhurok, Bombairtók és Men-Nefer: kiosztották a flamand játékosok díját, a Gouden Ludót"
 description: "A belga Flandria társasjátékklubjainak közönségdíját idén először három kategóriában adták át: családi játékként az Időhurok, hobbijátékként a Bombairtók, szakértői játékként a Men-Nefer nyert."
 date: 2026-11-23T15:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Díjak", "Gouden Ludo", "Belgium"]
-jatekok: ["Take Time", "Bomb Busters", "Men-Nefer"]
+author: Szerkesztőség
+tags:
+  - Díjak
+  - Gouden Ludo
+  - Belgium
+jatekok:
+  - Take Time
+  - Bomb Busters
+  - Men-Nefer
 sources:
   - name: "Speloptafel – Gouden Ludo: Take Time, Bomb Busters en Men Nefer"
-    url: "https://www.speloptafel.nl/gouden-ludo-take-time-bomb-busters-en-men-nefer/"
-  - name: "BeyondGaming – Take Time, Bomb Busters en Men-Nefer winnen de Gouden Ludo 2026"
-    url: "https://www.beyondgaming.be/threads/take-time-bomb-busters-en-men-nefer-winnen-de-gouden-ludo-2026.46253/"
+    url: https://www.speloptafel.nl/gouden-ludo-take-time-bomb-busters-en-men-nefer/
+  - name: BeyondGaming – Take Time, Bomb Busters en Men-Nefer winnen de Gouden Ludo 2026
+    url: https://www.beyondgaming.be/threads/take-time-bomb-busters-en-men-nefer-winnen-de-gouden-ludo-2026.46253/
   - name: "Brettspielbox – Brettspielpreis: Gouden Ludo – Sieger 2026"
-    url: "https://brettspielbox.de/brettspielpreis-gouden-ludo-sieger-2026/"
+    url: https://brettspielbox.de/brettspielpreis-gouden-ludo-sieger-2026/
 imageSuggestion: "Hivatalos sajtóképet nem találtam: a díj saját oldala (goudenludo.be) ebben a futásban nem volt megnyitható, a hírportálok győzteskollázsai és fotói pedig nem használhatók. Megoldás: a Gouden Ludo hivatalos logója a goudenludo.be oldalról, vagy a győztes Időhurok dobozképe a Libellud termékoldaláról – javasolt forrásmegjelölés: Kép: FORUM-Federatie / Gouden Ludo, illetve Kép: Libellud. Kép nélkül is rendben van."
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 23. 19:01
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 Péntek este, november 20-án Antwerpenben, a hétvégi Spel társasjátékvásár előestéjén hirdették ki az idei Gouden Ludo (Arany Ludo) díjak nyerteseit. Az elismerést 2009 óta a flamand társasjátékklubok ernyőszervezete, a FORUM-Federatie adja át, és közönségszavazás dönt róla: a kiadók által benevezett játékokat egész évben a flamand klubok játékestjein próbálják ki, a döntőben pedig flandriai és brüsszeli játékosok rangsorolták a jelölteket.
