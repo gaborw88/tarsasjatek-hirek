@@ -1,13 +1,13 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 23. 15:04
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Négy Stefan Feld-játék érkezik magyarul: Hamburg, Amsterdam, New York City és Marrakesh a Reflexshoptól'
+published: true
+publishedAt: 2026-11-24T09:32:42.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 24. 10:32
+approvedBy: Weszprémy Gábor · 2026. 11. 24. 10:32
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 24. 10:32
+title: "Négy Stefan Feld-játék érkezik magyarul: Hamburg, Amsterdam, New York City és Marrakesh a Reflexshoptól"
 description: A Reflexshop „hamarosan érkező” listáján feltűnt a Queen Games Stefan Feld City Collection sorozatának első négy része. A magyar kiadások 2027-re várhatók, árat még nem közöltek.
 date: 2026-11-23T15:00:00+01:00
 type: gyujtott
@@ -33,11 +33,11 @@ magyarCimek: |-
   Macao: a BGG szerint nincs magyar kiadása (BGG #55670)
   Bruges: a BGG szerint nincs magyar kiadása (BGG #136888)
   Alhambra → Münster (Piatnik Distribution, Queen Games, 2003, 2011; BGG #6249)
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1795512656305.png
-imageAlt: ''
-imageCredit: 'Kép: Queen Games'
-imageSuggestion: 'Hivatalos kép a kiadó sorozatoldalán: https://new.queen-games.com/wp-content/uploads/banner_sfcc.webp (a Stefan Feld City Collection bannere) – javasolt forrásmegjelölés: Kép: Queen Games. Alternatíva: a Reflexshop Marrakesh-termékoldalának dobozképe (https://reflexshop.hu/img/51636/QGMARRS/0x0,r,1756893615/QGMARRS.webp) – Kép: Queen Games.'
+imageAlt: ""
+imageCredit: "Kép: Queen Games"
+imageSuggestion: "Hivatalos kép a kiadó sorozatoldalán: https://new.queen-games.com/wp-content/uploads/banner_sfcc.webp (a Stefan Feld City Collection bannere) – javasolt forrásmegjelölés: Kép: Queen Games. Alternatíva: a Reflexshop Marrakesh-termékoldalának dobozképe (https://reflexshop.hu/img/51636/QGMARRS/0x0,r,1756893615/QGMARRS.webp) – Kép: Queen Games."
 sources:
   - name: Reflexshop – Hamarosan érkező társasjátékok
     url: https://reflexshop.hu/Tarsasjatekok/Hamarosan-erkezo
