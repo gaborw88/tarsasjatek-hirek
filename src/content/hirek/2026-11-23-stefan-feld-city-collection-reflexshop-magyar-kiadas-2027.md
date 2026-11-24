@@ -1,9 +1,13 @@
 ---
-published: false
-approved: false
-chiefApproved: false
 status: ⏳ tervezet
-title: "Négy Stefan Feld-játék érkezik magyarul: Hamburg, Amsterdam, New York City és Marrakesh a Reflexshoptól"
+approved: true
+chiefApproved: true
+published: false
+publishedAt: ''
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 23. 15:04
+approvedBy: ''
+chiefApprovedBy: ''
+title: 'Négy Stefan Feld-játék érkezik magyarul: Hamburg, Amsterdam, New York City és Marrakesh a Reflexshoptól'
 description: A Reflexshop „hamarosan érkező” listáján feltűnt a Queen Games Stefan Feld City Collection sorozatának első négy része. A magyar kiadások 2027-re várhatók, árat még nem közöltek.
 date: 2026-11-23T15:00:00+01:00
 type: gyujtott
@@ -21,7 +25,19 @@ jatekok:
   - Macao
   - Bruges
   - Alhambra
-imageSuggestion: "Hivatalos kép a kiadó sorozatoldalán: https://new.queen-games.com/wp-content/uploads/banner_sfcc.webp (a Stefan Feld City Collection bannere) – javasolt forrásmegjelölés: Kép: Queen Games. Alternatíva: a Reflexshop Marrakesh-termékoldalának dobozképe (https://reflexshop.hu/img/51636/QGMARRS/0x0,r,1756893615/QGMARRS.webp) – Kép: Queen Games."
+magyarCimek: |-
+  Hamburg: a BGG szerint nincs magyar kiadása (BGG #314580)
+  Amsterdam: a BGG szerint nincs magyar kiadása (BGG #314582)
+  New York City: a BGG szerint nincs magyar kiadása (BGG #346645)
+  Marrakesh: a BGG szerint nincs magyar kiadása (BGG #342810)
+  Macao: a BGG szerint nincs magyar kiadása (BGG #55670)
+  Bruges: a BGG szerint nincs magyar kiadása (BGG #136888)
+  Alhambra → Münster (Piatnik Distribution, Queen Games, 2003, 2011; BGG #6249)
+youtube: ''
+image: /images/uploads/pasted-image-1795512656305.png
+imageAlt: ''
+imageCredit: 'Kép: Queen Games'
+imageSuggestion: 'Hivatalos kép a kiadó sorozatoldalán: https://new.queen-games.com/wp-content/uploads/banner_sfcc.webp (a Stefan Feld City Collection bannere) – javasolt forrásmegjelölés: Kép: Queen Games. Alternatíva: a Reflexshop Marrakesh-termékoldalának dobozképe (https://reflexshop.hu/img/51636/QGMARRS/0x0,r,1756893615/QGMARRS.webp) – Kép: Queen Games.'
 sources:
   - name: Reflexshop – Hamarosan érkező társasjátékok
     url: https://reflexshop.hu/Tarsasjatekok/Hamarosan-erkezo
@@ -31,17 +47,6 @@ sources:
     url: https://new.queen-games.com/sfcc/
   - name: Spielfritte – Queen Games und Stefan Feld präsentieren die „Stefan Feld City Collection”
     url: https://spielfritte.de/heiss-fettig-queen-games-und-stefan-feld-praesentieren-die-stefan-feld-city-collection/
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 23. 15:04
-approvedBy: ""
-chiefApprovedBy: ""
-magyarCimek: |-
-  Hamburg: a BGG szerint nincs magyar kiadása (BGG #314580)
-  Amsterdam: a BGG szerint nincs magyar kiadása (BGG #314582)
-  New York City: a BGG szerint nincs magyar kiadása (BGG #346645)
-  Marrakesh: a BGG szerint nincs magyar kiadása (BGG #342810)
-  Macao: a BGG szerint nincs magyar kiadása (BGG #55670)
-  Bruges: a BGG szerint nincs magyar kiadása (BGG #136888)
-  Alhambra → Münster (Piatnik Distribution, Queen Games, 2003, 2011; BGG #6249)
 ---
 
 Komoly stratégiai játékok kedvelőinek szól a Reflexshop legfrissebb bejelentése: a kiadó „hamarosan érkező” listájára felkerült a német Queen Games **Stefan Feld City Collection** sorozatának első négy része, a **Hamburg**, az **Amsterdam**, a **New York City** és a **Marrakesh**. Mind a négy magyar kiadás mellett 2027 szerepel várható megjelenésként; pontosabb dátumot és árat a Reflexshop egyelőre nem közölt, a termékek még nem rendelhetők.
