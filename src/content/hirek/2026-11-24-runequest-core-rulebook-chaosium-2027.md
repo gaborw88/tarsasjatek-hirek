@@ -2,19 +2,25 @@
 published: false
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
+status: ⏳ tervezet
 title: "Új alapkönyvvel tér vissza Gloranthába a RuneQuest: 2027-ben jön a Chaosium átdolgozott kötete"
 description: "A Chaosium 2027-ben adja ki a RuneQuest: Core Rulebookot, a 2018-as RuneQuest: Roleplaying in Glorantha átdolgozott, egyszerűsített változatát. A kiadó szerint nem új kiadásról van szó: a könyv minden eddigi RuneQuest-kötettel használható marad."
 date: 2026-11-24T18:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Szerepjátékok", "Chaosium", "RuneQuest"]
+author: Szerkesztőség
+tags:
+  - Szerepjátékok
+  - Chaosium
+  - RuneQuest
 imageSuggestion: "Hivatalos promóciós kép a Chaosium bejelentéséből: https://www.chaosium.com/product_images/uploaded_images/rq-core-rulebook-promo.png – javasolt forrásmegjelölés: Kép: Chaosium"
 sources:
   - name: "Chaosium – Your Odyssey Begins In 2027: Announcing The RuneQuest: Core Rulebook"
-    url: "https://www.chaosium.com/blogyour-odyssey-begins-in-2027-announcing-the-runequest-core-rulebook/"
-  - name: "ICv2 – Chaosium Resurrects 'RuneQuest RPG'"
-    url: "https://icv2.com/articles/news/view/63957/chaosium-resurrects-runequest-rpg"
+    url: https://www.chaosium.com/blogyour-odyssey-begins-in-2027-announcing-the-runequest-core-rulebook/
+  - name: ICv2 – Chaosium Resurrects 'RuneQuest RPG'
+    url: https://icv2.com/articles/news/view/63957/chaosium-resurrects-runequest-rpg
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 24. 19:02
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 A Chaosium az új-zélandi Chaosium Conon jelentette be, hogy 2027-ben megjelenik a **RuneQuest: Core Rulebook**, a klasszikus fantasy-szerepjáték új alapkönyve. A kiadó november 22-i blogbejegyzése szerint a kötet a 2018-as *RuneQuest: Roleplaying in Glorantha* frissített és átdolgozott változata – hangsúlyozottan nem új kiadás, így az eddig megjelent RuneQuest-könyvekkel továbbra is együtt használható. Pontos megjelenési dátumot és árat még nem közöltek.
