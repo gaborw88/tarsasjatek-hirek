@@ -2,23 +2,33 @@
 published: false
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
+status: ⏳ tervezet
 title: "Hajótörés, ragadozók, éhség: december 14-én boltokba kerül a Terraforming Mars alkotóinak első játéka, a Wilderness új kiadása"
-description: "A svéd FryxGames december 14-én küldi a nemzetközi kereskedelembe a 2011-es túlélőjátéka, a Wilderness második kiadását, amely egyszemélyes módot és egyedi karakterképességeket is kapott."
+description: A svéd FryxGames december 14-én küldi a nemzetközi kereskedelembe a 2011-es túlélőjátéka, a Wilderness második kiadását, amely egyszemélyes módot és egyedi karakterképességeket is kapott.
 date: 2026-11-24T21:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Kiadói hírek", "FryxGames", "Új kiadás", "Gamefound"]
-jatekok: ["Wilderness: A Game of Survival (Second Edition) #454967", "Wilderness #108637", "Terraforming Mars"]
+author: Szerkesztőség
+tags:
+  - Kiadói hírek
+  - FryxGames
+  - Új kiadás
+  - Gamefound
+jatekok:
+  - "Wilderness: A Game of Survival (Second Edition) #454967"
+  - "Wilderness #108637"
+  - Terraforming Mars
 youtube: ""
 imageSuggestion: "A kiadó saját Gamefound-kampányoldalán vannak hivatalos képek a második kiadásról: https://gamefound.com/en/projects/fryxgames/wilderness – javasolt forrásmegjelölés: Kép: FryxGames. (A kiadó honlapján, https://www.fryxgames.se, érdemes dobozképet is keresni.)"
 sources:
-  - name: "ICv2 – 'Terraforming Mars' Publisher Heads Out into the 'Wilderness'"
-    url: "https://icv2.com/articles/news/view/63958/terraforming-mars-publisher-heads-out-wilderness"
-  - name: "Tbreak – Wilderness is coming back to shops with solo play"
-    url: "https://tbreak.com/wilderness-board-game-second-edition-solo/"
-  - name: "Zatu – New version of Wilderness announced!"
-    url: "https://zatu.com/blogs/news/new-version-of-wilderness-announced"
+  - name: ICv2 – 'Terraforming Mars' Publisher Heads Out into the 'Wilderness'
+    url: https://icv2.com/articles/news/view/63958/terraforming-mars-publisher-heads-out-wilderness
+  - name: Tbreak – Wilderness is coming back to shops with solo play
+    url: https://tbreak.com/wilderness-board-game-second-edition-solo/
+  - name: Zatu – New version of Wilderness announced!
+    url: https://zatu.com/blogs/news/new-version-of-wilderness-announced
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 24. 14:57
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 A Terraforming Mars-sorozatról ismert svéd családi kiadó, a **FryxGames** visszanyúl a gyökereihez: **december 14-én** kerül a nemzetközi kereskedelembe a cég első társasjátékának, a **Wilderness**-nek a második kiadása (teljes nevén *Wilderness: A Game of Survival*). Az ICv2 szerint az amerikai boltokban 50 dolláros ajánlott áron lesz kapható.
