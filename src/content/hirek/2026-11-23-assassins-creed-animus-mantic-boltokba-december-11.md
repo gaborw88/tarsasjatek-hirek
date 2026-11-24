@@ -1,8 +1,12 @@
 ---
-published: false
-approved: false
-chiefApproved: false
 status: ⏳ tervezet
+approved: true
+chiefApproved: true
+published: false
+publishedAt: ''
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 23. 22:55
+approvedBy: ''
+chiefApprovedBy: ''
 title: December 11-én boltokba kerül a Mantic Assassin's Creed-társasjátéka
 description: A Mantic Games bejelentette, hogy a 2025-ben Kickstarteren finanszírozott Assassin's Creed – Animus december 11-én jelenik meg az amerikai kereskedelemben, 65 dolláros áron.
 date: 2026-11-23T21:00:00+01:00
@@ -15,6 +19,12 @@ tags:
   - Assassin's Creed
 jatekok:
   - Assassin's Creed - Animus
+magyarCimek: "Assassin's Creed - Animus: a BGG szerint nincs magyar kiadása (BGG #445690, bizonytalan találat – ellenőrizd, jó játék-e)"
+youtube: ''
+image: /images/uploads/pasted-image-1795526251360.png
+imageAlt: ''
+imageCredit: 'Kép: Mantic Games'
+imageSuggestion: 'Hivatalos kampánykép a kiadó saját oldaláról (dobozkép a kiskereskedelmi termékoldal megjelenésekor kérhető): https://www.manticgames.com/wp-content/uploads/2025/08/ac-banner-19th-august-1.webp – javasolt forrásmegjelölés: Kép: Mantic Games'
 sources:
   - name: ICv2 – Mantic Games Will Release 'Assassin's Creed - Animus'
     url: https://icv2.com/articles/news/view/63950/mantic-games-will-release-assassins-creed-animus
@@ -22,11 +32,6 @@ sources:
     url: https://www.manticgames.com/news/assassins-creed-animus-is-live-now-on-kickstarter/
   - name: Wargamer – New Assassin's Creed board game stealths its way to success on Kickstarter
     url: https://www.wargamer.com/assassins-creed-animus-board-game/kickstarter-launch
-imageSuggestion: "Hivatalos kampánykép a kiadó saját oldaláról (dobozkép a kiskereskedelmi termékoldal megjelenésekor kérhető): https://www.manticgames.com/wp-content/uploads/2025/08/ac-banner-19th-august-1.webp – javasolt forrásmegjelölés: Kép: Mantic Games"
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 23. 22:55
-approvedBy: ""
-chiefApprovedBy: ""
-magyarCimek: "Assassin's Creed - Animus: a BGG szerint nincs magyar kiadása (BGG #445690, bizonytalan találat – ellenőrizd, jó játék-e)"
 ---
 
 A brit **Mantic Games** az ICv2 értesülése szerint **december 11-én**, még az ünnepi szezonra időzítve, az amerikai kiskereskedelembe is eljuttatja az **Assassin's Creed – Animus** című társasjátékát. A bolti változat ajánlott ára **65 dollár**.
