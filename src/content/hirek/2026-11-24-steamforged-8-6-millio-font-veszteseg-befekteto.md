@@ -2,20 +2,34 @@
 published: false
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
+status: ⏳ tervezet
 title: "8,6 millió fontos veszteség, könyvvizsgálói kétségek: befektetőt keres a Steamforged"
-description: "Késve benyújtott beszámolója szerint a Helldivers 2 és az Elden Ring társasjátékok kiadója nagy veszteséget termelt, a könyvvizsgáló nem tudott véleményt mondani a működőképességéről. Közben a Terra Mystica német kiadója nyilvánosan bírálta a céget."
+description: Késve benyújtott beszámolója szerint a Helldivers 2 és az Elden Ring társasjátékok kiadója nagy veszteséget termelt, a könyvvizsgáló nem tudott véleményt mondani a működőképességéről. Közben a Terra Mystica német kiadója nyilvánosan bírálta a céget.
 date: 2026-11-24T14:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Iparági hírek", "Steamforged Games", "Közösségi finanszírozás", "Feuerland Spiele"]
-jatekok: ["Terra Mystica", "Monster Hunter World: Iceborne - The Board Game", "Helldivers 2: The Board Game", "Elden Ring: Rot & Sorcery", "Hearts of Iron: The Board Game", "Warmachine", "The Danes"]
+author: Szerkesztőség
+tags:
+  - Iparági hírek
+  - Steamforged Games
+  - Közösségi finanszírozás
+  - Feuerland Spiele
+jatekok:
+  - Terra Mystica
+  - "Monster Hunter World: Iceborne - The Board Game"
+  - "Helldivers 2: The Board Game"
+  - "Elden Ring: Rot & Sorcery"
+  - "Hearts of Iron: The Board Game"
+  - Warmachine
+  - The Danes
 imageSuggestion: "Iparági hír, hivatalos sajtókép a veszteségről értelemszerűen nincs. Ha kell kép: a Terra Mystica Special Edition hivatalos bejelentő oldalán (https://steamforged.com/blogs/brands/terra-mystica-special-edition) a kiadó saját termékképei – javasolt forrásmegjelölés: Kép: Steamforged Games. Kép nélkül is rendben van."
 sources:
-  - name: "BoardGameWire – Steamforged seeks outside investment after £8.6m loss, with auditors 'unable to determine' whether it can meet liabilities"
-    url: "https://boardgamewire.com/index.php/2026/11/23/steamforged-seeks-outside-investment-after-8-6m-loss-with-auditors-unable-to-determine-whether-it-can-meet-liabilities/"
-  - name: "Geek Native – Steamforged Games seeks outside investment after £8.6m loss as Feuerland Spiele warns over Terra Mystica"
-    url: "https://www.geeknative.com/244772/steamforged-games-seeks-outside-investment-after-8-6m-loss-as-feuerland-spiele-warns-over-terra-mystica/"
+  - name: BoardGameWire – Steamforged seeks outside investment after £8.6m loss, with auditors 'unable to determine' whether it can meet liabilities
+    url: https://boardgamewire.com/index.php/2026/11/23/steamforged-seeks-outside-investment-after-8-6m-loss-with-auditors-unable-to-determine-whether-it-can-meet-liabilities/
+  - name: Geek Native – Steamforged Games seeks outside investment after £8.6m loss as Feuerland Spiele warns over Terra Mystica
+    url: https://www.geeknative.com/244772/steamforged-games-seeks-outside-investment-after-8-6m-loss-as-feuerland-spiele-warns-over-terra-mystica/
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 24. 07:03
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 Súlyos pénzügyi helyzetről árulkodik a brit **Steamforged Games** legfrissebb éves beszámolója. A videojáték-licencekre épülő társasjátékairól ismert kiadó a 2025. március 31-ével zárult üzleti évben mintegy **8,6 millió font** adózás előtti veszteséget könyvelt el – írja a BoardGameWire és a Geek Native. A beszámolót a cég igazgatósága november 20-án hagyta jóvá, nagyjából öt hónappal a határidő után.
