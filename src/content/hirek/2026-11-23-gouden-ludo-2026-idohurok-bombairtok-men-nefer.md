@@ -1,14 +1,14 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 23. 19:01
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Időhurok, Bombairtók és Men-Nefer: kiosztották a flamand játékosok díját, a Gouden Ludót'
-description: 'A belga Flandria társasjátékklubjainak közönségdíját idén először három kategóriában adták át: családi játékként az Időhurok, hobbijátékként a Bombairtók, szakértői játékként a Men-Nefer nyert.'
+published: true
+publishedAt: 2026-11-24T07:24:17.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 24. 08:24
+approvedBy: Weszprémy Gábor · 2026. 11. 24. 08:24
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 24. 08:24
+title: "Időhurok, Bombairtók és Men-Nefer: kiosztották a flamand játékosok díját, a Gouden Ludót"
+description: "A belga Flandria társasjátékklubjainak közönségdíját idén először három kategóriában adták át: családi játékként az Időhurok, hobbijátékként a Bombairtók, szakértői játékként a Men-Nefer nyert."
 date: 2026-11-23T15:00:00+01:00
 type: gyujtott
 author: Szerkesztőség
@@ -24,17 +24,17 @@ magyarCimek: |-
   Take Time → Időhurok (Gémklub, 2025; BGG #440540)
   Bomb Busters → Bombairtók (Reflexshop, 2025; BGG #413246)
   Men-Nefer → VAN MAGYAR KIADÁS (Mosaico Jogos, Vagabund, 2025), a magyar cím nem azonosítható biztosan – lehet, hogy azonos az eredetivel (BGG #404431)
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1795504953423.png
-imageAlt: ''
-imageCredit: ''
-imageSuggestion: 'Hivatalos sajtóképet nem találtam: a díj saját oldala (goudenludo.be) ebben a futásban nem volt megnyitható, a hírportálok győzteskollázsai és fotói pedig nem használhatók. Megoldás: a Gouden Ludo hivatalos logója a goudenludo.be oldalról, vagy a győztes Időhurok dobozképe a Libellud termékoldaláról – javasolt forrásmegjelölés: Kép: FORUM-Federatie / Gouden Ludo, illetve Kép: Libellud. Kép nélkül is rendben van.'
+imageAlt: ""
+imageCredit: ""
+imageSuggestion: "Hivatalos sajtóképet nem találtam: a díj saját oldala (goudenludo.be) ebben a futásban nem volt megnyitható, a hírportálok győzteskollázsai és fotói pedig nem használhatók. Megoldás: a Gouden Ludo hivatalos logója a goudenludo.be oldalról, vagy a győztes Időhurok dobozképe a Libellud termékoldaláról – javasolt forrásmegjelölés: Kép: FORUM-Federatie / Gouden Ludo, illetve Kép: Libellud. Kép nélkül is rendben van."
 sources:
-  - name: 'Speloptafel – Gouden Ludo: Take Time, Bomb Busters en Men Nefer'
+  - name: "Speloptafel – Gouden Ludo: Take Time, Bomb Busters en Men Nefer"
     url: https://www.speloptafel.nl/gouden-ludo-take-time-bomb-busters-en-men-nefer/
   - name: BeyondGaming – Take Time, Bomb Busters en Men-Nefer winnen de Gouden Ludo 2026
     url: https://www.beyondgaming.be/threads/take-time-bomb-busters-en-men-nefer-winnen-de-gouden-ludo-2026.46253/
-  - name: 'Brettspielbox – Brettspielpreis: Gouden Ludo – Sieger 2026'
+  - name: "Brettspielbox – Brettspielpreis: Gouden Ludo – Sieger 2026"
     url: https://brettspielbox.de/brettspielpreis-gouden-ludo-sieger-2026/
 ---
 
