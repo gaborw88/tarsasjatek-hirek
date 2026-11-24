@@ -2,22 +2,34 @@
 published: false
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
+status: ⏳ tervezet
 title: "Quetzalcoatl kegyeiért: azték mitológiai csatajátékkal bővül a Blood Rage-család, jön a Rage of the Feathered Serpent"
-description: "A Tycoon Games bejelentette a Rage of the Feathered Serpentet, a Blood Rage nyomdokain járó, mezoamerikai mitológiára épülő miniatűrös területfoglaló játékot. A közösségi gyűjtés 2027 első negyedévében indul a Gamefoundon."
+description: A Tycoon Games bejelentette a Rage of the Feathered Serpentet, a Blood Rage nyomdokain járó, mezoamerikai mitológiára épülő miniatűrös területfoglaló játékot. A közösségi gyűjtés 2027 első negyedévében indul a Gamefoundon.
 date: 2026-11-24T21:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Kiadói hírek", "Tycoon Games", "Gamefound", "Közösségi finanszírozás"]
-jatekok: ["Rage of the Feathered Serpent", "Blood Rage", "Rising Sun", "Ankh: Gods of Egypt", "Blood Rage: Valhalla"]
+author: Szerkesztőség
+tags:
+  - Kiadói hírek
+  - Tycoon Games
+  - Gamefound
+  - Közösségi finanszírozás
+jatekok:
+  - Rage of the Feathered Serpent
+  - Blood Rage
+  - Rising Sun
+  - "Ankh: Gods of Egypt"
+  - "Blood Rage: Valhalla"
 imageSuggestion: "Hivatalos kampánykép a kiadó Gamefound-oldaláról: https://imgcdn.gamefound.com/og-image-square/projects/12925/c2658db6-ee19-42d6-9c67-a391077ee947.jpg (kampányoldal: https://gamefound.com/en/projects/tabletop-tycoon/rage-of-the-feathered-serpent) – javasolt forrásmegjelölés: Kép: Tycoon Games"
 sources:
-  - name: "ICv2 – Tycoon Games Announces 'Rage of the Feathered Serpent'"
-    url: "https://icv2.com/articles/news/view/63962/tycoon-games-announces-rage-feathered-serpent"
-  - name: "Tabletop Sentinel – Tycoon Games Expands Rage of Legends Series with Rage of the Feathered Serpent"
-    url: "https://www.tabletopsentinel.com/news/fantasy/tycoon-games-expands-rage-of-legends-series-with-rage-of-the-feathered-serpent"
-  - name: "Gamefound – Rage of the Feathered Serpent (kampányoldal)"
-    url: "https://gamefound.com/en/projects/tabletop-tycoon/rage-of-the-feathered-serpent"
+  - name: ICv2 – Tycoon Games Announces 'Rage of the Feathered Serpent'
+    url: https://icv2.com/articles/news/view/63962/tycoon-games-announces-rage-feathered-serpent
+  - name: Tabletop Sentinel – Tycoon Games Expands Rage of Legends Series with Rage of the Feathered Serpent
+    url: https://www.tabletopsentinel.com/news/fantasy/tycoon-games-expands-rage-of-legends-series-with-rage-of-the-feathered-serpent
+  - name: Gamefound – Rage of the Feathered Serpent (kampányoldal)
+    url: https://gamefound.com/en/projects/tabletop-tycoon/rage-of-the-feathered-serpent
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 24. 22:57
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 Új taggal bővül a Blood Rage-ből kinőtt játékcsalád: a Tycoon Games november 24-én bejelentette a **Rage of the Feathered Serpent** című miniatűrös társasjátékot. A kiadó 2027 első negyedévében viszi a Gamefoundra, a kampányoldal már követhető.
