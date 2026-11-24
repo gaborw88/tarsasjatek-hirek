@@ -30,6 +30,14 @@ sources:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 24. 07:03
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: |-
+  Terra Mystica → VAN MAGYAR KIADÁS (Gémklub, 2018), a magyar cím nem azonosítható biztosan – lehet, hogy azonos az eredetivel (BGG #120677)
+  Monster Hunter World: Iceborne - The Board Game: a BGG szerint nincs magyar kiadása (BGG #385319)
+  Helldivers 2: The Board Game: a BGG szerint nincs magyar kiadása (BGG #440991)
+  Elden Ring: Rot & Sorcery: nem található a BGG-n – nézd meg kézzel
+  Hearts of Iron: The Board Game: a BGG szerint nincs magyar kiadása (BGG #254928)
+  Warmachine: a BGG szerint nincs magyar kiadása (BGG #4741)
+  The Danes: a BGG szerint nincs magyar kiadása (BGG #450923)
 ---
 
 Súlyos pénzügyi helyzetről árulkodik a brit **Steamforged Games** legfrissebb éves beszámolója. A videojáték-licencekre épülő társasjátékairól ismert kiadó a 2025. március 31-ével zárult üzleti évben mintegy **8,6 millió font** adózás előtti veszteséget könyvelt el – írja a BoardGameWire és a Geek Native. A beszámolót a cég igazgatósága november 20-án hagyta jóvá, nagyjából öt hónappal a határidő után.

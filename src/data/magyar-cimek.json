@@ -440,6 +440,10 @@
     "biztos": true,
     "ellenorizve": "2026-11-20"
   },
+  "Elden Ring: Rot & Sorcery": {
+    "hiba": "nincs találat",
+    "ellenorizve": "2026-11-24"
+  },
   "Era: Babylon": {
     "hiba": "nincs találat",
     "ellenorizve": "2026-11-20"
@@ -672,6 +676,30 @@
     "biztos": false,
     "ellenorizve": "2026-11-21"
   },
+  "Hearts of Iron: The Board Game": {
+    "id": "254928",
+    "nev": "Hearts of Iron: The Board Game",
+    "tipus": "boardgame",
+    "ev": 2026,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-24"
+  },
+  "Helldivers 2: The Board Game": {
+    "id": "440991",
+    "nev": "HELLDIVERS 2: The Board Game",
+    "tipus": "boardgame",
+    "ev": 2026,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-24"
+  },
   "Hilt": {
     "id": "484019",
     "nev": "Hilt",
@@ -847,6 +875,18 @@
     "egyebNevek": [],
     "biztos": true,
     "ellenorizve": "2026-11-23"
+  },
+  "Monster Hunter World: Iceborne - The Board Game": {
+    "id": "385319",
+    "nev": "Monster Hunter World: Iceborne – The Board Game",
+    "tipus": "boardgame",
+    "ev": 2025,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-24"
   },
   "Monsters! Monsters!": {
     "id": "481533",
@@ -1050,6 +1090,39 @@
     "biztos": true,
     "ellenorizve": "2026-11-19"
   },
+  "Terra Mystica": {
+    "id": "120677",
+    "nev": "Terra Mystica",
+    "tipus": "boardgame",
+    "ev": 2012,
+    "magyarKiadas": true,
+    "magyarKiadasok": [
+      {
+        "nev": "Hungarian edition",
+        "kiadok": [
+          "Gémklub"
+        ],
+        "ev": 2018,
+        "tobbnyelvu": false
+      }
+    ],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-24"
+  },
+  "The Danes": {
+    "id": "450923",
+    "nev": "The Danes",
+    "tipus": "boardgame",
+    "ev": 2027,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-24"
+  },
   "The Lord of the Rings: Circle of Conflict": {
     "id": "462620",
     "nev": "The Lord of the Rings: Circle of Conflict",
@@ -1236,6 +1309,18 @@
     "egyebNevek": [],
     "biztos": true,
     "ellenorizve": "2026-11-20"
+  },
+  "Warmachine": {
+    "id": "4741",
+    "nev": "Warmachine",
+    "tipus": "boardgame",
+    "ev": 2003,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-24"
   },
   "What Do You Meme?": {
     "id": "226610",
