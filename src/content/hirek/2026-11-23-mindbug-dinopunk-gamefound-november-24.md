@@ -1,13 +1,13 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 23. 10:58
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Dinoszauruszok tűzben és jégben: november 24-én indul a Mindbug Dinopunk Gamefound-kampánya'
+published: true
+publishedAt: 2026-11-24T06:07:59.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 24. 07:07
+approvedBy: Weszprémy Gábor · 2026. 11. 24. 07:07
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 24. 07:07
+title: "Dinoszauruszok tűzben és jégben: november 24-én indul a Mindbug Dinopunk Gamefound-kampánya"
 description: A Richard Garfield társtervezésével készült Mindbug kártyapárbaj két új, Dinopunk Fire és Dinopunk Ice nevű csomaggal és egy új játékmóddal bővül, amelyben a játékosok először rakhatják össze saját paklijukat.
 date: 2026-11-23T11:00:00+01:00
 type: gyujtott
@@ -18,18 +18,18 @@ tags:
   - Nerdlab Games
   - Mindbug
 jatekok:
-  - 'Mindbug: Dinopunk Fire #470136'
-  - 'Mindbug: Dinopunk Ice #470135'
-  - 'Mindbug: First Contact'
+  - "Mindbug: Dinopunk Fire #470136"
+  - "Mindbug: Dinopunk Ice #470135"
+  - "Mindbug: First Contact"
 magyarCimek: |-
   Mindbug: Dinopunk Fire: a BGG szerint nincs magyar kiadása (BGG #470136)
   Mindbug: Dinopunk Ice: a BGG szerint nincs magyar kiadása (BGG #470135)
   Mindbug: First Contact → Mindbug: Első találkozás (Gémklub, 2025; BGG #345584)
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1795500403425.png
-imageAlt: ''
-imageCredit: 'Kép: Nerdlab Games'
-imageSuggestion: 'Hivatalos kép a kiadó Dinopunk-oldaláról: https://shop.nerdlab-games.com/cdn/shop/files/Dinopunk_Website_artwork.jpg?v=1779968175 (vagy a Gamefound-kampány kiadó által feltöltött képe: https://imgcdn.gamefound.com/og-image-square/projects/9874/96e7089a-b185-424c-91db-d284230a01c0.jpg) – javasolt forrásmegjelölés: Kép: Nerdlab Games'
+imageAlt: ""
+imageCredit: "Kép: Nerdlab Games"
+imageSuggestion: "Hivatalos kép a kiadó Dinopunk-oldaláról: https://shop.nerdlab-games.com/cdn/shop/files/Dinopunk_Website_artwork.jpg?v=1779968175 (vagy a Gamefound-kampány kiadó által feltöltött képe: https://imgcdn.gamefound.com/og-image-square/projects/9874/96e7089a-b185-424c-91db-d284230a01c0.jpg) – javasolt forrásmegjelölés: Kép: Nerdlab Games"
 sources:
   - name: Brettspielbox – Brettspiel Crowdfunding News 47/26
     url: https://brettspielbox.de/brettspiel-crowdfunding-news-47-26/
