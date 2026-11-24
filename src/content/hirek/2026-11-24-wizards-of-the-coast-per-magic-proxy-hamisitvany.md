@@ -27,6 +27,7 @@ sources:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 24. 22:57
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: "Magic: The Gathering: a BGG szerint nincs magyar kiadása (BGG #463)"
 ---
 
 A Wizards of the Coast november 23-án, hétfőn pert indított a seattle-i szövetségi kerületi bíróságon (Western District of Washington) egy utahi nyomdai hálózat ellen, amely a kiadó szerint hamisított **Magic: The Gathering**-lapokat árult az interneten. A 97 oldalas kereset a hálózatot „PrintMTG Enterprise” néven foglalja össze; a KING5 helyi hírtelevízió beszámolója szerint egy utahi (springville-i) nyomdából működő vállalkozásról van szó, az alperesek között egy család több tagja, kapcsolódó cégek és ismeretlen személyek is szerepelnek.

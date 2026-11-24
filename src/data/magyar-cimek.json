@@ -118,6 +118,31 @@
     "hiba": "nincs találat",
     "ellenorizve": "2026-11-20"
   },
+  "Ankh: Gods of Egypt": {
+    "id": "285967",
+    "nev": "Ankh: Gods of Egypt",
+    "tipus": "boardgame",
+    "ev": 2021,
+    "magyarKiadas": true,
+    "magyarKiadasok": [
+      {
+        "nev": "Hungarian edition",
+        "kiadok": [
+          "CMON Global Limited",
+          "Delta Vision Publishing",
+          "Guillotine Games"
+        ],
+        "ev": 2021,
+        "tobbnyelvu": false
+      }
+    ],
+    "magyarCimJeloltek": [
+      "Ankh: Egyiptom istenei"
+    ],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-24"
+  },
   "Art Society": {
     "id": "395375",
     "nev": "Art Society",
@@ -164,6 +189,51 @@
     "egyebNevek": [],
     "biztos": true,
     "ellenorizve": "2026-11-20"
+  },
+  "Blood Rage": {
+    "id": "170216",
+    "nev": "Blood Rage",
+    "tipus": "boardgame",
+    "ev": 2015,
+    "magyarKiadas": true,
+    "magyarKiadasok": [
+      {
+        "nev": "Hungarian first edition",
+        "kiadok": [
+          "Delta Vision Publishing"
+        ],
+        "ev": 2017,
+        "tobbnyelvu": false
+      },
+      {
+        "nev": "Hungarian second edition",
+        "kiadok": [
+          "CMON Global Limited",
+          "Delta Vision Publishing",
+          "Guillotine Games"
+        ],
+        "ev": 2020,
+        "tobbnyelvu": false
+      }
+    ],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [
+      "Krv i Bes"
+    ],
+    "biztos": true,
+    "ellenorizve": "2026-11-24"
+  },
+  "Blood Rage: Valhalla": {
+    "id": "449472",
+    "nev": "Blood Rage: Valhalla",
+    "tipus": "boardgame",
+    "ev": 2026,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-24"
   },
   "Bomb Busters": {
     "id": "413246",
@@ -992,6 +1062,18 @@
     "biztos": true,
     "ellenorizve": "2026-11-19"
   },
+  "Rage of the Feathered Serpent": {
+    "id": "472846",
+    "nev": "Rage of the Feathered Serpent",
+    "tipus": "boardgame",
+    "ev": 2027,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-24"
+  },
   "Rebirth": {
     "id": "417197",
     "nev": "Rebirth",
@@ -1003,6 +1085,31 @@
     "egyebNevek": [],
     "biztos": true,
     "ellenorizve": "2026-11-19"
+  },
+  "Rising Sun": {
+    "id": "205896",
+    "nev": "Rising Sun",
+    "tipus": "boardgame",
+    "ev": 2018,
+    "magyarKiadas": true,
+    "magyarKiadasok": [
+      {
+        "nev": "Hungarian edition",
+        "kiadok": [
+          "CMON Global Limited",
+          "Delta Vision Publishing",
+          "Guillotine Games"
+        ],
+        "ev": 2018,
+        "tobbnyelvu": false
+      }
+    ],
+    "magyarCimJeloltek": [
+      "Felkelő Nap"
+    ],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-24"
   },
   "Schadenfreude": {
     "id": "324711",

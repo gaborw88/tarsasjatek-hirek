@@ -30,6 +30,12 @@ sources:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 24. 22:57
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: |-
+  Rage of the Feathered Serpent: a BGG szerint nincs magyar kiadása (BGG #472846)
+  Blood Rage → VAN MAGYAR KIADÁS (Delta Vision Publishing, CMON Global Limited, Guillotine Games, 2017, 2020), a magyar cím nem azonosítható biztosan – lehet, hogy azonos az eredetivel; a BGG-n szereplő további nevek: Krv i Bes (BGG #170216)
+  Rising Sun → Felkelő Nap (CMON Global Limited, Delta Vision Publishing, Guillotine Games, 2018; BGG #205896)
+  Ankh: Gods of Egypt → Ankh: Egyiptom istenei (CMON Global Limited, Delta Vision Publishing, Guillotine Games, 2021; BGG #285967)
+  Blood Rage: Valhalla: a BGG szerint nincs magyar kiadása (BGG #449472)
 ---
 
 Új taggal bővül a Blood Rage-ből kinőtt játékcsalád: a Tycoon Games november 24-én bejelentette a **Rage of the Feathered Serpent** című miniatűrös társasjátékot. A kiadó 2027 első negyedévében viszi a Gamefoundra, a kampányoldal már követhető.
