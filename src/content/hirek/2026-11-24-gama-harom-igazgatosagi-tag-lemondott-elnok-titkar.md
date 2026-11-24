@@ -1,13 +1,13 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 24. 11:00
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Lemondott az elnök és a titkár is: három igazgatósági tag távozott egyszerre a GAMA-tól'
+published: true
+publishedAt: 2026-11-24T10:24:39.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 24. 11:24
+approvedBy: Weszprémy Gábor · 2026. 11. 24. 11:24
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 24. 11:24
+title: "Lemondott az elnök és a titkár is: három igazgatósági tag távozott egyszerre a GAMA-tól"
 description: Az amerikai társasjáték-ipari szövetség, a GAMA éves tervezőülésén lemondott Meredith Placko elnök, Tiffany Reid titkár és John Stephens igazgatósági tag. A megüresedett helyekre rendkívüli választást írnak ki.
 date: 2026-11-24T15:00:00+01:00
 type: gyujtott
@@ -16,12 +16,12 @@ tags:
   - Iparági hírek
   - GAMA
 jatekok: []
-magyarCimek: ''
-youtube: ''
+magyarCimek: ""
+youtube: ""
 image: /images/uploads/pasted-image-1793751848031.png
-imageAlt: ''
-imageCredit: ''
-imageSuggestion: 'Iparági hír, hivatalos sajtókép nincs (személyekről készült fotót nem javaslunk). A GAMA hivatalos logója a szervezet honlapjáról (gama.org) használható – javasolt forrásmegjelölés: Kép: GAMA. A korábbi GAMA-cikkekhez már feltöltött logó újra felhasználható. Kép nélkül is rendben van.'
+imageAlt: ""
+imageCredit: ""
+imageSuggestion: "Iparági hír, hivatalos sajtókép nincs (személyekről készült fotót nem javaslunk). A GAMA hivatalos logója a szervezet honlapjáról (gama.org) használható – javasolt forrásmegjelölés: Kép: GAMA. A korábbi GAMA-cikkekhez már feltöltött logó újra felhasználható. Kép nélkül is rendben van."
 sources:
   - name: ICv2 – Three GAMA Board Members, Including Two Officers, Resign
     url: https://icv2.com/articles/news/view/63955/three-gama-board-members-including-two-officers-resign
