@@ -1,12 +1,12 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 23. 22:55
-approvedBy: ''
-chiefApprovedBy: ''
+published: true
+publishedAt: 2026-11-24T13:18:42.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 24. 14:18
+approvedBy: Weszprémy Gábor · 2026. 11. 24. 14:18
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 24. 14:18
 title: December 11-én boltokba kerül a Mantic Assassin's Creed-társasjátéka
 description: A Mantic Games bejelentette, hogy a 2025-ben Kickstarteren finanszírozott Assassin's Creed – Animus december 11-én jelenik meg az amerikai kereskedelemben, 65 dolláros áron.
 date: 2026-11-23T21:00:00+01:00
@@ -20,11 +20,11 @@ tags:
 jatekok:
   - Assassin's Creed - Animus
 magyarCimek: "Assassin's Creed - Animus: a BGG szerint nincs magyar kiadása (BGG #445690, bizonytalan találat – ellenőrizd, jó játék-e)"
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1795526251360.png
-imageAlt: ''
-imageCredit: 'Kép: Mantic Games'
-imageSuggestion: 'Hivatalos kampánykép a kiadó saját oldaláról (dobozkép a kiskereskedelmi termékoldal megjelenésekor kérhető): https://www.manticgames.com/wp-content/uploads/2025/08/ac-banner-19th-august-1.webp – javasolt forrásmegjelölés: Kép: Mantic Games'
+imageAlt: ""
+imageCredit: "Kép: Mantic Games"
+imageSuggestion: "Hivatalos kampánykép a kiadó saját oldaláról (dobozkép a kiskereskedelmi termékoldal megjelenésekor kérhető): https://www.manticgames.com/wp-content/uploads/2025/08/ac-banner-19th-august-1.webp – javasolt forrásmegjelölés: Kép: Mantic Games"
 sources:
   - name: ICv2 – Mantic Games Will Release 'Assassin's Creed - Animus'
     url: https://icv2.com/articles/news/view/63950/mantic-games-will-release-assassins-creed-animus
