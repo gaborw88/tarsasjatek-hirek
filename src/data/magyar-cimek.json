@@ -1111,6 +1111,30 @@
     "biztos": true,
     "ellenorizve": "2026-11-24"
   },
+  "Terraforming Mars": {
+    "id": "167791",
+    "nev": "Terraforming Mars",
+    "tipus": "boardgame",
+    "ev": 2016,
+    "magyarKiadas": true,
+    "magyarKiadasok": [
+      {
+        "nev": "Hungarian edition",
+        "kiadok": [
+          "FryxGames",
+          "Reflexshop"
+        ],
+        "ev": 2017,
+        "tobbnyelvu": false
+      }
+    ],
+    "magyarCimJeloltek": [
+      "A Mars terraformálása"
+    ],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-24"
+  },
   "The Danes": {
     "id": "450923",
     "nev": "The Danes",
@@ -1333,6 +1357,30 @@
     "egyebNevek": [],
     "biztos": true,
     "ellenorizve": "2026-11-19"
+  },
+  "Wilderness #108637": {
+    "id": "108637",
+    "nev": "Wilderness",
+    "tipus": "boardgame",
+    "ev": 2011,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-24"
+  },
+  "Wilderness: A Game of Survival (Second Edition) #454967": {
+    "id": "454967",
+    "nev": "Wilderness: A Game of Survival (Second Edition)",
+    "tipus": "boardgame",
+    "ev": 2025,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-24"
   },
   "Wingspan #266192": {
     "id": "266192",

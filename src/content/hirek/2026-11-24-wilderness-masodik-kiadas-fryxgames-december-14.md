@@ -29,6 +29,10 @@ sources:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 24. 14:57
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: |-
+  Wilderness: A Game of Survival (Second Edition): a BGG szerint nincs magyar kiadása (BGG #454967)
+  Wilderness: a BGG szerint nincs magyar kiadása (BGG #108637)
+  Terraforming Mars → A Mars terraformálása (FryxGames, Reflexshop, 2017; BGG #167791)
 ---
 
 A Terraforming Mars-sorozatról ismert svéd családi kiadó, a **FryxGames** visszanyúl a gyökereihez: **december 14-én** kerül a nemzetközi kereskedelembe a cég első társasjátékának, a **Wilderness**-nek a második kiadása (teljes nevén *Wilderness: A Game of Survival*). Az ICv2 szerint az amerikai boltokban 50 dolláros ajánlott áron lesz kapható.
