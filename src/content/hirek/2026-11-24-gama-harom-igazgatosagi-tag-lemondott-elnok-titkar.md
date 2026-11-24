@@ -1,23 +1,28 @@
 ---
 published: false
 title: "Lemondott az elnök és a titkár is: három igazgatósági tag távozott egyszerre a GAMA-tól"
-description: "Az amerikai társasjáték-ipari szövetség, a GAMA éves tervezőülésén lemondott Meredith Placko elnök, Tiffany Reid titkár és John Stephens igazgatósági tag. A megüresedett helyekre rendkívüli választást írnak ki."
+description: Az amerikai társasjáték-ipari szövetség, a GAMA éves tervezőülésén lemondott Meredith Placko elnök, Tiffany Reid titkár és John Stephens igazgatósági tag. A megüresedett helyekre rendkívüli választást írnak ki.
 date: 2026-11-24T15:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Iparági hírek", "GAMA"]
+author: Szerkesztőség
+tags:
+  - Iparági hírek
+  - GAMA
 youtube: ""
 imageSuggestion: "Iparági hír, hivatalos sajtókép nincs (személyekről készült fotót nem javaslunk). A GAMA hivatalos logója a szervezet honlapjáról (gama.org) használható – javasolt forrásmegjelölés: Kép: GAMA. A korábbi GAMA-cikkekhez már feltöltött logó újra felhasználható. Kép nélkül is rendben van."
 sources:
-  - name: "ICv2 – Three GAMA Board Members, Including Two Officers, Resign"
-    url: "https://icv2.com/articles/news/view/63955/three-gama-board-members-including-two-officers-resign"
-  - name: "ICv2 – GAMA Interim ED, Board Member Resign"
-    url: "https://icv2.com/articles/news/view/63752/gama-interim-executive-director-board-member-resign"
-  - name: "ICv2 – Andrew Zorowitz Takes On Role of Acting Executive Director of GAMA"
-    url: "https://icv2.com/articles/news/view/63803/andrew-zorowitz-takes-on-role-acting-executive-director-gama"
+  - name: ICv2 – Three GAMA Board Members, Including Two Officers, Resign
+    url: https://icv2.com/articles/news/view/63955/three-gama-board-members-including-two-officers-resign
+  - name: ICv2 – GAMA Interim ED, Board Member Resign
+    url: https://icv2.com/articles/news/view/63752/gama-interim-executive-director-board-member-resign
+  - name: ICv2 – Andrew Zorowitz Takes On Role of Acting Executive Director of GAMA
+    url: https://icv2.com/articles/news/view/63803/andrew-zorowitz-takes-on-role-acting-executive-director-gama
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
+status: ⏳ tervezet
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 24. 11:00
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 Tovább folytatódik a vezetői vérveszteség a **GAMA**-nál (Game Manufacturers Association), az amerikai társasjáték-ipar szakmai szövetségénél. Az ICv2 november 24-i értesülése szerint a szervezet éves tervezőülésén, a múlt hétvégén egyszerre három igazgatósági tag mondott le – még a mandátuma lejárta előtt.
