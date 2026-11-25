@@ -1,12 +1,12 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 25. 10:58
-approvedBy: ''
-chiefApprovedBy: ''
+published: true
+publishedAt: 2026-11-25T11:54:35.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 25. 12:54
+approvedBy: Weszprémy Gábor · 2026. 11. 25. 12:54
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 25. 12:54
 title: 3,4 millió dollárral zárt a japán Sword World angol kiadásának kampánya – rekordév a szerepjátékos közösségi finanszírozásban
 description: A Record of Lodoss War alkotóinak klasszikus szerepjátéka, a Sword World 2.5 angol fordítására 3,4 millió dollár gyűlt össze a BackerKiten. Ezzel 2026-ban már 14 szerepjátékos kampány lépte át az egymillió dollárt, ami rekord.
 date: 2026-11-25T11:30:00+01:00
@@ -20,12 +20,12 @@ tags:
   - Sword World
 jatekok:
   - Sword World 2.5
-magyarCimek: 'Sword World 2.5: nem található a BGG-n – nézd meg kézzel'
-youtube: ''
+magyarCimek: "Sword World 2.5: nem található a BGG-n – nézd meg kézzel"
+youtube: ""
 image: /images/uploads/pasted-image-1795607616172.png
-imageAlt: ''
-imageCredit: 'Kép: Mugen Gaming / Group SNE'
-imageSuggestion: 'Hivatalos sajtóképet nem találtam (a kiadó BackerKit-kampányoldala ebben a futásban csak szövegként volt elérhető). Megoldás: a Mugen Gaming kampányoldalán (https://www.backerkit.com/c/projects/mugen-gaming/sword-world) feltöltött borítókép – javasolt forrásmegjelölés: Kép: Mugen Gaming / Group SNE. Kép nélkül is rendben van.'
+imageAlt: ""
+imageCredit: "Kép: Mugen Gaming / Group SNE"
+imageSuggestion: "Hivatalos sajtóképet nem találtam (a kiadó BackerKit-kampányoldala ebben a futásban csak szövegként volt elérhető). Megoldás: a Mugen Gaming kampányoldalán (https://www.backerkit.com/c/projects/mugen-gaming/sword-world) feltöltött borítókép – javasolt forrásmegjelölés: Kép: Mugen Gaming / Group SNE. Kép nélkül is rendben van."
 sources:
   - name: EN World – Sword World cements 2026 as crowdfunding's biggest year ever
     url: https://www.enworld.org/threads/sword-world-cements-2026-as-crowdfundings-biggest-year-ever.721465/
