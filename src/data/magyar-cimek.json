@@ -258,6 +258,52 @@
     "biztos": true,
     "ellenorizve": "2026-11-19"
   },
+  "Bomb Busters #413246": {
+    "id": "413246",
+    "nev": "Bomb Busters",
+    "tipus": "boardgame",
+    "ev": 2024,
+    "magyarKiadas": true,
+    "magyarKiadasok": [
+      {
+        "nev": "Hungarian edition",
+        "kiadok": [
+          "Reflexshop"
+        ],
+        "ev": 2025,
+        "tobbnyelvu": false
+      }
+    ],
+    "magyarCimJeloltek": [
+      "Bombairtók"
+    ],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-25"
+  },
+  "Bomb Busters: The Pro Kit": {
+    "id": "472930",
+    "nev": "Bomb Busters: The Pro Kit",
+    "tipus": "boardgameexpansion",
+    "ev": 2026,
+    "magyarKiadas": true,
+    "magyarKiadasok": [
+      {
+        "nev": "Hungarian edition",
+        "kiadok": [
+          "Reflexshop"
+        ],
+        "ev": 2026,
+        "tobbnyelvu": false
+      }
+    ],
+    "magyarCimJeloltek": [
+      "Bombairtók: Elit alakulat"
+    ],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-25"
+  },
   "Bruges": {
     "id": "136888",
     "nev": "Bruges",
@@ -1220,6 +1266,10 @@
     "egyebNevek": [],
     "biztos": true,
     "ellenorizve": "2026-11-19"
+  },
+  "Sword World 2.5": {
+    "hiba": "nincs találat",
+    "ellenorizve": "2026-11-25"
   },
   "Take Time": {
     "id": "440540",

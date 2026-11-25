@@ -27,6 +27,9 @@ sources:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 25. 10:58
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: |-
+  Bomb Busters → Bombairtók (Reflexshop, 2025; BGG #413246)
+  Bomb Busters: The Pro Kit → Bombairtók: Elit alakulat (Reflexshop, 2026; BGG #472930)
 ---
 
 Megjelent a Reflexshop „hamarosan érkező” listáján a **Bombairtók: Elit alakulat**, Hisashi Hayashi nagy sikerű kooperatív kábelvágós játékának, a Bomb Bustersnek (magyarul: Bombairtók) első kiegészítője. A Bombairtók 2025-ben elnyerte a Spiel des Jahres díjat, idén pedig a flamand játékosok díja, a Gouden Ludo hobbijáték-kategóriájában is győzött. A kiegészítő eredeti neve Bomb Busters: The Pro Kit; nemzetközi kiadója a francia Cocktail Games és a német Pegasus Spiele.

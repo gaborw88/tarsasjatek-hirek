@@ -29,6 +29,7 @@ sources:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 25. 10:58
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: "Sword World 2.5: nem található a BGG-n – nézd meg kézzel"
 ---
 
 Nagyjából 3,4 millió dollárral zárult a BackerKiten a **Sword World 2.5** angol nyelvű kiadásának közösségi finanszírozása. A november 20-án véget ért kampányt a Mugen Gaming kiadó futtatta, és mindössze 19 890 dolláros célösszeggel indult október 20-án – az első napokban már több mint 7600 támogató állt mögé.
