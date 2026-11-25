@@ -30,6 +30,9 @@ sources:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 25. 15:04
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: |-
+  Codenames: Critical Role Adventures: a BGG szerint nincs magyar kiadása (BGG #465849)
+  Codenames → Fedőnevek (Czech Games Edition (CGE), Gémklub, 2016, 2025; BGG #178900)
 ---
 
 Újabb Codenames-változat érkezik magyarul: a **Gémklub** november 24-én jelentette be, hogy **2027 elején** magyar nyelven is kiadja a **Codenames: Critical Role Adventures**-t. A kiadó a bejelentésben egyelőre az eredeti címet használta, magyar címet és árat még nem közölt.

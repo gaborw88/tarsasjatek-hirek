@@ -488,6 +488,58 @@
     "hiba": "nincs találat",
     "ellenorizve": "2026-11-19"
   },
+  "Codenames": {
+    "id": "178900",
+    "nev": "Codenames",
+    "tipus": "boardgame",
+    "ev": 2015,
+    "magyarKiadas": true,
+    "magyarKiadasok": [
+      {
+        "nev": "Hungarian first edition",
+        "kiadok": [
+          "Czech Games Edition (CGE)",
+          "Gémklub"
+        ],
+        "ev": 2016,
+        "tobbnyelvu": false
+      },
+      {
+        "nev": "Hungarian second edition",
+        "kiadok": [
+          "Gémklub"
+        ],
+        "ev": 2025,
+        "tobbnyelvu": false
+      },
+      {
+        "nev": "Hungarian second edition with Spiel des Jahres award",
+        "kiadok": [
+          "Gémklub"
+        ],
+        "ev": 2016,
+        "tobbnyelvu": false
+      }
+    ],
+    "magyarCimJeloltek": [
+      "Fedőnevek"
+    ],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-25"
+  },
+  "Codenames: Critical Role Adventures #465849": {
+    "id": "465849",
+    "nev": "Codenames: Critical Role Adventures",
+    "tipus": "boardgame",
+    "ev": 2026,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-25"
+  },
   "Condottiere": {
     "id": "112",
     "nev": "Condottiere",
