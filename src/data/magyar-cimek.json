@@ -304,6 +304,18 @@
     "biztos": true,
     "ellenorizve": "2026-11-25"
   },
+  "Brass: Lancashire #28720": {
+    "id": "28720",
+    "nev": "Brass: Lancashire",
+    "tipus": "boardgame",
+    "ev": 2007,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-25"
+  },
   "Bruges": {
     "id": "136888",
     "nev": "Bruges",

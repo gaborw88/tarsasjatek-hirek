@@ -26,6 +26,7 @@ sources:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 25. 23:03
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: "Brass: Lancashire: a BGG szerint nincs magyar kiadása (BGG #28720)"
 ---
 
 Újabb nagy név érkezett a **Board Game Arena** böngészős társasjáték-platformra: november 24-től online is játszható a **Brass: Lancashire**, Martin Wallace gazdasági stratégiai játéka. A platform hírrovata szerdai újdonságként mutatta be a címet, amely a játékoldal tanúsága szerint ingyenesen, prémium-előfizetés nélkül is elérhető.
