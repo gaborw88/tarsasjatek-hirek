@@ -1,13 +1,13 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 24. 22:57
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Quetzalcoatl kegyeiért: azték mitológiai csatajátékkal bővül a Blood Rage-család, jön a Rage of the Feathered Serpent'
+published: true
+publishedAt: 2026-11-25T08:57:48.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 25. 09:57
+approvedBy: Weszprémy Gábor · 2026. 11. 25. 09:57
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 25. 09:57
+title: "Quetzalcoatl kegyeiért: azték mitológiai csatajátékkal bővül a Blood Rage-család, jön a Rage of the Feathered Serpent"
 description: A Tycoon Games bejelentette a Rage of the Feathered Serpentet, a Blood Rage nyomdokain járó, mezoamerikai mitológiára épülő miniatűrös területfoglaló játékot. A közösségi gyűjtés 2027 első negyedévében indul a Gamefoundon.
 date: 2026-11-24T21:00:00+01:00
 type: gyujtott
@@ -21,19 +21,19 @@ jatekok:
   - Rage of the Feathered Serpent
   - Blood Rage
   - Rising Sun
-  - 'Ankh: Gods of Egypt'
-  - 'Blood Rage: Valhalla'
+  - "Ankh: Gods of Egypt"
+  - "Blood Rage: Valhalla"
 magyarCimek: |-
   Rage of the Feathered Serpent: a BGG szerint nincs magyar kiadása (BGG #472846)
   Blood Rage → VAN MAGYAR KIADÁS (Delta Vision Publishing, CMON Global Limited, Guillotine Games, 2017, 2020), a magyar cím nem azonosítható biztosan – lehet, hogy azonos az eredetivel; a BGG-n szereplő további nevek: Krv i Bes (BGG #170216)
   Rising Sun → Felkelő Nap (CMON Global Limited, Delta Vision Publishing, Guillotine Games, 2018; BGG #205896)
   Ankh: Gods of Egypt → Ankh: Egyiptom istenei (CMON Global Limited, Delta Vision Publishing, Guillotine Games, 2021; BGG #285967)
   Blood Rage: Valhalla: a BGG szerint nincs magyar kiadása (BGG #449472)
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1795596901790.png
-imageAlt: ''
-imageCredit: 'Kép: Tycoon Games'
-imageSuggestion: 'Hivatalos kampánykép a kiadó Gamefound-oldaláról: https://imgcdn.gamefound.com/og-image-square/projects/12925/c2658db6-ee19-42d6-9c67-a391077ee947.jpg (kampányoldal: https://gamefound.com/en/projects/tabletop-tycoon/rage-of-the-feathered-serpent) – javasolt forrásmegjelölés: Kép: Tycoon Games'
+imageAlt: ""
+imageCredit: "Kép: Tycoon Games"
+imageSuggestion: "Hivatalos kampánykép a kiadó Gamefound-oldaláról: https://imgcdn.gamefound.com/og-image-square/projects/12925/c2658db6-ee19-42d6-9c67-a391077ee947.jpg (kampányoldal: https://gamefound.com/en/projects/tabletop-tycoon/rage-of-the-feathered-serpent) – javasolt forrásmegjelölés: Kép: Tycoon Games"
 sources:
   - name: ICv2 – Tycoon Games Announces 'Rage of the Feathered Serpent'
     url: https://icv2.com/articles/news/view/63962/tycoon-games-announces-rage-feathered-serpent
