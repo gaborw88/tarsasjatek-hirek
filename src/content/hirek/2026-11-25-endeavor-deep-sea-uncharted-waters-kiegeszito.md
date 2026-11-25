@@ -1,9 +1,13 @@
 ---
-published: false
-approved: false
-chiefApproved: false
 status: ⏳ tervezet
-title: "Kéklyuk, köd és Mariana-árok: szállítás előtt áll az Endeavor: A mélység felfedezői első kiegészítője"
+approved: true
+chiefApproved: true
+published: false
+publishedAt: ''
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 25. 07:03
+approvedBy: ''
+chiefApprovedBy: ''
+title: 'Kéklyuk, köd és Mariana-árok: szállítás előtt áll az Endeavor: A mélység felfedezői első kiegészítője'
 description: Az Uncharted Waters négy új forgatókönyvvel, 19 új óceánlapkával és átdolgozott szóló- és kooperatív móddal bővíti a Kennerspiel des Jahres-díjas játékot. A német kiadás a hónap végén érkezik, az alapjáték magyar változata decemberben.
 date: 2026-11-25T13:00:00+01:00
 type: gyujtott
@@ -12,25 +16,26 @@ tags:
   - Kiadói hírek
   - Kiegészítők
   - Burnt Island Games
-  - "Endeavor: Deep Sea"
+  - 'Endeavor: Deep Sea'
   - Reflexshop
 jatekok:
-  - "Endeavor: Deep Sea #367966"
-  - "Endeavor: Deep Sea – Uncharted Waters #446892"
-imageSuggestion: "Hivatalos termékoldal (dobozkép valószínűleg itt van): https://www.burntislandgames.com/uncharted-waters – javasolt forrásmegjelölés: Kép: Burnt Island Games. Alternatíva a német kiadó (Frosted Games) deluxe termékoldala: https://frostedgames.de/shop/endeavor-die-tiefsee-am-meeresgrund-deluxe-erweiterung/ – Kép: Frosted Games"
-sources:
-  - name: "Brettspiel-News.de – Endeavor: Die Tiefsee – Am Meeresgrund: Mehr Ozean und neue Modi für Solo und Koop"
-    url: https://www.brettspiel-news.de/index.php/de/nachrichten-uebersicht/neuerscheinungen/16555-endeavor-die-tiefsee-am-meeresgrund-mehr-ozean-und-neue-modi-f-r-solo-und-koop
-  - name: "Backseat Gamer – Endeavor: Deep Sea Uncharted Waters Heads to SPIEL Essen 2026"
-    url: https://www.backseatgamer.com/news/endeavor-deep-sea-uncharted-waters-heads-to-spiel-essen-2026
-  - name: "Meeple Mountain – Endeavor: Deep Sea – Uncharted Waters"
-    url: https://www.meeplemountain.com/boardgame/endeavor-deep-sea-uncharted-waters/
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 25. 07:03
-approvedBy: ""
-chiefApprovedBy: ""
+  - 'Endeavor: Deep Sea #367966'
+  - 'Endeavor: Deep Sea – Uncharted Waters #446892'
 magyarCimek: |-
   Endeavor: Deep Sea → Endeavor: A mélység felfedezői (Reflexshop, 2026; BGG #367966)
   Endeavor: Deep Sea – Uncharted Waters: a BGG szerint nincs magyar kiadása (BGG #446892)
+youtube: ''
+image: /images/uploads/pasted-image-1795614323169.png
+imageAlt: ''
+imageCredit: 'Kép: Frosted Games'
+imageSuggestion: 'Hivatalos termékoldal (dobozkép valószínűleg itt van): https://www.burntislandgames.com/uncharted-waters – javasolt forrásmegjelölés: Kép: Burnt Island Games. Alternatíva a német kiadó (Frosted Games) deluxe termékoldala: https://frostedgames.de/shop/endeavor-die-tiefsee-am-meeresgrund-deluxe-erweiterung/ – Kép: Frosted Games'
+sources:
+  - name: 'Brettspiel-News.de – Endeavor: Die Tiefsee – Am Meeresgrund: Mehr Ozean und neue Modi für Solo und Koop'
+    url: https://www.brettspiel-news.de/index.php/de/nachrichten-uebersicht/neuerscheinungen/16555-endeavor-die-tiefsee-am-meeresgrund-mehr-ozean-und-neue-modi-f-r-solo-und-koop
+  - name: 'Backseat Gamer – Endeavor: Deep Sea Uncharted Waters Heads to SPIEL Essen 2026'
+    url: https://www.backseatgamer.com/news/endeavor-deep-sea-uncharted-waters-heads-to-spiel-essen-2026
+  - name: 'Meeple Mountain – Endeavor: Deep Sea – Uncharted Waters'
+    url: https://www.meeplemountain.com/boardgame/endeavor-deep-sea-uncharted-waters/
 ---
 
 Mélyebbre merül a 2025-ös Kennerspiel des Jahres győztese: hamarosan a boltokba kerül az **Endeavor: Deep Sea** (magyarul: *Endeavor: A mélység felfedezői*) első nagy kiegészítője, az **Uncharted Waters**. Carl de Visser és Jarratt Gray játékának bővítését a Burnt Island Games és a Grand Gamers Guild adja ki, közösségi finanszírozással készült, és októberben az esseni vásáron is bemutatták.
