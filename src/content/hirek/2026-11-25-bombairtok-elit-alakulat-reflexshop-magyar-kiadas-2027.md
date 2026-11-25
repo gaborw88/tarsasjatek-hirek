@@ -1,10 +1,14 @@
 ---
-published: false
-approved: false
-chiefApproved: false
 status: ⏳ tervezet
-title: "Akril lapkák és 11 új küldetés: magyarul is érkezik a Bombairtók első kiegészítője"
-description: "A Reflexshop „hamarosan érkező” kínálatában feltűnt a Bombairtók: Elit alakulat, a Spiel des Jahres-díjas kooperatív játék prémium kiegészítője. A magyar kiadás 2027-re várható."
+approved: true
+chiefApproved: true
+published: false
+publishedAt: ''
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 25. 10:58
+approvedBy: ''
+chiefApprovedBy: ''
+title: 'Akril lapkák és 11 új küldetés: magyarul is érkezik a Bombairtók első kiegészítője'
+description: 'A Reflexshop „hamarosan érkező” kínálatában feltűnt a Bombairtók: Elit alakulat, a Spiel des Jahres-díjas kooperatív játék prémium kiegészítője. A magyar kiadás 2027-re várható.'
 date: 2026-11-25T11:00:00+01:00
 type: gyujtott
 author: Szerkesztőség
@@ -14,22 +18,23 @@ tags:
   - Kiegészítők
   - Bomb Busters
 jatekok:
-  - "Bomb Busters #413246"
-  - "Bomb Busters: The Pro Kit"
-imageSuggestion: "Hivatalos termékoldal a magyar kiadótól (dobozkép): https://reflexshop.hu/bombairtok-elit-alakulat – javasolt forrásmegjelölés: Kép: Reflexshop"
-sources:
-  - name: "Reflexshop – Bombairtók: Elit alakulat (termékoldal)"
-    url: https://reflexshop.hu/bombairtok-elit-alakulat
-  - name: Reflexshop – Hamarosan érkező társasjátékok
-    url: https://reflexshop.hu/Tarsasjatekok/Hamarosan-erkezo
-  - name: "Board Game Bliss – Bomb Busters: Pro Kit Deluxe Expansion"
-    url: https://www.boardgamebliss.com/products/bomb-busters-pro-kit-deluxe-expansion
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 25. 10:58
-approvedBy: ""
-chiefApprovedBy: ""
+  - 'Bomb Busters #413246'
+  - 'Bomb Busters: The Pro Kit'
 magyarCimek: |-
   Bomb Busters → Bombairtók (Reflexshop, 2025; BGG #413246)
   Bomb Busters: The Pro Kit → Bombairtók: Elit alakulat (Reflexshop, 2026; BGG #472930)
+youtube: ''
+image: /images/uploads/pasted-image-1795603648902.png
+imageAlt: ''
+imageCredit: 'Kép: Reflexshop'
+imageSuggestion: 'Hivatalos termékoldal a magyar kiadótól (dobozkép): https://reflexshop.hu/bombairtok-elit-alakulat – javasolt forrásmegjelölés: Kép: Reflexshop'
+sources:
+  - name: 'Reflexshop – Bombairtók: Elit alakulat (termékoldal)'
+    url: https://reflexshop.hu/bombairtok-elit-alakulat
+  - name: Reflexshop – Hamarosan érkező társasjátékok
+    url: https://reflexshop.hu/Tarsasjatekok/Hamarosan-erkezo
+  - name: 'Board Game Bliss – Bomb Busters: Pro Kit Deluxe Expansion'
+    url: https://www.boardgamebliss.com/products/bomb-busters-pro-kit-deluxe-expansion
 ---
 
 Megjelent a Reflexshop „hamarosan érkező” listáján a **Bombairtók: Elit alakulat**, Hisashi Hayashi nagy sikerű kooperatív kábelvágós játékának, a Bomb Bustersnek (magyarul: Bombairtók) első kiegészítője. A Bombairtók 2025-ben elnyerte a Spiel des Jahres díjat, idén pedig a flamand játékosok díja, a Gouden Ludo hobbijáték-kategóriájában is győzött. A kiegészítő eredeti neve Bomb Busters: The Pro Kit; nemzetközi kiadója a francia Cocktail Games és a német Pegasus Spiele.
