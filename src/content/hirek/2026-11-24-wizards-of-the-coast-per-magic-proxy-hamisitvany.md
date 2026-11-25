@@ -1,37 +1,37 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 24. 22:57
-approvedBy: ''
-chiefApprovedBy: ''
-title: '„Proxynak” nevezett hamisítványok miatt perel a Wizards of the Coast: akár 28,65 millió dolláros kártérítést követel'
-description: 'A Magic: The Gathering kiadója egy utahi nyomdai hálózatot perelt be, amely szerinte valódinak tűnő hamis Magic-lapokat árult az interneten „proxy” néven. A keresetben szerzői jogi és védjegybitorlás mellett zsarolási-szervezett bűnözési (RICO) vádak is szerepelnek.'
+published: true
+publishedAt: 2026-11-25T10:11:01.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 25. 11:11
+approvedBy: Weszprémy Gábor · 2026. 11. 25. 11:11
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 25. 11:11
+title: "„Proxynak” nevezett hamisítványok miatt perel a Wizards of the Coast: akár 28,65 millió dolláros kártérítést követel"
+description: "A Magic: The Gathering kiadója egy utahi nyomdai hálózatot perelt be, amely szerinte valódinak tűnő hamis Magic-lapokat árult az interneten „proxy” néven. A keresetben szerzői jogi és védjegybitorlás mellett zsarolási-szervezett bűnözési (RICO) vádak is szerepelnek."
 date: 2026-11-24T21:30:00+01:00
 type: gyujtott
 author: Szerkesztőség
 tags:
   - Iparági hírek
   - Wizards of the Coast
-  - 'Magic: The Gathering'
+  - "Magic: The Gathering"
   - Gyűjtögetős kártyajátékok
   - Jog
 jatekok:
-  - 'Magic: The Gathering'
-magyarCimek: 'Magic: The Gathering: a BGG szerint nincs magyar kiadása (BGG #463)'
-youtube: ''
+  - "Magic: The Gathering"
+magyarCimek: "Magic: The Gathering: a BGG szerint nincs magyar kiadása (BGG #463)"
+youtube: ""
 image: /images/uploads/pasted-image-1793794154054.png
-imageAlt: ''
-imageCredit: 'Kép: Wizards of the Coast'
-imageSuggestion: 'Jogi hír, hivatalos sajtókép nincs; a Wizards of the Coast vagy a Magic: The Gathering logója a kiadó sajtóoldaláról használható lenne (kérj képet / keresd a Wizards sajtóanyagai között) – Kép nélkül is rendben van. Javasolt forrásmegjelölés: Kép: Wizards of the Coast'
+imageAlt: ""
+imageCredit: "Kép: Wizards of the Coast"
+imageSuggestion: "Jogi hír, hivatalos sajtókép nincs; a Wizards of the Coast vagy a Magic: The Gathering logója a kiadó sajtóoldaláról használható lenne (kérj képet / keresd a Wizards sajtóanyagai között) – Kép nélkül is rendben van. Javasolt forrásmegjelölés: Kép: Wizards of the Coast"
 sources:
   - name: "ICv2 – Wizards of the Coast Sues 'Magic: The Gathering' Proxy Maker"
     url: https://icv2.com/articles/news/view/63961/wizards-coast-sues-magic-the-gathering-proxy-maker
   - name: KING5 (Yahoo News) – Renton-based Wizards of the Coast sues Utah family for $26.5 million over alleged counterfeit Magic cards
     url: https://www.yahoo.com/news/us/articles/renton-based-wizards-coast-sues-154059520.html
-  - name: 'Aftermath – Wizards of the Coast Suing Alleged Magic: The Gathering Counterfeiters'
+  - name: "Aftermath – Wizards of the Coast Suing Alleged Magic: The Gathering Counterfeiters"
     url: https://aftermath.site/wizards-of-the-coast-magic-the-gathering-proxies-lawsuit/
 ---
 
