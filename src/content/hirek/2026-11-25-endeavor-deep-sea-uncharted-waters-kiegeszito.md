@@ -28,6 +28,9 @@ sources:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 25. 07:03
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: |-
+  Endeavor: Deep Sea → Endeavor: A mélység felfedezői (Reflexshop, 2026; BGG #367966)
+  Endeavor: Deep Sea – Uncharted Waters: a BGG szerint nincs magyar kiadása (BGG #446892)
 ---
 
 Mélyebbre merül a 2025-ös Kennerspiel des Jahres győztese: hamarosan a boltokba kerül az **Endeavor: Deep Sea** (magyarul: *Endeavor: A mélység felfedezői*) első nagy kiegészítője, az **Uncharted Waters**. Carl de Visser és Jarratt Gray játékának bővítését a Burnt Island Games és a Grand Gamers Guild adja ki, közösségi finanszírozással készült, és októberben az esseni vásáron is bemutatták.

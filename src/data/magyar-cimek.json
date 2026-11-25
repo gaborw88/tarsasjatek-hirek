@@ -270,6 +270,18 @@
     "biztos": true,
     "ellenorizve": "2026-11-23"
   },
+  "Bus": {
+    "id": "164159",
+    "nev": "BUS",
+    "tipus": "boardgame",
+    "ev": 2015,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-25"
+  },
   "Buttons & Bugs: Pub Crawlers": {
     "id": "473161",
     "nev": "Buttons & Bugs: Pub Crawlers",
@@ -514,6 +526,41 @@
     "hiba": "nincs találat",
     "ellenorizve": "2026-11-24"
   },
+  "Endeavor: Deep Sea – Uncharted Waters #446892": {
+    "id": "446892",
+    "nev": "Endeavor: Deep Sea – Uncharted Waters",
+    "tipus": "boardgameexpansion",
+    "ev": 2026,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-25"
+  },
+  "Endeavor: Deep Sea #367966": {
+    "id": "367966",
+    "nev": "Endeavor: Deep Sea",
+    "tipus": "boardgame",
+    "ev": 2024,
+    "magyarKiadas": true,
+    "magyarKiadasok": [
+      {
+        "nev": "Hungarian edition",
+        "kiadok": [
+          "Reflexshop"
+        ],
+        "ev": 2026,
+        "tobbnyelvu": false
+      }
+    ],
+    "magyarCimJeloltek": [
+      "Endeavor: A mélység felfedezői"
+    ],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-25"
+  },
   "Era: Babylon": {
     "hiba": "nincs találat",
     "ellenorizve": "2026-11-20"
@@ -594,6 +641,18 @@
     "egyebNevek": [],
     "biztos": true,
     "ellenorizve": "2026-11-19"
+  },
+  "Food Chain Magnate #175914": {
+    "id": "175914",
+    "nev": "Food Chain Magnate",
+    "tipus": "boardgame",
+    "ev": 2015,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-25"
   },
   "Forbidden Stars": {
     "id": "175155",
@@ -1385,6 +1444,35 @@
     "biztos": true,
     "ellenorizve": "2026-11-19"
   },
+  "Tokaido #123540": {
+    "id": "123540",
+    "nev": "Tokaido",
+    "tipus": "boardgame",
+    "ev": 2012,
+    "magyarKiadas": true,
+    "magyarKiadasok": [
+      {
+        "nev": "Delta Vision Hungarian edition",
+        "kiadok": [
+          "Delta Vision Publishing"
+        ],
+        "ev": 2025,
+        "tobbnyelvu": false
+      },
+      {
+        "nev": "Gém Klub Hungarian edition",
+        "kiadok": [
+          "Gémklub"
+        ],
+        "ev": 2018,
+        "tobbnyelvu": false
+      }
+    ],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-25"
+  },
   "Tokaido Duo": {
     "id": "363183",
     "nev": "Tokaido Duo",
@@ -1396,6 +1484,18 @@
     "egyebNevek": [],
     "biztos": true,
     "ellenorizve": "2026-11-19"
+  },
+  "Tokaido Duo #363183": {
+    "id": "363183",
+    "nev": "Tokaido Duo",
+    "tipus": "boardgame",
+    "ev": 2022,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-25"
   },
   "Trinket Trove": {
     "id": "436931",

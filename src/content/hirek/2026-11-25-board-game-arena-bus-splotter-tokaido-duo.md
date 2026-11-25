@@ -27,6 +27,11 @@ sources:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 25. 07:03
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: |-
+  Bus: a BGG szerint nincs magyar kiadása (BGG #164159)
+  Tokaido Duo: a BGG szerint nincs magyar kiadása (BGG #363183)
+  Tokaido → VAN MAGYAR KIADÁS (Delta Vision Publishing, Gémklub, 2018, 2025), a magyar cím nem azonosítható biztosan – lehet, hogy azonos az eredetivel (BGG #123540)
+  Food Chain Magnate: a BGG szerint nincs magyar kiadása (BGG #175914)
 ---
 
 Két régóta várt cím bővíti a **Board Game Arena** böngészős társasjáték-platform kínálatát. November 18-án elkészült a **Bus** online változata, november 23-án pedig a **Tokaido Duo** is teljes értékű játékként került fel az oldalra.
