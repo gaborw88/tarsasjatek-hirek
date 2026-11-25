@@ -2,24 +2,34 @@
 published: false
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
+status: ⏳ tervezet
 title: "Kooperatív kampány, mesélő és hősök: 2027 elején magyarul is jön a Codenames Critical Role-változata"
 description: "A Gémklub bejelentette, hogy 2027 elején magyar nyelven is megjelenik a Codenames: Critical Role Adventures, Vlaada Chvátil szójátékának kooperatív, kampányszerű változata, amelyben egy mesélő vezeti küldetésekre a csapatot."
 date: 2026-11-25T13:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Magyar megjelenések", "Gémklub", "Czech Games Edition", "Codenames", "Critical Role"]
-jatekok: ["Codenames: Critical Role Adventures #465849", "Codenames"]
+author: Szerkesztőség
+tags:
+  - Magyar megjelenések
+  - Gémklub
+  - Czech Games Edition
+  - Codenames
+  - Critical Role
+jatekok:
+  - "Codenames: Critical Role Adventures #465849"
+  - Codenames
 imageSuggestion: "Hivatalos dobozkép a Czech Games Edition német forgalmazójának termékoldalán: https://pegasus.de/en/CODENAMES-Critical-Role-Adventures/CGE00148 (közvetlen kép: https://cdn.pegasus.de/public/media/0b/27/38/1773743120/8594156311483_web.jpg?ts=1773743120) – javasolt forrásmegjelölés: Kép: Czech Games Edition. Ez az angol kiadás doboza; a magyar dobozképet a Gémklubtól lehet kérni."
 sources:
   - name: "Gémklub – Új megjelenés: Codenames: Critical Role Adventures (hírek)"
-    url: "https://www.gemklub.hu/hirek"
+    url: https://www.gemklub.hu/hirek
   - name: "Codenames (Czech Games Edition) – Announcing Codenames: Critical Role Adventures"
-    url: "https://www.codenamesgame.com/news/announcing-codenames-critical-role-adventures-pre-orders-open"
+    url: https://www.codenamesgame.com/news/announcing-codenames-critical-role-adventures-pre-orders-open
   - name: "Opinionated Gamers – Dale Yu: Review of Codenames: Critical Role Adventures"
-    url: "https://opinionatedgamers.com/2026/09/28/dale-yu-review-of-codenames-critical-role-adventures/"
+    url: https://opinionatedgamers.com/2026/09/28/dale-yu-review-of-codenames-critical-role-adventures/
   - name: "Pegasus Spiele – CODENAMES: Critical Role Adventures (termékoldal)"
-    url: "https://pegasus.de/en/CODENAMES-Critical-Role-Adventures/CGE00148"
+    url: https://pegasus.de/en/CODENAMES-Critical-Role-Adventures/CGE00148
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 25. 15:04
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 Újabb Codenames-változat érkezik magyarul: a **Gémklub** november 24-én jelentette be, hogy **2027 elején** magyar nyelven is kiadja a **Codenames: Critical Role Adventures**-t. A kiadó a bejelentésben egyelőre az eredeti címet használta, magyar címet és árat még nem közölt.
