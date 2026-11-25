@@ -1,14 +1,14 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 25. 10:58
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Akril lapkák és 11 új küldetés: magyarul is érkezik a Bombairtók első kiegészítője'
-description: 'A Reflexshop „hamarosan érkező” kínálatában feltűnt a Bombairtók: Elit alakulat, a Spiel des Jahres-díjas kooperatív játék prémium kiegészítője. A magyar kiadás 2027-re várható.'
+published: true
+publishedAt: 2026-11-25T10:48:04.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 25. 11:48
+approvedBy: Weszprémy Gábor · 2026. 11. 25. 11:48
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 25. 11:48
+title: "Akril lapkák és 11 új küldetés: magyarul is érkezik a Bombairtók első kiegészítője"
+description: "A Reflexshop „hamarosan érkező” kínálatában feltűnt a Bombairtók: Elit alakulat, a Spiel des Jahres-díjas kooperatív játék prémium kiegészítője. A magyar kiadás 2027-re várható."
 date: 2026-11-25T11:00:00+01:00
 type: gyujtott
 author: Szerkesztőség
@@ -18,22 +18,22 @@ tags:
   - Kiegészítők
   - Bomb Busters
 jatekok:
-  - 'Bomb Busters #413246'
-  - 'Bomb Busters: The Pro Kit'
+  - "Bomb Busters #413246"
+  - "Bomb Busters: The Pro Kit"
 magyarCimek: |-
   Bomb Busters → Bombairtók (Reflexshop, 2025; BGG #413246)
   Bomb Busters: The Pro Kit → Bombairtók: Elit alakulat (Reflexshop, 2026; BGG #472930)
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1795603648902.png
-imageAlt: ''
-imageCredit: 'Kép: Reflexshop'
-imageSuggestion: 'Hivatalos termékoldal a magyar kiadótól (dobozkép): https://reflexshop.hu/bombairtok-elit-alakulat – javasolt forrásmegjelölés: Kép: Reflexshop'
+imageAlt: ""
+imageCredit: "Kép: Reflexshop"
+imageSuggestion: "Hivatalos termékoldal a magyar kiadótól (dobozkép): https://reflexshop.hu/bombairtok-elit-alakulat – javasolt forrásmegjelölés: Kép: Reflexshop"
 sources:
-  - name: 'Reflexshop – Bombairtók: Elit alakulat (termékoldal)'
+  - name: "Reflexshop – Bombairtók: Elit alakulat (termékoldal)"
     url: https://reflexshop.hu/bombairtok-elit-alakulat
   - name: Reflexshop – Hamarosan érkező társasjátékok
     url: https://reflexshop.hu/Tarsasjatekok/Hamarosan-erkezo
-  - name: 'Board Game Bliss – Bomb Busters: Pro Kit Deluxe Expansion'
+  - name: "Board Game Bliss – Bomb Busters: Pro Kit Deluxe Expansion"
     url: https://www.boardgamebliss.com/products/bomb-busters-pro-kit-deluxe-expansion
 ---
 
