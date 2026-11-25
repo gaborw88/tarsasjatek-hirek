@@ -1,14 +1,14 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 24. 19:02
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Új alapkönyvvel tér vissza Gloranthába a RuneQuest: 2027-ben jön a Chaosium átdolgozott kötete'
-description: 'A Chaosium 2027-ben adja ki a RuneQuest: Core Rulebookot, a 2018-as RuneQuest: Roleplaying in Glorantha átdolgozott, egyszerűsített változatát. A kiadó szerint nem új kiadásról van szó: a könyv minden eddigi RuneQuest-kötettel használható marad.'
+published: true
+publishedAt: 2026-11-25T06:36:14.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 25. 07:36
+approvedBy: Weszprémy Gábor · 2026. 11. 25. 07:36
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 25. 07:36
+title: "Új alapkönyvvel tér vissza Gloranthába a RuneQuest: 2027-ben jön a Chaosium átdolgozott kötete"
+description: "A Chaosium 2027-ben adja ki a RuneQuest: Core Rulebookot, a 2018-as RuneQuest: Roleplaying in Glorantha átdolgozott, egyszerűsített változatát. A kiadó szerint nem új kiadásról van szó: a könyv minden eddigi RuneQuest-kötettel használható marad."
 date: 2026-11-24T18:00:00+01:00
 type: gyujtott
 author: Szerkesztőség
@@ -17,14 +17,14 @@ tags:
   - Chaosium
   - RuneQuest
 jatekok: []
-magyarCimek: ''
-youtube: ''
+magyarCimek: ""
+youtube: ""
 image: /images/uploads/pasted-image-1795588361350.png
-imageAlt: ''
-imageCredit: 'Kép: Chaosium'
-imageSuggestion: 'Hivatalos promóciós kép a Chaosium bejelentéséből: https://www.chaosium.com/product_images/uploaded_images/rq-core-rulebook-promo.png – javasolt forrásmegjelölés: Kép: Chaosium'
+imageAlt: ""
+imageCredit: "Kép: Chaosium"
+imageSuggestion: "Hivatalos promóciós kép a Chaosium bejelentéséből: https://www.chaosium.com/product_images/uploaded_images/rq-core-rulebook-promo.png – javasolt forrásmegjelölés: Kép: Chaosium"
 sources:
-  - name: 'Chaosium – Your Odyssey Begins In 2027: Announcing The RuneQuest: Core Rulebook'
+  - name: "Chaosium – Your Odyssey Begins In 2027: Announcing The RuneQuest: Core Rulebook"
     url: https://www.chaosium.com/blogyour-odyssey-begins-in-2027-announcing-the-runequest-core-rulebook/
   - name: ICv2 – Chaosium Resurrects 'RuneQuest RPG'
     url: https://icv2.com/articles/news/view/63957/chaosium-resurrects-runequest-rpg
