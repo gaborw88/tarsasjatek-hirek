@@ -2,20 +2,25 @@
 published: false
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
+status: ⏳ tervezet
 title: "Egy hónap alatt öt lemondás: újabb igazgatósági tag távozott a GAMA-tól, Eric Price ismét elnök"
-description: "Drew Wehrle lemondásával már az ötödik igazgatósági tag hagyta el egy hónapon belül az amerikai társasjáték-ipari szövetség, a GAMA vezetését. Az elnöki posztot Eric Price vette át, a megüresedett helyekre decemberben rendkívüli választást tartanak."
+description: Drew Wehrle lemondásával már az ötödik igazgatósági tag hagyta el egy hónapon belül az amerikai társasjáték-ipari szövetség, a GAMA vezetését. Az elnöki posztot Eric Price vette át, a megüresedett helyekre decemberben rendkívüli választást tartanak.
 date: 2026-11-25T17:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Iparági hírek", "GAMA"]
+author: Szerkesztőség
+tags:
+  - Iparági hírek
+  - GAMA
 jatekok: []
 imageSuggestion: "Iparági hír, hivatalos sajtókép nincs (személyekről készült fotót nem javaslunk). A GAMA hivatalos logója a szervezet honlapjáról (gama.org) használható – javasolt forrásmegjelölés: Kép: GAMA. A korábbi GAMA-cikkekhez már feltöltött logó újra felhasználható. Kép nélkül is rendben van."
 sources:
-  - name: "ICv2 – Fourth GAMA Director Resigns Board"
-    url: "https://icv2.com/articles/news/view/63968/fourth-gama-director-resigns-board"
-  - name: "BoardGameWire – GAMA pledges to rebuild member confidence after almost half its board resigns in less than a month"
-    url: "https://boardgamewire.com/index.php/2026/11/25/gama-pledges-to-rebuild-member-confidence-after-almost-half-its-board-resigns-in-less-than-a-month/"
+  - name: ICv2 – Fourth GAMA Director Resigns Board
+    url: https://icv2.com/articles/news/view/63968/fourth-gama-director-resigns-board
+  - name: BoardGameWire – GAMA pledges to rebuild member confidence after almost half its board resigns in less than a month
+    url: https://boardgamewire.com/index.php/2026/11/25/gama-pledges-to-rebuild-member-confidence-after-almost-half-its-board-resigns-in-less-than-a-month/
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 25. 19:01
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 Alig egy nappal azután, hogy három igazgatósági tag – köztük az elnök és a titkár – egyszerre mondott le, újabb távozást jelentett be a **GAMA** (Game Manufacturers Association), az amerikai társasjáték-ipar szakmai szövetsége. Az ICv2 november 25-i értesülése szerint lemondott **Drew Wehrle** is, aki az alkotók (tervezők) képviseletében ült az igazgatóságban; a Wehrlegig Games és a Buried Giant Studios vezetője. Ezzel egy hónapon belül már öt igazgatósági tag hagyta el a testületet, a BoardGameWire szerint a szervezet négy tisztségviselője közül hárman.
