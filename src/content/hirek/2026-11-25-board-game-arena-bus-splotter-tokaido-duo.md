@@ -2,20 +2,31 @@
 published: false
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
+status: ⏳ tervezet
 title: "Online is buszozhatunk: a Board Game Arenára került a Splotter klasszikusa, a Bus, és a Tokaido Duo"
-description: "A Food Chain Magnate alkotóinak 1999-es munkáslehelyezős játéka november 18-án, Antoine Bauza kétszemélyes Tokaido-változata november 23-án vált elérhetővé a Board Game Arenán."
+description: A Food Chain Magnate alkotóinak 1999-es munkáslehelyezős játéka november 18-án, Antoine Bauza kétszemélyes Tokaido-változata november 23-án vált elérhetővé a Board Game Arenán.
 date: 2026-11-25T13:30:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Digitális társasjátékok", "Board Game Arena", "Splotter Spellen", "Stonemaier Games"]
-jatekok: ["Bus", "Tokaido Duo #363183", "Tokaido #123540", "Food Chain Magnate #175914"]
+author: Szerkesztőség
+tags:
+  - Digitális társasjátékok
+  - Board Game Arena
+  - Splotter Spellen
+  - Stonemaier Games
+jatekok:
+  - Bus
+  - "Tokaido Duo #363183"
+  - "Tokaido #123540"
+  - "Food Chain Magnate #175914"
 imageSuggestion: "Digitális hír; a Board Game Arena hírében nincs sajtókép. A Bus jelenlegi kiadásának dobozképe a Capstone Games termékoldalán kereshető (a linket a szerkesztőnek kell ellenőriznie), forrásmegjelölés: Kép: Capstone Games / Splotter Spellen. Másik megoldás a Board Game Arena logója a hivatalos arculati oldalukról – kép nélkül is rendben van."
 sources:
   - name: "Board Game Arena – Bus: Your City Is Growing and Your Passengers Are Thirsty"
-    url: "https://en.boardgamearena.com/news?id=1167"
+    url: https://en.boardgamearena.com/news?id=1167
   - name: "Brettspiel-News.de – BGA-Update: Splotters Bus fährt gratis, Tokaido Duo würfelt zu zweit"
-    url: "https://www.brettspiel-news.de/index.php/de/nachrichten-uebersicht/neuerscheinungen/16549-bga-update-splotters-bus-f-hrt-gratis-tokaido-duo-w-rfelt-zu-zweit"
+    url: https://www.brettspiel-news.de/index.php/de/nachrichten-uebersicht/neuerscheinungen/16549-bga-update-splotters-bus-f-hrt-gratis-tokaido-duo-w-rfelt-zu-zweit
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 25. 07:03
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 Két régóta várt cím bővíti a **Board Game Arena** böngészős társasjáték-platform kínálatát. November 18-án elkészült a **Bus** online változata, november 23-án pedig a **Tokaido Duo** is teljes értékű játékként került fel az oldalra.
