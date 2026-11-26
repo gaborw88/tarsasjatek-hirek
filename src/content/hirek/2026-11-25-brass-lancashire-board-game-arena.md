@@ -1,13 +1,13 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 25. 23:03
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Gyapot, szén és vasút: ingyen játszható a Board Game Arenán Martin Wallace klasszikusa, a Brass: Lancashire'
+published: true
+publishedAt: 2026-11-26T14:46:47.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 26. 15:46
+approvedBy: Weszprémy Gábor · 2026. 11. 26. 15:46
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 26. 15:46
+title: "Gyapot, szén és vasút: ingyen játszható a Board Game Arenán Martin Wallace klasszikusa, a Brass: Lancashire"
 description: November 24-én került fel a böngészős platformra az ipari forradalom idején játszódó gazdasági stratégiai játék, amely prémium-előfizetés nélkül is elérhető.
 date: 2026-11-25T21:00:00+01:00
 type: gyujtott
@@ -18,19 +18,19 @@ tags:
   - Roxley Games
   - Martin Wallace
 jatekok:
-  - 'Brass: Lancashire #28720'
-magyarCimek: 'Brass: Lancashire: a BGG szerint nincs magyar kiadása (BGG #28720)'
-youtube: ''
+  - "Brass: Lancashire #28720"
+magyarCimek: "Brass: Lancashire: a BGG szerint nincs magyar kiadása (BGG #28720)"
+youtube: ""
 image: /images/uploads/pasted-image-1795704341794.png
-imageAlt: ''
-imageCredit: 'Kép: Roxley Games'
-imageSuggestion: 'Hivatalos dobozkép a Roxley Games termékoldaláról: https://cdn.shopify.com/s/files/1/0246/2190/8043/files/BrassLancashire_RetailBoxImage_Left_a96a790f-876c-4311-9ea2-74dce7b16ecb.png?v=1756421884 (termékoldal: https://roxley.com/products/brass-lancashire) – javasolt forrásmegjelölés: Kép: Roxley Games'
+imageAlt: ""
+imageCredit: "Kép: Roxley Games"
+imageSuggestion: "Hivatalos dobozkép a Roxley Games termékoldaláról: https://cdn.shopify.com/s/files/1/0246/2190/8043/files/BrassLancashire_RetailBoxImage_Left_a96a790f-876c-4311-9ea2-74dce7b16ecb.png?v=1756421884 (termékoldal: https://roxley.com/products/brass-lancashire) – javasolt forrásmegjelölés: Kép: Roxley Games"
 sources:
-  - name: 'Board Game Arena – Brass: Lancashire – Lock, Stock, and Cotton or Coal Barrels'
+  - name: "Board Game Arena – Brass: Lancashire – Lock, Stock, and Cotton or Coal Barrels"
     url: https://en.boardgamearena.com/headlines
-  - name: 'Board Game Arena – Brass: Lancashire (játékoldal)'
+  - name: "Board Game Arena – Brass: Lancashire (játékoldal)"
     url: https://en.boardgamearena.com/gamepanel?game=brasslancashire
-  - name: 'Roxley Games – Brass: Lancashire'
+  - name: "Roxley Games – Brass: Lancashire"
     url: https://roxley.com/products/brass-lancashire
 ---
 
