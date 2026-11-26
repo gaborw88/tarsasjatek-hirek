@@ -25,6 +25,7 @@ jatekok:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 26. 15:01
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: "Pathfinder Roleplaying Game (Second Edition): nem található a BGG-n – nézd meg kézzel"
 ---
 
 Újabb, egyetlen kötetbe foglalt kalandsorozatot jelentett be a Paizo a Pathfinder szerepjáték második kiadásához. A **Waking Tigers** az ICv2 november 25-i beszámolója és a kiadó termékoldala szerint 2027. március 3-án kerül a boltokba.
