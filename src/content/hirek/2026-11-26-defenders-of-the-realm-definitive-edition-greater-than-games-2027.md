@@ -25,6 +25,7 @@ sources:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 26. 07:01
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: "Defenders of the Realm: a BGG szerint nincs magyar kiadása (BGG #65532)"
 ---
 
 Új kiadásban kerül vissza a boltokba a **Defenders of the Realm**, Richard Launius és Larry Elmore kooperatív fantasy-társasjátéka. Az amerikai **Greater Than Games** sajtóközleménye szerint a *Defenders of the Realm: Definitive Edition* 2027. március 30-án jelenik meg a kereskedelemben – az ICv2 november 25-én számolt be a bejelentésről.
