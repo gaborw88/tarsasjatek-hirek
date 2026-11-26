@@ -1,13 +1,13 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 26. 15:01
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Összeesküvés két idősíkon, tárgyalótermi finálé: márciusban jön a Pathfinder új kalandsorozata, a Waking Tigers'
+published: true
+publishedAt: 2026-11-26T16:27:15.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 26. 17:27
+approvedBy: Weszprémy Gábor · 2026. 11. 26. 17:27
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 26. 17:27
+title: "Összeesküvés két idősíkon, tárgyalótermi finálé: márciusban jön a Pathfinder új kalandsorozata, a Waking Tigers"
 description: A Paizo 2027. március 3-án adja ki a Waking Tigers című Pathfinder-kalandsorozatot, amely Tian Xia egyik országában, Hwanggotban játszódik. A 256 oldalas kötet az 1. szinttől a 11.-ig viszi a karaktereket.
 date: 2026-11-26T15:00:00+01:00
 type: gyujtott
@@ -18,18 +18,18 @@ tags:
   - Pathfinder
 jatekok:
   - Pathfinder Roleplaying Game (Second Edition)
-magyarCimek: 'Pathfinder Roleplaying Game (Second Edition): nem található a BGG-n – nézd meg kézzel'
-youtube: ''
+magyarCimek: "Pathfinder Roleplaying Game (Second Edition): nem található a BGG-n – nézd meg kézzel"
+youtube: ""
 image: /images/uploads/pasted-image-1795710412741.png
-imageAlt: ''
-imageCredit: 'Kép: Paizo'
-imageSuggestion: 'Hivatalos dobozkép (borítóterv) a Paizo saját webáruházának termékoldalán: https://store.paizo.com/pathfinder-waking-tigers-adventure-path/ (közvetlen kép: https://cdn11.bigcommerce.com/s-e0sdfpgiwh/images/stencil/500x659/products/15109/20520/PZO15226-HC_Waking_Tigers_Adventure_2d_Mock-Print__02962.1779918894.jpg?c=1) – javasolt forrásmegjelölés: Kép: Paizo'
+imageAlt: ""
+imageCredit: "Kép: Paizo"
+imageSuggestion: "Hivatalos dobozkép (borítóterv) a Paizo saját webáruházának termékoldalán: https://store.paizo.com/pathfinder-waking-tigers-adventure-path/ (közvetlen kép: https://cdn11.bigcommerce.com/s-e0sdfpgiwh/images/stencil/500x659/products/15109/20520/PZO15226-HC_Waking_Tigers_Adventure_2d_Mock-Print__02962.1779918894.jpg?c=1) – javasolt forrásmegjelölés: Kép: Paizo"
 sources:
   - name: ICv2 – Paizo Will Release New 'Pathfinder 2E Remaster' Adventure Path
     url: https://icv2.com/articles/news/view/63974/paizo-will-release-new-pathfinder-2e-remaster-adventure-path
   - name: Paizo – Pathfinder Waking Tigers Adventure Path (termékoldal)
     url: https://store.paizo.com/pathfinder-waking-tigers-adventure-path/
-  - name: 'Paizo fórum – New Adventure Path: Waking Tigers'
+  - name: "Paizo fórum – New Adventure Path: Waking Tigers"
     url: https://paizo.com/threads/rzs89xip
 ---
 
