@@ -1,13 +1,13 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 25. 07:03
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Online is buszozhatunk: a Board Game Arenára került a Splotter klasszikusa, a Bus, és a Tokaido Duo'
+published: true
+publishedAt: 2026-11-26T10:16:06.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 26. 11:16
+approvedBy: Weszprémy Gábor · 2026. 11. 26. 11:16
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 26. 11:16
+title: "Online is buszozhatunk: a Board Game Arenára került a Splotter klasszikusa, a Bus, és a Tokaido Duo"
 description: A Food Chain Magnate alkotóinak 1999-es munkáslehelyezős játéka november 18-án, Antoine Bauza kétszemélyes Tokaido-változata november 23-án vált elérhetővé a Board Game Arenán.
 date: 2026-11-25T13:30:00+01:00
 type: gyujtott
@@ -19,23 +19,23 @@ tags:
   - Stonemaier Games
 jatekok:
   - Bus
-  - 'Tokaido Duo #363183'
-  - 'Tokaido #123540'
-  - 'Food Chain Magnate #175914'
+  - "Tokaido Duo #363183"
+  - "Tokaido #123540"
+  - "Food Chain Magnate #175914"
 magyarCimek: |-
   Bus: a BGG szerint nincs magyar kiadása (BGG #164159)
   Tokaido Duo: a BGG szerint nincs magyar kiadása (BGG #363183)
   Tokaido → VAN MAGYAR KIADÁS (Delta Vision Publishing, Gémklub, 2018, 2025), a magyar cím nem azonosítható biztosan – lehet, hogy azonos az eredetivel (BGG #123540)
   Food Chain Magnate: a BGG szerint nincs magyar kiadása (BGG #175914)
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1795103719948.png
-imageAlt: ''
-imageCredit: ''
-imageSuggestion: 'Digitális hír; a Board Game Arena hírében nincs sajtókép. A Bus jelenlegi kiadásának dobozképe a Capstone Games termékoldalán kereshető (a linket a szerkesztőnek kell ellenőriznie), forrásmegjelölés: Kép: Capstone Games / Splotter Spellen. Másik megoldás a Board Game Arena logója a hivatalos arculati oldalukról – kép nélkül is rendben van.'
+imageAlt: ""
+imageCredit: ""
+imageSuggestion: "Digitális hír; a Board Game Arena hírében nincs sajtókép. A Bus jelenlegi kiadásának dobozképe a Capstone Games termékoldalán kereshető (a linket a szerkesztőnek kell ellenőriznie), forrásmegjelölés: Kép: Capstone Games / Splotter Spellen. Másik megoldás a Board Game Arena logója a hivatalos arculati oldalukról – kép nélkül is rendben van."
 sources:
-  - name: 'Board Game Arena – Bus: Your City Is Growing and Your Passengers Are Thirsty'
+  - name: "Board Game Arena – Bus: Your City Is Growing and Your Passengers Are Thirsty"
     url: https://en.boardgamearena.com/news?id=1167
-  - name: 'Brettspiel-News.de – BGA-Update: Splotters Bus fährt gratis, Tokaido Duo würfelt zu zweit'
+  - name: "Brettspiel-News.de – BGA-Update: Splotters Bus fährt gratis, Tokaido Duo würfelt zu zweit"
     url: https://www.brettspiel-news.de/index.php/de/nachrichten-uebersicht/neuerscheinungen/16549-bga-update-splotters-bus-f-hrt-gratis-tokaido-duo-w-rfelt-zu-zweit
 ---
 
