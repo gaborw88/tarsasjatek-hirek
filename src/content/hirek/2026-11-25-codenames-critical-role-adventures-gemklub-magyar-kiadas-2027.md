@@ -1,14 +1,14 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 25. 15:04
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Kooperatív kampány, mesélő és hősök: 2027 elején magyarul is jön a Fedőnevek Critical Role-változata'
-description: 'A Gémklub bejelentette, hogy 2027 elején magyar nyelven is megjelenik a Codenames: Critical Role Adventures, Vlaada Chvátil szójátékának kooperatív, kampányszerű változata, amelyben egy mesélő vezeti küldetésekre a csapatot.'
+published: true
+publishedAt: 2026-11-26T07:16:23.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 26. 08:16
+approvedBy: Weszprémy Gábor · 2026. 11. 26. 08:16
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 26. 08:16
+title: "Kooperatív kampány, mesélő és hősök: 2027 elején magyarul is jön a Fedőnevek Critical Role-változata"
+description: "A Gémklub bejelentette, hogy 2027 elején magyar nyelven is megjelenik a Codenames: Critical Role Adventures, Vlaada Chvátil szójátékának kooperatív, kampányszerű változata, amelyben egy mesélő vezeti küldetésekre a csapatot."
 date: 2026-11-25T13:00:00+01:00
 type: gyujtott
 author: Szerkesztőség
@@ -19,24 +19,24 @@ tags:
   - Codenames
   - Critical Role
 jatekok:
-  - 'Codenames: Critical Role Adventures #465849'
+  - "Codenames: Critical Role Adventures #465849"
   - Codenames
 magyarCimek: |-
   Codenames: Critical Role Adventures: a BGG szerint nincs magyar kiadása (BGG #465849)
   Codenames → Fedőnevek (Czech Games Edition (CGE), Gémklub, 2016, 2025; BGG #178900)
-youtube: ''
+youtube: ""
 image: /images/uploads/pasted-image-1795677299260.png
-imageAlt: ''
-imageCredit: 'Kép: Czech Games Edition'
-imageSuggestion: 'Hivatalos dobozkép a Czech Games Edition német forgalmazójának termékoldalán: https://pegasus.de/en/CODENAMES-Critical-Role-Adventures/CGE00148 (közvetlen kép: https://cdn.pegasus.de/public/media/0b/27/38/1773743120/8594156311483_web.jpg?ts=1773743120) – javasolt forrásmegjelölés: Kép: Czech Games Edition. Ez az angol kiadás doboza; a magyar dobozképet a Gémklubtól lehet kérni.'
+imageAlt: ""
+imageCredit: "Kép: Czech Games Edition"
+imageSuggestion: "Hivatalos dobozkép a Czech Games Edition német forgalmazójának termékoldalán: https://pegasus.de/en/CODENAMES-Critical-Role-Adventures/CGE00148 (közvetlen kép: https://cdn.pegasus.de/public/media/0b/27/38/1773743120/8594156311483_web.jpg?ts=1773743120) – javasolt forrásmegjelölés: Kép: Czech Games Edition. Ez az angol kiadás doboza; a magyar dobozképet a Gémklubtól lehet kérni."
 sources:
-  - name: 'Gémklub – Új megjelenés: Codenames: Critical Role Adventures (hírek)'
+  - name: "Gémklub – Új megjelenés: Codenames: Critical Role Adventures (hírek)"
     url: https://www.gemklub.hu/hirek
-  - name: 'Codenames (Czech Games Edition) – Announcing Codenames: Critical Role Adventures'
+  - name: "Codenames (Czech Games Edition) – Announcing Codenames: Critical Role Adventures"
     url: https://www.codenamesgame.com/news/announcing-codenames-critical-role-adventures-pre-orders-open
-  - name: 'Opinionated Gamers – Dale Yu: Review of Codenames: Critical Role Adventures'
+  - name: "Opinionated Gamers – Dale Yu: Review of Codenames: Critical Role Adventures"
     url: https://opinionatedgamers.com/2026/09/28/dale-yu-review-of-codenames-critical-role-adventures/
-  - name: 'Pegasus Spiele – CODENAMES: Critical Role Adventures (termékoldal)'
+  - name: "Pegasus Spiele – CODENAMES: Critical Role Adventures (termékoldal)"
     url: https://pegasus.de/en/CODENAMES-Critical-Role-Adventures/CGE00148
 ---
 
