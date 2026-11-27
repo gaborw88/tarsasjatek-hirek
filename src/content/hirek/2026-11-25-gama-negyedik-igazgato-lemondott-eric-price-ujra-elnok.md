@@ -1,13 +1,13 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 25. 19:01
-approvedBy: ''
-chiefApprovedBy: ''
-title: 'Egy hónap alatt öt lemondás: újabb igazgatósági tag távozott a GAMA-tól, Eric Price ismét elnök'
+published: true
+publishedAt: 2026-11-27T11:40:51.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 27. 12:40
+approvedBy: Weszprémy Gábor · 2026. 11. 27. 12:40
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 27. 12:40
+title: "Egy hónap alatt öt lemondás: újabb igazgatósági tag távozott a GAMA-tól, Eric Price ismét elnök"
 description: Drew Wehrle lemondásával már az ötödik igazgatósági tag hagyta el egy hónapon belül az amerikai társasjáték-ipari szövetség, a GAMA vezetését. Az elnöki posztot Eric Price vette át, a megüresedett helyekre decemberben rendkívüli választást tartanak.
 date: 2026-11-25T17:00:00+01:00
 type: gyujtott
@@ -16,12 +16,12 @@ tags:
   - Iparági hírek
   - GAMA
 jatekok: []
-magyarCimek: ''
-youtube: ''
+magyarCimek: ""
+youtube: ""
 image: /images/uploads/pasted-image-1793751848031.png
-imageAlt: ''
-imageCredit: ''
-imageSuggestion: 'Iparági hír, hivatalos sajtókép nincs (személyekről készült fotót nem javaslunk). A GAMA hivatalos logója a szervezet honlapjáról (gama.org) használható – javasolt forrásmegjelölés: Kép: GAMA. A korábbi GAMA-cikkekhez már feltöltött logó újra felhasználható. Kép nélkül is rendben van.'
+imageAlt: ""
+imageCredit: ""
+imageSuggestion: "Iparági hír, hivatalos sajtókép nincs (személyekről készült fotót nem javaslunk). A GAMA hivatalos logója a szervezet honlapjáról (gama.org) használható – javasolt forrásmegjelölés: Kép: GAMA. A korábbi GAMA-cikkekhez már feltöltött logó újra felhasználható. Kép nélkül is rendben van."
 sources:
   - name: ICv2 – Fourth GAMA Director Resigns Board
     url: https://icv2.com/articles/news/view/63968/fourth-gama-director-resigns-board
