@@ -24,6 +24,7 @@ sources:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 27. 18:58
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: "Dark Sun: Edge of Oblivion: nem található a BGG-n – nézd meg kézzel"
 ---
 
 A Dungeons & Dragons egyik legkeményebb, legsötétebb világa, a **Dark Sun** jövőre több mint másfél évtized után kap újra hivatalos kiadványt, és mellé már a gyűjtői változat is megérkezett. A prémium szerepjátékos csomagjairól ismert amerikai **Beadle & Grimm's** november 25-én jelentette be a **Dark Sun: Edge of Oblivion – Psionic Silver Edition** nevű dobozát, amely 2027. július 15-én kerül a boltokba.
