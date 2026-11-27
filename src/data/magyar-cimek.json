@@ -143,6 +143,18 @@
     "biztos": true,
     "ellenorizve": "2026-11-24"
   },
+  "Arcs": {
+    "id": "359871",
+    "nev": "Arcs",
+    "tipus": "boardgame",
+    "ev": 2024,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-27"
+  },
   "Art Society": {
     "id": "395375",
     "nev": "Art Society",
@@ -615,6 +627,76 @@
     "egyebNevek": [],
     "biztos": true,
     "ellenorizve": "2026-11-20"
+  },
+  "Dune: Imperium": {
+    "id": "316554",
+    "nev": "Dune: Imperium",
+    "tipus": "boardgame",
+    "ev": 2020,
+    "magyarKiadas": true,
+    "magyarKiadasok": [
+      {
+        "nev": "Hungarian edition",
+        "kiadok": [
+          "Dire Wolf",
+          "Reflexshop"
+        ],
+        "ev": 2022,
+        "tobbnyelvu": false
+      }
+    ],
+    "magyarCimJeloltek": [
+      "Dűne: Impérium"
+    ],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-27"
+  },
+  "Dune: Imperium – Conspiracy": {
+    "id": "472822",
+    "nev": "Dune: Imperium – Conspiracy",
+    "tipus": "boardgameexpansion",
+    "ev": 2026,
+    "magyarKiadas": true,
+    "magyarKiadasok": [
+      {
+        "nev": "Hungarian edition",
+        "kiadok": [
+          "Reflexshop"
+        ],
+        "ev": 2026,
+        "tobbnyelvu": false
+      }
+    ],
+    "magyarCimJeloltek": [
+      "Dűne: Impérium – Összeesküvés"
+    ],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-27"
+  },
+  "Dune: Imperium – Uprising": {
+    "id": "397598",
+    "nev": "Dune: Imperium – Uprising",
+    "tipus": "boardgame",
+    "ev": 2023,
+    "magyarKiadas": true,
+    "magyarKiadasok": [
+      {
+        "nev": "Hungarian edition",
+        "kiadok": [
+          "Reflexshop"
+        ],
+        "ev": 2024,
+        "tobbnyelvu": false
+      }
+    ],
+    "magyarCimJeloltek": [
+      "Dűne: Impérium – Felkelés"
+    ],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-27"
   },
   "Dungeon Crawler Carl Roleplaying Game": {
     "hiba": "nincs találat",

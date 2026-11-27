@@ -26,6 +26,7 @@ sources:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 27. 15:02
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: "Arcs: a BGG szerint nincs magyar kiadása (BGG #359871)"
 ---
 
 Közel két évvel a bejelentés után játszható közelségbe került az **Arcs** digitális változata. A Dire Wolf november 25-én közölte, hogy Cole Wehrle űroperáját a december 4–6. között Philadelphiában rendezendő **PAX Unpluggeden** lehet először kipróbálni, a Steames korai hozzáférés (Early Access) pedig ezt követően indul. Pontos dátumot a cég nem adott meg.

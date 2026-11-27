@@ -30,6 +30,10 @@ sources:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 27. 15:02
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: |-
+  Dune: Imperium → Dűne: Impérium (Dire Wolf, Reflexshop, 2022; BGG #316554)
+  Dune: Imperium – Conspiracy → Dűne: Impérium – Összeesküvés (Reflexshop, 2026; BGG #472822)
+  Dune: Imperium – Uprising → Dűne: Impérium – Felkelés (Reflexshop, 2024; BGG #397598)
 ---
 
 Újabb kiegészítőt kap a **Dune: Imperium** (magyarul: *Dűne: Impérium*), és a magyar játékosoknak sem kell sokat várniuk rá. A Dire Wolf angol nyelvű **Conspiracy** kiegészítőjét októberben lehetett először előrendelni, a forgalmazók pedig 2026 utolsó negyedévére jelzik a boltokba kerülését. A Reflexshop „Hamarosan érkező” listáján már szerepel a magyar változat ***Dűne: Impérium – Összeesküvés*** címen, 2027-es megjelenéssel. Árat a magyar kiadó még nem közölt.
