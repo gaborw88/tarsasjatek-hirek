@@ -1,12 +1,12 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 27. 15:02
-approvedBy: ''
-chiefApprovedBy: ''
+published: true
+publishedAt: 2026-11-27T21:15:32.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 27. 22:15
+approvedBy: Weszprémy Gábor · 2026. 11. 27. 22:15
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 27. 22:15
 title: Decemberben kipróbálható az Arcs digitális változata, utána jön a korai hozzáférés a Steamen
 description: A Dire Wolf a PAX Unpluggeden mutatja be először játszható formában Cole Wehrle űroperáját, az Arcsot. A Steames korai hozzáférés ezután indul, pontos dátum még nincs.
 date: 2026-11-27T12:00:00+01:00
@@ -19,12 +19,12 @@ tags:
   - PAX Unplugged
 jatekok:
   - Arcs
-magyarCimek: 'Arcs: a BGG szerint nincs magyar kiadása (BGG #359871)'
-youtube: ''
+magyarCimek: "Arcs: a BGG szerint nincs magyar kiadása (BGG #359871)"
+youtube: ""
 image: /images/uploads/pasted-image-1795814080776.png
-imageAlt: ''
-imageCredit: 'Kép: Dire Wolf'
-imageSuggestion: 'Hivatalos bejelentőkép a Dire Wolf saját hírében (https://news.direwolfdigital.com/arcs-digital-is-coming-soon/): https://news.direwolfdigital.com/wp-content/uploads/2026/11/Arcs_ComingSoon_Social_Bluesky_1600x900-1024x576.png – javasolt forrásmegjelölés: Kép: Dire Wolf'
+imageAlt: ""
+imageCredit: "Kép: Dire Wolf"
+imageSuggestion: "Hivatalos bejelentőkép a Dire Wolf saját hírében (https://news.direwolfdigital.com/arcs-digital-is-coming-soon/): https://news.direwolfdigital.com/wp-content/uploads/2026/11/Arcs_ComingSoon_Social_Bluesky_1600x900-1024x576.png – javasolt forrásmegjelölés: Kép: Dire Wolf"
 sources:
   - name: Dire Wolf – Arcs Digital is Coming Soon!
     url: https://news.direwolfdigital.com/arcs-digital-is-coming-soon/
