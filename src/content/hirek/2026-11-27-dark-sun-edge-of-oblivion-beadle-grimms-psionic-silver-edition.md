@@ -2,20 +2,28 @@
 published: false
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
+status: ⏳ tervezet
 title: "Prémium díszdobozt kap Athas sivatagvilága: a Beadle & Grimm's jövő júliusra ígéri a Dark Sun ezüstkiadását"
-description: "A Beadle & Grimm's bemutatta a D&D visszatérő Dark Sun világához készülő Psionic Silver Edition dobozát, amely 2027. július 15-én jelenik meg. A csomagban a Wizards of the Coast új Edge of Oblivion kötete füzetekre bontva, térképek, kártyák és mesélői kellékek lesznek."
+description: A Beadle & Grimm's bemutatta a D&D visszatérő Dark Sun világához készülő Psionic Silver Edition dobozát, amely 2027. július 15-én jelenik meg. A csomagban a Wizards of the Coast új Edge of Oblivion kötete füzetekre bontva, térképek, kártyák és mesélői kellékek lesznek.
 date: 2026-11-27T19:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Szerepjátékok", "Dungeons & Dragons", "Beadle & Grimm's", "Wizards of the Coast"]
-jatekok: ["Dark Sun: Edge of Oblivion"]
+author: Szerkesztőség
+tags:
+  - Szerepjátékok
+  - Dungeons & Dragons
+  - Beadle & Grimm's
+  - Wizards of the Coast
+jatekok:
+  - "Dark Sun: Edge of Oblivion"
 imageSuggestion: "A Beadle & Grimm's saját oldalán még nincs termékoldal vagy sajtókép a dobozhoz (a hírportálok és a viszonteladók képeit nem javaslom). Megoldás: kérj képet a kiadótól (beadleandgrimms.com), vagy várj, amíg elindul a hivatalos előrendelési oldal – kép nélkül is rendben van."
 sources:
   - name: "ICv2 – Beadle & Grimm's Reveals 'D&D Dark Sun: Edge of Oblivion - Psionic Silver Edition'"
-    url: "https://icv2.com/articles/news/view/63970/beadle-grimms-reveals-d-d-dark-sun-edge-oblivion-psionic-silver-edition"
-  - name: "Dungeons & Dragons Fanatics – New Dark Sun Box Set Coming from Beadle & Grimm's"
-    url: "https://dungeonsanddragonsfan.com/beadle-grimms-dark-sun-psionic-silver-edition/"
+    url: https://icv2.com/articles/news/view/63970/beadle-grimms-reveals-d-d-dark-sun-edge-oblivion-psionic-silver-edition
+  - name: Dungeons & Dragons Fanatics – New Dark Sun Box Set Coming from Beadle & Grimm's
+    url: https://dungeonsanddragonsfan.com/beadle-grimms-dark-sun-psionic-silver-edition/
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 27. 18:58
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 A Dungeons & Dragons egyik legkeményebb, legsötétebb világa, a **Dark Sun** jövőre több mint másfél évtized után kap újra hivatalos kiadványt, és mellé már a gyűjtői változat is megérkezett. A prémium szerepjátékos csomagjairól ismert amerikai **Beadle & Grimm's** november 25-én jelentette be a **Dark Sun: Edge of Oblivion – Psionic Silver Edition** nevű dobozát, amely 2027. július 15-én kerül a boltokba.
