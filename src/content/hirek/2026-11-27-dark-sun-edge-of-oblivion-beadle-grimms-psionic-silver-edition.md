@@ -1,12 +1,12 @@
 ---
-status: ⏳ tervezet
+status: ✅ megjelent
 approved: true
 chiefApproved: true
-published: false
-publishedAt: ''
-lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 27. 18:58
-approvedBy: ''
-chiefApprovedBy: ''
+published: true
+publishedAt: 2026-11-27T20:00:42.000Z
+lastEditedBy: Weszprémy Gábor · 2026. 11. 27. 21:00
+approvedBy: Weszprémy Gábor · 2026. 11. 27. 21:00
+chiefApprovedBy: Weszprémy Gábor · 2026. 11. 27. 21:00
 title: "Prémium díszdobozt kap Athas sivatagvilága: a Beadle & Grimm's jövő júliusra ígéri a Dark Sun ezüstkiadását"
 description: A Beadle & Grimm's bemutatta a D&D visszatérő Dark Sun világához készülő Psionic Silver Edition dobozát, amely 2027. július 15-én jelenik meg. A csomagban a Wizards of the Coast új Edge of Oblivion kötete füzetekre bontva, térképek, kártyák és mesélői kellékek lesznek.
 date: 2026-11-27T19:00:00+01:00
@@ -18,11 +18,11 @@ tags:
   - Beadle & Grimm's
   - Wizards of the Coast
 jatekok:
-  - 'Dark Sun: Edge of Oblivion'
-magyarCimek: 'Dark Sun: Edge of Oblivion: nem található a BGG-n – nézd meg kézzel'
-youtube: ''
+  - "Dark Sun: Edge of Oblivion"
+magyarCimek: "Dark Sun: Edge of Oblivion: nem található a BGG-n – nézd meg kézzel"
+youtube: ""
 image: /images/uploads/pasted-image-1795809567647.png
-imageAlt: ''
+imageAlt: ""
 imageCredit: "Kép: Beadle & Grimm's"
 imageSuggestion: "A Beadle & Grimm's saját oldalán még nincs termékoldal vagy sajtókép a dobozhoz (a hírportálok és a viszonteladók képeit nem javaslom). Megoldás: kérj képet a kiadótól (beadleandgrimms.com), vagy várj, amíg elindul a hivatalos előrendelési oldal – kép nélkül is rendben van."
 sources:
