@@ -61,7 +61,7 @@ A tulajdonos nem programozó: vele mindig magyarul, egyszerűen, szakzsargon né
   Paladins of the West Kingdom → A Nyugati Királyság Lovagjai · Viscounts of the West Kingdom → A nyugati királyság várgrófjai ·
   SETI: Search for Extraterrestrial Intelligence → SETI: Kutatás a földön kívüli élet után ·
   Unstable Unicorns → Unikornisok: A rémes ménes · Art Society → Műgyűjtők társasága · Cascadia → Cascadia vadvilága ·
-  Gloomhaven: Buttons & Bugs → Homályrév: Apró kalandok · Mouse Trap → Egérfogó · Warrior Knights → Hadurak · Space Hulk: Death Angel → Space Hulk: A Halál Angyalai · Schadenfreude → Káröröm (Gémklub)
+  Gloomhaven: Buttons & Bugs → Homályrév: Apró kalandok · Mouse Trap → Egérfogó · Warrior Knights → Hadurak · Space Hulk: Death Angel → Space Hulk: A Halál Angyalai · Schadenfreude → Káröröm (Gémklub) · Space Lab → Kozmosz Konzorcium (Reflexshop)
   Ha egy játéknál magyar címet adsz meg (vagy utólag pótolod), ellenőrizd, hogy a cikkben ne maradjon olyan mondat,
   amely szerint a játéknak nincs magyar kiadása; ha a „nincs hír” mondat egy másik termékre (pl. egy új kiegészítőre)
   vonatkozik, írd ki egyértelműen, mire.
