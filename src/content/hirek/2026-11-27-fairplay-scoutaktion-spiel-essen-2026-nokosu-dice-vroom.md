@@ -32,6 +32,15 @@ sources:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 27. 23:04
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: |-
+  Nokosu Dice: a BGG szerint nincs magyar kiadása (BGG #294693)
+  Greenwood → VAN MAGYAR KIADÁS (Gémklub, 2026), a magyar cím nem azonosítható biztosan – lehet, hogy azonos az eredetivel (BGG #469383)
+  Gibberers: a BGG szerint nincs magyar kiadása (BGG #380109, bizonytalan találat – ellenőrizd, jó játék-e)
+  Tea & Rum: a BGG szerint nincs magyar kiadása (BGG #462017)
+  Vantage → VAN MAGYAR KIADÁS (Delta Vision Publishing, 2026), a magyar cím nem azonosítható biztosan – lehet, hogy azonos az eredetivel (BGG #420033)
+  Vroom: a BGG szerint nincs magyar kiadása (BGG #461381)
+  Die magische Bibliothek: a BGG szerint nincs magyar kiadása (BGG #479467)
+  Space Lab → Vesmírná laborka (Reflexshop, 2026; BGG #449974)
 ---
 
 Az essi SPIEL nemcsak a kiadók, hanem a közönség véleményéről is szól. A német Fairplay társasjátékos magazin évek óta szervezi a vásáron a **Scoutaktiont**: a látogatók „felderítőként” regisztrálnak, és az általuk kipróbált újdonságokat egytől ötig pontozzák. A beérkezett értékelések átlagából két rangsor születik, egy a kenner- és expertjátékokról, egy pedig a családi és gyerekjátékokról. Az idei, októberi vásár listáit a Fairplay közzétette, W. Eric Martin amerikai szakújságíró pedig a napokban végleges eredményként hívta fel rájuk a figyelmet.

@@ -616,6 +616,18 @@
     "biztos": true,
     "ellenorizve": "2026-11-26"
   },
+  "Die magische Bibliothek": {
+    "id": "479467",
+    "nev": "Magical Library",
+    "tipus": "boardgame",
+    "ev": 2026,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-27"
+  },
   "Disaster Artist": {
     "hiba": "nincs találat",
     "ellenorizve": "2026-11-20"
@@ -909,6 +921,18 @@
     "egyebNevek": [],
     "biztos": true,
     "ellenorizve": "2026-11-19"
+  },
+  "Gibberers": {
+    "id": "380109",
+    "nev": "Gibberers: The Word Game of Language Invention and Civilization Development",
+    "tipus": "boardgame",
+    "ev": 2024,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": false,
+    "ellenorizve": "2026-11-27"
   },
   "Gloomhaven": {
     "id": "174430",
@@ -1261,6 +1285,18 @@
     "biztos": true,
     "ellenorizve": "2026-11-23"
   },
+  "Nokosu Dice #294693": {
+    "id": "294693",
+    "nev": "Nokosu Dice",
+    "tipus": "boardgame",
+    "ev": 2016,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-27"
+  },
   "OkEros": {
     "hiba": "nincs találat",
     "ellenorizve": "2026-11-20"
@@ -1401,6 +1437,29 @@
     "biztos": true,
     "ellenorizve": "2026-11-19"
   },
+  "Space Lab": {
+    "id": "449974",
+    "nev": "Space Lab",
+    "tipus": "boardgame",
+    "ev": 2025,
+    "magyarKiadas": true,
+    "magyarKiadasok": [
+      {
+        "nev": "Hungarian edition",
+        "kiadok": [
+          "Reflexshop"
+        ],
+        "ev": 2026,
+        "tobbnyelvu": false
+      }
+    ],
+    "magyarCimJeloltek": [
+      "Vesmírná laborka"
+    ],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-27"
+  },
   "StarCraft: Tabletop Miniatures Game": {
     "id": "456520",
     "nev": "StarCraft: Tabletop Miniatures Game",
@@ -1467,6 +1526,18 @@
     "egyebNevek": [],
     "biztos": true,
     "ellenorizve": "2026-11-19"
+  },
+  "Tea & Rum": {
+    "id": "462017",
+    "nev": "Tea & Rum",
+    "tipus": "boardgame",
+    "ev": 2026,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-27"
   },
   "Terra Mystica": {
     "id": "120677",
@@ -1741,6 +1812,27 @@
     "biztos": true,
     "ellenorizve": "2026-11-22"
   },
+  "Vantage": {
+    "id": "420033",
+    "nev": "Vantage",
+    "tipus": "boardgame",
+    "ev": 2025,
+    "magyarKiadas": true,
+    "magyarKiadasok": [
+      {
+        "nev": "Hungarian edition",
+        "kiadok": [
+          "Delta Vision Publishing"
+        ],
+        "ev": 2026,
+        "tobbnyelvu": false
+      }
+    ],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-27"
+  },
   "Vroom": {
     "id": "461381",
     "nev": "Vroom",
@@ -1752,6 +1844,18 @@
     "egyebNevek": [],
     "biztos": true,
     "ellenorizve": "2026-11-20"
+  },
+  "Vroom #461381": {
+    "id": "461381",
+    "nev": "Vroom",
+    "tipus": "boardgame",
+    "ev": 2026,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-27"
   },
   "Warmachine": {
     "id": "4741",
