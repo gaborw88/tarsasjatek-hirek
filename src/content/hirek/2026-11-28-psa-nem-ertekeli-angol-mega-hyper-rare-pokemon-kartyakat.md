@@ -28,6 +28,7 @@ sources:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 28. 14:56
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: "Pokémon Trading Card Game: a BGG szerint nincs magyar kiadása (BGG #2165)"
 ---
 
 A gyűjtőpiac egyik legkeresettebb lapjai kerültek bajba: az amerikai PSA, a világ legnagyobb gyűjtőikártya-értékelő (grading) cége november 25-én bejelentette, hogy azonnali hatállyal nem fogad több angol nyelvű Mega Hyper Rare Pokémon-kártyát. Ezek a Pokémon Trading Card Game 2025-ben indult Mega Evolution korszakának arany színű, legritkább lapjai.
