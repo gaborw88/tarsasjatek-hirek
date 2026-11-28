@@ -247,6 +247,37 @@
     "biztos": true,
     "ellenorizve": "2026-11-24"
   },
+  "Bohnanza #11": {
+    "id": "11",
+    "nev": "Bohnanza",
+    "tipus": "boardgame",
+    "ev": 1997,
+    "magyarKiadas": true,
+    "magyarKiadasok": [
+      {
+        "nev": "Hungarian first edition",
+        "kiadok": [
+          "Piatnik Distribution"
+        ],
+        "ev": 2000,
+        "tobbnyelvu": false
+      },
+      {
+        "nev": "Hungarian second edition",
+        "kiadok": [
+          "Piatnik Distribution"
+        ],
+        "ev": 2021,
+        "tobbnyelvu": false
+      }
+    ],
+    "magyarCimJeloltek": [
+      "Babszüret"
+    ],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-28"
+  },
   "Bomb Busters": {
     "id": "413246",
     "nev": "Bomb Busters",
@@ -468,6 +499,10 @@
     "biztos": true,
     "ellenorizve": "2026-11-19"
   },
+  "Cat Approved": {
+    "hiba": "nincs találat",
+    "ellenorizve": "2026-11-28"
+  },
   "Catan": {
     "id": "13",
     "nev": "Catan",
@@ -615,6 +650,10 @@
     "egyebNevek": [],
     "biztos": true,
     "ellenorizve": "2026-11-26"
+  },
+  "Devil's Darling": {
+    "hiba": "nincs találat",
+    "ellenorizve": "2026-11-28"
   },
   "Die magische Bibliothek": {
     "id": "479467",
@@ -980,6 +1019,18 @@
     "biztos": true,
     "ellenorizve": "2026-11-19"
   },
+  "Golden Five": {
+    "id": "113803",
+    "nev": "Five Golden Rings",
+    "tipus": "boardgame",
+    "ev": 2011,
+    "magyarKiadas": false,
+    "magyarKiadasok": [],
+    "magyarCimJeloltek": [],
+    "egyebNevek": [],
+    "biztos": false,
+    "ellenorizve": "2026-11-28"
+  },
   "Greenwood #469383": {
     "id": "469383",
     "nev": "Greenwood",
@@ -1089,9 +1140,36 @@
     "hiba": "nincs találat",
     "ellenorizve": "2026-11-20"
   },
+  "Legends of Andor #127398": {
+    "id": "127398",
+    "nev": "Legends of Andor",
+    "tipus": "boardgame",
+    "ev": 2012,
+    "magyarKiadas": true,
+    "magyarKiadasok": [
+      {
+        "nev": "Hungarian edition",
+        "kiadok": [
+          "Piatnik Distribution"
+        ],
+        "ev": 2012,
+        "tobbnyelvu": false
+      }
+    ],
+    "magyarCimJeloltek": [
+      "Andor legendái"
+    ],
+    "egyebNevek": [],
+    "biztos": true,
+    "ellenorizve": "2026-11-28"
+  },
   "Love Potion Factory": {
     "hiba": "nincs találat",
     "ellenorizve": "2026-11-20"
+  },
+  "Lumare": {
+    "hiba": "nincs találat",
+    "ellenorizve": "2026-11-28"
   },
   "Macao": {
     "id": "55670",
@@ -1296,6 +1374,29 @@
     "egyebNevek": [],
     "biztos": true,
     "ellenorizve": "2026-11-27"
+  },
+  "Not Your Grandma's Bingo": {
+    "id": "457158",
+    "nev": "Not Your Grandma&#039;s BINGO",
+    "tipus": "boardgame",
+    "ev": 2026,
+    "magyarKiadas": true,
+    "magyarKiadasok": [
+      {
+        "nev": "Hungarian edition",
+        "kiadok": [
+          "Reflexshop"
+        ],
+        "ev": 2027,
+        "tobbnyelvu": false
+      }
+    ],
+    "magyarCimJeloltek": [
+      "A forgandó Fortuna"
+    ],
+    "egyebNevek": [],
+    "biztos": false,
+    "ellenorizve": "2026-11-28"
   },
   "OkEros": {
     "hiba": "nincs találat",

@@ -31,6 +31,14 @@ sources:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 28. 10:58
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: |-
+  Bohnanza → Babszüret (Piatnik Distribution, 2000, 2021; BGG #11)
+  Legends of Andor → Andor legendái (Piatnik Distribution, 2012; BGG #127398)
+  Devil's Darling: nem található a BGG-n – nézd meg kézzel
+  Cat Approved: nem található a BGG-n – nézd meg kézzel
+  Lumare: nem található a BGG-n – nézd meg kézzel
+  Golden Five: a BGG szerint nincs magyar kiadása (BGG #113803, bizonytalan találat – ellenőrizd, jó játék-e)
+  Not Your Grandma's Bingo → A forgandó Fortuna (Reflexshop, 2027; BGG #457158, bizonytalan találat – ellenőrizd, jó játék-e)
 ---
 
 Két kerek évforduló is meghatározza a német AMIGO és KOSMOS kiadó 2027 eleji kínálatát. A Board Game Beat összefoglalója és a német Brettspielbox februári Spielwarenmesse előtti újdonságlistája alapján az AMIGO a 30 éves Bohnanzát ünnepli, a KOSMOS pedig két kiegészítővel köszönti a 15 éves Legends of Andort (magyarul: Andor legendái).
