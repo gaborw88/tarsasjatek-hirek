@@ -2,20 +2,35 @@
 published: false
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
+status: ⏳ tervezet
 title: "30 éves a Bohnanza, 15 éves Andor: jubileumi kiadásokkal indítja 2027-et az AMIGO és a KOSMOS"
-description: "Felújított Bohnanza, új Knizia-kártyajáték és két Andor legendái-kiegészítő is szerepel a két német kiadó 2027 eleji újdonságai között."
+description: Felújított Bohnanza, új Knizia-kártyajáték és két Andor legendái-kiegészítő is szerepel a két német kiadó 2027 eleji újdonságai között.
 date: 2026-11-28T15:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Kiadói hírek", "AMIGO", "KOSMOS", "Bohnanza", "Andor legendái"]
-jatekok: ["Bohnanza #11", "Legends of Andor #127398", "Devil's Darling", "Cat Approved", "Lumare", "Golden Five", "Not Your Grandma's Bingo"]
+author: Szerkesztőség
+tags:
+  - Kiadói hírek
+  - AMIGO
+  - KOSMOS
+  - Bohnanza
+  - Andor legendái
+jatekok:
+  - "Bohnanza #11"
+  - "Legends of Andor #127398"
+  - Devil's Darling
+  - Cat Approved
+  - Lumare
+  - Golden Five
+  - Not Your Grandma's Bingo
 imageSuggestion: "Hivatalos sajtókép még nincs: az AMIGO és a KOSMOS a 2027-es újdonságok részleteit és képeit januárra, a nürnbergi Spielwarenmesse elé ígéri, a Board Game Beat cikkében látható képek nem javasolhatók. Javaslat: január elején az amigo-spiele.de és a kosmos.de termékoldalán érdemes dobozképet keresni (Kép: AMIGO / Kép: KOSMOS) – addig kép nélkül is rendben van."
 sources:
-  - name: "Board Game Beat (W. Eric Martin) – More Early 2027 Releases from AMIGO and KOSMOS"
-    url: "https://www.wericmartin.com/more-early-2027-releases-from-amigo-and-kosmos/"
-  - name: "Brettspielbox – Brettspiel-Neuheiten Spielwarenmesse 2027 / Frühjahr 2027 von A–Z"
-    url: "https://brettspielbox.de/brettspiel-neuheiten-spielwarenmesse-2027-fruehjahr-2027-a-z/"
+  - name: Board Game Beat (W. Eric Martin) – More Early 2027 Releases from AMIGO and KOSMOS
+    url: https://www.wericmartin.com/more-early-2027-releases-from-amigo-and-kosmos/
+  - name: Brettspielbox – Brettspiel-Neuheiten Spielwarenmesse 2027 / Frühjahr 2027 von A–Z
+    url: https://brettspielbox.de/brettspiel-neuheiten-spielwarenmesse-2027-fruehjahr-2027-a-z/
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 28. 10:58
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 Két kerek évforduló is meghatározza a német AMIGO és KOSMOS kiadó 2027 eleji kínálatát. A Board Game Beat összefoglalója és a német Brettspielbox februári Spielwarenmesse előtti újdonságlistája alapján az AMIGO a 30 éves Bohnanzát ünnepli, a KOSMOS pedig két kiegészítővel köszönti a 15 éves Legends of Andort (magyarul: Andor legendái).
