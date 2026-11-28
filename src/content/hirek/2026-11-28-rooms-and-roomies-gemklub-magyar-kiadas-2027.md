@@ -28,6 +28,7 @@ sources:
 lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 28. 07:02
 approvedBy: ""
 chiefApprovedBy: ""
+magyarCimek: "Rooms & Roomies: a BGG szerint nincs magyar kiadása (BGG #473557)"
 ---
 
 A Gémklub november 28-án, „Új megjelenés” rovatában jelentette be, hogy 2027-ben magyarul is kiadja a **Rooms & Roomies** című játékot. Ezt a kiadó lakberendezős, taktikai társasjátékként mutatja be. A hírben a játék az eredeti címén szerepel, magyar címet, pontos megjelenési dátumot és árat egyelőre nem közöltek.
