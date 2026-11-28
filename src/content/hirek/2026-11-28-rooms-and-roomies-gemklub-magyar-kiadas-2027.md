@@ -2,23 +2,32 @@
 published: false
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
+status: ⏳ tervezet
 title: "Bútorok a költöztetőautóban, igényes lakótársak: 2027-ben magyarul is jön a Rooms & Roomies"
-description: "A Gémklub bejelentette, hogy 2027-ben magyarul is megjelenik a Rooms & Roomies, a Deep Print Games idei esseni újdonsága, amelyben a játékosok bútorokat vásárolnak, bepakolják őket egy kartonból épített költöztetőautóba, majd berendezik közös albérletüket."
+description: A Gémklub bejelentette, hogy 2027-ben magyarul is megjelenik a Rooms & Roomies, a Deep Print Games idei esseni újdonsága, amelyben a játékosok bútorokat vásárolnak, bepakolják őket egy kartonból épített költöztetőautóba, majd berendezik közös albérletüket.
 date: 2026-11-28T13:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Magyar megjelenések", "Gémklub", "Deep Print Games", "Pegasus Spiele", "Essen Spiel"]
-jatekok: ["Rooms & Roomies #473557"]
+author: Szerkesztőség
+tags:
+  - Magyar megjelenések
+  - Gémklub
+  - Deep Print Games
+  - Pegasus Spiele
+  - Essen Spiel
+jatekok:
+  - "Rooms & Roomies #473557"
 image: ""
 imageSuggestion: "Hivatalos sajtókép a Pegasus Spiele sajtóközleményéből: https://news.pegasus.de/wp-content/uploads/2026/11/pegasus-spiele-rooms-roomies-en.webp (a közlemény: https://news.pegasus.de/en/rooms-roomies-en/) – javasolt forrásmegjelölés: Kép: Pegasus Spiele / Deep Print Games. Ez az angol kiadás képe; a magyar dobozképet a Gémklubtól lehet kérni."
 sources:
   - name: "Gémklub – Új megjelenés: Rooms and Roomies (hírek)"
-    url: "https://www.gemklub.hu/hirek"
-  - name: "Pegasus Spiele – Make your Dream Home a reality (sajtóközlemény a Rooms & Roomies-ról)"
-    url: "https://news.pegasus.de/en/rooms-roomies-en/"
-  - name: "tarsasjatekok.com – Rooms & Roomies adatlap"
-    url: "https://tarsasjatekok.com/tarsasjatek/rooms-roomies-2026"
+    url: https://www.gemklub.hu/hirek
+  - name: Pegasus Spiele – Make your Dream Home a reality (sajtóközlemény a Rooms & Roomies-ról)
+    url: https://news.pegasus.de/en/rooms-roomies-en/
+  - name: tarsasjatekok.com – Rooms & Roomies adatlap
+    url: https://tarsasjatekok.com/tarsasjatek/rooms-roomies-2026
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 28. 07:02
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 A Gémklub november 28-án, „Új megjelenés” rovatában jelentette be, hogy 2027-ben magyarul is kiadja a **Rooms & Roomies** című játékot. Ezt a kiadó lakberendezős, taktikai társasjátékként mutatja be. A hírben a játék az eredeti címén szerepel, magyar címet, pontos megjelenési dátumot és árat egyelőre nem közöltek.
