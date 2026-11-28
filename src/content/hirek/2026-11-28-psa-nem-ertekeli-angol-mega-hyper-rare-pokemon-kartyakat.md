@@ -2,24 +2,32 @@
 published: false
 approved: false
 chiefApproved: false
-status: "⏳ tervezet"
+status: ⏳ tervezet
 title: "Fakul az aranyfólia: a PSA nem értékeli tovább az angol nyelvű Mega Hyper Rare Pokémon-kártyákat"
-description: "A világ legnagyobb kártyaértékelő cége gyártási hibára hivatkozva leállította az arany színű angol Mega Hyper Rare Pokémon-lapok osztályozását. A japán változatokat továbbra is fogadja."
+description: A világ legnagyobb kártyaértékelő cége gyártási hibára hivatkozva leállította az arany színű angol Mega Hyper Rare Pokémon-lapok osztályozását. A japán változatokat továbbra is fogadja.
 date: 2026-11-28T15:00:00+01:00
 type: gyujtott
-author: "Szerkesztőség"
-tags: ["Iparági hírek", "Gyűjtögetős kártyajátékok", "Pokémon", "Kártyaértékelés"]
-jatekok: ["Pokémon Trading Card Game #2165"]
+author: Szerkesztőség
+tags:
+  - Iparági hírek
+  - Gyűjtögetős kártyajátékok
+  - Pokémon
+  - Kártyaértékelés
+jatekok:
+  - "Pokémon Trading Card Game #2165"
 imageSuggestion: "Iparági hír, hivatalos sajtókép nincs: a PSA bejelentése mellett nincs letölthető sajtóanyag, a hírportálok képei pedig nem használhatók. Kép nélkül is rendben van; ha mégis kell, a PSA logója az arculati oldalukról, vagy kérj képet a The Pokémon Company sajtóosztályától."
 sources:
-  - name: "PSA – PSA Stops Grading English Mega Hyper Rare Pokémon Cards"
-    url: "https://www.psacard.com/articles/articleview/15794/psa-stops-grading-english-mega-hyper-rare-pokemon-cards"
-  - name: "Wargamer – World's largest Pokémon card grader just banned Mega Hyper Rares over \"manufacturing issue\""
-    url: "https://www.wargamer.com/pokemon-trading-card-game/psa-bans-mega-hyper-gold-cards"
-  - name: "Screen Rant – Pokémon TCG Trader Officially Banning Mega Hyper Rare Cards"
-    url: "https://screenrant.com/pokemon-tcg-card-ban-mega-hyper-rare/"
-  - name: "Backseat Gamer – PSA Stops Grading Gold Mega Hyper Rare Pokémon Cards"
-    url: "https://www.backseatgamer.com/news/psa-stops-grading-gold-mega-hyper-rare-pokmon-cards"
+  - name: PSA – PSA Stops Grading English Mega Hyper Rare Pokémon Cards
+    url: https://www.psacard.com/articles/articleview/15794/psa-stops-grading-english-mega-hyper-rare-pokemon-cards
+  - name: Wargamer – World's largest Pokémon card grader just banned Mega Hyper Rares over "manufacturing issue"
+    url: https://www.wargamer.com/pokemon-trading-card-game/psa-bans-mega-hyper-gold-cards
+  - name: Screen Rant – Pokémon TCG Trader Officially Banning Mega Hyper Rare Cards
+    url: https://screenrant.com/pokemon-tcg-card-ban-mega-hyper-rare/
+  - name: Backseat Gamer – PSA Stops Grading Gold Mega Hyper Rare Pokémon Cards
+    url: https://www.backseatgamer.com/news/psa-stops-grading-gold-mega-hyper-rare-pokmon-cards
+lastEditedBy: Hírgyűjtő (nyelvi modell) · 2026. 11. 28. 14:56
+approvedBy: ""
+chiefApprovedBy: ""
 ---
 
 A gyűjtőpiac egyik legkeresettebb lapjai kerültek bajba: az amerikai PSA, a világ legnagyobb gyűjtőikártya-értékelő (grading) cége november 25-én bejelentette, hogy azonnali hatállyal nem fogad több angol nyelvű Mega Hyper Rare Pokémon-kártyát. Ezek a Pokémon Trading Card Game 2025-ben indult Mega Evolution korszakának arany színű, legritkább lapjai.
