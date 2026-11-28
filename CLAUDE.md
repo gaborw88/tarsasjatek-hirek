@@ -61,7 +61,7 @@ A tulajdonos nem programozó: vele mindig magyarul, egyszerűen, szakzsargon né
   Paladins of the West Kingdom → A Nyugati Királyság Lovagjai · Viscounts of the West Kingdom → A nyugati királyság várgrófjai ·
   SETI: Search for Extraterrestrial Intelligence → SETI: Kutatás a földön kívüli élet után ·
   Unstable Unicorns → Unikornisok: A rémes ménes · Art Society → Műgyűjtők társasága · Cascadia → Cascadia vadvilága ·
-  Gloomhaven: Buttons & Bugs → Homályrév: Apró kalandok · Mouse Trap → Egérfogó · Warrior Knights → Hadurak · Space Hulk: Death Angel → Space Hulk: A Halál Angyalai · Schadenfreude → Káröröm (Gémklub) · Space Lab → Kozmosz Konzorcium (Reflexshop)
+  Gloomhaven: Buttons & Bugs → Homályrév: Apró kalandok · Mouse Trap → Egérfogó · Warrior Knights → Hadurak · Space Hulk: Death Angel → Space Hulk: A Halál Angyalai · Schadenfreude → Káröröm (Gémklub) · Space Lab → Kozmosz Konzorcium (Reflexshop) · Legends of Andor / Die Legenden von Andor → Andor legendái (Delta Vision)
   Ha egy játéknál magyar címet adsz meg (vagy utólag pótolod), ellenőrizd, hogy a cikkben ne maradjon olyan mondat,
   amely szerint a játéknak nincs magyar kiadása; ha a „nincs hír” mondat egy másik termékre (pl. egy új kiegészítőre)
   vonatkozik, írd ki egyértelműen, mire.
@@ -70,7 +70,7 @@ A tulajdonos nem programozó: vele mindig magyarul, egyszerűen, szakzsargon né
   **Fontos:** a keresés nem hozza ki megbízhatóan a magyar címet. Ha egy játék kiadói között magyar kiadó szerepel
   (Gém Klub, Reflexshop, Delta Vision, Compaya, Piatnik stb.), akkor van magyar kiadás: ilyenkor a magyar kiadó oldalán
   keresd meg a címét; ha nem találod, írd a futás végi beszámolóba, hogy a magyar címet a szerkesztőnek kell pótolnia.
-  Azonos címmel jelent meg magyarul (nem kell zárójel): Ark Nova, Talisman, Ticket to Ride, Azul, Carcassonne.
+  Azonos címmel jelent meg magyarul (nem kell zárójel): Ark Nova, Talisman, Ticket to Ride, Azul, Carcassonne, Bohnanza (Piatnik).
 - Szerzői jog: más weboldalak szövegét **nem másolod át**. Hírösszefoglalónál saját szavaiddal írod meg a tényeket. Idézet legfeljebb egy rövid mondat, idézőjelben, forrásmegjelöléssel.
 - Képek: képet **soha ne tölts le, ne linkelj be és ne tegyél az `image` mezőbe** – azt mindig egy szerkesztő tölti fel, miután ellenőrizte a felhasználási jogot.
   Helyette, ha találsz **hivatalos, sajtó számára közzétett képet** (kiadói sajtócsomag / „press kit” / „sajtóanyag” oldal,
